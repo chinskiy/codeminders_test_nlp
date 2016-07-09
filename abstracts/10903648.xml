@@ -1,0 +1,674 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10903648
+   </pmid>
+   <datecreated>
+    <year>
+     2000
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     05
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2000
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     05
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0959-8138
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       321
+      </volume>
+      <issue>
+       7255
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+       <month>
+        Jul
+       </month>
+       <day>
+        22
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      BMJ (Clinical research ed.)
+     </title>
+     <isoabbreviation>
+      BMJ
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Low grade inflammation and coronary heart disease: prospective study and updated meta-analyses.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      199-204
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To assess associations between baseline values of four different circulating markers of inflammation and future risk of coronary heart disease, potential triggers of systemic inflammation (such as persistent infection), and other markers of inflammation.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Nested case-control comparisons in a prospective, population based cohort.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      General practices in 18 towns in Britain.
+     </abstracttext>
+     <abstracttext label="PARTICIPANTS" nlmcategory="METHODS">
+      506 men who died from coronary heart disease or had a non-fatal myocardial infarction and 1025 men who remained free of such disease until 1996 selected from 5661 men aged 40-59 years who provided blood samples in 1978-1980.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      Plasma concentrations of C reactive protein, serum amyloid A protein, and serum albumin and leucocyte count. Information on fatal and non-fatal coronary heart disease was obtained from medical records and death certificates.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Compared with men in the bottom third of baseline measurements of C reactive protein, men in the top third had an odds ratio for coronary heart disease of 2.13 (95% confidence interval 1.38 to 3.28) after age, town, smoking, vascular risk factors, and indicators of socioeconomic status were adjusted for. Similar adjusted odds ratios were 1.65 (1.07 to 2.55) for serum amyloid A protein; 1.12 (0.71 to 1.77) for leucocyte count; and 0.67 (0.43 to 1.04) for albumin. No strong associations were observed of these factors with Helicobacter pylori seropositivity, Chlamydia pneumoniae IgG titres, or plasma total homocysteine concentrations. Baseline values of the acute phase reactants were significantly associated with one another (P&lt;0.0001), although the association between low serum albumin concentration and leucocyte count was weaker (P=0.08).
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      In the context of results from other relevant studies these findings suggest that some inflammatory processes, unrelated to the chronic infections studied here, are likely to be involved in coronary heart disease.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Clinical Trial Service Unit and Epidemiological Studies Unit, University of Oxford, Radcliffe Infirmary, Oxford OX2 6HE.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Danesh
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Whincup
+      </lastname>
+      <forename>
+       P
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Walker
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lennon
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Thomson
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Appleby
+      </lastname>
+      <forename>
+       P
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gallimore
+      </lastname>
+      <forename>
+       J R
+      </forename>
+      <initials>
+       JR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pepys
+      </lastname>
+      <forename>
+       M B
+      </forename>
+      <initials>
+       MB
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     ENGLAND
+    </country>
+    <medlineta>
+     BMJ
+    </medlineta>
+    <nlmuniqueid>
+     8900488
+    </nlmuniqueid>
+    <issnlinking>
+     0959-535X
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Biological Markers
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      9007-41-4
+     </registrynumber>
+     <nameofsubstance>
+      C-Reactive Protein
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Chem. 1998 Jun;44(6 Pt 1):1358-61
+     </refsource>
+     <pmid version="1">
+      9625071
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1998 May 13;279(18):1477-82
+     </refsource>
+     <pmid version="1">
+      9600484
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Circulation. 1997 Dec 16;96(12):4204-10
+     </refsource>
+     <pmid version="1">
+      9416883
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1997 Aug 9;350(9075):430-6
+     </refsource>
+     <pmid version="1">
+      9259669
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Pathol. 1999 Feb;52(2):99-102
+     </refsource>
+     <pmid version="1">
+      10396235
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Circulation. 1999 Jul 20;100(3):230-5
+     </refsource>
+     <pmid version="1">
+      10411845
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Circulation. 1999 Aug 17;100(7):717-22
+     </refsource>
+     <pmid version="1">
+      10449693
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Epidemiol. 1999 Aug 15;150(4):341-53
+     </refsource>
+     <pmid version="1">
+      10453810
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Atherosclerosis. 1999 Aug;145(2):375-9
+     </refsource>
+     <pmid version="1">
+      10488966
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Epidemiol. 1996 Sep 15;144(6):537-47
+     </refsource>
+     <pmid version="1">
+      8797513
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1997 Feb 15;349(9050):462-6
+     </refsource>
+     <pmid version="1">
+      9040576
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1997 Apr 3;336(14):973-9
+     </refsource>
+     <pmid version="1">
+      9077376
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arterioscler Thromb Vasc Biol. 1997 Jun;17(6):1121-7
+     </refsource>
+     <pmid version="1">
+      9194763
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Circulation. 1999 Jul 6;100(1):96-102
+     </refsource>
+     <pmid version="1">
+      10393687
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1999 Feb 11;340(6):448-54
+     </refsource>
+     <pmid version="1">
+      9971870
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Circulation. 1999 Jan 19;99(2):237-42
+     </refsource>
+     <pmid version="1">
+      9892589
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1999 Jan 14;340(2):115-26
+     </refsource>
+     <pmid version="1">
+      9887164
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Hypertens. 1998 Apr;16(4):537-41
+     </refsource>
+     <pmid version="1">
+      9797200
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Circulation. 1998 Sep 1;98(9):839-44
+     </refsource>
+     <pmid version="1">
+      9738637
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Circulation. 1998 Aug 25;98(8):731-3
+     </refsource>
+     <pmid version="1">
+      9727541
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Immunol Methods. 1998 May 1;214(1-2):1-10
+     </refsource>
+     <pmid version="1">
+      9692853
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arterioscler Thromb Vasc Biol. 1999 Oct;19(10):2348-54
+     </refsource>
+     <pmid version="1">
+      10521363
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1999 Dec 8;282(22):2169-71
+     </refsource>
+     <pmid version="1">
+      10591341
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 2000 Mar 23;342(12):836-43
+     </refsource>
+     <pmid version="1">
+      10733371
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Epidemiol. 1992 Jul 1;136(1):59-70
+     </refsource>
+     <pmid version="1">
+      1415132
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1989 Dec 16;2(8677):1434-6
+     </refsource>
+     <pmid version="1">
+      2574367
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Adv Immunol. 1983;34:141-212
+     </refsource>
+     <pmid version="1">
+      6356809
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br Med J (Clin Res Ed). 1981 Jul 18;283(6285):179-86
+     </refsource>
+     <pmid version="1">
+      6789956
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Exp Med. 1982 Jul 1;156(1):230-42
+     </refsource>
+     <pmid version="1">
+      7086355
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Chem. 1994 Jul;40(7 Pt 1):1284-90
+     </refsource>
+     <pmid version="1">
+      8013100
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Blood. 1993 Jul 15;82(2):513-20
+     </refsource>
+     <pmid version="1">
+      8329706
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      BMJ. 2000 Jul 22;321(7255):187-8
+     </refsource>
+     <pmid version="1">
+      10903629
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Acute-Phase Reaction
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Biological Markers
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      C-Reactive Protein
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      metabolism
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Case-Control Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cohort Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Coronary Disease
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Inflammation
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Odds Ratio
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC27435
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2000
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10903648
+    </articleid>
+    <articleid idtype="pmc">
+     PMC27435
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

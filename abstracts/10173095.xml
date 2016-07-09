@@ -1,0 +1,391 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10173095
+   </pmid>
+   <datecreated>
+    <year>
+     1997
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     19
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1997
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     19
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      1088-0224
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       3
+      </volume>
+      <issue>
+       3
+      </issue>
+      <pubdate>
+       <year>
+        1997
+       </year>
+       <month>
+        Mar
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The American journal of managed care
+     </title>
+     <isoabbreviation>
+      Am J Manag Care
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     A cost/efficacy analysis of oral antifungals indicated for the treatment of onychomycosis: griseofulvin, itraconazole, and terbinafine.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      443-50
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      This analysis was conducted at HIP Health plan of New Jersey (a Northeastern group model health maintenance organization) to determine the most cost-effective therapy among the three currently available oral antifungal drugs that are indicated for the treatment of onychomycosis: griseofulvin, itraconazole, and terbinafine. Costs of an appropriate and complete treatment regimen were calculated for each of the three drugs based on average wholesale price. Efficacy was determined by meta-analysis of the published literature for those studies where appropriate treatment regimens for onychomycosis were put to use. Efficacy outcome measures were limited to mycologic cure rates in the more recalcitrant cases of toenail onychomycosis. From these measures of cost and efficacy, a cost/efficacy ratio was calculated for each drug by dividing the cost per treatment by the weighted average mycological cure rate. This ratio represents the cost per mycologically cured infection. The final outcome measure (the cost per mycologically cured infection) was $2,721.28, $1,845.05, and $648.96, for griseofulvin, itraconazole, and terbinafine continuous therapies, respectively. For itraconazole and terbinafine pulse therapy, the costs were $855.88 and $388.50, respectively. For both continuous and pulse therapy, terbinafine is apparently the most cost-effective drug, followed by itraconazole and then by griseofulvin. Terbinafine has the fewest drug interactions and the highest treatment success rate.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     HIP Health Plan of New Jersey, North Brunswick, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Angello
+      </lastname>
+      <forename>
+       J T
+      </forename>
+      <initials>
+       JT
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Voytovich
+      </lastname>
+      <forename>
+       R M
+      </forename>
+      <initials>
+       RM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jan
+      </lastname>
+      <forename>
+       S A
+      </forename>
+      <initials>
+       SA
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Am J Manag Care
+    </medlineta>
+    <nlmuniqueid>
+     9613960
+    </nlmuniqueid>
+    <issnlinking>
+     1088-0224
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antifungal Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Naphthalenes
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      126-07-8
+     </registrynumber>
+     <nameofsubstance>
+      Griseofulvin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      84625-61-6
+     </registrynumber>
+     <nameofsubstance>
+      Itraconazole
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      91161-71-6
+     </registrynumber>
+     <nameofsubstance>
+      terbinafine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      EC 2.6.1.-
+     </registrynumber>
+     <nameofsubstance>
+      Transaminases
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    H
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antifungal Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cost-Benefit Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Costs
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Interactions
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Griseofulvin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Health Maintenance Organizations
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Itraconazole
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Laboratory Techniques and Procedures
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Naphthalenes
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      New Jersey
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Onychomycosis
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Outcome Assessment (Health Care)
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Recurrence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Transaminases
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1997
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      6
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1997
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      6
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1997
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      6
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10173095
+    </articleid>
+    <articleid idtype="pii">
+     2086
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

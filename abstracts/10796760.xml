@@ -1,0 +1,294 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10796760
+   </pmid>
+   <datecreated>
+    <year>
+     2000
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     06
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2000
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     06
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     08
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Screening for colorectal cancer using the faecal occult blood test, hemoccult.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD001216
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Colorectal cancer is a leading cause of illness and death in the Western world. In Australia, the United Kingdom and the United States, it is the second commonest cancer for women after breast cancer (age-standardised incidence 22-33 per 100,000), and men after prostate or lung cancer (age-standardised incidence 31-47 per 100,000) (Jeffs et al, 1996; Parkin et al, 1992). Just under half of all persons affected will die from their disease (Jeffs et al, 1996; Parkin et al, 1992) The human and financial costs of this disease have prompted considerable research efforts to evaluate the ability of screening tests to detect the cancer at an early curable stage. Tests which have been considered for screening include faecal occult blood tests, sigmoidoscopy and colonoscopy.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To determine whether screening for colorectal cancer using the faecal occult blood test, Hemoccult reduces colorectal cancer mortality and to consider the benefits and harms of screening.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      Published and unpublished data for this review were identified by: * retrieving studies included in a systematic review conducted by some of the authors in 1995, * searches of MEDLINE, Current Contents and the Cochrane Controlled Trials Register, * writing to trial lists.
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      All controlled trials of screening for colorectal cancer using Hemoccult were eligible for inclusion in the review.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      Data from the trials were independently extracted by two authors. Data analysis was performed using the group subjects were randomised to ('intention to screen'), whether or not they were ever screened. To estimate the effect of Hemoccult screening on colorectal cancer mortality, we calculated relative risks and risk differences for each trial, and then overall, using fixed and random effects models and tested for heterogeneity of effects. We calculated summary measures of effect including all trials and also for just the randomised controlled trials. We also calculated a summary measure of effect, adjusted for attendance at screening in each trial (not shown in Meta-view).
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      Meta-analysis of mortality results from the randomised controlled trials shows that those allocated to screening had a reduction in colorectal cancer mortality of 16% (RR 0.84, CI: 0.77-0.93). When adjusted for screening attendance in the individual studies, the mortality reduction is 23% (RR 0.77, CI: 0.57-0.89). Overall, if 10 000 people were offered a biennial Hemoccult screening program and two-thirds attended for at least one Hemoccult test, there would be 8.5 deaths (CI: 3.6-13.5) from colorectal cancer prevented over 10 years. However, the screening program would also result in 2 800 participants having at least one colonoscopy, if screening harms from the Minnesota trial are considered, and there would be 3.4 colonoscopy complications (perforation or haemorrhage). If screening harms from the Gothenburg trial are considered, approximately 600 participants would need at least one sigmoidoscopy and double contrast barium enema, resulting in 1.8 perforations or haemorrhages.
+     </abstracttext>
+     <abstracttext label="REVIEWER'S CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Screening benefits include reduction in colorectal cancer mortality, possible reduction in cancer incidence through detection and removal of colorectal adenomas and potentially, treatment of early colorectal cancers may involve less invasive surgery. Harmful effects of screening include the physical complications of colonoscopy, disruption to lifestyle, stress and discomfort of testing and investigations, and the anxiety caused by falsely positive screening tests. Although screening benefits are likely to outweigh harms for populations at increased risk of colorectal cancer, we need more information about the harmful effects of screening, the community's responses to screening and screening costs for different health care systems before widespread screening can be recommended.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Dept of Public Health and Tropical Medicine, James Cook University, Townsville, Australia, 23 Forth St, Mackay, Queensland, Australia, 4740. bernie.towler@ m130.aone.net.au
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Towler
+      </lastname>
+      <forename>
+       B P
+      </forename>
+      <initials>
+       BP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Irwig
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Glasziou
+      </lastname>
+      <forename>
+       P
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Weller
+      </lastname>
+      <forename>
+       D
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kewenter
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     ENGLAND
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="UpdateIn">
+     <refsource>
+      Cochrane Database Syst Rev. 2007;(1):CD001216
+     </refsource>
+     <pmid version="1">
+      17253456
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Colorectal Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Mass Screening
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Occult Blood
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    11
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2000
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      8
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10796760
+    </articleid>
+    <articleid idtype="pii">
+     CD001216
+    </articleid>
+    <articleid idtype="doi">
+     10.1002/14651858.CD001216
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

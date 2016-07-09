@@ -1,0 +1,536 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    18164508
+   </pmid>
+   <datecreated>
+    <year>
+     2008
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     13
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2008
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     19
+    </day>
+   </datecompleted>
+   <article pubmodel="Print-Electronic">
+    <journal>
+     <issn issntype="Print">
+      0168-8278
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       48
+      </volume>
+      <issue>
+       3
+      </issue>
+      <pubdate>
+       <year>
+        2008
+       </year>
+       <month>
+        Mar
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of hepatology
+     </title>
+     <isoabbreviation>
+      J. Hepatol.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Early switch to pentoxifylline in patients with severe alcoholic hepatitis is inefficient in non-responders to corticosteroids.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      465-70
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND/AIMS" nlmcategory="OBJECTIVE">
+      In severe alcoholic hepatitis (AH), 40% of patients will obtain no benefit from corticosteroids. Improvement in management of non-responders is warranted and only pentoxifylline can be considered an alternative. A two-step strategy was evaluated consisting of early withdrawal of corticosteroids and a switch to pentoxifylline for 28 additional days in non-responders identified using early change in bilirubin level.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      One hundred and twenty-one patients with AH were treated prospectively with corticosteroids, and the two-step strategy was proposed to 29 non-responders treated according to a two-step strategy who were compared to 58 matched non-responders treated with corticosteroids only.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Clinical and biological features of the two groups were similar. There was no survival improvement at 2 months in patients treated with the two-step strategy compared to controls: 35.5+/-6.3% vs 31+/-8.6%. After 21 days, biological evolution was similar for prothrombin time (-0.25s vs +0.2s), bilirubin (0.8 mg/dl vs 2.03 mg/dl) and creatinine (+0.16 mg/dl vs -0.7 mg/dl). In multivariate analysis, only age, evolution of bilirubin during the first week, creatinine and DF were associated with 2-month survival.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Non-responders to corticosteroids do not obtain any benefit from an early switch to pentoxifylline. Thus, the issue of management of non-responders remains unresolved.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Services d'Hépato-Gastroentérologie, Hôpital Huriez, rue Polonovski, Lille, France.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Louvet
+      </lastname>
+      <forename>
+       Alexandre
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Diaz
+      </lastname>
+      <forename>
+       Emmanuel
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dharancy
+      </lastname>
+      <forename>
+       Sébastien
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Coevoet
+      </lastname>
+      <forename>
+       Hugues
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Texier
+      </lastname>
+      <forename>
+       Frédéric
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Thévenot
+      </lastname>
+      <forename>
+       Thierry
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Deltenre
+      </lastname>
+      <forename>
+       Pierre
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Canva
+      </lastname>
+      <forename>
+       Valérie
+      </forename>
+      <initials>
+       V
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Plane
+      </lastname>
+      <forename>
+       Christophe
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Mathurin
+      </lastname>
+      <forename>
+       Philippe
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2007
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      26
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     J Hepatol
+    </medlineta>
+    <nlmuniqueid>
+     8503886
+    </nlmuniqueid>
+    <issnlinking>
+     0168-8278
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Adrenal Cortex Hormones
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Free Radical Scavengers
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      50-24-8
+     </registrynumber>
+     <nameofsubstance>
+      Prednisolone
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      60-27-5
+     </registrynumber>
+     <nameofsubstance>
+      Creatinine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      635-65-4
+     </registrynumber>
+     <nameofsubstance>
+      Bilirubin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      6493-05-6
+     </registrynumber>
+     <nameofsubstance>
+      Pentoxifylline
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adrenal Cortex Hormones
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bilirubin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cohort Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Creatinine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Resistance
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Free Radical Scavengers
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hepatitis, Alcoholic
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Multivariate Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pentoxifylline
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prednisolone
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Proportional Hazards Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prothrombin Time
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Survival Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="received">
+     <year>
+      2007
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      15
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="revised">
+     <year>
+      2007
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="accepted">
+     <year>
+      2007
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      11
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="aheadofprint">
+     <year>
+      2007
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      26
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2008
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2008
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2008
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     S0168-8278(07)00593-4
+    </articleid>
+    <articleid idtype="doi">
+     10.1016/j.jhep.2007.10.010
+    </articleid>
+    <articleid idtype="pubmed">
+     18164508
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

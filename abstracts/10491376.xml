@@ -1,0 +1,336 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10491376
+   </pmid>
+   <datecreated>
+    <year>
+     1999
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     18
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1999
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     18
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1524-4539
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       100
+      </volume>
+      <issue>
+       12
+      </issue>
+      <pubdate>
+       <year>
+        1999
+       </year>
+       <month>
+        Sep
+       </month>
+       <day>
+        21
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Circulation
+     </title>
+     <isoabbreviation>
+      Circulation
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Diuretics and risk of arrhythmic death in patients with left ventricular dysfunction.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1311-5
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Background-Treatment with diuretics has been reported to increase the risk of arrhythmic death in patients with hypertension. The effect of diuretic therapy on arrhythmic death in patients with left ventricular dysfunction is unknown. Methods and Results-We conducted a retrospective analysis of 6797 patients with an ejection fraction &lt;0.36 enrolled in the Studies Of Left Ventricular Dysfunction (SOLVD) to assess the relation between diuretic use at baseline and the subsequent risk of arrhythmic death. Participants receiving a diuretic at baseline were more likely to have an arrhythmic death than those not receiving a diuretic (3.1 vs 1.7 arrhythmic deaths per 100 person-years, P=0.001). On univariate analysis, diuretic use was associated with an increased risk of arrhythmic death (relative risk [RR] 1.85, P=0.0001). After controlling for important covariates, diuretic use remained significantly associated with an increased risk of arrhythmic death (RR 1.37, P=0.009). Only non-potassium-sparing diuretic use was independently associated with arrhythmic death (RR 1.33, P=0.02). Use of a potassium-sparing diuretic, alone or in combination with a non-potassium-sparing diuretic, was not independently associated with an increased risk of arrhythmic death (RR 0.90, P=0.6). Conclusions-In SOLVD, baseline use of a non-potassium-sparing diuretic was associated with an increased risk of arrhythmic death, whereas baseline use of a potassium-sparing diuretic was not. These data suggest that diuretic-induced electrolyte disturbances may result in fatal arrhythmias in patients with systolic left ventricular dysfunction.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Clinical Trials Scientific Research Group, Division of Epidemiology and Clinical Applications, National Heart, Lung, and Blood Institute, Bethesda, MD 20892, USA. Cooperh@nih.gov
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Cooper
+      </lastname>
+      <forename>
+       H A
+      </forename>
+      <initials>
+       HA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dries
+      </lastname>
+      <forename>
+       D L
+      </forename>
+      <initials>
+       DL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Davis
+      </lastname>
+      <forename>
+       C E
+      </forename>
+      <initials>
+       CE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Shen
+      </lastname>
+      <forename>
+       Y L
+      </forename>
+      <initials>
+       YL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Domanski
+      </lastname>
+      <forename>
+       M J
+      </forename>
+      <initials>
+       MJ
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Circulation
+    </medlineta>
+    <nlmuniqueid>
+     0147763
+    </nlmuniqueid>
+    <issnlinking>
+     0009-7322
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Angiotensin-Converting Enzyme Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Diuretics
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      7440-09-7
+     </registrynumber>
+     <nameofsubstance>
+      Potassium
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Analysis of Variance
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Angiotensin-Converting Enzyme Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pharmacology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Arrhythmias, Cardiac
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diuretics
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Potassium
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pharmacology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Retrospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ventricular Dysfunction, Left
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1999
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      24
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1999
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1999
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10491376
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

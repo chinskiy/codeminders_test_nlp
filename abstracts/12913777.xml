@@ -1,0 +1,359 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12913777
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     12
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     26
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0891-3668
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       22
+      </volume>
+      <issue>
+       8
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Aug
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The Pediatric infectious disease journal
+     </title>
+     <isoabbreviation>
+      Pediatr. Infect. Dis. J.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Clinical evaluation of a quantitative real time polymerase chain reaction assay for diagnosis of primary Epstein-Barr virus infection in children.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      736-9
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Epstein-Barr virus (EBV) infectious mononucleosis is often diagnosed based on characteristic clinical features and either a positive heterophil antibody test or serology, both of which can be unreliable in young children. Real time quantitative PCR assays that measure EBV DNA load in serum or plasma are highly sensitive in young children, but serum and plasma contain inhibitors of PCR which must be removed by DNA extraction techniques. A real time TaqMan PCR assay was designed and evaluated for simultaneously measuring EBV DNA load and validating the removal of PCR inhibitors from serum samples.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      A serum sample was available from patients classified serologically as primary EBV infection (n = 28), EBV-seronegative (n = 25) and EBV-seropositive (n = 26). Patients were classified as having EBV infectious mononucleosis if they had specified clinical findings and &gt; or =10% atypical lymphocytes in peripheral blood or had a positive Monospot test result. DNA was purified by a spin column method and tested in PCR reactions with primers for EBV DNA polymerase gene and internal control targets. Amplification of the two PCR products was measured in real time with separate TaqMan DNA probes labeled with various fluorescent reporters.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The mean age of study patients was 9 years, 4 months. Twenty-one (75%) of the patients in the primary EBV infection group, one (4%) of the seronegatives and none of the seropositives had detectable EBV DNA. Within the primary infection group, those with detectable virus were more likely than those without detectable virus to have evidence of lymphadenopathy (14 of 16 vs.1 of 5; P = 0.011), higher mean atypical (11.7 vs.0.9%; P = 0.002) and absolute atypical (1.5 vs.0.1 x 109/l; P = 0.004) lymphocyte count, higher mean absolute lymphocyte count (4.7 vs.2.3 x 109/l; P = 0.026) and higher mean aspartate aminotransferase value (119.8 vs.37.3 IU/l; P = 0.036). Ten patients, all in the primary infection group, had EBV infectious mononucleosis, and all had positive PCR results. No sample contained PCR inhibitors.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      A real time TaqMan PCR assay allows rapid identification of patients with primary EBV infection and those with EBV infectious mononucleosis.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Division of Pediatric Emergency Medicine, Department of Pediatrics, Children's Hospital of Pittsburgh/University of Pittsburgh School of Medicine, Pittsburgh, PA, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Pitetti
+      </lastname>
+      <forename>
+       Raymond D
+      </forename>
+      <initials>
+       RD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Laus
+      </lastname>
+      <forename>
+       Stella
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wadowsky
+      </lastname>
+      <forename>
+       Robert M
+      </forename>
+      <initials>
+       RM
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Evaluation Studies
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Pediatr Infect Dis J
+    </medlineta>
+    <nlmuniqueid>
+     8701858
+    </nlmuniqueid>
+    <issnlinking>
+     0891-3668
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      DNA, Viral
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      EC 2.7.7.-
+     </registrynumber>
+     <nameofsubstance>
+      Taq Polymerase
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Base Sequence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      DNA, Viral
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      analysis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Epstein-Barr Virus Infections
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Herpesvirus 4, Human
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      isolation &amp; purification
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Molecular Sequence Data
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Polymerase Chain Reaction
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Probability
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Reference Values
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Specimen Handling
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Statistics, Nonparametric
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Taq Polymerase
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      analysis
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      27
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12913777
+    </articleid>
+    <articleid idtype="doi">
+     10.1097/01.inf.0000078157.90639.96
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

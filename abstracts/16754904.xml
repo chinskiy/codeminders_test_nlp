@@ -1,0 +1,660 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    16754904
+   </pmid>
+   <datecreated>
+    <year>
+     2006
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     06
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2006
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     08
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1488-2329
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       174
+      </volume>
+      <issue>
+       12
+      </issue>
+      <pubdate>
+       <year>
+        2006
+       </year>
+       <month>
+        Jun
+       </month>
+       <day>
+        6
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne
+     </title>
+     <isoabbreviation>
+      CMAJ
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Re-examining the efficacy of beta-blockers for the treatment of hypertension: a meta-analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1737-42
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      In a recently published meta-analysis, investigators asserted that beta-blockers should not be used to treat hypertension. Because the pathophysiology of hypertension differs in older and younger patients, we designed this meta-analysis to clarify the efficacy of beta-blockers in different age groups. The primary outcome was a composite of stroke, myocardial infarction and death.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We identified randomized controlled trials that evaluated the efficacy of beta-blockers as first-line therapy for hypertension in preventing major cardiovascular outcomes. Both authors independently evaluated the eligibility of all trials. Trials enrolling older (mean age at baseline &gt; or = 60 years) patients were separated from those enrolling younger (mean age &lt; 60 years) patients. Data were pooled using a random effects model.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Our analysis incorporated data from 145 811 participants in 21 hypertension trials. In placebo-controlled trials, beta-blockers reduced major cardiovascular outcomes in younger patients (risk ratio [RR] 0.86, 95% confidence interval [CI] 0.74-0.99, based on 794 events in 19 414 patients) but not in older patients (RR 0.89, 95% CI 0.75-1.05, based on 1115 events in 8019 patients). In active comparator trials, beta-blockers demonstrated similar efficacy to other antihypertensive agents in younger patients (1515 events in 30 412 patients, RR 0.97, 95% CI 0.88-1.07) but not in older patients (7405 events in 79 775 patients, RR 1.06, 95% CI 1.01-1.10), with the excess risk being particularly marked for strokes (RR 1.18, 95% CI 1.07-1.30).
+     </abstracttext>
+     <abstracttext label="INTERPRETATION" nlmcategory="CONCLUSIONS">
+      beta-blockers should not be considered first-line therapy for older hypertensive patients without another indication for these agents; however, in younger patients beta-blockers are associated with a significant reduction in cardiovascular morbidity and mortality.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Division of General Internal Medicine, University of British Columbia.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Khan
+      </lastname>
+      <forename>
+       Nadia
+      </forename>
+      <initials>
+       N
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McAlister
+      </lastname>
+      <forename>
+       Finlay A
+      </forename>
+      <initials>
+       FA
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     Canada
+    </country>
+    <medlineta>
+     CMAJ
+    </medlineta>
+    <nlmuniqueid>
+     9711805
+    </nlmuniqueid>
+    <issnlinking>
+     0820-3946
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Adrenergic beta-Antagonists
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Placebos
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Stroke. 1993 Apr;24(4):543-8
+     </refsource>
+     <pmid version="1">
+      8465360
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1982 Oct 22;248(16):2004-11
+     </refsource>
+     <pmid version="1">
+      6750167
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1998 Jun 17;279(23):1903-7
+     </refsource>
+     <pmid version="1">
+      9634263
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1998 Sep 12;317(7160):713-20
+     </refsource>
+     <pmid version="1">
+      9732338
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Circulation. 1997 Jul 1;96(1):308-15
+     </refsource>
+     <pmid version="1">
+      9236450
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Acta Med Scand. 1986;220(5):419-24
+     </refsource>
+     <pmid version="1">
+      3544690
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1988 Apr 1;259(13):1976-82
+     </refsource>
+     <pmid version="1">
+      3346979
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br Med J (Clin Res Ed). 1986 Nov 1;293(6555):1145-51
+     </refsource>
+     <pmid version="1">
+      3094811
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Hypertens. 1987 Oct;5(5):561-72
+     </refsource>
+     <pmid version="1">
+      2892881
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Hypertens. 1985 Aug;3(4):379-92
+     </refsource>
+     <pmid version="1">
+      2864374
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br Med J (Clin Res Ed). 1985 Jul 13;291(6488):97-104
+     </refsource>
+     <pmid version="1">
+      2861880
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1999 Feb 20;353(9153):611-6
+     </refsource>
+     <pmid version="1">
+      10030325
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1999 May 26;281(20):1927-36
+     </refsource>
+     <pmid version="1">
+      10349897
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1999 Nov 20;354(9192):1751-6
+     </refsource>
+     <pmid version="1">
+      10577635
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 2000 Jul 29;356(9227):359-65
+     </refsource>
+     <pmid version="1">
+      10972367
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Intern Med. 2001 Apr 3;134(7):550-60
+     </refsource>
+     <pmid version="1">
+      11281737
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 2002 Mar 23;359(9311):995-1003
+     </refsource>
+     <pmid version="1">
+      11937178
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Circulation. 2002 Nov 5;106(19):2422-7
+     </refsource>
+     <pmid version="1">
+      12417537
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 2002 Nov 20;288(19):2421-31
+     </refsource>
+     <pmid version="1">
+      12435255
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Hypertens. 2002 Dec;15(12):1096-100
+     </refsource>
+     <pmid version="1">
+      12460707
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Hypertens. 2002 Dec;15(12):1101-8
+     </refsource>
+     <pmid version="1">
+      12460708
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 2003 Apr 23-30;289(16):2073-82
+     </refsource>
+     <pmid version="1">
+      12709465
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 2003 May 21;289(19):2534-44
+     </refsource>
+     <pmid version="1">
+      12759325
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Hypertens. 2003 Jun;21(6):1055-76
+     </refsource>
+     <pmid version="1">
+      12777939
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Hypertens. 1992 Jun;5(6 Pt 2):182S-189S
+     </refsource>
+     <pmid version="1">
+      1352979
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1992 Feb 15;304(6824):405-12
+     </refsource>
+     <pmid version="1">
+      1445513
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 2003 Nov 8;362(9395):1527-35
+     </refsource>
+     <pmid version="1">
+      14615107
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 2003 Dec 3;290(21):2805-16
+     </refsource>
+     <pmid version="1">
+      14657064
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 2005 Sep 10-16;366(9489):895-906
+     </refsource>
+     <pmid version="1">
+      16154016
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 2005 Oct 29-Nov 4;366(9496):1510-2
+     </refsource>
+     <pmid version="1">
+      16257329
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 2005 Oct 29-Nov 4;366(9496):1545-53
+     </refsource>
+     <pmid version="1">
+      16257341
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 2006 Jan 21;367(9506):208; author reply 210
+     </refsource>
+     <pmid version="1">
+      16427485
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1991 Nov 23;338(8778):1281-5
+     </refsource>
+     <pmid version="1">
+      1682683
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1990 Apr 7;335(8693):827-38
+     </refsource>
+     <pmid version="1">
+      1969567
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      CMAJ. 2007 Mar 27;176(7):971; author reply 971-2
+     </refsource>
+     <pmid version="1">
+      17389448
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Fam Pract. 2008 Jan;57(1):18-21
+     </refsource>
+     <pmid version="1">
+      18171564
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      CMAJ. 2007 Mar 27;176(7):971; author reply 971-2
+     </refsource>
+     <pmid version="1">
+      17389449
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      CMAJ. 2007 Mar 27;176(7):971; author reply 971-2
+     </refsource>
+     <pmid version="1">
+      17389450
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2006 Nov-Dec;145(3):60
+     </refsource>
+     <pmid version="1">
+      17080972
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Evid Based Med. 2006 Dec;11(6):168
+     </refsource>
+     <pmid version="1">
+      17213162
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="ErratumIn">
+     <refsource>
+      CMAJ. 2007 Mar 27;176(7):976
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adrenergic beta-Antagonists
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Age Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cardiovascular Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertension
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Placebos
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Stroke
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC1471831
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2006
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      7
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2006
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2006
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      7
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     174/12/1737
+    </articleid>
+    <articleid idtype="doi">
+     10.1503/cmaj.060110
+    </articleid>
+    <articleid idtype="pubmed">
+     16754904
+    </articleid>
+    <articleid idtype="pmc">
+     PMC1471831
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

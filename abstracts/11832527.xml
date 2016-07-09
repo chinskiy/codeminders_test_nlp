@@ -1,0 +1,733 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11832527
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     08
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     20
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1533-4406
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       346
+      </volume>
+      <issue>
+       6
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Feb
+       </month>
+       <day>
+        7
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      393-403
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Type 2 diabetes affects approximately 8 percent of adults in the United States. Some risk factors--elevated plasma glucose concentrations in the fasting state and after an oral glucose load, overweight, and a sedentary lifestyle--are potentially reversible. We hypothesized that modifying these factors with a lifestyle-intervention program or the administration of metformin would prevent or delay the development of diabetes.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We randomly assigned 3234 nondiabetic persons with elevated fasting and post-load plasma glucose concentrations to placebo, metformin (850 mg twice daily), or a lifestyle-modification program with the goals of at least a 7 percent weight loss and at least 150 minutes of physical activity per week. The mean age of the participants was 51 years, and the mean body-mass index (the weight in kilograms divided by the square of the height in meters) was 34.0; 68 percent were women, and 45 percent were members of minority groups.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The average follow-up was 2.8 years. The incidence of diabetes was 11.0, 7.8, and 4.8 cases per 100 person-years in the placebo, metformin, and lifestyle groups, respectively. The lifestyle intervention reduced the incidence by 58 percent (95 percent confidence interval, 48 to 66 percent) and metformin by 31 percent (95 percent confidence interval, 17 to 43 percent), as compared with placebo; the lifestyle intervention was significantly more effective than metformin. To prevent one case of diabetes during a period of three years, 6.9 persons would have to participate in the lifestyle-intervention program, and 13.9 would have to receive metformin.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Lifestyle changes and treatment with metformin both reduced the incidence of diabetes in persons at high risk. The lifestyle intervention was more effective than metformin.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Diabetes Prevention Program Coordinating Center, Biostatistics Center, George Washington University, 6110 Executive Blvd., Suite 750, Rockville, MD 20852, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Knowler
+      </lastname>
+      <forename>
+       William C
+      </forename>
+      <initials>
+       WC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Barrett-Connor
+      </lastname>
+      <forename>
+       Elizabeth
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Fowler
+      </lastname>
+      <forename>
+       Sarah E
+      </forename>
+      <initials>
+       SE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hamman
+      </lastname>
+      <forename>
+       Richard F
+      </forename>
+      <initials>
+       RF
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lachin
+      </lastname>
+      <forename>
+       John M
+      </forename>
+      <initials>
+       JM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Walker
+      </lastname>
+      <forename>
+       Elizabeth A
+      </forename>
+      <initials>
+       EA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Nathan
+      </lastname>
+      <forename>
+       David M
+      </forename>
+      <initials>
+       DM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       Diabetes Prevention Program Research Group
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       U01 DK048489-06
+      </grantid>
+      <acronym>
+       DK
+      </acronym>
+      <agency>
+       NIDDK NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       U01 DK048489-07
+      </grantid>
+      <acronym>
+       DK
+      </acronym>
+      <agency>
+       NIDDK NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       U01 DK048489-08
+      </grantid>
+      <acronym>
+       DK
+      </acronym>
+      <agency>
+       NIDDK NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       U01 DK048489-09
+      </grantid>
+      <acronym>
+       DK
+      </acronym>
+      <agency>
+       NIDDK NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Blood Glucose
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Hypoglycemic Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      657-24-9
+     </registrynumber>
+     <nameofsubstance>
+      Metformin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Epidemiol. 1999 Jul;9(5):314-24
+     </refsource>
+     <pmid version="1">
+      10976858
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Biometrics. 1990 Sep;46(3):759-70
+     </refsource>
+     <pmid version="1">
+      2242413
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Intern Med. 1999 Aug 17;131(4):281-303
+     </refsource>
+     <pmid version="1">
+      10454950
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arterioscler Thromb Vasc Biol. 2000 Mar;20(3):823-9
+     </refsource>
+     <pmid version="1">
+      10712409
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Diabetes Care. 1999 Apr;22(4):623-34
+     </refsource>
+     <pmid version="1">
+      10189543
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1998 Sep 12;352(9131):854-65
+     </refsource>
+     <pmid version="1">
+      9742977
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1998 Sep 12;352(9131):837-53
+     </refsource>
+     <pmid version="1">
+      9742976
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Diabetes Care. 1998 Apr;21(4):518-24
+     </refsource>
+     <pmid version="1">
+      9571335
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      MMWR Morb Mortal Wkly Rep. 1997 Oct 31;46(43):1014-8
+     </refsource>
+     <pmid version="1">
+      9367135
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Diabetes Care. 1997 Jul;20(7):1183-97
+     </refsource>
+     <pmid version="1">
+      9203460
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Diabetes Care. 1997 Apr;20(4):537-44
+     </refsource>
+     <pmid version="1">
+      9096977
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Diabetes. 1997 Apr;46(4):701-10
+     </refsource>
+     <pmid version="1">
+      9075814
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Diabetes. 1995 May;44(5):483-8
+     </refsource>
+     <pmid version="1">
+      7729603
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 2001 May 3;344(18):1390-2
+     </refsource>
+     <pmid version="1">
+      11333998
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 2001 May 3;344(18):1343-50
+     </refsource>
+     <pmid version="1">
+      11333990
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 2001 Apr 25;285(16):2109-13
+     </refsource>
+     <pmid version="1">
+      11311100
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Diabetes Care. 2000 Nov;23(11):1619-29
+     </refsource>
+     <pmid version="1">
+      11092283
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Diabetes Care. 2000 Aug;23(8):1108-12
+     </refsource>
+     <pmid version="1">
+      10937506
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Diabetes Metab Res Rev. 2000 Jul-Aug;16(4):230-6
+     </refsource>
+     <pmid version="1">
+      10934451
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Epidemiol. 2000 May;53(5):511-8
+     </refsource>
+     <pmid version="1">
+      10812324
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2002 Jun 6;346(23):1829-30; author reply 1829-30
+     </refsource>
+     <pmid version="1">
+      12051269
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2002 Jun 6;346(23):1829-30; author reply 1829-30
+     </refsource>
+     <pmid version="1">
+      12050348
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2002 Jun 6;346(23):1829-30; author reply 1829-30
+     </refsource>
+     <pmid version="1">
+      12051268
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Can Fam Physician. 2004 Mar;50:369-71
+     </refsource>
+     <pmid version="1">
+      15318673
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2002 Jun 6;346(23):1829-30; author reply 1829-30
+     </refsource>
+     <pmid version="1">
+      12051267
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Med J Aust. 2003 Feb 17;178(4):180-1
+     </refsource>
+     <pmid version="1">
+      12580748
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2002 Sep-Oct;137(2):55
+     </refsource>
+     <pmid version="1">
+      12207433
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Evid Based Nurs. 2002 Oct;5(4):109
+     </refsource>
+     <pmid version="1">
+      12402812
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Glucose
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      metabolism
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Body Mass Index
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetes Mellitus, Type 2
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Energy Intake
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Exercise
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypoglycemic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Incidence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Life Style
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Metformin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Patient Compliance
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Weight Loss
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    NIHMS5217
+   </otherid>
+   <otherid source="NLM">
+    PMC1370926
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      8
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      8
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11832527
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJMoa012512
+    </articleid>
+    <articleid idtype="pii">
+     346/6/393
+    </articleid>
+    <articleid idtype="pmc">
+     PMC1370926
+    </articleid>
+    <articleid idtype="mid">
+     NIHMS5217
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

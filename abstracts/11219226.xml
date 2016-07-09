@@ -1,0 +1,290 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11219226
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     21
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     26
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2005
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     16
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0749-0704
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       17
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Jan
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Critical care clinics
+     </title>
+     <isoabbreviation>
+      Crit Care Clin
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Hypocalcemic syndromes.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      139-53, vii-viii
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Hypocalcemia is common in the ICU and is a marker of poor prognosis. The mechanisms behind the low calcium levels include extravasation, increased chelation, intracellular overload of calcium, and an altered parathyroid hormone (PTH) secretion. Hypocalcemia and an altered PTH secretion seem to be related to systemic inflammation, but it is not known today if this response is appropriate or not. Therefore, a general supplementation with calcium in these patients cannot be recommended at this stage.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Medical Science, Uppsala University, Uppsala, Sweden. fredrik.carlstedt@post.utfors.se
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Carlstedt
+      </lastname>
+      <forename>
+       F
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lind
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Crit Care Clin
+    </medlineta>
+    <nlmuniqueid>
+     8507720
+    </nlmuniqueid>
+    <issnlinking>
+     0749-0704
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Calcium Channels
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Parathyroid Hormone
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      7440-70-2
+     </registrynumber>
+     <nameofsubstance>
+      Calcium
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Calcium
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      metabolism
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Calcium Channels
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      metabolism
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Hypocalcemia
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Intensive Care Units
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Parathyroid Hormone
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      immunology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      metabolism
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    77
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      12
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      12
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11219226
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

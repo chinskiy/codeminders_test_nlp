@@ -1,0 +1,542 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    16418463
+   </pmid>
+   <datecreated>
+    <year>
+     2006
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     18
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2006
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     23
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2008
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     24
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1538-3598
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       295
+      </volume>
+      <issue>
+       3
+      </issue>
+      <pubdate>
+       <year>
+        2006
+       </year>
+       <month>
+        Jan
+       </month>
+       <day>
+        18
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Watchful waiting vs repair of inguinal hernia in minimally symptomatic men: a randomized clinical trial.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      285-92
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Many men with inguinal hernia have minimal symptoms. Whether deferring surgical repair is a safe and acceptable option has not been assessed.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To compare pain and the physical component score (PCS) of the Short Form-36 Version 2 survey at 2 years in men with minimally symptomatic inguinal hernias treated with watchful waiting or surgical repair.
+     </abstracttext>
+     <abstracttext label="DESIGN, SETTING, AND PARTICIPANTS" nlmcategory="METHODS">
+      Randomized trial conducted January 1, 1999, through December 31, 2004, at 5 North American centers and enrolling 720 men (364 watchful waiting, 356 surgical repair) followed up for 2 to 4.5 years.
+     </abstracttext>
+     <abstracttext label="INTERVENTIONS" nlmcategory="METHODS">
+      Watchful-waiting patients were followed up at 6 months and annually and watched for hernia symptoms; repair patients received standard open tension-free repair and were followed up at 3 and 6 months and annually.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      Pain and discomfort interfering with usual activities at 2 years and change in PCS from baseline to 2 years. Secondary outcomes were complications, patient-reported pain, functional status, activity levels, and satisfaction with care.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Primary intention-to-treat outcomes were similar at 2 years for watchful waiting vs surgical repair: pain limiting activities (5.1% vs 2.2%, respectively; P = .06 [corrected]); PCS (improvement over baseline, 0.29 points vs 0.13 points; P = .79). Twenty-three percent of patients assigned to watchful waiting crossed over to receive surgical repair (increase in hernia-related pain was the most common reason offered); 17% assigned to receive repair crossed over to watchful waiting. Self-reported pain in watchful-waiting patients crossing over improved after repair. Occurrence of postoperative hernia-related complications was similar in patients who received repair as assigned and in watchful-waiting patients who crossed over. One watchful-waiting patient (0.3%) experienced acute hernia incarceration without strangulation within 2 years; a second had acute incarceration with bowel obstruction at 4 years, with a frequency of 1.8/1000 patient-years inclusive of patients followed up for as long as 4.5 years.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Watchful waiting is an acceptable option for men with minimally symptomatic inguinal hernias. Delaying surgical repair until symptoms increase is safe because acute hernia incarcerations occur rarely.Clinical Trials Registration ClinicalTrials.gov Identifier: NCT00263250.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Surgery, Creighton University, Omaha, Neb, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Fitzgibbons
+      </lastname>
+      <forename>
+       Robert J
+      </forename>
+      <initials>
+       RJ
+      </initials>
+      <suffix>
+       Jr
+      </suffix>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Giobbie-Hurder
+      </lastname>
+      <forename>
+       Anita
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gibbs
+      </lastname>
+      <forename>
+       James O
+      </forename>
+      <initials>
+       JO
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dunlop
+      </lastname>
+      <forename>
+       Dorothy D
+      </forename>
+      <initials>
+       DD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Reda
+      </lastname>
+      <forename>
+       Domenic J
+      </forename>
+      <initials>
+       DJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McCarthy
+      </lastname>
+      <forename>
+       Martin
+      </forename>
+      <initials>
+       M
+      </initials>
+      <suffix>
+       Jr
+      </suffix>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Neumayer
+      </lastname>
+      <forename>
+       Leigh A
+      </forename>
+      <initials>
+       LA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Barkun
+      </lastname>
+      <forename>
+       Jeffrey S T
+      </forename>
+      <initials>
+       JS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hoehn
+      </lastname>
+      <forename>
+       James L
+      </forename>
+      <initials>
+       JL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Murphy
+      </lastname>
+      <forename>
+       Joseph T
+      </forename>
+      <initials>
+       JT
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sarosi
+      </lastname>
+      <forename>
+       George A
+      </forename>
+      <initials>
+       GA
+      </initials>
+      <suffix>
+       Jr
+      </suffix>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Syme
+      </lastname>
+      <forename>
+       William C
+      </forename>
+      <initials>
+       WC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Thompson
+      </lastname>
+      <forename>
+       Jon S
+      </forename>
+      <initials>
+       JS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wang
+      </lastname>
+      <forename>
+       Jia
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jonasson
+      </lastname>
+      <forename>
+       Olga
+      </forename>
+      <initials>
+       O
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <databanklist completeyn="Y">
+     <databank>
+      <databankname>
+       ClinicalTrials.gov
+      </databankname>
+      <accessionnumberlist>
+       <accessionnumber>
+        NCT00263250
+       </accessionnumber>
+      </accessionnumberlist>
+     </databank>
+    </databanklist>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       R01 HS 09860
+      </grantid>
+      <acronym>
+       HS
+      </acronym>
+      <agency>
+       AHRQ HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, N.I.H., Extramural
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2006 Jun 21;295(23):2724; author reply 2725
+     </refsource>
+     <pmid version="1">
+      16788128
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2006 Jun 21;295(23):2724-5; author reply 2725
+     </refsource>
+     <pmid version="1">
+      16788127
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Can J Surg. 2008 Oct;51(5):406-9
+     </refsource>
+     <pmid version="1">
+      18841218
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2006 Jan 18;295(3):328-9
+     </refsource>
+     <pmid version="1">
+      16418470
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Evid Based Med. 2006 Jun;11(3):73
+     </refsource>
+     <pmid version="1">
+      17213095
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="ErratumIn">
+     <refsource>
+      JAMA. 2006 Jun 21;295(23):2726
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Disease Progression
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Follow-Up Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hernia, Inguinal
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      surgery
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pain
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Patient Satisfaction
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Severity of Illness Index
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Surgical Mesh
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2006
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2006
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2006
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     295/3/285
+    </articleid>
+    <articleid idtype="doi">
+     10.1001/jama.295.3.285
+    </articleid>
+    <articleid idtype="pubmed">
+     16418463
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

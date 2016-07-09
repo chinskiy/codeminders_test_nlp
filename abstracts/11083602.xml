@@ -1,0 +1,294 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11083602
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     05
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     09
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     29
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0161-8105
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       23
+      </volume>
+      <issue>
+       7
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+       <month>
+        Nov
+       </month>
+       <day>
+        1
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Sleep
+     </title>
+     <isoabbreviation>
+      Sleep
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     The use of clinical prediction formulas in the evaluation of obstructive sleep apnea.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      929-38
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="STUDY OBJECTIVES" nlmcategory="OBJECTIVE">
+      To prospectively study the utility of four clinical prediction models for either predicting the presence of obstructive sleep apnea (OSA, apnea-hypopnea index [AHI] &gt; or = 10/hour), or prioritizing patients for a split-night protocol (AHI(3)20/hour).
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      All patients presenting for OSA evaluation completed a research questionnaire that included questions from previously developed clinical prediction models. The probability of sleep apnea for each patient for each model was calculated based upon the equation used in the model. Based upon two cutoffs of apnea-hypopnea index, 10 and 20, the sensitivity, specificity, and positive predictive value were calculated. For the cutoffs AHI &gt; or =10 and &gt; or =20, receiver operating characteristic curves were generated and the areas under the curves calculated. Comparisons of demographic information and symptom response were compared between patients with and without OSA, and men vs. women.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      Urban, accredited sleep disorders center.
+     </abstracttext>
+     <abstracttext label="PATIENTS OR PARTICIPANTS" nlmcategory="METHODS">
+      All patients referred for evaluation of OSA who underwent polysomnography.
+     </abstracttext>
+     <abstracttext label="INTERVENTIONS" nlmcategory="METHODS">
+      N/A.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      370 patients (191 men, 179 women) completed the study. 248 of the 370 (67%) patients had an AHI(3)10; 180 of the 370 (49%) had an AHI&gt; or =20. For AHI &gt; or =10, the sensitivities ranged from 76 to 96%, specificities from 13%-54%, positive predictive values from 69%-77% using the probability cutoff of the original investigators; the areas under the curve from 0.669 to 0.736. For AHI(3)20, the areas under the ROC curves ranged from 0.700 to 0.757; using cutoffs to maximized specificity, the sensitivities ranged from 33%-39%, specificities from 87%-93%, and positive predictive values from 72%-85%. All the models performed better for men.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The clinical prediction models tested are not be sufficiently accurate to discriminate between patients with or without OSA but could be useful in prioritizing patients for split-night polysomnography.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Sleep Disorders Center at Hutzel Hospital, Department of Medicine, Wayne State University School of Medicine, Detroit, MI 48201, USA. jrowley@intmed.wayne.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Rowley
+      </lastname>
+      <forename>
+       J A
+      </forename>
+      <initials>
+       JA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Aboussouan
+      </lastname>
+      <forename>
+       L S
+      </forename>
+      <initials>
+       LS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Badr
+      </lastname>
+      <forename>
+       M S
+      </forename>
+      <initials>
+       MS
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Sleep
+    </medlineta>
+    <nlmuniqueid>
+     7809084
+    </nlmuniqueid>
+    <issnlinking>
+     0161-8105
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Body Mass Index
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Polysomnography
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Predictive Value of Tests
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Questionnaires
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sleep Apnea, Obstructive
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11083602
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

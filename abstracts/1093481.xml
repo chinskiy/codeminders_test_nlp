@@ -1,0 +1,352 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    1093481
+   </pmid>
+   <datecreated>
+    <year>
+     1975
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     07
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1975
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     07
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2008
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     17
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0003-987X
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       111
+      </volume>
+      <issue>
+       5
+      </issue>
+      <pubdate>
+       <year>
+        1975
+       </year>
+       <month>
+        May
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Archives of dermatology
+     </title>
+     <isoabbreviation>
+      Arch Dermatol
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Miconazole therapy for endemic fungal disease.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      596-8
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Miconazole nitrate (2.0%) cream was evaluated in the treatment of endemic dermatophytosis in an overcrowded prison. The active drug was compared in a random double-blind study with its control vehicle in the treatment of 99 inmates who had moderate to severe symptomatic disease. Tinea cruris and tinea pedis caused by Trichophyton rubrum predominated, although Trichophyton mentagrophytes and Candida albicans were also isolated and identified. Prompt clinical clearing occurred in 75.5% of those treated with miconazole versus 12.0% of those treated with the vehicle alone. Results of mycological examination closely paralleled and confirmed these clinical results.
+     </abstracttext>
+    </abstract>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Fulton
+      </lastname>
+      <forename>
+       J E
+      </forename>
+      <initials>
+       JE
+      </initials>
+      <suffix>
+       Jr
+      </suffix>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Arch Dermatol
+    </medlineta>
+    <nlmuniqueid>
+     0372433
+    </nlmuniqueid>
+    <issnlinking>
+     0003-987X
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Imidazoles
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      22916-47-8
+     </registrynumber>
+     <nameofsubstance>
+      Miconazole
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Administration, Topical
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Candida albicans
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      isolation &amp; purification
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Candidiasis
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      microbiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Clinical Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Disease Outbreaks
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Administration Schedule
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Evaluation
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Imidazoles
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Miconazole
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prisoners
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Remission, Spontaneous
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Skin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tinea
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      microbiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tinea Pedis
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Trichophyton
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      isolation &amp; purification
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1975
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      11
+     </day>
+     <hour>
+      19
+     </hour>
+     <minute>
+      15
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1975
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      11
+     </day>
+     <hour>
+      19
+     </hour>
+     <minute>
+      15
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     1093481
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

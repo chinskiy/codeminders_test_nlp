@@ -1,0 +1,328 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10796511
+   </pmid>
+   <datecreated>
+    <year>
+     2000
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     06
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2000
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     06
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Drugs for treating giardiasis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD000217
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      There can be a high rate of recurrence of disease after initial drug treatment for giardiasis. These drugs also have a range of adverse effects.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      The objective of this review was to assess the effects of drug treatments for giardiasis.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      We searched the Cochrane Infectious Diseases Group trials register, the Cochrane Controlled Trials Register, Medline and Embase, Current Contents, reference lists of articles.
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      Randomised and quasi-randomised trials of drug therapy for giardiasis compared with placebo or another drug.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      Two reviewers independently assessed trial quality and extracted data.
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      Thirty-four trials were included. Only one trial was without serious methodological flaws. Compared with placebo, drug treatment was associated with an improved cure rate (odds ratio 11.5, 95% confidence interval 2.3 to 58). Metronidazole treatment longer than three days had a better parasitological cure rate than other long treatment courses (odds ratio 2.4, 95% confidence interval 1.3 to 4.4), but there was significant heterogeneity between the trials. Single dose therapy appeared equally effective as longer treatment courses (odds ratio 0.33, 95% confidence interval 0.08 to 1.34). Within the single dose regimens, tinidazole had a comparable parasitological cure rate to other short therapies (odds ratio 3.4, 95% confidence interval 0.95 to 12), but had a higher clinical cure rate (odds ratio 5.3, 95% 2.7-10.7).
+     </abstracttext>
+     <abstracttext label="REVIEWER'S CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      A single dose of tinidazole appears to give the highest clinical cure rate for giardiasis with relatively few adverse effects.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Fluitekruid 13, 1441 XP Purmerend, Amsterdam, Netherlands. jzaat@knmg.nl
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Zaat
+      </lastname>
+      <forename>
+       J O
+      </forename>
+      <initials>
+       JO
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Mank
+      </lastname>
+      <forename>
+       T h
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Assendelft
+      </lastname>
+      <forename>
+       W J
+      </forename>
+      <initials>
+       WJ
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     ENGLAND
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antiprotozoal Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      19387-91-8
+     </registrynumber>
+     <nameofsubstance>
+      Tinidazole
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      443-48-1
+     </registrynumber>
+     <nameofsubstance>
+      Metronidazole
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      67-45-8
+     </registrynumber>
+     <nameofsubstance>
+      Furazolidone
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="UpdateIn">
+     <refsource>
+      Cochrane Database Syst Rev. 2007;(2):CD000217
+     </refsource>
+     <pmid version="1">
+      17636622
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antiprotozoal Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Furazolidone
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Giardiasis
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Metronidazole
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tinidazole
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    34
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2000
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      8
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10796511
+    </articleid>
+    <articleid idtype="pii">
+     CD000217
+    </articleid>
+    <articleid idtype="doi">
+     10.1002/14651858.CD000217
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

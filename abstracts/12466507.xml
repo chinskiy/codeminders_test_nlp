@@ -1,0 +1,527 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12466507
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     05
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     11
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1533-4406
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       347
+      </volume>
+      <issue>
+       23
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Dec
+       </month>
+       <day>
+        5
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     A comparison of rate control and rhythm control in patients with recurrent persistent atrial fibrillation.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1834-40
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Maintenance of sinus rhythm is the main therapeutic goal in patients with atrial fibrillation. However, recurrences of atrial fibrillation and side effects of antiarrhythmic drugs offset the benefits of sinus rhythm. We hypothesized that ventricular rate control is not inferior to the maintenance of sinus rhythm for the treatment of atrial fibrillation.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We randomly assigned 522 patients who had persistent atrial fibrillation after a previous electrical cardioversion to receive treatment aimed at rate control or rhythm control. Patients in the rate-control group received oral anticoagulant drugs and rate-slowing medication. Patients in the rhythm-control group underwent serial cardioversions and received antiarrhythmic drugs and oral anticoagulant drugs. The end point was a composite of death from cardiovascular causes, heart failure, thromboembolic complications, bleeding, implantation of a pacemaker, and severe adverse effects of drugs.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      After a mean (+/-SD) of 2.3+/-0.6 years, 39 percent of the 266 patients in the rhythm-control group had sinus rhythm, as compared with 10 percent of the 256 patients in the rate-control group. The primary end point occurred in 44 patients (17.2 percent) in the rate-control group and in 60 (22.6 percent) in the rhythm-control group. The 90 percent (two-sided) upper boundary of the absolute difference in the primary end point was 0.4 percent (the prespecified criterion for noninferiority was 10 percent or less). The distribution of the various components of the primary end point was similar in the rate-control and rhythm-control groups.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Rate control is not inferior to rhythm control for the prevention of death and morbidity from cardiovascular causes and may be appropriate therapy in patients with a recurrence of persistent atrial fibrillation after electrical cardioversion.
+     </abstracttext>
+     <copyrightinformation>
+      Copyright 2002 Massachusetts Medical Society
+     </copyrightinformation>
+    </abstract>
+    <affiliation>
+     Department of Cardiology, Thoraxcenter, University Hospital, Groningen, The Netherlands. i.c.van.gelder@thorax.azg.nl.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Van Gelder
+      </lastname>
+      <forename>
+       Isabelle C
+      </forename>
+      <initials>
+       IC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hagens
+      </lastname>
+      <forename>
+       Vincent E
+      </forename>
+      <initials>
+       VE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bosker
+      </lastname>
+      <forename>
+       Hans A
+      </forename>
+      <initials>
+       HA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kingma
+      </lastname>
+      <forename>
+       J Herre
+      </forename>
+      <initials>
+       JH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kamp
+      </lastname>
+      <forename>
+       Otto
+      </forename>
+      <initials>
+       O
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kingma
+      </lastname>
+      <forename>
+       Tsjerk
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Said
+      </lastname>
+      <forename>
+       Salah A
+      </forename>
+      <initials>
+       SA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Darmanata
+      </lastname>
+      <forename>
+       Julius I
+      </forename>
+      <initials>
+       JI
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Timmermans
+      </lastname>
+      <forename>
+       Alphons J M
+      </forename>
+      <initials>
+       AJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tijssen
+      </lastname>
+      <forename>
+       Jan G P
+      </forename>
+      <initials>
+       JG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Crijns
+      </lastname>
+      <forename>
+       Harry J G M
+      </forename>
+      <initials>
+       HJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       Rate Control versus Electrical Cardioversion for Persistent Atrial Fibrillation Study Group
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Adrenergic beta-Antagonists
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Arrhythmia Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anticoagulants
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Calcium Channel Blockers
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2002 Dec 5;347(23):1822-3
+     </refsource>
+     <pmid version="1">
+      12466505
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2002 Dec 5;347(23):1883-4
+     </refsource>
+     <pmid version="1">
+      12466514
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2003 Sep-Oct;139(2):36-7
+     </refsource>
+     <pmid version="1">
+      12954029
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Med J Aust. 2003 May 19;178(10):480-1
+     </refsource>
+     <pmid version="1">
+      12741931
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2003 Mar 27;348(13):1284-6; author reply 1284-6
+     </refsource>
+     <pmid version="1">
+      12661567
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adrenergic beta-Antagonists
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Arrhythmia Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anticoagulants
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Atrial Fibrillation
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Calcium Channel Blockers
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Combined Modality Therapy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Disease-Free Survival
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Electric Countershock
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heart Rate
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertension
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Recurrence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sex Factors
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      6
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      12
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      6
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12466507
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJMoa021375
+    </articleid>
+    <articleid idtype="pii">
+     347/23/1834
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

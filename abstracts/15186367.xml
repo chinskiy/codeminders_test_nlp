@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15186367
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     09
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     28
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2005
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     16
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      1396-0296
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       17
+      </volume>
+      <issue>
+       3
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Dermatologic therapy
+     </title>
+     <isoabbreviation>
+      Dermatol Ther
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Allergic contact dermatitis: pathophysiology applied to future therapy.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      219-23
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Contact dermatitis is a common reason for patient visits to primary-care clinics and represents up to 7% of all dermatologic consultations in the US. Substantial progress has been made in elucidating the pathophysiology of contact dermatitis, particularly the allergic form. A better understanding of pathologic mechanisms has led to improved management of cases and will continue to advance treatment modalities. The present paper reviews the pathogenesis and current treatment of allergic contact dermatitis and speculates on the prospects for improved future therapy.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Dermatology, University of Texas Southwestern Medical Center and Section of Dermatology, Medical Service, Dallas Veterans Affairs Medical Center, 75390, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Li
+      </lastname>
+      <forename>
+       Lily Y
+      </forename>
+      <initials>
+       LY
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cruz
+      </lastname>
+      <forename>
+       Ponciano D
+      </forename>
+      <initials>
+       PD
+      </initials>
+      <suffix>
+       Jr
+      </suffix>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     Denmark
+    </country>
+    <medlineta>
+     Dermatol Ther
+    </medlineta>
+    <nlmuniqueid>
+     9700070
+    </nlmuniqueid>
+    <issnlinking>
+     1396-0296
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Immunosuppressive Agents
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dermatitis, Allergic Contact
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      immunology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Immunosuppressive Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    35
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      29
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     15186367
+    </articleid>
+    <articleid idtype="doi">
+     10.1111/j.1396-0296.2004.04023.x
+    </articleid>
+    <articleid idtype="pii">
+     DTH04023
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

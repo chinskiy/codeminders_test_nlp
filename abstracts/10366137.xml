@@ -1,0 +1,286 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10366137
+   </pmid>
+   <datecreated>
+    <year>
+     1999
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     15
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1999
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     15
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      1057-5987
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       48
+      </volume>
+      <issue>
+       RR-6
+      </issue>
+      <pubdate>
+       <year>
+        1999
+       </year>
+       <month>
+        May
+       </month>
+       <day>
+        28
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      MMWR. Recommendations and reports : Morbidity and mortality weekly report. Recommendations and reports / Centers for Disease Control
+     </title>
+     <isoabbreviation>
+      MMWR Recomm Rep
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Prevention of varicella. Update recommendations of the Advisory Committee on Immunization Practices (ACIP).
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1-5
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      In February 1999, the Advisory Committee on Immunization Practices (ACIP) expanded recommendations for varicella (chickenpox) vaccine to promote wider use of the vaccine for susceptible children and adults. The updated recommendations include establishing child care and school entry requirements, use of the vaccine following exposure and for outbreak control, use of the vaccine for some children infected with the human immunodeficiency virus (HIV), and vaccination of adults and adolescents at high risk for exposure. These recommendations also provide new information on varicella vaccine postlicensure safety data.
+     </abstracttext>
+    </abstract>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Guideline
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Practice Guideline
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     MMWR Recomm Rep
+    </medlineta>
+    <nlmuniqueid>
+     101124922
+    </nlmuniqueid>
+    <issnlinking>
+     1057-5987
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Chickenpox Vaccine
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <citationsubset>
+    X
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Chickenpox
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Chickenpox Vaccine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child Day Care Centers
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Disease Outbreaks
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      HIV Infections
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Immunocompromised Host
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Schools
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vaccination
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      standards
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1999
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      12
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1999
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      12
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1999
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      12
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10366137
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

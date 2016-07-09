@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    5863107
+   </pmid>
+   <datecreated>
+    <year>
+     1966
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     22
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1966
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     22
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0004-3591
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       8
+      </volume>
+      <issue>
+       5
+      </issue>
+      <pubdate>
+       <year>
+        1965
+       </year>
+       <month>
+        Oct
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Arthritis and rheumatism
+     </title>
+     <isoabbreviation>
+      Arthritis Rheum.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Treatment of primary gout: the present status.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      911-20
+     </medlinepgn>
+    </pagination>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Gutman
+      </lastname>
+      <forename>
+       A B
+      </forename>
+      <initials>
+       AB
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Arthritis Rheum
+    </medlineta>
+    <nlmuniqueid>
+     0370605
+    </nlmuniqueid>
+    <issnlinking>
+     0004-3591
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Enzymes
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Uricosuric Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      129-20-4
+     </registrynumber>
+     <nameofsubstance>
+      Oxyphenbutazone
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      50-33-9
+     </registrynumber>
+     <nameofsubstance>
+      Phenylbutazone
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      57-66-9
+     </registrynumber>
+     <nameofsubstance>
+      Probenecid
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      64-86-8
+     </registrynumber>
+     <nameofsubstance>
+      Colchicine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      EC 1.17.3.2
+     </registrynumber>
+     <nameofsubstance>
+      Xanthine Oxidase
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Colchicine
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Enzymes
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Gout
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Kidney Calculi
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Oxyphenbutazone
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Phenylbutazone
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Probenecid
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Uricosuric Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Xanthine Oxidase
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1965
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1965
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1965
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     5863107
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

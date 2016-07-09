@@ -1,0 +1,346 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12200073
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     29
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     13
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      1056-8727
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       16
+      </volume>
+      <issue>
+       5
+      </issue>
+      <pubdate>
+       <medlinedate>
+        2002 Sep-Oct
+       </medlinedate>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of diabetes and its complications
+     </title>
+     <isoabbreviation>
+      J. Diabetes Complicat.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     High and low hemoglobin glycation phenotypes in type 1 diabetes: a challenge for interpretation of glycemic control.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      313-20
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      This study tested the hypothesis that there are consistent individual differences in the relationship between glycated hemoglobin (HbA1c) and mean blood glucose (MBG) levels in individuals with similar preceding blood glucose levels. Blood glucose data were collected for up to 2.3 years by 128 children and adolescents with type 1 diabetes. HbA1c values were date-matched with MBG levels calculated from an average of 85 self-monitored blood glucose measurements collected in the previous 30 days. There was significant linear correlation between MBG and HbA1c (HbA1c=0.027xMBG+5.8, n=682, r=.71, P&lt;.0001) but also wide variability in the population HbA1c response to MBG. We calculated a hemoglobin glycation index (HGI=observed HbA1c-predicted HbA1c) to quantify the magnitude and direction of the difference between each patient's set of observed and predicted HbA1c results. Likelihood ratio tests and t statistics showed that mean HGI were significantly different among individuals, and that 29% of the patients had HbA1c levels that were statistically significantly higher or lower than predicted by the regression equation. The observed individual differences in the relationship between MBG and HbA1c were not related to erythrocyte age and there was no evidence of analytical artifact. We interpret these results as possible evidence of high and low hemoglobin glycation phenotypes within the population. We conclude that MBG and HbA1c are not necessarily interchangeable estimates of glycemic control and that hemoglobin glycation phenotype may be important for the clinical assessment of diabetic patients.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Children's Hospital Research Institute for Children, 200 Henry Clay Avenue, New Orleans, LA 70118, USA. jhempe@chnola-research.org
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Hempe
+      </lastname>
+      <forename>
+       James M
+      </forename>
+      <initials>
+       JM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gomez
+      </lastname>
+      <forename>
+       Ricardo
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McCarter
+      </lastname>
+      <forename>
+       Robert J
+      </forename>
+      <initials>
+       RJ
+      </initials>
+      <suffix>
+       Jr
+      </suffix>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Chalew
+      </lastname>
+      <forename>
+       Stuart A
+      </forename>
+      <initials>
+       SA
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     J Diabetes Complications
+    </medlineta>
+    <nlmuniqueid>
+     9204583
+    </nlmuniqueid>
+    <issnlinking>
+     1056-8727
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Biological Markers
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Blood Glucose
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Hemoglobin A, Glycosylated
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Biological Markers
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Glucose
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      metabolism
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetes Mellitus, Type 1
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      genetics
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Erythrocyte Aging
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Erythrocytes
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      physiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hemoglobin A, Glycosylated
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      genetics
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Phenotype
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Regression Analysis
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      30
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      14
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      30
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12200073
+    </articleid>
+    <articleid idtype="pii">
+     S1056872701002276
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

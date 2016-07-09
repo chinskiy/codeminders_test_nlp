@@ -1,0 +1,544 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    9515998
+   </pmid>
+   <datecreated>
+    <year>
+     1998
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     26
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1998
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     26
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       279
+      </volume>
+      <issue>
+       11
+      </issue>
+      <pubdate>
+       <year>
+        1998
+       </year>
+       <month>
+        Mar
+       </month>
+       <day>
+        18
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Sodium reduction and weight loss in the treatment of hypertension in older persons: a randomized controlled trial of nonpharmacologic interventions in the elderly (TONE). TONE Collaborative Research Group.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      839-46
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Nonpharmacologic interventions are frequently recommended for treatment of hypertension in the elderly, but there is a paucity of evidence from randomized controlled trials in support of this recommendation.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To determine whether weight loss or reduced sodium intake is effective in the treatment of older persons with hypertension.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Randomized controlled trial.
+     </abstracttext>
+     <abstracttext label="PARTICIPANTS" nlmcategory="METHODS">
+      A total of 975 [corrected] men and women aged 60 to 80 years with systolic blood pressure lower than 145 mm Hg and diastolic blood pressure lower than 85 mm Hg while receiving treatment with a single antihypertensive medication.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      Four academic health centers.
+     </abstracttext>
+     <abstracttext label="INTERVENTION" nlmcategory="METHODS">
+      The 585 obese participants were randomized to reduced sodium intake, weight loss, both, or usual care, and the 390 nonobese participants were randomized to reduced sodium intake or usual care. Withdrawal of antihypertensive medication was attempted after 3 months of intervention.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURE" nlmcategory="METHODS">
+      Diagnosis of high blood pressure at 1 or more follow-up visits, or treatment with antihypertensive medication, or a cardiovascular event during follow-up (range, 15-36 months; median, 29 months).
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The combined outcome measure was less frequent among those assigned vs not assigned to reduced sodium intake (relative hazard ratio, 0.69; 95% confidence interval [CI], 0.59-0.81; P&lt;.001) and, in obese participants, among those assigned vs not assigned to weight loss (relative hazard ratio, 0.70; 95% CI, 0.57-0.87; P&lt;.001). Relative to usual care, hazard ratios among the obese participants were 0.60 (95% CI, 0.45-0.80; P&lt;.001) for reduced sodium intake alone, 0.64 (95% CI, 0.49-0.85; P=.002) for weight loss alone, and 0.47 (95% CI, 0.35-0.64; P&lt;.001) for reduced sodium intake and weight loss combined. The frequency of cardiovascular events during follow-up was similar in each of the 6 treatment groups.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Reduced sodium intake and weight loss constitute a feasible, effective, and safe nonpharmacologic therapy of hypertension in older persons.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Biostatistics and Epidemiology, Tulane University School of Public Health and Tropical Medicine, New Orleans, La 70112, USA. PWHELTON@TULANE.EDU
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Whelton
+      </lastname>
+      <forename>
+       P K
+      </forename>
+      <initials>
+       PK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Appel
+      </lastname>
+      <forename>
+       L J
+      </forename>
+      <initials>
+       LJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Espeland
+      </lastname>
+      <forename>
+       M A
+      </forename>
+      <initials>
+       MA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Applegate
+      </lastname>
+      <forename>
+       W B
+      </forename>
+      <initials>
+       WB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ettinger
+      </lastname>
+      <forename>
+       W H
+      </forename>
+      <initials>
+       WH
+      </initials>
+      <suffix>
+       Jr
+      </suffix>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kostis
+      </lastname>
+      <forename>
+       J B
+      </forename>
+      <initials>
+       JB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kumanyika
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lacy
+      </lastname>
+      <forename>
+       C R
+      </forename>
+      <initials>
+       CR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Johnson
+      </lastname>
+      <forename>
+       K C
+      </forename>
+      <initials>
+       KC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Folmar
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cutler
+      </lastname>
+      <forename>
+       J A
+      </forename>
+      <initials>
+       JA
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="N">
+     <grant>
+      <grantid>
+       R01 AG-09771
+      </grantid>
+      <acronym>
+       AG
+      </acronym>
+      <agency>
+       NIA NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       R01 AG-09799
+      </grantid>
+      <acronym>
+       AG
+      </acronym>
+      <agency>
+       NIA NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       R01 HL-48642
+      </grantid>
+      <acronym>
+       HL
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antihypertensive Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Sodium, Dietary
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 1998 Sep 9;280(10):885-6
+     </refsource>
+     <pmid version="1">
+      9739970
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 1998 Mar 18;279(11):878-9
+     </refsource>
+     <pmid version="1">
+      9516005
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="ErratumIn">
+     <refsource>
+      JAMA 1998 Jun 24;279(24):1954
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Algorithms
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Analysis of Variance
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antihypertensive Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Diet, Sodium-Restricted
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Follow-Up Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertension
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      diet therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Likelihood Functions
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Obesity
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Proportional Hazards Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sodium, Dietary
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Substance Withdrawal Syndrome
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Survival Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Weight Loss
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1998
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      27
+     </day>
+     <hour>
+      3
+     </hour>
+     <minute>
+      3
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1998
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      27
+     </day>
+     <hour>
+      3
+     </hour>
+     <minute>
+      3
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     9515998
+    </articleid>
+    <articleid idtype="pii">
+     joc71672
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

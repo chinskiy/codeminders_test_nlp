@@ -1,0 +1,469 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    8474513
+   </pmid>
+   <datecreated>
+    <year>
+     1993
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     18
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1993
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     18
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     24
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0028-4793
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       328
+      </volume>
+      <issue>
+       19
+      </issue>
+      <pubdate>
+       <year>
+        1993
+       </year>
+       <month>
+        May
+       </month>
+       <day>
+        13
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Reducing mortality from colorectal cancer by screening for fecal occult blood. Minnesota Colon Cancer Control Study.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1365-71
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Although tests for occult blood in the feces are widely used to screen for colorectal cancers, there is no conclusive evidence that they reduce mortality from this cause. We evaluated a fecal occult-blood test in a randomized trial and documented its effectiveness.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We randomly assigned 46,551 participants 50 to 80 years of age to screening for colorectal cancer once a year, to screening every two years, or to a control group. Participants who were screened submitted six guaiac-impregnated paper slides with two smears from each of three consecutive stools. About 83 percent of the slides were rehydrated. Participants who tested positive underwent a diagnostic evaluation that included colonoscopy. Vital status was ascertained for all study participants during 13 years of follow-up. A committee determined causes of death. A single pathologist determined the stage of each tissue specimen. Differences in mortality from colorectal cancer, the primary study end point, were monitored with the sequential log-rank statistic.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The 13-year cumulative mortality per 1000 from colorectal cancer was 5.88 in the annually screened group (95 percent confidence interval, 4.61 to 7.15), 8.33 in the biennially screened group (95 percent confidence interval, 6.82 to 9.84), and 8.83 in the control group (95 percent confidence interval, 7.26 to 10.40). The rate in the annually screened group, but not in the biennially screened group, was significantly lower than that in the control group. Reduced mortality in the annually screened group was accompanied by improved survival in those with colorectal cancer and a shift to detection at an earlier stage of cancer.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Annual fecal occult-blood testing with rehydration of the samples decreased the 13-year cumulative mortality from colorectal cancer by 33 percent.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Division of Environmental and Occupational Health, University of Minnesota, Minneapolis 55455.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Mandel
+      </lastname>
+      <forename>
+       J S
+      </forename>
+      <initials>
+       JS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bond
+      </lastname>
+      <forename>
+       J H
+      </forename>
+      <initials>
+       JH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Church
+      </lastname>
+      <forename>
+       T R
+      </forename>
+      <initials>
+       TR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Snover
+      </lastname>
+      <forename>
+       D C
+      </forename>
+      <initials>
+       DC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bradley
+      </lastname>
+      <forename>
+       G M
+      </forename>
+      <initials>
+       GM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schuman
+      </lastname>
+      <forename>
+       L M
+      </forename>
+      <initials>
+       LM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ederer
+      </lastname>
+      <forename>
+       F
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       N01-CB-53862
+      </grantid>
+      <acronym>
+       CB
+      </acronym>
+      <agency>
+       NCI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       N01-CB-61005
+      </grantid>
+      <acronym>
+       CB
+      </acronym>
+      <agency>
+       NCI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       N01-CB-95613
+      </grantid>
+      <acronym>
+       CB
+      </acronym>
+      <agency>
+       NCI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 1993 Oct 28;329(18):1352; author reply 1353-4
+     </refsource>
+     <pmid version="1">
+      8413421
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 1993 Oct 28;329(18):1352-3
+     </refsource>
+     <pmid version="1">
+      8292163
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 1993 May 13;328(19):1416-7
+     </refsource>
+     <pmid version="1">
+      8474517
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 1993 Oct 28;329(18):1352; author reply 1353-4
+     </refsource>
+     <pmid version="1">
+      8413422
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 1993 Oct 28;329(18):1351; author reply 1353-4
+     </refsource>
+     <pmid version="1">
+      8292162
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 1993 Oct 28;329(18):1352; author reply 1353-4
+     </refsource>
+     <pmid version="1">
+      8413420
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 1993 Oct 28;329(18):1352
+     </refsource>
+     <pmid version="1">
+      8413419
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 1993 Oct 28;329(18):1351-2
+     </refsource>
+     <pmid version="1">
+      8413418
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="ErratumIn">
+     <refsource>
+      N Engl J Med 1993 Aug 26;329(9):672
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Colorectal Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Confidence Intervals
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Follow-Up Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      Minnesota
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Occult Blood
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Survival Rate
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1993
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      13
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1993
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1993
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     8474513
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJM199305133281901
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

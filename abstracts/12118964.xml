@@ -1,0 +1,441 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12118964
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     16
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     24
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1539-3704
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       137
+      </volume>
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Jul
+       </month>
+       <day>
+        16
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Annals of internal medicine
+     </title>
+     <isoabbreviation>
+      Ann. Intern. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Cost-effectiveness analyses of colorectal cancer screening: a systematic review for the U.S. Preventive Services Task Force.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      96-104
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="PURPOSE" nlmcategory="OBJECTIVE">
+      To perform a systematic review of the cost-effectiveness of colorectal cancer screening for the U.S. Preventive Services Task Force.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      MEDLINE and the British National Health Service Economic Evaluation Database, January 1993 through September 2001.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION" nlmcategory="METHODS">
+      Original economic evaluations of colorectal cancer screening in average-risk patients were reviewed. The authors sought studies addressing the incremental cost-effectiveness of different screening strategies compared with no screening, of different screening strategies compared with one another, and of different ages of screening initiation and cessation. Two investigators independently reviewed each abstract, and potentially eligible articles were retrieved. A four-member working group reached consensus regarding final inclusion or exclusion of articles.
+     </abstracttext>
+     <abstracttext label="DATA EXTRACTION" nlmcategory="METHODS">
+      One reviewer extracted data into evidence tables. The results were checked by other members and discrepancies resolved by consensus.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      Among 180 potential articles identified, 7 were retained in the final analysis. Compared with no screening, cost-effectiveness ratios for screening with any of the commonly considered methods were generally between 10, 000 dollars and 25, 000 dollars per life-year saved. No one strategy was consistently found to be the most effective or to have the best incremental cost-effectiveness ratio. Currently available models provided insufficient evidence to determine optimal starting and stopping ages for screening.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Screening for colorectal cancer appears cost-effective compared with no screening, but a single optimal strategy cannot be determined from the currently available data. Additional data regarding adherence with screening over time, complication rates in real-world settings, and colorectal cancer biology are needed. Additional analyses are necessary to determine optimal ages of initiation and cessation.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Medicine, Division of General Internal Medicine, University of North Carolina, 5039 Old Clinic Building 226, CB 7110, Chapel Hill, NC 27599.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Pignone
+      </lastname>
+      <forename>
+       Michael
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Saha
+      </lastname>
+      <forename>
+       Somnath
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hoerger
+      </lastname>
+      <forename>
+       Tom
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Mandelblatt
+      </lastname>
+      <forename>
+       Jeanne
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       290-97-0011
+      </grantid>
+      <agency>
+       PHS HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       CA 72908
+      </grantid>
+      <acronym>
+       CA
+      </acronym>
+      <agency>
+       NCI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       CA 74187
+      </grantid>
+      <acronym>
+       CA
+      </acronym>
+      <agency>
+       NCI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       U01CA88283A
+      </grantid>
+      <acronym>
+       CA
+      </acronym>
+      <agency>
+       NCI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, Non-P.H.S.
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Ann Intern Med
+    </medlineta>
+    <nlmuniqueid>
+     0372351
+    </nlmuniqueid>
+    <issnlinking>
+     0003-4819
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Gastroenterology. 2003 Mar;124(3):856-8
+     </refsource>
+     <pmid version="1">
+      12612925
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Ann Intern Med. 2003 Feb 18;138(4):356; author reply 357
+     </refsource>
+     <pmid version="1">
+      12585840
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Ann Intern Med. 2003 Feb 18;138(4):356-7; author reply 357
+     </refsource>
+     <pmid version="1">
+      12585841
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="SummaryForPatientsIn">
+     <refsource>
+      Ann Intern Med. 2002 Jul 16;137(2):I38
+     </refsource>
+     <pmid version="1">
+      12118986
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Colonoscopy
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Colorectal Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cost-Benefit Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Enema
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Mass Screening
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Occult Blood
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sigmoidoscopy
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    25
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12118964
+    </articleid>
+    <articleid idtype="pii">
+     200207160-00007
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

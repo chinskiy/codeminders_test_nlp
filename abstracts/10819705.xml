@@ -1,0 +1,372 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10819705
+   </pmid>
+   <datecreated>
+    <year>
+     2000
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     12
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2000
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     12
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0003-4819
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       132
+      </volume>
+      <issue>
+       10
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+       <month>
+        May
+       </month>
+       <day>
+        16
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Annals of internal medicine
+     </title>
+     <isoabbreviation>
+      Ann. Intern. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Accuracy of the Papanicolaou test in screening for and follow-up of cervical cytologic abnormalities: a systematic review.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      810-9
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="PURPOSE" nlmcategory="OBJECTIVE">
+      To evaluate the accuracy of conventional and new methods of Papanicolaou (Pap) testing when used to detect cervical cancer and its precursors.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      Systematic search of English-language literature through October 1999 using MEDLINE, EMBASE, other computerized databases, and hand searching.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION" nlmcategory="METHODS">
+      All studies that compared Pap testing (conventional methods, computer screening or rescreening, or monolayer cytology) with a concurrent reference standard (histologic examination, colposcopy, or cytology).
+     </abstracttext>
+     <abstracttext label="DATA EXTRACTION" nlmcategory="METHODS">
+      Two reviewers independently reviewed selection criteria and completed 2 x 2 tables for each study.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      94 studies of the conventional Pap test and three studies of monolayer cytology met inclusion criteria. No studies of computerized screening were included. Data were organized by cytologic and histologic thresholds used to define disease. For conventional Pap tests, estimates of sensitivity and specificity varied greatly in individual studies. Methodologic quality and frequency of histologic abnormalities also varied greatly between studies. In the 12 studies with the least biased estimates, sensitivity ranged from 30% to 87% and specificity ranged from 86% to 100%.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Insufficient high-quality data exist to estimate test operating characteristics of new cytologic methods for cervical screening. Future studies of these technologies should apply adequate reference standards. Most studies of the conventional Pap test are severely biased: The best estimates suggest that it is only moderately accurate and does not achieve concurrently high sensitivity and specificity. Cost-effectiveness models of cervical cancer screening should use more conservative estimates of Pap test sensitivity.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Duke University Medical Center and Durham Veterans Affairs Medical Center, North Carolina 27705, USA. knanda@fhi.org
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Nanda
+      </lastname>
+      <forename>
+       K
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McCrory
+      </lastname>
+      <forename>
+       D C
+      </forename>
+      <initials>
+       DC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Myers
+      </lastname>
+      <forename>
+       E R
+      </forename>
+      <initials>
+       ER
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bastian
+      </lastname>
+      <forename>
+       L A
+      </forename>
+      <initials>
+       LA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hasselblad
+      </lastname>
+      <forename>
+       V
+      </forename>
+      <initials>
+       V
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hickey
+      </lastname>
+      <forename>
+       J D
+      </forename>
+      <initials>
+       JD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Matchar
+      </lastname>
+      <forename>
+       D B
+      </forename>
+      <initials>
+       DB
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       AHRQ 290-97-0014
+      </grantid>
+      <acronym>
+       AH
+      </acronym>
+      <agency>
+       BHP HRSA HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, Non-P.H.S.
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Ann Intern Med
+    </medlineta>
+    <nlmuniqueid>
+     0372351
+    </nlmuniqueid>
+    <issnlinking>
+     0003-4819
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cervix Uteri
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      cytology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diagnosis, Computer-Assisted
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Mass Screening
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      methods
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      standards
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Uterine Cervical Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vaginal Smears
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      methods
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      standards
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    125
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2000
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      8
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10819705
+    </articleid>
+    <articleid idtype="pii">
+     200005160-00009
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,321 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15283004
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     30
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     21
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     29
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0161-8105
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       27
+      </volume>
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Jun
+       </month>
+       <day>
+        15
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Sleep
+     </title>
+     <isoabbreviation>
+      Sleep
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     A clinical decision rule to prioritize polysomnography in patients with suspected sleep apnea.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      694-9
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="STUDY OBJECTIVES" nlmcategory="OBJECTIVE">
+      To derive and validate a clinical decision rule that can help to prioritize patients who are on waiting lists for polysomnography,
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Prospective data collection on consecutive patients referred to a sleep center.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      The Newcastle Sleep Disorders Centre, University of Newcastle, NSW, Australia.
+     </abstracttext>
+     <abstracttext label="PATIENTS" nlmcategory="METHODS">
+      Consecutive adult patients who had been scheduled for initial diagnostic polysomnography.
+     </abstracttext>
+     <abstracttext label="MEASUREMENTS AND RESULTS" nlmcategory="RESULTS">
+      Eight hundred and thirty-seven patients were used for derivation of the decision rule. An apnea-hypopnoea index of at least 5 was used as the cutoff point to diagnose sleep apnea. Fifteen clinical features were included in the analyses using logistic regression to construct a model from the derivation data set. Only 5 variables--age, sex, body mass index, snoring, and stopping breathing during sleep--were significantly associated with sleep apnea. A scoring scheme based on regression coefficients was developed, and the total score was trichotomized into low-, moderate-, and high-risk groups with prevalence of sleep apnea of 8%, 51%, and 82%, respectively. Color-coded tables were developed for ease of use. The clinical decision rule was validated on a separate set of 243 patients. Receiver operating characteristic analysis confirmed that the decision rule performed well, with the area under the curve being similar for both the derivation and validation sets: 0.81 and 0.79, P =.612.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      We conclude that this decision rule was able to accurately classify the risk of sleep apnea and will be useful for prioritizing patients with suspected sleep apnea who are on waiting lists for polysomnography.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Oto-Rhino-Laryngology Head and Neck Surgery Bhumibol Adulyadej Hospital, Bangkok, Thailand. julvit@rocketmail.com
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Rodsutti
+      </lastname>
+      <forename>
+       Julvit
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hensley
+      </lastname>
+      <forename>
+       Michael
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Thakkinstian
+      </lastname>
+      <forename>
+       Ammarin
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       D'Este
+      </lastname>
+      <forename>
+       Catherine
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Attia
+      </lastname>
+      <forename>
+       John
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Sleep
+    </medlineta>
+    <nlmuniqueid>
+     7809084
+    </nlmuniqueid>
+    <issnlinking>
+     0161-8105
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Body Mass Index
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Decision Making
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Obesity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Polysomnography
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Predictive Value of Tests
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sleep Apnea Syndromes
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      31
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      22
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      31
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     15283004
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,872 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    18376000
+   </pmid>
+   <datecreated>
+    <year>
+     2008
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     03
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2008
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     10
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     11
+    </day>
+   </daterevised>
+   <article pubmodel="Print-Electronic">
+    <journal>
+     <issn issntype="Electronic">
+      1533-4406
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       358
+      </volume>
+      <issue>
+       14
+      </issue>
+      <pubdate>
+       <year>
+        2008
+       </year>
+       <month>
+        Apr
+       </month>
+       <day>
+        3
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Simvastatin with or without ezetimibe in familial hypercholesterolemia.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1431-43
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Ezetimibe, a cholesterol-absorption inhibitor, reduces levels of low-density lipoprotein (LDL) cholesterol when added to statin treatment. However, the effect of ezetimibe on the progression of atherosclerosis remains unknown.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We conducted a double-blind, randomized, 24-month trial comparing the effects of daily therapy with 80 mg of simvastatin either with placebo or with 10 mg of ezetimibe in 720 patients with familial hypercholesterolemia. Patients underwent B-mode ultrasonography to assess the intima-media thickness of the walls of the carotid and femoral arteries. The primary outcome measure was the change in the mean carotid-artery intima-media thickness, which was defined as the average of the means of the far-wall intima-media thickness of the right and left common carotid arteries, carotid bulbs, and internal carotid arteries.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The primary outcome, the mean (+/-SE) change in the carotid-artery intima-media thickness, was 0.0058+/-0.0037 mm in the simvastatin-only group and 0.0111+/-0.0038 mm in the simvastatin-plus-ezetimibe (combined-therapy) group (P=0.29). Secondary outcomes (consisting of other variables regarding the intima-media thickness of the carotid and femoral arteries) did not differ significantly between the two groups. At the end of the study, the mean (+/-SD) LDL cholesterol level was 192.7+/-60.3 mg per deciliter (4.98+/-1.56 mmol per liter) in the simvastatin group and 141.3+/-52.6 mg per deciliter (3.65+/-1.36 mmol per liter) in the combined-therapy group (a between-group difference of 16.5%, P&lt;0.01). The differences between the two groups in reductions in levels of triglycerides and C-reactive protein were 6.6% and 25.7%, respectively, with greater reductions in the combined-therapy group (P&lt;0.01 for both comparisons). Side-effect and safety profiles were similar in the two groups.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      In patients with familial hypercholesterolemia, combined therapy with ezetimibe and simvastatin did not result in a significant difference in changes in intima-media thickness, as compared with simvastatin alone, despite decreases in levels of LDL cholesterol and C-reactive protein. (ClinicalTrials.gov number, NCT00552097 [ClinicalTrials.gov].).
+     </abstracttext>
+     <copyrightinformation>
+      Copyright 2008 Massachusetts Medical Society.
+     </copyrightinformation>
+    </abstract>
+    <affiliation>
+     Department of Vascular Medicine, Academic Medical Center, Amsterdam, The Netherlands. j.j.kastelein@amc.uva.nl
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Kastelein
+      </lastname>
+      <forename>
+       John J P
+      </forename>
+      <initials>
+       JJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Akdim
+      </lastname>
+      <forename>
+       Fatima
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Stroes
+      </lastname>
+      <forename>
+       Erik S G
+      </forename>
+      <initials>
+       ES
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Zwinderman
+      </lastname>
+      <forename>
+       Aeilko H
+      </forename>
+      <initials>
+       AH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bots
+      </lastname>
+      <forename>
+       Michiel L
+      </forename>
+      <initials>
+       ML
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Stalenhoef
+      </lastname>
+      <forename>
+       Anton F H
+      </forename>
+      <initials>
+       AF
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Visseren
+      </lastname>
+      <forename>
+       Frank L J
+      </forename>
+      <initials>
+       FL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sijbrands
+      </lastname>
+      <forename>
+       Eric J G
+      </forename>
+      <initials>
+       EJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Trip
+      </lastname>
+      <forename>
+       Mieke D
+      </forename>
+      <initials>
+       MD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Stein
+      </lastname>
+      <forename>
+       Evan A
+      </forename>
+      <initials>
+       EA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gaudet
+      </lastname>
+      <forename>
+       Daniel
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Duivenvoorden
+      </lastname>
+      <forename>
+       Raphael
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Veltri
+      </lastname>
+      <forename>
+       Enrico P
+      </forename>
+      <initials>
+       EP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Marais
+      </lastname>
+      <forename>
+       A David
+      </forename>
+      <initials>
+       AD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       de Groot
+      </lastname>
+      <forename>
+       Eric
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       ENHANCE Investigators
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <databanklist completeyn="Y">
+     <databank>
+      <databankname>
+       ClinicalTrials.gov
+      </databankname>
+      <accessionnumberlist>
+       <accessionnumber>
+        NCT00552097
+       </accessionnumber>
+      </accessionnumberlist>
+     </databank>
+    </databanklist>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2008
+     </year>
+     <month>
+      03
+     </month>
+     <day>
+      30
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anticholesteremic Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Azetidines
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cholesterol, LDL
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Triglycerides
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      163222-33-1
+     </registrynumber>
+     <nameofsubstance>
+      ezetimibe
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      57-88-5
+     </registrynumber>
+     <nameofsubstance>
+      Cholesterol
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      79902-63-9
+     </registrynumber>
+     <nameofsubstance>
+      Simvastatin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2008 Apr 3;358(14):1504-7
+     </refsource>
+     <pmid version="1">
+      18376002
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2008 Apr 3;358(14):1507-8
+     </refsource>
+     <pmid version="1">
+      18376001
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2008 Jul 31;359(5):530; author reply 532
+     </refsource>
+     <pmid version="1">
+      18677796
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Kardiol Pol. 2008 May;66(5):597-8, discussion 598-9
+     </refsource>
+     <pmid version="1">
+      18630396
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2008 Jul 31;359(5):530; author reply 532-3
+     </refsource>
+     <pmid version="1">
+      18677797
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Prev Cardiol. 2008 Summer;11(3):177-8
+     </refsource>
+     <pmid version="1">
+      18607155
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2008 Jul 31;359(5):529; author reply 532
+     </refsource>
+     <pmid version="1">
+      18669434
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2008 Jul 31;359(5):529-30; author reply 532
+     </refsource>
+     <pmid version="1">
+      18677795
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Curr Cardiol Rep. 2008 Nov;10(6):479-80
+     </refsource>
+     <pmid version="1">
+      18950558
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Curr Atheroscler Rep. 2009 Jan;11(1):3-5, 8
+     </refsource>
+     <pmid version="1">
+      19097303
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Prev Cardiol. 2008 Summer;11(3):179-82
+     </refsource>
+     <pmid version="1">
+      18612263
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="ErratumIn">
+     <refsource>
+      N Engl J Med. 2008 May 1;358(18):1977
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anticholesteremic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Azetidines
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Carotid Arteries
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      ultrasonography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cholesterol
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cholesterol, LDL
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Therapy, Combination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Femoral Artery
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      ultrasonography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hyperlipoproteinemia Type II
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Simvastatin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Triglycerides
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tunica Intima
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      ultrasonography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tunica Media
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      ultrasonography
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <investigatorlist>
+    <investigator validyn="Y">
+     <lastname>
+      Perez Jimenez
+     </lastname>
+     <forename>
+      F
+     </forename>
+     <initials>
+      F
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Mata
+     </lastname>
+     <forename>
+      P
+     </forename>
+     <initials>
+      P
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Habib
+     </lastname>
+     <forename>
+      R
+     </forename>
+     <initials>
+      R
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Frohlich
+     </lastname>
+     <forename>
+      J
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Gagne
+     </lastname>
+     <forename>
+      C
+     </forename>
+     <initials>
+      C
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Ker
+     </lastname>
+     <forename>
+      I
+     </forename>
+     <initials>
+      I
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Jacovides
+     </lastname>
+     <forename>
+      A
+     </forename>
+     <initials>
+      A
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Madsen
+     </lastname>
+     <forename>
+      E
+     </forename>
+     <initials>
+      E
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Ose
+     </lastname>
+     <forename>
+      L
+     </forename>
+     <initials>
+      L
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Retterstoel
+     </lastname>
+     <forename>
+      K
+     </forename>
+     <initials>
+      K
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Eriksson
+     </lastname>
+     <forename>
+      M
+     </forename>
+     <initials>
+      M
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      de Graaf
+     </lastname>
+     <forename>
+      J
+     </forename>
+     <initials>
+      J
+     </initials>
+    </investigator>
+    <investigator validyn="Y">
+     <lastname>
+      Smit
+     </lastname>
+     <forename>
+      A J
+     </forename>
+     <initials>
+      AJ
+     </initials>
+    </investigator>
+   </investigatorlist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="aheadofprint">
+     <year>
+      2008
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      30
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2008
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2008
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      11
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2008
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     NEJMoa0800742
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJMoa0800742
+    </articleid>
+    <articleid idtype="pubmed">
+     18376000
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

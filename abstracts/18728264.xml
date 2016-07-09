@@ -1,0 +1,839 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    18728264
+   </pmid>
+   <datecreated>
+    <year>
+     2008
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     27
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2008
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     02
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1538-3598
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       300
+      </volume>
+      <issue>
+       8
+      </issue>
+      <pubdate>
+       <year>
+        2008
+       </year>
+       <month>
+        Aug
+       </month>
+       <day>
+        27
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Nut, corn, and popcorn consumption and the incidence of diverticular disease.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      907-14
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Patients with diverticular disease are frequently advised to avoid eating nuts, corn, popcorn, and seeds to reduce the risk of complications. However, there is little evidence to support this recommendation.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To determine whether nut, corn, or popcorn consumption is associated with diverticulitis and diverticular bleeding.
+     </abstracttext>
+     <abstracttext label="DESIGN AND SETTING" nlmcategory="METHODS">
+      The Health Professionals Follow-up Study is a cohort of US men followed up prospectively from 1986 to 2004 via self-administered questionnaires about medical (biennial) and dietary (every 4 years) information. Men reporting newly diagnosed diverticulosis or diverticulitis were mailed supplemental questionnaires.
+     </abstracttext>
+     <abstracttext label="PARTICIPANTS" nlmcategory="METHODS">
+      The study included 47,228 men aged 40 to 75 years who at baseline were free of diverticulosis or its complications, cancer, and inflammatory bowel disease and returned a food-frequency questionnaire.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      Incident diverticulitis and diverticular bleeding.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      During 18 years of follow-up, there were 801 incident cases of diverticulitis and 383 incident cases of diverticular bleeding. We found inverse associations between nut and popcorn consumption and the risk of diverticulitis. The multivariate hazard ratios for men with the highest intake of each food (at least twice per week) compared with men with the lowest intake (less than once per month) were 0.80 (95% confidence interval, 0.63-1.01; P for trend = .04) for nuts and 0.72 (95% confidence interval, 0.56-0.92; P for trend = .007) for popcorn. No associations were seen between corn consumption and diverticulitis or between nut, corn, or popcorn consumption and diverticular bleeding or uncomplicated diverticulosis.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      In this large, prospective study of men without known diverticular disease, nut, corn, and popcorn consumption did not increase the risk of diverticulosis or diverticular complications. The recommendation to avoid these foods to prevent diverticular complications should be reconsidered.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     University of Washington School of Medicine, Seattle, USA. lstrate@u.washington.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Strate
+      </lastname>
+      <forename>
+       Lisa L
+      </forename>
+      <initials>
+       LL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Liu
+      </lastname>
+      <forename>
+       Yan L
+      </forename>
+      <initials>
+       YL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Syngal
+      </lastname>
+      <forename>
+       Sapna
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Aldoori
+      </lastname>
+      <forename>
+       Walid H
+      </forename>
+      <initials>
+       WH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Giovannucci
+      </lastname>
+      <forename>
+       Edward L
+      </forename>
+      <initials>
+       EL
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       K08 HS14062
+      </grantid>
+      <acronym>
+       HS
+      </acronym>
+      <agency>
+       AHRQ HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       K24 CA113433
+      </grantid>
+      <acronym>
+       CA
+      </acronym>
+      <agency>
+       NCI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       K24 CA113433-03
+      </grantid>
+      <acronym>
+       CA
+      </acronym>
+      <agency>
+       NCI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       K24 CA113433-04
+      </grantid>
+      <acronym>
+       CA
+      </acronym>
+      <agency>
+       NCI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       P01 CA055075
+      </grantid>
+      <acronym>
+       CA
+      </acronym>
+      <agency>
+       NCI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       P01 CA055075-070002
+      </grantid>
+      <acronym>
+       CA
+      </acronym>
+      <agency>
+       NCI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       R01 HL035464
+      </grantid>
+      <acronym>
+       HL
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, N.I.H., Extramural
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Postgrad Med J. 2002 Nov;78(925):654-8
+     </refsource>
+     <pmid version="1">
+      12496319
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Gastroenterology. 2003 Feb;124(2):288-92
+     </refsource>
+     <pmid version="1">
+      12557133
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Intern Med. 2002 Jun 24;162(12):1382-7
+     </refsource>
+     <pmid version="1">
+      12076237
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Gastroenterology. 2002 May;122(5):1500-11
+     </refsource>
+     <pmid version="1">
+      11984534
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int J Colorectal Dis. 2001 Sep;16(5):271-5
+     </refsource>
+     <pmid version="1">
+      11686522
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Curr Atheroscler Rep. 1999 Nov;1(3):204-9
+     </refsource>
+     <pmid version="1">
+      11122711
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Gastroenterol. 1999 Nov;94(11):3110-21
+     </refsource>
+     <pmid version="1">
+      10566700
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Nutr Cancer. 1999;34(2):173-84
+     </refsource>
+     <pmid version="1">
+      10578485
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 2002 Nov 27;288(20):2554-60
+     </refsource>
+     <pmid version="1">
+      12444862
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Fam Med. 1998 May-Jun;7(3):255-60
+     </refsource>
+     <pmid version="1">
+      9596460
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Nutr. 1998 Apr;128(4):714-9
+     </refsource>
+     <pmid version="1">
+      9521633
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Gut. 1995 Feb;36(2):276-82
+     </refsource>
+     <pmid version="1">
+      7883230
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Surg. 1994 Nov;220(5):653-6
+     </refsource>
+     <pmid version="1">
+      7979613
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Clin Nutr. 1994 Nov;60(5):757-64
+     </refsource>
+     <pmid version="1">
+      7942584
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Epidemiol. 1992 May 15;135(10):1114-26; discussion 1127-36
+     </refsource>
+     <pmid version="1">
+      1632423
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Cancer. 1989 Aug 1;64(3):598-604
+     </refsource>
+     <pmid version="1">
+      2743254
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1980 Feb 7;302(6):324-31
+     </refsource>
+     <pmid version="1">
+      6985709
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      AJR Am J Roentgenol. 1976 Dec;127(6):901-8
+     </refsource>
+     <pmid version="1">
+      1087123
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Proc R Soc Med. 1968 Sep;61(9):932-4
+     </refsource>
+     <pmid version="1">
+      5679019
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Gut. 1969 May;10(5):344-51
+     </refsource>
+     <pmid version="1">
+      5771666
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Gastroenterology. 1976 Oct;71(4):577-83
+     </refsource>
+     <pmid version="1">
+      1085269
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Surg Gynecol Obstet. 1968 Sep;127(3):481-91
+     </refsource>
+     <pmid version="1">
+      5663815
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Cancer Epidemiol Biomarkers Prev. 2004 Oct;13(10):1595-603
+     </refsource>
+     <pmid version="1">
+      15466975
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Gastroenterol. 2004 May-Jun;38(5 Suppl 1):S2-7
+     </refsource>
+     <pmid version="1">
+      15115921
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Dis Colon Rectum. 2004 Mar;47(3):371-8; discussion 378-9
+     </refsource>
+     <pmid version="1">
+      14991500
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Gut. 2003 Dec;52(12):1734-7
+     </refsource>
+     <pmid version="1">
+      14633952
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 2007 Nov 15;357(20):2057-66
+     </refsource>
+     <pmid version="1">
+      18003962
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Cancer. 2007 Feb 12;96(3):510-3
+     </refsource>
+     <pmid version="1">
+      17285123
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Gastroenterol. 2006 Sep;101(9):2128-38
+     </refsource>
+     <pmid version="1">
+      16848807
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Aliment Pharmacol Ther. 2006 Sep 1;24(5):751-67
+     </refsource>
+     <pmid version="1">
+      16918879
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Gastroenterol. 2006 Aug;40 Suppl 3:S112-6
+     </refsource>
+     <pmid version="1">
+      16885692
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Gastroenterol. 2006 Aug;40 Suppl 3:S108-11
+     </refsource>
+     <pmid version="1">
+      16885691
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Colorectal Dis. 2006 Jan;8(1):37-40
+     </refsource>
+     <pmid version="1">
+      16519636
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Epidemiol. 2006 Feb 1;163(3):222-31
+     </refsource>
+     <pmid version="1">
+      16357111
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Epidemiol. 2006 Feb 1;163(3):232-5
+     </refsource>
+     <pmid version="1">
+      16319289
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Radiology. 1965 Apr;84:599-609
+     </refsource>
+     <pmid version="1">
+      14272097
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Proc R Soc Med. 1963 Sep;56:798-800
+     </refsource>
+     <pmid version="1">
+      14080071
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Epidemiol. 2004 Nov 15;160(10):961-8
+     </refsource>
+     <pmid version="1">
+      15522852
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Dig Dis. 1958 May;3(5):343-50
+     </refsource>
+     <pmid version="1">
+      13520671
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Surg. 1953 Sep;138(3):332-43
+     </refsource>
+     <pmid version="1">
+      13080959
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Clin Nutr. 1999 Sep;70(3 Suppl):500S-503S
+     </refsource>
+     <pmid version="1">
+      10479222
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Dis Colon Rectum. 1999 Apr;42(4):470-5; discussion 475-6
+     </refsource>
+     <pmid version="1">
+      10215046
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1998 Nov 14;317(7169):1341-5
+     </refsource>
+     <pmid version="1">
+      9812929
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Natl Cancer Inst. 1998 Nov 4;90(21):1637-47
+     </refsource>
+     <pmid version="1">
+      9811313
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Surg. 2003 Oct;90(10):1267-72
+     </refsource>
+     <pmid version="1">
+      14515298
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Fam Pract. 2009 Feb;58(2):82-4
+     </refsource>
+     <pmid version="1">
+      19203491
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Diet
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diverticulitis, Colonic
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Gastrointestinal Hemorrhage
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Health Surveys
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Incidence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Nuts
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Proportional Hazards Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Zea mays
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    NIHMS87332
+   </otherid>
+   <otherid source="NLM">
+    PMC2643269
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2008
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      30
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2008
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2008
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      30
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     300/8/907
+    </articleid>
+    <articleid idtype="doi">
+     10.1001/jama.300.8.907
+    </articleid>
+    <articleid idtype="pubmed">
+     18728264
+    </articleid>
+    <articleid idtype="pmc">
+     PMC2643269
+    </articleid>
+    <articleid idtype="mid">
+     NIHMS87332
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

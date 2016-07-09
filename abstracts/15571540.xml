@@ -1,0 +1,430 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15571540
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     01
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     18
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0002-8614
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       52
+      </volume>
+      <issue>
+       12
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Dec
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of the American Geriatrics Society
+     </title>
+     <isoabbreviation>
+      J Am Geriatr Soc
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Subjective memory deterioration and future dementia in people aged 65 and older.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      2045-51
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To study whether subjective memory deterioration is associated with future dementia in older people.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      A population-based prospective cohort study begun in 1994 with biennial follow-up interviews.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      Community-based members of Group Health Cooperative, a large health maintenance organization in the Seattle area.
+     </abstracttext>
+     <abstracttext label="PARTICIPANTS" nlmcategory="METHODS">
+      A sample of 1,883 subjects, dementia free, aged 65 and older, who scored 91 or higher on the 100-point Cognitive Ability Screening Instrument (CASI) at study entry.
+     </abstracttext>
+     <abstracttext label="MEASUREMENTS" nlmcategory="METHODS">
+      Subjective memory was assessed by asking whether memory had changed on 5-point Likert scales (e.g., 1=definitely improved, 3=no change, 5=definitely deteriorated) with regard to five items: remembering names, faces, friends, and appointments and judging the time. The items were summed for a possible total score ranging from 5 to 25. Subjective memory deterioration was defined as present if the total score was 20 or above. Cognitive performance was measured using the CASI. Incident dementia cases were identified using Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition criteria.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Of 1,883 subjects, 126 developed dementia during 5 years of follow-up. Subjective memory deterioration was associated with cognitive decline and incident dementia. Age modified the association between subjective memory deterioration and future dementia. For persons reporting subjective memory deterioration at the ages of 70, 75, and 80, the hazard ratios of developing dementia were 6.0 (95% confidence interval (CI)=2.1-18), 3.2 (95% CI=1.6-6.2) and 1.6 (95% CI=0.86-3.1), respectively.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Subjective memory deterioration was found to precede the development of dementia in older people with normal cognitive screening results. These findings suggest that a high level of subjective memory deterioration in persons with normal objective cognitive function may identify a subset of individuals at greater risk for developing dementia.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Medicine, University of Washington, Seattle, Washington 98195, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Wang
+      </lastname>
+      <forename>
+       Li
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       van Belle
+      </lastname>
+      <forename>
+       Gerald
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Crane
+      </lastname>
+      <forename>
+       Paul K
+      </forename>
+      <initials>
+       PK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kukull
+      </lastname>
+      <forename>
+       Walter A
+      </forename>
+      <initials>
+       WA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bowen
+      </lastname>
+      <forename>
+       James D
+      </forename>
+      <initials>
+       JD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McCormick
+      </lastname>
+      <forename>
+       Wayne C
+      </forename>
+      <initials>
+       WC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Larson
+      </lastname>
+      <forename>
+       Eric B
+      </forename>
+      <initials>
+       EB
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       K08 AG 022232-01
+      </grantid>
+      <acronym>
+       AG
+      </acronym>
+      <agency>
+       NIA NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       UO1 AG06781
+      </grantid>
+      <acronym>
+       AG
+      </acronym>
+      <agency>
+       NIA NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       UO1 AG16976
+      </grantid>
+      <acronym>
+       AG
+      </acronym>
+      <agency>
+       NIA NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     J Am Geriatr Soc
+    </medlineta>
+    <nlmuniqueid>
+     7503062
+    </nlmuniqueid>
+    <issnlinking>
+     0002-8614
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Evid Based Ment Health. 2005 May;8(2):47
+     </refsource>
+     <pmid version="1">
+      15851810
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dementia
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Incidence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Logistic Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Memory Disorders
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Neuropsychological Tests
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prognosis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Self-Assessment
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Survival Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      United States
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      2
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      2
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     JGS52568
+    </articleid>
+    <articleid idtype="doi">
+     10.1111/j.1532-5415.2004.52568.x
+    </articleid>
+    <articleid idtype="pubmed">
+     15571540
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

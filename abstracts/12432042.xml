@@ -1,0 +1,493 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12432042
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     25
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1533-4406
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       347
+      </volume>
+      <issue>
+       20
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Nov
+       </month>
+       <day>
+        14
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Comparison of C-reactive protein and low-density lipoprotein cholesterol levels in the prediction of first cardiovascular events.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1557-65
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Both C-reactive protein and low-density lipoprotein (LDL) cholesterol levels are elevated in persons at risk for cardiovascular events. However, population-based data directly comparing these two biologic markers are not available.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      C-reactive protein and LDL cholesterol were measured at base line in 27,939 apparently healthy American women, who were then followed for a mean of eight years for the occurrence of myocardial infarction, ischemic stroke, coronary revascularization, or death from cardiovascular causes. We assessed the value of these two measurements in predicting the risk of cardiovascular events in the study population.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Although C-reactive protein and LDL cholesterol were minimally correlated (r=0.08), base-line levels of each had a strong linear relation with the incidence of cardiovascular events. After adjustment for age, smoking status, the presence or absence of diabetes mellitus, categorical levels of blood pressure, and use or nonuse of hormone-replacement therapy, the relative risks of first cardiovascular events according to increasing quintiles of C-reactive protein, as compared with the women in the lowest quintile, were 1.4, 1.6, 2.0, and 2.3 (P&lt;0.001), whereas the corresponding relative risks in increasing quintiles of LDL cholesterol, as compared with the lowest, were 0.9, 1.1, 1.3, and 1.5 (P&lt;0.001). Similar effects were observed in separate analyses of each component of the composite end point and among users and nonusers of hormone-replacement therapy. Overall, 77 percent of all events occurred among women with LDL cholesterol levels below 160 mg per deciliter (4.14 mmol per liter), and 46 percent occurred among those with LDL cholesterol levels below 130 mg per deciliter (3.36 mmol per liter). By contrast, because C-reactive protein and LDL cholesterol measurements tended to identify different high-risk groups, screening for both biologic markers provided better prognostic information than screening for either alone. Independent effects were also observed for C-reactive protein in analyses adjusted for all components of the Framingham risk score.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      These data suggest that the C-reactive protein level is a stronger predictor of cardiovascular events than the LDL cholesterol level and that it adds prognostic information to that conveyed by the Framingham risk score.
+     </abstracttext>
+     <copyrightinformation>
+      Copyright 2002 Massachusetts Medical Society
+     </copyrightinformation>
+    </abstract>
+    <affiliation>
+     Center for Cardiovascular Disease Prevention and the Division of Preventive Medicine, Brigham and Women's Hospital and Harvard Medical School, Boston 02215, USA. pridker@partners.org
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Ridker
+      </lastname>
+      <forename>
+       Paul M
+      </forename>
+      <initials>
+       PM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rifai
+      </lastname>
+      <forename>
+       Nader
+      </forename>
+      <initials>
+       N
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rose
+      </lastname>
+      <forename>
+       Lynda
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Buring
+      </lastname>
+      <forename>
+       Julie E
+      </forename>
+      <initials>
+       JE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cook
+      </lastname>
+      <forename>
+       Nancy R
+      </forename>
+      <initials>
+       NR
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       HL-43851
+      </grantid>
+      <acronym>
+       HL
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       HL-58755
+      </grantid>
+      <acronym>
+       HL
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       HL-63293
+      </grantid>
+      <acronym>
+       HL
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Evaluation Studies
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Biological Markers
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cholesterol, LDL
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      9007-41-4
+     </registrynumber>
+     <nameofsubstance>
+      C-Reactive Protein
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2002 Nov 14;347(20):1615-7
+     </refsource>
+     <pmid version="1">
+      12432050
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2003 Mar 13;348(11):1059-61; author reply 1059-61
+     </refsource>
+     <pmid version="1">
+      12637619
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2003 Mar 13;348(11):1059-61; author reply 1059-61
+     </refsource>
+     <pmid version="1">
+      12638579
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Rev Cardiovasc Med. 2004 Winter;5(1):66-8
+     </refsource>
+     <pmid version="1">
+      15085794
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Curr Opin Lipidol. 2003 Jun;14(3):325-8
+     </refsource>
+     <pmid version="1">
+      12840662
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2003 Mar 13;348(11):1059-61; author reply 1059-61
+     </refsource>
+     <pmid version="1">
+      12638580
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Biological Markers
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      C-Reactive Protein
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      analysis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cardiovascular Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cholesterol, LDL
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Disease-Free Survival
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hormone Replacement Therapy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Incidence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Longitudinal Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Multivariate Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prognosis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      ROC Curve
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      15
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      15
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12432042
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJMoa021993
+    </articleid>
+    <articleid idtype="pii">
+     347/20/1557
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

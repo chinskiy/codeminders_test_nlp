@@ -1,0 +1,398 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    14682412
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     19
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     14
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0954-6111
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       97
+      </volume>
+      <issue>
+       12
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Dec
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Respiratory medicine
+     </title>
+     <isoabbreviation>
+      Respir Med
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Short- and long-term efficacy of fluticasone propionate in subjects with early signs and symptoms of chronic obstructive pulmonary disease. Results of the DIMCA study.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1303-12
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Early treatment with inhaled corticosteroids may prevent progression of irreversible obstruction in COPD, especially in patients with bronchial hyperresponsiveness. We investigated the clinical effects of early introduction of inhaled steroids in subjects showing early signs and symptoms of COPD without a prior clinical diagnosis.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Study subjects were detected in a general population screening and monitoring program. Those with a moderately accelerated annual FEV1 decline and persistent respiratory symptoms were invited to participate in a 2-year randomized controlled trial comparing fluticasone propionate DPI 250 microg b.i.d. with placebo. Pre- and post-bronchodilator (BD) FEV1, PC20 histamine, functional status (COOP/WONCA charts) and occurrence of exacerbations were periodically assessed. Subjects recorded respiratory symptoms. Post-BD FEV1 decline served as the main outcome. Multivariable repeated measurements analysis techniques were applied.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      48 subjects were randomized (24 fluticasone, 24 placebo). After 3 months, the post-BD FEV1 had increased with 125 ml (SE = 68, P = 0.075) and the pre-BD FEV1 with 174 ml (SE 90, P = 0.059) in the fluticasone relative to the placebo group. The subsequent post-BD and pre-BD FEV1 decline were not beneficially modified by fluticasone treatment. There were no statistically significant differences in respiratory symptoms, functional status, or exacerbations favoring fluticasone. Subgroup analysis indicated that the presence of bronchial hyperresponsiveness modified the initial FEV1 response on fluticasone, but not the subsequent annual FEV1 decline.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Early initiation of inhaled steroid treatment does not seem to affect the progressive deterioration of lung function or other respiratory health outcomes in subjects with early signs and symptoms of COPD. In subjects at risk for, or in an early stage of COPD, long-term inhaled steroid treatment should not be based on a single spirometric evaluation after 3 months.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of General Practice, University Medical Center Nijmegen, PO Box 9101, 6500 HB Nijmegen, The Netherlands.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       van Grunsven
+      </lastname>
+      <forename>
+       Pierre
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schermer
+      </lastname>
+      <forename>
+       Tjard
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Akkermans
+      </lastname>
+      <forename>
+       Reinier
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Albers
+      </lastname>
+      <forename>
+       Mieke
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       van den Boom
+      </lastname>
+      <forename>
+       Guido
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       van Schayck
+      </lastname>
+      <forename>
+       Onno
+      </forename>
+      <initials>
+       O
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       van Herwaarden
+      </lastname>
+      <forename>
+       Cees
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       van Weel
+      </lastname>
+      <forename>
+       Chris
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Respir Med
+    </medlineta>
+    <nlmuniqueid>
+     8908438
+    </nlmuniqueid>
+    <issnlinking>
+     0954-6111
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Androstadienes
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Bronchodilator Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      90566-53-3
+     </registrynumber>
+     <nameofsubstance>
+      fluticasone
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Administration, Inhalation
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Androstadienes
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bronchodilator Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Forced Expiratory Volume
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pulmonary Disease, Chronic Obstructive
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vital Capacity
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      15
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     14682412
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

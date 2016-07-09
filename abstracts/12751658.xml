@@ -1,0 +1,316 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12751658
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     19
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     17
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2005
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     16
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0002-838X
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       67
+      </volume>
+      <issue>
+       9
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        May
+       </month>
+       <day>
+        1
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      American family physician
+     </title>
+     <isoabbreviation>
+      Am Fam Physician
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     A practical approach to hypercalcemia.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1959-66
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Hypercalcemia is a disorder commonly encountered by primary care physicians. The diagnosis often is made incidentally in asymptomatic patients. Clinical manifestations affect the neuromuscular, gastrointestinal, renal, skeletal, and cardiovascular systems. The most common causes of hypercalcemia are primary hyperparathyroidism and malignancy. Some other important causes of hypercalcemia are medications and familial hypocalciuric hypercalcemia. An initial diagnostic work-up should include measurement of intact parathyroid hormone, and any medications that are likely to be causative should be discontinued. Parathyroid hormone is suppressed in malignancy-associated hypercalcemia and elevated in primary hyperparathyroidism. It is essential to exclude other causes before considering parathyroid surgery, and patients should be referred for parathyroidectomy only if they meet certain criteria. Many patients with primary hyperparathyroidism have a benign course and do not need surgery. Hypercalcemic crisis is a life-threatening emergency. Aggressive intravenous rehydration is the mainstay of management in severe hypercalcemia, and antiresorptive agents, such as calcitonin and bisphosphonates, frequently can alleviate the clinical manifestations of hypercalcemic disorders.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Eastern New Mexico Medical Center, Roswell, New Mexico, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Carroll
+      </lastname>
+      <forename>
+       Mary F
+      </forename>
+      <initials>
+       MF
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schade
+      </lastname>
+      <forename>
+       David S
+      </forename>
+      <initials>
+       DS
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Am Fam Physician
+    </medlineta>
+    <nlmuniqueid>
+     1272646
+    </nlmuniqueid>
+    <issnlinking>
+     0002-838X
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Diuretics
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      1406-16-2
+     </registrynumber>
+     <nameofsubstance>
+      Vitamin D
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Am Fam Physician. 2004 Jun 15;69(12):2766; author reply 2766
+     </refsource>
+     <pmid version="1">
+      15222642
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diagnosis, Differential
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diuretics
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fluid Therapy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Hypercalcemia
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hyperparathyroidism
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      surgery
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Overdose
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vitamin D
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    7
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12751658
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

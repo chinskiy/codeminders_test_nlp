@@ -1,0 +1,411 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    8487449
+   </pmid>
+   <datecreated>
+    <year>
+     1993
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     08
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1993
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     08
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     24
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       269
+      </volume>
+      <issue>
+       20
+      </issue>
+      <pubdate>
+       <year>
+        1993
+       </year>
+       <month>
+        May
+       </month>
+       <day>
+        26
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     A decision analysis of alternative treatment strategies for clinically localized prostate cancer. Prostate Patient Outcomes Research Team.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      2650-8
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To model the impact of initial therapy on outcomes for men with localized (clinical stage A or B) prostatic carcinoma.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      A decision analysis modeling three strategies: radical prostatectomy, external-beam radiation therapy, and watchful waiting, with delayed hormonal therapy if metastatic disease develops. We modeled the main benefit of treatment as a reduction in the chance of death or disutility from metastatic disease. These benefits were offset in the model by the risks of treatment-related morbidity and mortality. The model was used to analyze expected outcomes by tumor grade (well, moderately, and poorly differentiated) for men 60 to 75 years of age.
+     </abstracttext>
+     <abstracttext label="DATA" nlmcategory="METHODS">
+      Probabilities and rates for important clinical events, obtained through review of the literature for prostatic carcinoma and analysis of Medicare claims data.
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      Several patterns emerged within the range of uncertainty about the risks and benefits of treatment for prostatic carcinoma. In patients with well-differentiated tumor grades, based on clinical staging, treatment at best offers limited benefit in terms of quality-adjusted life expectancy and may result in harm to the patient. Among patients with moderately or poorly differentiated tumors, if we use the most optimistic assumptions about treatment efficacy, then patients aged 60 to 65 years would benefit from either radical prostatectomy or external-beam radiation therapy, compared with watchful waiting. However, in most other cases, treatment offers less than a 1-year improvement in quality-adjusted life expectancy or decreases the quality-adjusted life expectancy compared with watchful waiting. Invasive treatment generally appears to be harmful for patients older than 70 years.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Radical prostatectomy and radiation therapy may benefit selected groups of patients with localized prostate cancer, particularly younger patients with higher-grade tumors. However, our model shows that in most cases the potential benefits of therapy are small enough that the choice of therapy is sensitive to the patient's preferences for various outcomes and discounting. The choice of watchful waiting is a reasonable alternative to invasive treatment for many men with localized prostatic carcinoma.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Biomedical Information Communications Center, Oregon Health Sciences University, Portland.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Fleming
+      </lastname>
+      <forename>
+       C
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wasson
+      </lastname>
+      <forename>
+       J H
+      </forename>
+      <initials>
+       JH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Albertsen
+      </lastname>
+      <forename>
+       P C
+      </forename>
+      <initials>
+       PC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Barry
+      </lastname>
+      <forename>
+       M J
+      </forename>
+      <initials>
+       MJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wennberg
+      </lastname>
+      <forename>
+       J E
+      </forename>
+      <initials>
+       JE
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       H506336-03
+      </grantid>
+      <agency>
+       PHS HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Hormones
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 1993 Oct 13;270(14):1691; author reply 1693
+     </refsource>
+     <pmid version="1">
+      8411494
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 1993 Oct 13;270(14):1692-3; author reply 1693-4
+     </refsource>
+     <pmid version="1">
+      8411496
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 1993 Oct 13;270(14):1693
+     </refsource>
+     <pmid version="1">
+      8411497
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 1993 May 26;269(20):2676-7
+     </refsource>
+     <pmid version="1">
+      8117346
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 1993 Oct 13;270(14):1692; author reply 1693
+     </refsource>
+     <pmid version="1">
+      8411495
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Decision Support Techniques
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hormones
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Neoplasm Metastasis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Probability
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prostatectomy
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prostatic Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      radiotherapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      surgery
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Quality of Life
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Radiotherapy
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Survival Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1993
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      26
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1993
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1993
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     8487449
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

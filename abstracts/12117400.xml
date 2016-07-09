@@ -1,0 +1,428 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12117400
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     15
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     25
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       288
+      </volume>
+      <issue>
+       3
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Jul
+       </month>
+       <day>
+        17
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Beta-blocker therapy and symptoms of depression, fatigue, and sexual dysfunction.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      351-7
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      beta-Blocker therapy remains substantially underused in cardiac patients despite its proven mortality benefits. Reluctance to prescribe these agents may derive from concerns about their association with symptoms of depression, fatigue, and sexual dysfunction.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To determine the association of beta-blockers with depressive symptoms, fatigue, and sexual dysfunction by performing a quantitative review of randomized trials that tested beta-blockers in myocardial infarction, heart failure, and hypertension.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      Randomized trials of beta-blockers used in the treatment of myocardial infarction, heart failure, or hypertension were identified by searching the MEDLINE database for English-language articles (1966-2001). In addition, we searched the reference lists of previously published trials and reviews of beta-blockers for additional studies.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION" nlmcategory="METHODS">
+      Criteria for inclusion of trials in the review were: random allocation of study treatments, placebo control, noncrossover design, enrollment of at least 100 patients, and a minimum of 6 months of follow-up. The initial search produced 475 articles, 42 of which met these criteria. Fifteen of these trials reported on depressive symptoms, fatigue, or sexual dysfunction and were selected for inclusion.
+     </abstracttext>
+     <abstracttext label="DATA EXTRACTION" nlmcategory="METHODS">
+      For each trial, 1 author abstracted the frequency of adverse events in the beta-blocker and placebo groups and the numbers of patients randomized to the treatment groups. Two other authors verified the counts of events, and all authors adjudicated any discrepancies. Two different types of information on adverse events were abstracted: patient-reported symptoms and withdrawal of therapy due to a specified symptom. We categorized the tested beta-blockers by generation (early vs late) and lipid solubility (high vs low to moderate).
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      The 15 trials involved more than 35,000 subjects. beta-Blocker therapy was not associated with a significant absolute annual increase in risk of reported depressive symptoms (6 per 1000 patients; 95% confidence interval [CI], -7 to 19). beta-Blockers were associated with a small significant annual increase in risk of reported fatigue (18 per 1000 patients; 95% CI, 5-30), equivalent to 1 additional report of fatigue for every 57 patients treated per year with beta-blockers. beta-Blockers were also associated with a small, significant annual increase in risk of reported sexual dysfunction (5 per 1000 patients; 95% CI, 2-8), equivalent to one additional report for every 199 patients treated per year. None of the risks of adverse effects differed significantly by degree of beta-blocker lipid solubility. The risk associated with reported fatigue was significantly higher for early-generation than for late-generation beta-blockers (P =.04).
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      The conventional wisdom that beta-blocker therapy is associated with substantial risks of depressive symptoms, fatigue, and sexual dysfunction is not supported by data from clinical trials. There is no significant increased risk of depressive symptoms and only small increased risks of fatigue and sexual dysfunction. The risks of these adverse effects should be put in the context of the documented benefits of these medications.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Section of Cardiovascular Medicine, Department of Medicine, Yale University School of Medicine, New Haven, CT 06520-8025, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Ko
+      </lastname>
+      <forename>
+       Dennis T
+      </forename>
+      <initials>
+       DT
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hebert
+      </lastname>
+      <forename>
+       Patricia R
+      </forename>
+      <initials>
+       PR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Coffey
+      </lastname>
+      <forename>
+       Christopher S
+      </forename>
+      <initials>
+       CS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sedrakyan
+      </lastname>
+      <forename>
+       Artyom
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Curtis
+      </lastname>
+      <forename>
+       Jeptha P
+      </forename>
+      <initials>
+       JP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Krumholz
+      </lastname>
+      <forename>
+       Harlan M
+      </forename>
+      <initials>
+       HM
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Adrenergic beta-Antagonists
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cardiovascular Agents
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Fam Pract. 2002 Oct;51(10):814
+     </refsource>
+     <pmid version="1">
+      12401144
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2003 Jan-Feb;138(1):4
+     </refsource>
+     <pmid version="1">
+      12511116
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2002 Oct 16;288(15):1845; author reply 1846
+     </refsource>
+     <pmid version="1">
+      12377074
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2002 Oct 16;288(15):1845-6; author reply 1846
+     </refsource>
+     <pmid version="1">
+      12377075
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adrenergic beta-Antagonists
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cardiovascular Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Depression
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      chemically induced
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fatigue
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      chemically induced
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heart Failure
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertension
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Myocardial Infarction
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sexual Dysfunction, Physiological
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      chemically induced
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    46
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12117400
+    </articleid>
+    <articleid idtype="pii">
+     jrv20002
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

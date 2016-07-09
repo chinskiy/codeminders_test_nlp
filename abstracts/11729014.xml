@@ -1,0 +1,305 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11729014
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     30
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     02
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0002-953X
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       158
+      </volume>
+      <issue>
+       12
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Dec
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The American journal of psychiatry
+     </title>
+     <isoabbreviation>
+      Am J Psychiatry
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     An effect-size analysis of the relative efficacy and tolerability of serotonin selective reuptake inhibitors for panic disorder.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1989-92
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      Serotonin selective reuptake inhibitors (SSRIs) are now considered the first-line pharmacotherapy for panic disorder. The preferential use and the presumption of greater tolerability of SSRIs relative to older agents, such as tricyclic antidepressants, occurred without direct comparisons between the two classes of medication. In this study the authors used an effect-size analysis to provide an initial comparison.
+     </abstracttext>
+     <abstracttext label="METHOD" nlmcategory="METHODS">
+      The authors conducted an effect-size analysis of 12 placebo-controlled, efficacy trials of SSRIs for panic disorder and compared these results to findings obtained in a recent meta-analysis of non-SSRI treatments for panic disorder.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The mean effect size for acute treatment outcome for SSRIs relative to placebo was 0.55, not significantly different from that for antidepressants in general (0.55) and for imipramine in particular (0.48). More recent studies of SSRIs, and studies using larger samples, were associated with lower effect sizes. No significant differences were found in dropout rates between those taking SSRIs and those taking older agents during acute treatment.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      An effect-size analysis of controlled studies of treatments for panic disorder revealed no significant differences between SSRIs and older antidepressants in terms of efficacy or tolerability in short-term trials. An inverse relationship was evident between sample size and effect size for SSRIs. Early studies of small samples may have led to initial overestimations of the efficacy of SSRIs for panic disorder.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Massachusetts General Hospital, Boston, MA 02114, USA. motto@partners.org
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Otto
+      </lastname>
+      <forename>
+       M W
+      </forename>
+      <initials>
+       MW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tuby
+      </lastname>
+      <forename>
+       K S
+      </forename>
+      <initials>
+       KS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gould
+      </lastname>
+      <forename>
+       R A
+      </forename>
+      <initials>
+       RA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McLean
+      </lastname>
+      <forename>
+       R Y
+      </forename>
+      <initials>
+       RY
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pollack
+      </lastname>
+      <forename>
+       M H
+      </forename>
+      <initials>
+       MH
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Am J Psychiatry
+    </medlineta>
+    <nlmuniqueid>
+     0370512
+    </nlmuniqueid>
+    <issnlinking>
+     0002-953X
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Serotonin Uptake Inhibitors
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Panic Disorder
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      psychology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Serotonin Uptake Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11729014
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

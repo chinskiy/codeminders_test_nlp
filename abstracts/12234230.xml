@@ -1,0 +1,405 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12234230
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     17
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     26
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       288
+      </volume>
+      <issue>
+       11
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Sep
+       </month>
+       <day>
+        18
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Ultrasound-guided extracorporeal shock wave therapy for plantar fasciitis: a randomized controlled trial.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1364-72
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Extracorporeal shock wave therapy (ESWT) is increasingly used for plantar fasciitis, but limited evidence supports its use.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To determine whether ultrasound-guided ESWT reduces pain and improves function in patients with plantar fasciitis.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Double-blind, randomized, placebo-controlled trial conducted between April 1999 and June 2001.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      Participants were recruited from the community-based referring physicians (primary care physicians, rheumatologists, orthopedic surgeons, and sports physicians) of a radiology group in Melbourne, Australia.
+     </abstracttext>
+     <abstracttext label="PARTICIPANTS" nlmcategory="METHODS">
+      We screened 178 patients and enrolled 166; 160 completed the 15-week protocol. Entry criteria included age at least 18 years with plantar fasciitis, defined as heel pain maximal over the plantar aspect of the foot of at least 6 weeks' duration, and an ultrasound-confirmed lesion, defined as thickening of the origin of the plantar fascia of at least 4 mm, hypoechogenicity, and alterations in the normal fibrillary pattern.
+     </abstracttext>
+     <abstracttext label="INTERVENTIONS" nlmcategory="METHODS">
+      Patients were randomly assigned to receive either ultrasound-guided ESWT given weekly for 3 weeks to a total dose of at least 1000 mJ/mm(2) (n = 81), or identical placebo to a total dose of 6.0 mJ/mm(2) (n = 85).
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      Overall, morning, and activity pain, measured on a visual analog scale; Maryland Foot Score; walking ability; Short-Form-36 Health Survey (SF-36) score; and Problem Elicitation Technique score, measured at 6 and 12 weeks after treatment completion.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      At 6 and 12 weeks, there were significant improvements in overall pain in both the active group and placebo group (mean [SD] improvement, 18.1 [30.6] and 19.8 [33.7] at 6 weeks [P =.74 for between-group difference], and 26.3 [34.8] and 25.7 [34.9] at 12 weeks [P =.99], respectively). Similar improvements in both groups were also observed for morning and activity pain, walking ability, Maryland Foot Score, Problem Elicitation Technique, and SF-36. There were no statistically significant differences in the degree of improvement between treatment groups for any measured outcomes.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      We found no evidence to support a beneficial effect on pain, function, and quality of life of ultrasound-guided ESWT over placebo in patients with ultrasound-proven plantar fasciitis 6 and 12 weeks following treatment.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Clinical Epidemiology, Cabrini Hospital and Cabrini Medical Centre, Malvern, Victoria, Australia 3144. rachelle.buchbinder@med.monash.edu.au
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Buchbinder
+      </lastname>
+      <forename>
+       Rachelle
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ptasznik
+      </lastname>
+      <forename>
+       Ronnie
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gordon
+      </lastname>
+      <forename>
+       Jeanine
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Buchanan
+      </lastname>
+      <forename>
+       Joylene
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Prabaharan
+      </lastname>
+      <forename>
+       Vasuki
+      </forename>
+      <initials>
+       V
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Forbes
+      </lastname>
+      <forename>
+       Andrew
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Fam Pract. 2002 Dec;51(12):1017
+     </refsource>
+     <pmid version="1">
+      12540323
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2003 Jan 8;289(2):172; author reply 172-3
+     </refsource>
+     <pmid version="1">
+      12517216
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Aust J Physiother. 2003;49(1):69
+     </refsource>
+     <pmid version="1">
+      12793440
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2003 Jan 8;289(2):172; author reply 172-3
+     </refsource>
+     <pmid version="1">
+      12517215
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2003 Jan 8;289(2):172; author reply 172-3
+     </refsource>
+     <pmid version="1">
+      12517214
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fasciitis
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      ultrasonography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Foot Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      ultrasonography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heel
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      High-Energy Shock Waves
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Lithotripsy
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pain Measurement
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      27
+     </day>
+     <hour>
+      6
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12234230
+    </articleid>
+    <articleid idtype="pii">
+     joc20248
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

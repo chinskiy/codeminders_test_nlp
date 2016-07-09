@@ -1,0 +1,491 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12560416
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     31
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     31
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      1079-5006
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       58
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Jan
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The journals of gerontology. Series A, Biological sciences and medical sciences
+     </title>
+     <isoabbreviation>
+      J. Gerontol. A Biol. Sci. Med. Sci.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Relationship between pain and opioid analgesics on the development of delirium following hip fracture.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      76-81
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Delirium and pain are common following hip fracture. Untreated pain has been shown to increase the risk of delirium in older adults undergoing elective surgery. This study was performed to examine the relationship among pain, analgesics, and other factors on delirium in hip fracture patients.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We conducted a prospective cohort study at four New York hospitals that enrolled 541 patients with hip fracture and without delirium. Delirium was identified prospectively by patient interview supplemented by medical record review. Multiple logistic regression was used to identify risk factors.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Eighty-seven of 541 patients (16%) became delirious. Among all subjects, risk factors for delirium were cognitive impairment (relative risk, or RR, 3.6; 95% confidence interval, or CI, 1.8-7.2), abnormal blood pressure (RR 2.3, 95% CI 1.2-4.7), and heart failure (RR 2.9, 95% CI 1.6-5.3). Patients who received less than 10 mg of parenteral morphine sulfate equivalents per day were more likely to develop delirium than patients who received more analgesia (RR 5.4, 95% CI 2.4-12.3). Patients who received meperidine were at increased risk of developing delirium as compared with patients who received other opioid analgesics (RR 2.4, 95% CI 1.3-4.5). In cognitively intact patients, severe pain significantly increased the risk of delirium (RR 9.0, 95% CI 1.8-45.2).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Using admission data, clinicians can identify patients at high risk for delirium following hip fracture. Avoiding opioids or using very low doses of opioids increased the risk of delirium. Cognitively intact patients with undertreated pain were nine times more likely to develop delirium than patients whose pain was adequately treated. Undertreated pain and inadequate analgesia appear to be risk factors for delirium in frail older adults.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Geriatrics and Adult Development, Mount Sinai School of Medicine, New York, New York 10029, USA. sean.morrison@mssn.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Morrison
+      </lastname>
+      <forename>
+       R Sean
+      </forename>
+      <initials>
+       RS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Magaziner
+      </lastname>
+      <forename>
+       Jay
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gilbert
+      </lastname>
+      <forename>
+       Marvin
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Koval
+      </lastname>
+      <forename>
+       Kenneth J
+      </forename>
+      <initials>
+       KJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McLaughlin
+      </lastname>
+      <forename>
+       Mary Ann
+      </forename>
+      <initials>
+       MA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Orosz
+      </lastname>
+      <forename>
+       Gretchen
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Strauss
+      </lastname>
+      <forename>
+       Elton
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Siu
+      </lastname>
+      <forename>
+       Albert L
+      </forename>
+      <initials>
+       AL
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       K08AG00833-01
+      </grantid>
+      <acronym>
+       AG
+      </acronym>
+      <agency>
+       NIA NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       U18HS09459-0
+      </grantid>
+      <acronym>
+       HS
+      </acronym>
+      <agency>
+       AHRQ HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     J Gerontol A Biol Sci Med Sci
+    </medlineta>
+    <nlmuniqueid>
+     9502837
+    </nlmuniqueid>
+    <issnlinking>
+     1079-5006
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Analgesics, Opioid
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Analgesics, Opioid
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cohort Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Confidence Intervals
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Delirium
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dose-Response Relationship, Drug
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Follow-Up Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hip Fractures
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      psychology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      surgery
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Incidence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Logistic Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Multicenter Studies as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Multivariate Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      New York City
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pain
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pain Measurement
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Postoperative Period
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Preoperative Care
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Probability
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Assessment
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Severity of Illness Index
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12560416
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

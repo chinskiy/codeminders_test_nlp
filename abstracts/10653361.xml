@@ -1,0 +1,332 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10653361
+   </pmid>
+   <datecreated>
+    <year>
+     2000
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     10
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2000
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     10
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0364-2348
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       28
+      </volume>
+      <issue>
+       12
+      </issue>
+      <pubdate>
+       <year>
+        1999
+       </year>
+       <month>
+        Dec
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Skeletal radiology
+     </title>
+     <isoabbreviation>
+      Skeletal Radiol.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Internal derangements of the shoulder: decision tree and cost-effectiveness analysis of conventional arthrography, conventional MRI, and MR arthrography.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      670-8
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="PURPOSE" nlmcategory="OBJECTIVE">
+      In a patient with internal derangement of the shoulder, the diagnostic method of choice is controversial. Conventional arthrography can diagnose most rotator cuff tears accurately; however, in many institutions MR arthrography is usually necessary to diagnose labral tears. We utilized decision tree methodology to compare the cost-effectiveness of conventional arthrography and conventional MRI with a hypothetical algorithm in which a patient underwent arthrography, performed with admixed gadolinium, which if negative, was followed by MRI.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      The use of double-contrast arthrography alone, conventional MRI alone, and gadolinium-enhanced MRI used as an adjunct to conventional arthrography were modeled for the diagnosis of full-thickness rotator cuff tears (RCT), partial RCTs, labral tears, and the absence of cuff/labral tears using decision analysis methodology. English language medical publications were searched to determine the base probabilities for the accuracy of the diagnostic tests. The outcome utilities ranged from -1 to +1 to reflect the value of correct diagnostic evaluation. Charges for diagnostic tests and appropriate surgical treatments were based on 1997 Medicare reimbursement rates for professional fees and hospital charges in an outpatient setting. Sensitivity analyses were performed to evaluate the effects of uncertainty regarding the prevalence of each disease state and the accuracy of several diagnostic tests.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      In the base-case analysis, the average effectiveness of double-contrast arthrography alone, MRI alone and arthrography selectively followed by MRI were 0.6610, 0.6715, and 0.7204, respectively. The average costs for each of these strategies were $1090, $2033, and $2339, respectively.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Arthrography performed with admixed diluted gadolinium, which if negative is immediately followed by MRI, was somewhat more expensive than conventional MRI. However, because of much greater effectiveness, cost-effectiveness was significantly higher for our proposed algorithm. Conventional arthrography without gadolinium, although less expensive, had severely limited effectiveness.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Radiology, Thomas Jefferson University Hospital, Philadelphia, PA 19107, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Oh
+      </lastname>
+      <forename>
+       C H
+      </forename>
+      <initials>
+       CH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schweitzer
+      </lastname>
+      <forename>
+       M E
+      </forename>
+      <initials>
+       ME
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Spettell
+      </lastname>
+      <forename>
+       C M
+      </forename>
+      <initials>
+       CM
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     GERMANY
+    </country>
+    <medlineta>
+     Skeletal Radiol
+    </medlineta>
+    <nlmuniqueid>
+     7701953
+    </nlmuniqueid>
+    <issnlinking>
+     0364-2348
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Contrast Media
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      7440-54-2
+     </registrynumber>
+     <nameofsubstance>
+      Gadolinium
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Algorithms
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Arthrography
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      economics
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Contrast Media
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cost-Benefit Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Decision Support Techniques
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Gadolinium
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnostic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Magnetic Resonance Imaging
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Rotator Cuff
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      injuries
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Shoulder Joint
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      pathology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      radiography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Wounds and Injuries
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      radiography
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2000
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10653361
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

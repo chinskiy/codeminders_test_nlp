@@ -1,0 +1,480 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10678340
+   </pmid>
+   <datecreated>
+    <year>
+     2000
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     24
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2000
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     24
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0094-3509
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       49
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+       <month>
+        Jan
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The Journal of family practice
+     </title>
+     <isoabbreviation>
+      J Fam Pract
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     The evidence regarding the drugs used for ventricular rate control.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      47-59
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      Our goal was to determine what drugs are most efficacious for controlling the ventricular rate in patients with atrial fibrillation.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      We conducted a systematic review of the literature published before May 1998, beginning with searches of The Cochrane Collaboration's CENTRAL database and MEDLINE.
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      We included English-language articles describing randomized controlled trials of drugs used for heart rate control in adults with atrial fibrillation. DATA COLLECTION/ANALYSIS: Abstracts of trials were reviewed independently by 2 members of the study team. We reviewed English-language abstracts of non-English-language publications to assess qualitative consistency with our results.
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      Forty-five articles evaluating 17 drugs met our criteria for review. In the 5 trials of verapamil and 5 of diltiazem, heart rate was reduced significantly (P &lt;.05), both at rest and with exercise, compared with placebo, with equivalent or improved exercise tolerance in 6 of 7 comparisons. In 7 of 12 comparisons of a beta-blocker with placebo, the beta-blocker was efficacious for control of resting heart rate, with evidence that the effect is drug specific, as nadolol and atenolol proved to be most efficacious. All 9 comparisons demonstrated good heart rate control with beta-blockers during exercise, although exercise tolerance was compromised in 3 of 9 comparisons. In 7 of 8 trials, digoxin administered alone slowed the resting heart rate more than placebo, but it did not significantly slow the rate during exercise in 4 studies. The trials evaluating other drugs yielded insufficient evidence to support their use, but those drugs may yet be promising.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The calcium-channel blockers verapamil or diltiazem, or select beta-blockers are efficacious for heart rate control at rest and during exercise for patients with atrial fibrillation without a clinically important decrease in exercise tolerance. Digoxin is useful when rate control during exercise is less a concern.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     The Johns Hopkins School of Medicine, Baltimore, Maryland, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Segal
+      </lastname>
+      <forename>
+       J B
+      </forename>
+      <initials>
+       JB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McNamara
+      </lastname>
+      <forename>
+       R L
+      </forename>
+      <initials>
+       RL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Miller
+      </lastname>
+      <forename>
+       M R
+      </forename>
+      <initials>
+       MR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kim
+      </lastname>
+      <forename>
+       N
+      </forename>
+      <initials>
+       N
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Goodman
+      </lastname>
+      <forename>
+       S N
+      </forename>
+      <initials>
+       SN
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Powe
+      </lastname>
+      <forename>
+       N R
+      </forename>
+      <initials>
+       NR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Robinson
+      </lastname>
+      <forename>
+       K
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Yu
+      </lastname>
+      <forename>
+       D
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bass
+      </lastname>
+      <forename>
+       E B
+      </forename>
+      <initials>
+       EB
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       290-97-006
+      </grantid>
+      <agency>
+       PHS HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     J Fam Pract
+    </medlineta>
+    <nlmuniqueid>
+     7502590
+    </nlmuniqueid>
+    <issnlinking>
+     0094-3509
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Adrenergic beta-Antagonists
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Arrhythmia Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Calcium Channel Blockers
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      20830-75-5
+     </registrynumber>
+     <nameofsubstance>
+      Digoxin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      42399-41-7
+     </registrynumber>
+     <nameofsubstance>
+      Diltiazem
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      52-53-9
+     </registrynumber>
+     <nameofsubstance>
+      Verapamil
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adrenergic beta-Antagonists
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Arrhythmia Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Atrial Fibrillation
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bias (Epidemiology)
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Calcium Channel Blockers
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Digoxin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diltiazem
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Evidence-Based Medicine
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Exercise
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heart Rate
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Research Design
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      standards
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Rest
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ventricular Function
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Verapamil
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    67
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      26
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2000
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10678340
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

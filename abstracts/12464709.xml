@@ -1,0 +1,282 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12464709
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     04
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     16
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      1094-6950
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       5 Suppl
+      </volume>
+      <pubdate>
+       <year>
+        2002
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of clinical densitometry : the official journal of the International Society for Clinical Densitometry
+     </title>
+     <isoabbreviation>
+      J Clin Densitom
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     What is the role of serial bone mineral density measurements in patient management?
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      S29-38
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      The ability of dual X-ray absorptiometry (DXA) to monitor bone mineral density (BMD) has been well documented in epidemiologic and pharmaceutical trials. However, its application to monitoring of patients in clinical practice has been subject to recent controversies. Despite these controversies, most clinical centers rely on DXA for monitoring of patients, and therefore guidance is needed. In this article, we report the positions developed by an expert panel of the International Society for Clinical Densitometry on the use of densitometry for the serial measurement of bone mass for monitoring change in BMD. The panel found DXA to be a precise method of measuring change in BMD if used with an appropriate level of least significant change (LSC), at anatomic sites with good precision and response to therapy, and at 1- to 2-yr time intervals. Monitoring is acceptable for determining when therapy is indicated, and if an agent is not therapeutically effective (i.e., when bone loss occurs despite treatment). Each densitometry center should perform an in vivo precision study on individuals similar to the patient population at the center and determine LSC at a 95% confidence level. If such a precision study cannot be performed, benchmark precision might be used, although there was no agreement on what values should be used. The PA spine is the preferred anatomic site for monitoring. The total hip can be used when the spine study is technically invalid. We conclude with recommendations for further research.
+     </abstracttext>
+    </abstract>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Lenchik
+      </lastname>
+      <forename>
+       Leon
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kiebzak
+      </lastname>
+      <forename>
+       Gary M
+      </forename>
+      <initials>
+       GM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Blunt
+      </lastname>
+      <forename>
+       Barbara A
+      </forename>
+      <initials>
+       BA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       International Society for Clinical Densitometry Position Development Panel and Scientific Advisory Committee
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Consensus Development Conference
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     J Clin Densitom
+    </medlineta>
+    <nlmuniqueid>
+     9808212
+    </nlmuniqueid>
+    <issnlinking>
+     1094-6950
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Absorptiometry, Photon
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Bone Density
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Confidence Intervals
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Continuity of Patient Care
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hip
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      physiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Monitoring, Physiologic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Osteoporosis
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Spine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      physiology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    62
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      17
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12464709
+    </articleid>
+    <articleid idtype="pii">
+     JCD0503s29
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

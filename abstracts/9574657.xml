@@ -1,0 +1,313 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    9574657
+   </pmid>
+   <datecreated>
+    <year>
+     1998
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     01
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1998
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     01
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0148-396X
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       42
+      </volume>
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <year>
+        1998
+       </year>
+       <month>
+        Apr
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Neurosurgery
+     </title>
+     <isoabbreviation>
+      Neurosurgery
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Giant pituitary prolactinoma with falsely low serum prolactin: the pitfall of the "high-dose hook effect": case report.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      913-5; discussion 915-6
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE AND IMPORTANCE" nlmcategory="OBJECTIVE">
+      We present a case of a giant prolactinoma with a falsely low serum prolactin concentration determined by a two-site chemiluminometric assay. Awareness of the possibility of the "high-dose hook effect" in such cases will prevent preoperative misdiagnosis.
+     </abstracttext>
+     <abstracttext label="CLINICAL PRESENTATION" nlmcategory="METHODS">
+      A patient with a giant invasive pituitary tumor was found preoperatively to have serum prolactin of 31 ng/ml. Pathological examination of the excised tissue, however, demonstrated strong staining for prolactin.
+     </abstracttext>
+     <abstracttext label="INTERVENTION" nlmcategory="METHODS">
+      Serial dilutions of the serum disclosed hyperprolactinemia of 280,000 ng/ml, establishing the presence of the "high-dose hook effect." Treatment with pergolide (Permax; Athena Neurosciences, S. San Francisco, CA) decreased tumor size and lowered serum prolactin by more than 99%.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      A "high-dose hook effect" needs to be suspected in every patient with a giant pituitary adenoma (&gt;3 cm) and normal serum prolactin. Subsequently assaying the diluted serum will reliably disclose this phenomenon and allow correct diagnosis and therapy.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Pituitary and Neuroendocrine Center, Department of Internal Medicine, University of Michigan Medical Center, Ann Arbor 48109-0354, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Barkan
+      </lastname>
+      <forename>
+       A L
+      </forename>
+      <initials>
+       AL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Chandler
+      </lastname>
+      <forename>
+       W F
+      </forename>
+      <initials>
+       WF
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Case Reports
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Neurosurgery
+    </medlineta>
+    <nlmuniqueid>
+     7802914
+    </nlmuniqueid>
+    <issnlinking>
+     0148-396X
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Dopamine Agonists
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      66104-22-1
+     </registrynumber>
+     <nameofsubstance>
+      Pergolide
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      9002-62-4
+     </registrynumber>
+     <nameofsubstance>
+      Prolactin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Chemiluminescent Measurements
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dopamine Agonists
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Magnetic Resonance Imaging
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pergolide
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pituitary Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      surgery
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prolactin
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prolactinoma
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      surgery
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1998
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      9
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1998
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1998
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     9574657
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

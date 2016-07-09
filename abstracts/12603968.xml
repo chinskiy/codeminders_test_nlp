@@ -1,0 +1,317 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12603968
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     26
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     20
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2005
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     13
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      1462-3846
+     </issn>
+     <journalissue citedmedium="Print">
+      <issue>
+       8
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Dec
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Clinical evidence
+     </title>
+     <isoabbreviation>
+      Clin Evid
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Scabies.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1745-52
+     </medlinepgn>
+    </pagination>
+    <affiliation>
+     UNFPA Country Technical Services Team for Eastern Europe and Central Asia, Bratislava, Slovak Republic.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Walker
+      </lastname>
+      <forename>
+       Godfrey
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Johnstone
+      </lastname>
+      <forename>
+       Paul
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Clin Evid
+    </medlineta>
+    <nlmuniqueid>
+     100883600
+    </nlmuniqueid>
+    <issnlinking>
+     1462-3846
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Toluidines
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      52645-53-1
+     </registrynumber>
+     <nameofsubstance>
+      Permethrin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      58-89-9
+     </registrynumber>
+     <nameofsubstance>
+      Lindane
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      70288-86-7
+     </registrynumber>
+     <nameofsubstance>
+      Ivermectin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="UpdateIn">
+     <refsource>
+      Clin Evid. 2003 Dec;(10):1910-8
+     </refsource>
+     <pmid version="1">
+      15555185
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="UpdateOf">
+     <refsource>
+      Clin Evid. 2002 Jun;(7):1543-8
+     </refsource>
+     <pmid version="1">
+      12230770
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ivermectin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lindane
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Permethrin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Scabies
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Toluidines
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    31
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      27
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      27
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12603968
+    </articleid>
+    <articleid idtype="pii">
+     1707
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

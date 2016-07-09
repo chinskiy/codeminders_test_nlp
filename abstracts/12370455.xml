@@ -1,0 +1,482 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12370455
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     08
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     28
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0028-3878
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       59
+      </volume>
+      <issue>
+       7
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Oct
+       </month>
+       <day>
+        8
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Neurology
+     </title>
+     <isoabbreviation>
+      Neurology
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Opioids versus antidepressants in postherpetic neuralgia: a randomized, placebo-controlled trial.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1015-21
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Tricyclic antidepressants (TCA) provide less than satisfactory pain relief for postherpetic neuralgia (PHN), and the role of opioids is controversial.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To compare the analgesic and cognitive effects of opioids with those of TCA and placebo in the treatment of PHN.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Seventy-six patients with PHN were randomized in a double-blind, placebo-controlled, crossover trial. Each subject was scheduled to undergo three treatment periods (opioid, TCA, and placebo), approximately 8 weeks' duration each. Doses were titrated to maximal relief or intolerable side effects. The primary outcome measures were pain intensity (0 to 10 scale), pain relief (0 to 100%), and cognitive function. Analyses included patients who provided any pain ratings after having received at least a single dose of a study medication.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Fifty patients completed two periods, and 44 patients completed all three. Mean daily maintenance doses were morphine 91 mg or methadone 15 mg and nortriptyline 89 mg or desipramine 63 mg. Opioids and TCA reduced pain (1.9 and 1.4) more than placebo (0.2; p &lt; 0.001), with no appreciable effect on any cognitive measure. The trend favoring opioids over TCA fell short of significance (p = 0.06), and reduction in pain with opioids did not correlate with that following TCA. Treatment with opioids and TCA resulted in greater pain relief (38 and 32%) compared with placebo (11%; p &lt; 0.001). More patients completing all three treatments preferred opioids (54%) than TCA (30%; p = 0.02).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Opioids effectively treat PHN without impairing cognition. Opioids and TCA act via independent mechanisms and with varied individual effect.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Anesthesiology and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, MD, USA. sraja@jhmi.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Raja
+      </lastname>
+      <forename>
+       S N
+      </forename>
+      <initials>
+       SN
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Haythornthwaite
+      </lastname>
+      <forename>
+       J A
+      </forename>
+      <initials>
+       JA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pappagallo
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Clark
+      </lastname>
+      <forename>
+       M R
+      </forename>
+      <initials>
+       MR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Travison
+      </lastname>
+      <forename>
+       T G
+      </forename>
+      <initials>
+       TG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sabeen
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Royall
+      </lastname>
+      <forename>
+       R M
+      </forename>
+      <initials>
+       RM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Max
+      </lastname>
+      <forename>
+       M B
+      </forename>
+      <initials>
+       MB
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       NS 32386
+      </grantid>
+      <acronym>
+       NS
+      </acronym>
+      <agency>
+       NINDS NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       RR0052
+      </grantid>
+      <acronym>
+       RR
+      </acronym>
+      <agency>
+       NCRR NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Neurology
+    </medlineta>
+    <nlmuniqueid>
+     0401060
+    </nlmuniqueid>
+    <issnlinking>
+     0028-3878
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Analgesics, Opioid
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antidepressive Agents
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Fam Pract. 2003 Jul;52(7):517-8
+     </refsource>
+     <pmid version="1">
+      12841962
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Neurology. 2003 Mar 25;60(6):1052-3; author reply 1052-3
+     </refsource>
+     <pmid version="1">
+      12654988
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Analgesics, Opioid
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pharmacology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antidepressive Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pharmacology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Confidence Intervals
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cross-Over Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Herpes Zoster
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Neuralgia
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pain Measurement
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Regression Analysis
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      29
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12370455
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

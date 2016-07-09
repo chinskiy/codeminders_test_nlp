@@ -1,0 +1,334 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11144703
+   </pmid>
+   <datecreated>
+    <year>
+     2000
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     28
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     08
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      1060-0280
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       34
+      </volume>
+      <issue>
+       12
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+       <month>
+        Dec
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The Annals of pharmacotherapy
+     </title>
+     <isoabbreviation>
+      Ann Pharmacother
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Influence of beta-blockers on mortality in chronic heart failure.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1440-51
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To briefly discuss the pathophysiology of heart failure and the rationale for the use of beta-blockers in the treatment of chronic heart failure. Key morbidity reduction trials are briefly mentioned, and recent mortality reduction trials are reviewed. General recommendations regarding the use of beta-blockers in heart failure are also included to guide clinical practice.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION/DATA EXTRACTION" nlmcategory="METHODS">
+      Randomized, placebo-controlled clinical trials and meta-analyses evaluating mortality reduction with beta-blockers in the treatment of heart failure were identified using a MEDLINE search from January 1993 to March 2000. Abstracts and presented results from recent scientific meetings were also considered.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      Beta-blockers have been shown to decrease hospitalization for worsening heart failure, decrease the need for heart transplant, improve New York Heart Association (NYHA) functional class, and increase left-ventricular ejection fraction. A mortality benefit has recently been demonstrated for patients with chronic heart failure. Carvedilol, bisoprolol, and controlled-release/extended-release metoprolol decreased the risk of dying by 65%, 34%, and 34%, respectively, in patients with primarily NYHA functional class II or III and systolic dysfunction. The benefit of these agents in patients with class IV heart failure or determining whether one agent has an advantage over another is being investigated in ongoing clinical trials.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Several beta-blockers have demonstrated mortality reduction in the treatment of patients with NYHA functional class II or III heart failure and systolic dysfunction. Beta-blockers should be considered in these patients when they are clinically stable and taking the current standard therapy of a diuretic plus an angiotensin-converting enzyme inhibitor or other vasodilator agent.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Anticoagulation Clinic, Henry Ford Health System, Henry Ford Medical Center-Sterling Heights, MI 48310-5316, USA. shart3@hfhs.org
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Hart
+      </lastname>
+      <forename>
+       S M
+      </forename>
+      <initials>
+       SM
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Ann Pharmacother
+    </medlineta>
+    <nlmuniqueid>
+     9203131
+    </nlmuniqueid>
+    <issnlinking>
+     1060-0280
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Adrenergic beta-Antagonists
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Carbazoles
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Propanolamines
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      37350-58-6
+     </registrynumber>
+     <nameofsubstance>
+      Metoprolol
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      66722-44-9
+     </registrynumber>
+     <nameofsubstance>
+      Bisoprolol
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      72956-09-3
+     </registrynumber>
+     <nameofsubstance>
+      carvedilol
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adrenergic beta-Antagonists
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bisoprolol
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Carbazoles
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Chronic Disease
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heart Failure
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Metoprolol
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Morbidity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Propanolamines
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      6
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      6
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11144703
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,300 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10909069
+   </pmid>
+   <datecreated>
+    <year>
+     2000
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     16
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2000
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     02
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0076-6879
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       321
+      </volume>
+      <pubdate>
+       <year>
+        2000
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Methods in enzymology
+     </title>
+     <isoabbreviation>
+      Meth. Enzymol.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Association of self-monitoring blood glucose profiles with glycosylated hemoglobin in patients with insulin-dependent diabetes.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      410-7
+     </medlinepgn>
+    </pagination>
+    <affiliation>
+     Center for Behavioral Medicine Research, University of Virginia Health System, Charlottesville 22908, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Kovatchev
+      </lastname>
+      <forename>
+       B P
+      </forename>
+      <initials>
+       BP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cox
+      </lastname>
+      <forename>
+       D J
+      </forename>
+      <initials>
+       DJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Straume
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Farhy
+      </lastname>
+      <forename>
+       L S
+      </forename>
+      <initials>
+       LS
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       R01 DK51562
+      </grantid>
+      <acronym>
+       DK
+      </acronym>
+      <agency>
+       NIDDK NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Methods Enzymol
+    </medlineta>
+    <nlmuniqueid>
+     0212271
+    </nlmuniqueid>
+    <issnlinking>
+     0076-6879
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Blood Glucose
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Hemoglobin A, Glycosylated
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Glucose
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      metabolism
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Glucose Self-Monitoring
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetes Mellitus, Type 1
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hemoglobin A, Glycosylated
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      metabolism
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Reproducibility of Results
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10909069
+    </articleid>
+    <articleid idtype="pii">
+     S0076-6879(00)21205-6
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

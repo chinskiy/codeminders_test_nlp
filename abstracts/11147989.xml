@@ -1,0 +1,342 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11147989
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     05
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     18
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       284
+      </volume>
+      <issue>
+       22
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+       <month>
+        Dec
+       </month>
+       <day>
+        13
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     The rational clinical examination. Does this patient have strep throat?
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      2912-8
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Sore throat is a common complaint, and identifying patients with group A beta-hemolytic streptococcal pharyngitis (strep throat) is an important task for clinicians. Previous reviews have not systematically reviewed and synthesized the evidence.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To review the precision and accuracy of the clinical examination in diagnosing strep throat.
+     </abstracttext>
+     <abstracttext label="DATA SOURCE" nlmcategory="METHODS">
+      MEDLINE search for articles about diagnosis of strep throat using history-taking and physical examination.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION" nlmcategory="METHODS">
+      Large blinded, prospective studies (having &gt; or =300 patients with sore throat) reporting history and physical examination data and using throat culture as the reference standard were included. Of 917 articles identified by the search, 9 met all inclusion criteria.
+     </abstracttext>
+     <abstracttext label="DATA EXTRACTION" nlmcategory="METHODS">
+      Pairs of authors independently reviewed each article and used consensus to resolve discrepancies.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      The most useful findings for evaluating the likelihood of strep throat are presence of tonsillar exudate, pharyngeal exudate, or exposure to strep throat infection in the previous 2 weeks (positive likelihood ratios, 3.4, 2.1, and 1.9, respectively) and the absence of tender anterior cervical nodes, tonsillar enlargement, or exudate (negative likelihood ratios, 0.60, 0.63, and 0.74, respectively). No individual element of history-taking or physical examination is accurate enough by itself to rule in or rule out strep throat. Three validated clinical prediction rules are described for adult and pediatric populations.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      While no single element of history-taking or physical examination is sufficiently accurate to exclude or diagnose strep throat, a well-validated clinical prediction rule can be useful and can help physicians make more informed use of rapid antigen tests and throat cultures.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Family Practice, Michigan State University, East Lansing 48824-1315, USA. mark.ebell@ht.msu.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Ebell
+      </lastname>
+      <forename>
+       M H
+      </forename>
+      <initials>
+       MH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Smith
+      </lastname>
+      <forename>
+       M A
+      </forename>
+      <initials>
+       MA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Barry
+      </lastname>
+      <forename>
+       H C
+      </forename>
+      <initials>
+       HC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ives
+      </lastname>
+      <forename>
+       K
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Carey
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Algorithms
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Decision Making
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diagnosis, Differential
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Medical History Taking
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pharyngitis
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      microbiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Physical Examination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Probability
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Streptococcal Infections
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Streptococcus pyogenes
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      isolation &amp; purification
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11147989
+    </articleid>
+    <articleid idtype="pii">
+     jrc90002
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

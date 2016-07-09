@@ -1,0 +1,374 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10732937
+   </pmid>
+   <datecreated>
+    <year>
+     2000
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     30
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2000
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     30
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       283
+      </volume>
+      <issue>
+       11
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+       <month>
+        Mar
+       </month>
+       <day>
+        15
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Glucosamine and chondroitin for treatment of osteoarthritis: a systematic quality assessment and meta-analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1469-75
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Glucosamine and chondroitin preparations are widely touted in the lay press as remedies for osteoarthritis (OA), but uncertainty about their efficacy exists among the medical community.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To evaluate benefit of glucosamine and chondroitin preparations for OA symptoms using meta-analysis combined with systematic quality assessment of clinical trials of these preparations in knee and/or hip OA.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      We searched for human clinical trials in MEDLINE (1966 to June 1999) and the Cochrane Controlled Trials Register using the terms osteoarthritis, osteoarthrosis, degenerative arthritis, glucosamine, chondroitin, and glycosaminoglycans. We also manually searched review articles, manuscripts, and supplements from rheumatology and OA journals and sought unpublished data by contacting content experts, study authors, and manufacturers of glucosamine or chondroitin.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION" nlmcategory="METHODS">
+      Studies were included if they were published or unpublished double-blind, randomized, placebo-controlled trials of 4 or more weeks' duration that tested glucosamine or chondroitin for knee or hip OA and reported extractable data on the effect of treatment on symptoms. Fifteen of 37 studies were included in the analysis.
+     </abstracttext>
+     <abstracttext label="DATA EXTRACTION" nlmcategory="METHODS">
+      Reviewers performed data extraction and scored each trial using a quality assessment instrument. We computed an effect size from the intergroup difference in mean outcome values at trial end, divided by the SD of the outcome value in the placebo group (0.2, small effect; 0.5, moderate; 0.8, large), and applied a correction factor to reduce bias. We tested for trial heterogeneity and publication bias and stratified for trial quality and size. We pooled effect sizes using a random effects model.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      Quality scores ranged from 12.3% to 55.4% of the maximum, with a mean (SD) of 35.5% (12%). Only 1 study described adequate allocation concealment and 2 reported an intent-to-treat analysis. Most were supported or performed by a manufacturer. Funnel plots showed significant asymmetry (P&lt; or =.01) compatible with publication bias. Tests for heterogeneity were nonsignificant after removing 1 outlier trial. The aggregated effect sizes were 0.44 (95% confidence interval [CI], 0.24-0.64) for glucosamine and 0.78 (95% CI, 0.60-0.95) for chondroitin, but they were diminished when only high-quality or large trials were considered. The effect sizes were relatively consistent for pain and functional outcomes.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Trials of glucosamine and chondroitin preparations for OA symptoms demonstrate moderate to large effects, but quality issues and likely publication bias suggest that these effects are exaggerated. Nevertheless, some degree of efficacy appears probable for these preparations.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     The Arthritis Center, Boston University School of Medicine, Mass 02118, USA. tmcalind@bu.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       McAlindon
+      </lastname>
+      <forename>
+       T E
+      </forename>
+      <initials>
+       TE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       LaValley
+      </lastname>
+      <forename>
+       M P
+      </forename>
+      <initials>
+       MP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gulin
+      </lastname>
+      <forename>
+       J P
+      </forename>
+      <initials>
+       JP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Felson
+      </lastname>
+      <forename>
+       D T
+      </forename>
+      <initials>
+       DT
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       AR20613
+      </grantid>
+      <acronym>
+       AR
+      </acronym>
+      <agency>
+       NIAMS NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      3416-24-8
+     </registrynumber>
+     <nameofsubstance>
+      Glucosamine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      9007-27-6
+     </registrynumber>
+     <nameofsubstance>
+      Chondroitin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2000 Sep 13;284(10):1241; author reply 1242
+     </refsource>
+     <pmid version="1">
+      10979099
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2000 Mar 15;283(11):1483-4
+     </refsource>
+     <pmid version="1">
+      10732941
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2000 Sep 13;284(10):1241; author reply 1242
+     </refsource>
+     <pmid version="1">
+      10979100
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2000 Sep-Oct;133(2):58
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Chondroitin
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Clinical Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Data Interpretation, Statistical
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Dietary Supplements
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Glucosamine
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Osteoarthritis
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    54
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2000
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10732937
+    </articleid>
+    <articleid idtype="pii">
+     jma90011
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

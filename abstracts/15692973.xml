@@ -1,0 +1,396 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15692973
+   </pmid>
+   <datecreated>
+    <year>
+     2005
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     09
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     14
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0004-3591
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       52
+      </volume>
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2005
+       </year>
+       <month>
+        Feb
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Arthritis and rheumatism
+     </title>
+     <isoabbreviation>
+      Arthritis Rheum.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Efficacy and safety of infliximab in patients with ankylosing spondylitis: results of a randomized, placebo-controlled trial (ASSERT).
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      582-91
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      The signs and symptoms of ankylosing spondylitis (AS) respond inadequately to nonsteroidal antiinflammatory drugs, corticosteroids, and disease-modifying antirheumatic drugs in quite a number of patients. Tumor necrosis factor inhibitors have demonstrated success in reducing AS disease activity in a limited number of clinical trials. The objective of this multicenter, randomized, placebo-controlled study was to evaluate the efficacy and safety of infliximab in patients with AS.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Patients were randomly assigned to receive infusions of placebo or 5 mg/kg infliximab at weeks 0, 2, 6, 12, and 18. Efficacy was assessed using the ASsessment in Ankylosing Spondylitis (ASAS) International Working Group criteria, the Bath Ankylosing Spondylitis Disease Activity Index (BASDAI), night pain, patient's global assessment, the Bath Ankylosing Spondylitis Functional Index (BASFI), the Bath Ankylosing Spondylitis Metrology Index (BASMI), chest expansion, the Mander enthesis index, the total swollen joint index, the C-reactive protein level, and the Short Form 36 (SF-36) health survey questionnaire. The primary end point in this study was the proportion of patients with a 20% improvement response according to the ASAS International Working Group criteria (ASAS20 responders) at week 24.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Of the 357 patients screened, 201 were assigned to receive 5 mg/kg infliximab and 78 were assigned to receive placebo. After 24 weeks, 61.2% of patients in the infliximab group were ASAS20 responders compared with 19.2% of patients in the placebo group (P &lt; 0.001). Clinical benefit was observed in patients receiving infliximab as early as week 2 and was maintained over the 24-week study period. Patients receiving infliximab also showed significant improvements in the BASDAI, BASFI, BASMI, chest expansion, and physical component summary score of the SF-36. Adverse events were reported by 82.2% of patients receiving infliximab and by 72.0% of patients receiving placebo; however, most adverse events in both treatment groups were mild or moderate in severity.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Infliximab was well tolerated and effective in a large cohort of patients with AS during a 24-week study period.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     University Hospital Maastricht, Maastricht, The Netherlands. dhe@sint.azm.nl &lt;dhe@sint.azm.nl&gt;
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       van der Heijde
+      </lastname>
+      <forename>
+       Désirée
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dijkmans
+      </lastname>
+      <forename>
+       Ben
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Geusens
+      </lastname>
+      <forename>
+       Piet
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sieper
+      </lastname>
+      <forename>
+       Joachim
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       DeWoody
+      </lastname>
+      <forename>
+       Kimberly
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Williamson
+      </lastname>
+      <forename>
+       Paul
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Braun
+      </lastname>
+      <forename>
+       Jürgen
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       Ankylosing Spondylitis Study for the Evaluation of Recombinant Infliximab Therapy Study Group
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Arthritis Rheum
+    </medlineta>
+    <nlmuniqueid>
+     0370605
+    </nlmuniqueid>
+    <issnlinking>
+     0004-3591
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antibodies, Monoclonal
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antirheumatic Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      infliximab
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      9007-41-4
+     </registrynumber>
+     <nameofsubstance>
+      C-Reactive Protein
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antibodies, Monoclonal
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antirheumatic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      C-Reactive Protein
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      analysis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Spondylitis, Ankylosing
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2005
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      15
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2005
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="doi">
+     10.1002/art.20852
+    </articleid>
+    <articleid idtype="pubmed">
+     15692973
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

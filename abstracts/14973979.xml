@@ -1,0 +1,336 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    14973979
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     19
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     29
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Screening for lung cancer.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD001991
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      While population based screening for lung cancer has not been adopted by most countries, it is not clear whether sputum examinations, chest radiography or newer methods such as computed tomography are effective in reducing mortality from lung cancer.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To determine whether screening for lung cancer using regular sputum examinations or chest radiography or CT chest reduces lung cancer mortality.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      Electronic databases (the Cochrane Central Register of Controlled Trials, MEDLINE, PREMEDLINE and EMBASE; 1966 to July 2000) ), bibliographies, hand searching of a journal and discussion with experts were used to identify published and unpublished trials.
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      Controlled trials of screening for lung cancer using sputum examinations, chest radiography or CT chest.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      Intention to screen analysis was performed. Where there was significant statistical heterogeneity relative risks were reported using the random effects model, but for other outcomes the fixed effect model was used.
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      Seven trials were included (6 randomised controlled studies and 1 non-randomised controlled trial) with a total of 245,610 subjects. There were no studies with an unscreened control group. Frequent screening with chest x-rays was associated with an 11% relative increase in mortality from lung cancer compared with less frequent screening (RR 1.11, CI: 1.00-1.23). A non statistically significant trend was observed to reduced mortality from lung cancer when screening with chest x-ray and sputum cytology was compared with chest x-ray alone (RR 0.88, CI:0.74-1.03). Several of the included studies had potential methodological weaknesses. There were no controlled studies of spiral CT.
+     </abstracttext>
+     <abstracttext label="REVIEWER'S CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The current evidence does not support screening for lung cancer with chest radiography or sputum cytology. Frequent chest x-ray screening might be harmful. Further, methodologically rigorous trials are required.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Clinical Epidemiology and Health Service Evaluation Unit, Royal Melbourne Hospital, Grattan Street, Parkville, Victoria, Australia.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Manser
+      </lastname>
+      <forename>
+       R L
+      </forename>
+      <initials>
+       RL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Irving
+      </lastname>
+      <forename>
+       L B
+      </forename>
+      <initials>
+       LB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Stone
+      </lastname>
+      <forename>
+       C
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Byrnes
+      </lastname>
+      <forename>
+       G
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Abramson
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Campbell
+      </lastname>
+      <forename>
+       D
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="UpdateOf">
+     <refsource>
+      Cochrane Database Syst Rev. 2001;(3):CD001991
+     </refsource>
+     <pmid version="1">
+      11687005
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lung Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      pathology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      radiography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Radiography, Thoracic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sputum
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      cytology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tomography, X-Ray Computed
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    64
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      30
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     14973979
+    </articleid>
+    <articleid idtype="doi">
+     10.1002/14651858.CD001991.pub2
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

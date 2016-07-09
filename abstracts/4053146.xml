@@ -1,0 +1,332 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    4053146
+   </pmid>
+   <datecreated>
+    <year>
+     1985
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     13
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1985
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     13
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0149-2918
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       7
+      </volume>
+      <issue>
+       5
+      </issue>
+      <pubdate>
+       <year>
+        1985
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Clinical therapeutics
+     </title>
+     <isoabbreviation>
+      Clin Ther
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Adverse effects of iron supplementation: a comparative trial of a wax-matrix iron preparation and conventional ferrous sulfate tablets.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      568-73
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      The acceptability of supplemental iron delivered from a wax-matrix tablet of ferrous sulfate was compared with that of a conventional ferrous sulfate tablet in a single-blind, parallel-group study. Both tablets were formulated to deliver 50 mg of elemental iron. The incidence of adverse effects was found to be significantly greater among 272 subjects taking the conventional tablets than among 271 subjects taking the wax-matrix preparation. Eighty-one percent of the subjects taking the wax-matrix preparation experienced no severe or moderate side effects as compared with only 50% of those taking the conventional tablets.
+     </abstracttext>
+    </abstract>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Brock
+      </lastname>
+      <forename>
+       C
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Curry
+      </lastname>
+      <forename>
+       H
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hanna
+      </lastname>
+      <forename>
+       C
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Knipfer
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Taylor
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Clin Ther
+    </medlineta>
+    <nlmuniqueid>
+     7706726
+    </nlmuniqueid>
+    <issnlinking>
+     0149-2918
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Delayed-Action Preparations
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Ferrous Compounds
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Tablets
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      7439-89-6
+     </registrynumber>
+     <nameofsubstance>
+      Iron
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      7720-78-7
+     </registrynumber>
+     <nameofsubstance>
+      ferrous sulfate
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Delayed-Action Preparations
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ferrous Compounds
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Gastrointestinal Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      chemically induced
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Iron
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tablets
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1985
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1985
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1985
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     4053146
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

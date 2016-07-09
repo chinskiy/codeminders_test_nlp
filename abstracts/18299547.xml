@@ -1,0 +1,636 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    18299547
+   </pmid>
+   <datecreated>
+    <year>
+     2008
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     26
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2008
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     27
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1488-2329
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       178
+      </volume>
+      <issue>
+       5
+      </issue>
+      <pubdate>
+       <year>
+        2008
+       </year>
+       <month>
+        Feb
+       </month>
+       <day>
+        26
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne
+     </title>
+     <isoabbreviation>
+      CMAJ
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     The efficacy and safety of intensive statin therapy: a meta-analysis of randomized trials.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      576-84
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Recent lipid guidelines recommend aggressive low-density lipoprotein (LDL) cholesterol lowering in patients with coronary artery disease. To clarify the evidence for this recommendation, we conducted a meta-analysis of randomized controlled trials that compared different intensities of statin therapy.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We searched electronic databases (MEDLINE, EMBASE, Cochrane Central Registery of Controlled Trials, Web of Science) for randomized controlled trials published up to July 19, 2007, that compared statin regimens of different intensities in adults with coronary artery disease and that reported cardiovascular events or mortality. Data were pooled using random-effects models to calculate odds ratios (OR).
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      A total of 7 trials (29 395 patients) were included. Compared with less intensive statin regimens, more intensive regimens further reduced LDL levels (0.72 mmol/L reduction, 95% confidence interval [CI] 0.60-0.84 mmol/L), and reduced the risk of myocardial infarction (OR 0.83, 95% CI 0.77-0.91) and stroke (OR 0.82, 95% CI 0.71-0.95). Although there was no effect on mortality among patients with chronic coronary artery disease (OR 0.96, 95% CI 0.80-1.14), all-cause mortality was reduced among patients with acute coronary syndromes treated with more intensive statin regimens (OR 0.75, 95% CI 0.61-0.93). Compared with lower intensity regimens, more intensive regimens were associated with small absolute increases in rates of drug discontinuation (2.5%), elevated levels of aminotransferases (1%) and myopathy (0.5%), and there was no difference in noncardiovascular mortality. All 7 trials reported events by randomization arm rather than by LDL level achieved. About half of the patients treated with more intensive statin therapy did not achieve an LDL level of less than 2.0 mmol/L, and none of the trials tested combination therapies.
+     </abstracttext>
+     <abstracttext label="INTERPRETATION" nlmcategory="CONCLUSIONS">
+      Our analysis supports the use of more intensive statin regimens in patients with established coronary artery disease. There is insufficient evidence to advocate treating to particular LDL targets, using combination lipid-lowering therapy to achieve these targets or for using more intensive regimens in patients without established coronary artery disease.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Division of General Internal Medicine, Department of Medicine, University of Alberta, Edmonton, Alta.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Josan
+      </lastname>
+      <forename>
+       Kiranbir
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Majumdar
+      </lastname>
+      <forename>
+       Sumit R
+      </forename>
+      <initials>
+       SR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McAlister
+      </lastname>
+      <forename>
+       Finlay A
+      </forename>
+      <initials>
+       FA
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     Canada
+    </country>
+    <medlineta>
+     CMAJ
+    </medlineta>
+    <nlmuniqueid>
+     9711805
+    </nlmuniqueid>
+    <issnlinking>
+     0820-3946
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cholesterol, LDL
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Hydroxymethylglutaryl-CoA Reductase Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      EC 2.6.1.1
+     </registrynumber>
+     <nameofsubstance>
+      Aspartate Aminotransferases
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      EC 2.6.1.2
+     </registrynumber>
+     <nameofsubstance>
+      Alanine Transaminase
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 2001 Feb 24;357(9256):577-81
+     </refsource>
+     <pmid version="1">
+      11558482
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 2001 Nov 29;345(22):1583-92
+     </refsource>
+     <pmid version="1">
+      11757504
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Circulation. 2002 Oct 15;106(16):2055-60
+     </refsource>
+     <pmid version="1">
+      12379573
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Intern Med. 2003 Jun 3;138(11):938-9
+     </refsource>
+     <pmid version="1">
+      12779305
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 2003 Sep 6;327(7414):557-60
+     </refsource>
+     <pmid version="1">
+      12958120
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Eur Heart J. 2003 Sep;24(17):1601-10
+     </refsource>
+     <pmid version="1">
+      12964575
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 2004 Mar 3;291(9):1071-80
+     </refsource>
+     <pmid version="1">
+      14996776
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 2004 Apr 8;350(15):1495-504
+     </refsource>
+     <pmid version="1">
+      15007110
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Am Coll Cardiol. 2004 Jun 2;43(11):2142-6
+     </refsource>
+     <pmid version="1">
+      15172426
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Circulation. 2004 Jul 13;110(2):227-39
+     </refsource>
+     <pmid version="1">
+      15249516
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 2004 Sep 15;292(11):1307-16
+     </refsource>
+     <pmid version="1">
+      15337732
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 2004 Sep 11-17;364(9438):937-52
+     </refsource>
+     <pmid version="1">
+      15364185
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am Heart J. 2004 Sep;148(3):447-55
+     </refsource>
+     <pmid version="1">
+      15389231
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 2004 Dec 1;292(21):2585-90
+     </refsource>
+     <pmid version="1">
+      15572716
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 2005 Apr 7;352(14):1425-35
+     </refsource>
+     <pmid version="1">
+      15755765
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Circulation. 2005 Apr 12;111(14):1747-55
+     </refsource>
+     <pmid version="1">
+      15809368
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Circulation. 2005 Jun 14;111(23):3016-9
+     </refsource>
+     <pmid version="1">
+      15911705
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 2005 Oct 8;366(9493):1267-78
+     </refsource>
+     <pmid version="1">
+      16214597
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Am Coll Cardiol. 2005 Nov 15;46(10):1855-62
+     </refsource>
+     <pmid version="1">
+      16286171
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 2005 Nov 16;294(19):2437-45
+     </refsource>
+     <pmid version="1">
+      16287954
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Am Coll Cardiol. 2006 Aug 1;48(3):438-45
+     </refsource>
+     <pmid version="1">
+      16875966
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 2006 Sep 9;368(9539):919-28
+     </refsource>
+     <pmid version="1">
+      16962881
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Can J Cardiol. 2006 Sep;22(11):913-27
+     </refsource>
+     <pmid version="1">
+      16971976
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Intern Med. 2006 Oct 3;145(7):520-30
+     </refsource>
+     <pmid version="1">
+      17015870
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Can J Cardiol. 2006 Oct;22(12):1035-44
+     </refsource>
+     <pmid version="1">
+      17036098
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Circulation. 2006 Dec 19;114(25):2788-97
+     </refsource>
+     <pmid version="1">
+      17159064
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Circulation. 2007 Feb 13;115(6):700-7
+     </refsource>
+     <pmid version="1">
+      17283260
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Circulation. 2007 May 8;115(18):2398-409
+     </refsource>
+     <pmid version="1">
+      17452609
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 2007 Nov 24;370(9601):1781-90
+     </refsource>
+     <pmid version="1">
+      17559928
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1991 Aug 3;303(6797):276-82
+     </refsource>
+     <pmid version="1">
+      1888927
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1995 Jul 12;274(2):131-6
+     </refsource>
+     <pmid version="1">
+      7596000
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1997 Jan 16;336(3):153-62
+     </refsource>
+     <pmid version="1">
+      8992351
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1998 Jan 21;279(3):222-5
+     </refsource>
+     <pmid version="1">
+      9438743
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Acute Coronary Syndrome
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Alanine Transaminase
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aspartate Aminotransferases
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cholesterol, LDL
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Coronary Artery Disease
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hydroxymethylglutaryl-CoA Reductase Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Myocardial Infarction
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Stroke
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC2244680
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2008
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      27
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2008
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2008
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      27
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     178/5/576
+    </articleid>
+    <articleid idtype="doi">
+     10.1503/cmaj.070675
+    </articleid>
+    <articleid idtype="pubmed">
+     18299547
+    </articleid>
+    <articleid idtype="pmc">
+     PMC2244680
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

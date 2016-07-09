@@ -1,0 +1,420 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    14573734
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     23
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     29
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1533-4406
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       349
+      </volume>
+      <issue>
+       17
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Oct
+       </month>
+       <day>
+        23
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Absence of cross-reactivity between sulfonamide antibiotics and sulfonamide nonantibiotics.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1628-35
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      The safety of sulfonamide nonantibiotics is unclear in patients with prior allergic reactions to sulfonamide antibiotics.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We conducted a retrospective cohort study using the General Practice Research Database in the United Kingdom, examining the risk of allergic reactions within 30 days after the receipt of a sulfonamide nonantibiotic. Patients with evidence of prior hypersensitivity after the receipt of a sulfonamide antibiotic were compared with those without such evidence. Similar analyses were also performed with the use of penicillins instead of sulfonamides, to determine whether any risk was specific to sulfonamide cross-reactivity.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Of 969 patients with an allergic reaction after a sulfonamide antibiotic, 96 (9.9 percent) had an allergic reaction after subsequently receiving a sulfonamide nonantibiotic. Of 19,257 who had no allergic reaction after a sulfonamide antibiotic, 315 (1.6 percent) had an allergic reaction after receiving a sulfonamide nonantibiotic (adjusted odds ratio, 2.8; 95 percent confidence interval, 2.1 to 3.7). However, the risk of allergic reactions was even greater after the receipt of a penicillin among patients with a prior hypersensitivity reaction to a sulfonamide antibiotic, as compared with patients with no such history (adjusted odds ratio, 3.9; 95 percent confidence interval, 3.5 to 4.3). Furthermore, among those with a prior hypersensitivity reaction after the receipt of a sulfonamide antibiotic, the risk of an allergic reaction after the subsequent receipt of a sulfonamide nonantibiotic was lower than the risk of an allergic reaction after the subsequent receipt of a penicillin (adjusted odds ratio, 0.7; 95 percent confidence interval, 0.5 to 0.9). Finally, the risk of an allergic reaction after the receipt of a sulfonamide nonantibiotic was lower among patients with a history of hypersensitivity to sulfonamide antibiotics than among patients with a history of hypersensitivity to penicillins (adjusted odds ratio, 0.6; 95 percent confidence interval, 0.5 to 0.8).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      There is an association between hypersensitivity after the receipt of sulfonamide antibiotics and a subsequent allergic reaction after the receipt of a sulfonamide nonantibiotic, but this association appears to be due to a predisposition to allergic reactions rather than to cross-reactivity with sulfonamide-based drugs.
+     </abstracttext>
+     <copyrightinformation>
+      Copyright 2003 Massachusetts Medical Society
+     </copyrightinformation>
+    </abstract>
+    <affiliation>
+     Department of Biostatistics and Epidemiology, Center for Clinical Epidemiology and Biostatistics, University of Pennsylvania School of Medicine, Philadelphia, PA 19104-6021, USA. bstrom@cceb.med.upenn.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Strom
+      </lastname>
+      <forename>
+       Brian L
+      </forename>
+      <initials>
+       BL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schinnar
+      </lastname>
+      <forename>
+       Rita
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Apter
+      </lastname>
+      <forename>
+       Andrea J
+      </forename>
+      <initials>
+       AJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Margolis
+      </lastname>
+      <forename>
+       David J
+      </forename>
+      <initials>
+       DJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lautenbach
+      </lastname>
+      <forename>
+       Ebbing
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hennessy
+      </lastname>
+      <forename>
+       Sean
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bilker
+      </lastname>
+      <forename>
+       Warren B
+      </forename>
+      <initials>
+       WB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pettitt
+      </lastname>
+      <forename>
+       Dan
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Bacterial Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Diuretics
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Sulfonamides
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2003 Oct 23;349(17):1592-4
+     </refsource>
+     <pmid version="1">
+      14573730
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2004 Jan 15;350(3):302-3; author reply 302-3
+     </refsource>
+     <pmid version="1">
+      14724311
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2004 Jan 15;350(3):302-3; author reply 302-3
+     </refsource>
+     <pmid version="1">
+      14732937
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2004 Jan 15;350(3):302-3; author reply 302-3
+     </refsource>
+     <pmid version="1">
+      14732938
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Bacterial Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      immunology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cohort Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cross Reactions
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Databases, Factual
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diuretics
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      immunology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Drug Hypersensitivity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Retrospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sulfonamides
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      immunology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      30
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     14573734
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJMoa022963
+    </articleid>
+    <articleid idtype="pii">
+     349/17/1628
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

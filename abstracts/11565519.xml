@@ -1,0 +1,524 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11565519
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     07
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     27
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0028-4793
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       345
+      </volume>
+      <issue>
+       12
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Sep
+       </month>
+       <day>
+        20
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     The effect of irbesartan on the development of diabetic nephropathy in patients with type 2 diabetes.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      870-8
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Microalbuminuria and hypertension are risk factors for diabetic nephropathy. Blockade of the renin-angiotensin system slows the progression to diabetic nephropathy in patients with type 1 diabetes, but similar data are lacking for hypertensive patients with type 2 diabetes. We evaluated the renoprotective effect of the angiotensin-II-receptor antagonist irbesartan in hypertensive patients with type 2 diabetes and microalbuminuria.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      A total of 590 hypertensive patients with type 2 diabetes and microalbuminuria were enrolled in this multinational, randomized, double-blind, placebo-controlled study of irbesartan, at a dose of either 150 mg daily or 300 mg daily, and were followed for two years. The primary outcome was the time to the onset of diabetic nephropathy, defined by persistent albuminuria in overnight specimens, with a urinary albumin excretion rate that was greater than 200 microg per minute and at least 30 percent higher than the base-line level.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The base-line characteristics in the three groups were similar. Ten of the 194 patients in the 300-mg group (5.2 percent) and 19 of the 195 patients in the 150-mg group (9.7 percent) reached the primary end point, as compared with 30 of the 201 patients in the placebo group (14.9 percent) (hazard ratios, 0.30 [95 percent confidence interval, 0.14 to 0.61; P&lt; 0.001] and 0.61 [95 percent confidence interval, 0.34 to 1.08; P=0.081 for the two irbesartan groups, respectively). The average blood pressure during the course of the study was 144/83 mm Hg in the placebo group, 143/83 mm Hg in the 150-mg group, and 141/83 mm Hg in the 300-mg group (P=0.004 for the comparison of systolic blood pressure between the placebo group and the combined irbesartan groups). Serious adverse events were less frequent among the patients treated with irbesartan (P=0.02).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Irbesartan is renoprotective independently of its blood-pressure-lowering effect in patients with type 2 diabetes and microalbuminuria.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Steno Diabetes Center, Copenhagen, Denmark.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Parving
+      </lastname>
+      <forename>
+       H H
+      </forename>
+      <initials>
+       HH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lehnert
+      </lastname>
+      <forename>
+       H
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bröchner-Mortensen
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gomis
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Andersen
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Arner
+      </lastname>
+      <forename>
+       P
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       Irbesartan in Patients with Type 2 Diabetes and Microalbuminuria Study Group
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Angiotensin Receptor Antagonists
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antihypertensive Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Biphenyl Compounds
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Tetrazoles
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      138402-11-6
+     </registrynumber>
+     <nameofsubstance>
+      irbesartan
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      60-27-5
+     </registrynumber>
+     <nameofsubstance>
+      Creatinine
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2002 Feb 28;346(9):705-7
+     </refsource>
+     <pmid version="1">
+      11873778
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2001 Sep 20;345(12):910-2
+     </refsource>
+     <pmid version="1">
+      11565525
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2002 Feb 28;346(9):705-7
+     </refsource>
+     <pmid version="1">
+      11873779
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2002 Feb 28;346(9):705-7
+     </refsource>
+     <pmid version="1">
+      11870250
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Rev Cardiovasc Med. 2003 Spring;4(2):118-21
+     </refsource>
+     <pmid version="1">
+      12776021
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2002 May-Jun;136(3):82-4
+     </refsource>
+     <pmid version="1">
+      11985423
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Albuminuria
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Angiotensin Receptor Antagonists
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antihypertensive Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Biphenyl Compounds
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Creatinine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetes Mellitus, Type 2
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      complications
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetic Nephropathies
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Disease Progression
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertension
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Proportional Hazards Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tetrazoles
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      22
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      22
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11565519
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJMoa011489
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

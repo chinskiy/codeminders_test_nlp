@@ -1,0 +1,331 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11197573
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     25
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     08
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      1060-0280
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       35
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Jan
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The Annals of pharmacotherapy
+     </title>
+     <isoabbreviation>
+      Ann Pharmacother
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Pulmonary edema associated with rosiglitazone and troglitazone.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      123-4
+     </medlinepgn>
+    </pagination>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Thomas
+      </lastname>
+      <forename>
+       M L
+      </forename>
+      <initials>
+       ML
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lloyd
+      </lastname>
+      <forename>
+       S J
+      </forename>
+      <initials>
+       SJ
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Case Reports
+     </publicationtype>
+     <publicationtype>
+      Comment
+     </publicationtype>
+     <publicationtype>
+      Letter
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Ann Pharmacother
+    </medlineta>
+    <nlmuniqueid>
+     9203131
+    </nlmuniqueid>
+    <issnlinking>
+     1060-0280
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Chromans
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Thiazoles
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Thiazolidinediones
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Vasodilator Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      122320-73-4
+     </registrynumber>
+     <nameofsubstance>
+      rosiglitazone
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      97322-87-7
+     </registrynumber>
+     <nameofsubstance>
+      troglitazone
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentOn">
+     <refsource>
+      Ann Pharmacother. 1999 Feb;33(2):229-32
+     </refsource>
+     <pmid version="1">
+      10084419
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Chromans
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetes Mellitus, Type 2
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pulmonary Edema
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      chemically induced
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Thiazoles
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Thiazolidinediones
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vasodilator Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      12
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      12
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11197573
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

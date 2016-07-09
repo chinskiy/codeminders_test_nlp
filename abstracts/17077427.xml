@@ -1,0 +1,321 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    17077427
+   </pmid>
+   <datecreated>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     01
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2007
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     19
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0007-1250
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       189
+      </volume>
+      <pubdate>
+       <year>
+        2006
+       </year>
+       <month>
+        Nov
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The British journal of psychiatry : the journal of mental science
+     </title>
+     <isoabbreviation>
+      Br J Psychiatry
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Suicidal behaviour in youths with depression treated with new-generation antidepressants: meta-analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      393-8
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Concern exists that antidepressants can cause suicidality in youths with depression.
+     </abstracttext>
+     <abstracttext label="AIMS" nlmcategory="OBJECTIVE">
+      To determine the pooled risk of self-harm and suicidal behaviour from randomised trials of newer antidepressants.
+     </abstracttext>
+     <abstracttext label="METHOD" nlmcategory="METHODS">
+      A meta-analysis was carried out to calculate odds ratios for the combined data.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Self-harm or suicide-related events occurred in 71 of 1487 (4.8%) of depressed youths treated with antidepressants v. 38 of 1254 (3.0%) of those given placebo (fixed effects odds ratio 1.70, 95% CI 1.13-2.54, P=0.01). There was a trend for individual suicidal thoughts, attempts and self-harm to occur more often in youths taking antidepressants than in those given placebo, but none of these differences was statistically significant.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Antidepressants may cause a small short-term risk of self-harm or suicidal events in children and adolescents with major depressive disorder.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     University Department of Child and Adolescent Psychiatry, Royal Manchester Children's Hospital, Pendlebury, Manchester M27 4HA, UK. Bernadka.Dubicka@manchester.ac.uk
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Dubicka
+      </lastname>
+      <forename>
+       Bernadka
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hadley
+      </lastname>
+      <forename>
+       Sarah
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Roberts
+      </lastname>
+      <forename>
+       Christopher
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Br J Psychiatry
+    </medlineta>
+    <nlmuniqueid>
+     0342367
+    </nlmuniqueid>
+    <issnlinking>
+     0007-1250
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antidepressive Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Serotonin Uptake Inhibitors
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Evid Based Ment Health. 2007 Aug;10(3):89
+     </refsource>
+     <pmid version="1">
+      17652571
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antidepressive Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Depressive Disorder
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Self-Injurious Behavior
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      chemically induced
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Serotonin Uptake Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Suicide, Attempted
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2006
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      2
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2007
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2006
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      2
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     189/5/393
+    </articleid>
+    <articleid idtype="doi">
+     10.1192/bjp.bp.105.011833
+    </articleid>
+    <articleid idtype="pubmed">
+     17077427
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

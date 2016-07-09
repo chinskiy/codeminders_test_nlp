@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15495054
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     20
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     23
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Electronic">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Insulin monotherapy versus combinations of insulin with oral hypoglycaemic agents in patients with type 2 diabetes mellitus.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD003418
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      It is unclear whether patients with type 2 diabetes who have poor glycaemic control despite maximal oral hypoglycaemic agents (OHAs) should be commenced on insulin as monotherapy, or insulin combined with oral hypoglycaemic agents (insulin-OHA combination therapy).
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To assess the effects of insulin monotherapy versus insulin-OHA combinations therapy.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      Eligible studies were identified by searching MEDLINE, EMBASE, and The Cochrane Library. Date of last search: May 2004.
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      Randomised controlled trials (RCTs) with 2 months minimum follow-up duration comparing insulin monotherapy (all schemes) with insulin-OHA combination therapy.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      Data extraction and assessment of study quality were undertaken by three reviewers in pairs.
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      Twenty RCTs (mean trial duration 10 months) including 1,811 participants, with mean age 59.8 years and mean known duration of diabetes 9.6 years. Overall, study methodological quality was low. Twenty-eight comparisons in 20 RCTs were ordered according to clinical considerations. No studies assessed diabetes-related morbidity, mortality or total mortality. From 13 studies (21 comparisons), sufficient data were extracted to calculate pooled effects on glycaemic control. Insulin-OHA combination therapy had statistically significant benefits on glycaemic control over insulin monotherapy only when the latter was applied as a once-daily injection of NPH insulin. Conversely, twice-daily insulin monotherapy (NPH or mixed insulin) provided superior glycaemic control to insulin-OHA combination therapy regimens where insulin was administered as a single morning injection. In more conventional comparisons, regimens utilising OHAs with bedtime NPH insulin provided comparable glycaemic control to insulin monotherapy (administered as twice daily, or multiple daily injections). Overall, insulin-OHA combination therapy was associated with a 43% relative reduction in total daily insulin requirement compared to insulin monotherapy. Of the 14 studies (22 comparisons) reporting hypoglycaemia, 13 demonstrated no significant difference in the frequency of symptomatic or biochemical hypoglycaemia between insulin and combination therapy regimens. No significant differences in quality of life related issues were detected. Combination therapy with bedtime NPH insulin resulted in statistically significantly less weight gain compared to insulin monotherapy, provided metformin was used +/-sulphonylurea. In all other comparisons no significant differences with respect to weight gain were detected.
+     </abstracttext>
+     <abstracttext label="REVIEWERS' CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Bedtime NPH insulin combined with oral hypoglycaemic agents provides comparable glycaemic control to insulin monotherapy and is associated with less weight gain if metformin is used.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Julius Center for General Practice and Patient Oriented Research, University Medical Center Utrecht, Koperslagersgilde 5, Houten, Netherlands, 3994 CH. lex@goudswaard.cx
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Goudswaard
+      </lastname>
+      <forename>
+       A N
+      </forename>
+      <initials>
+       AN
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Furlong
+      </lastname>
+      <forename>
+       N J
+      </forename>
+      <initials>
+       NJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rutten
+      </lastname>
+      <forename>
+       G E H M
+      </forename>
+      <initials>
+       GE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Stolk
+      </lastname>
+      <forename>
+       R P
+      </forename>
+      <initials>
+       RP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Valk
+      </lastname>
+      <forename>
+       G D
+      </forename>
+      <initials>
+       GD
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2004
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      18
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Hypoglycemic Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      11061-68-0
+     </registrynumber>
+     <nameofsubstance>
+      Insulin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2005 May-Jun;142(3):62-3
+     </refsource>
+     <pmid version="1">
+      15862061
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetes Mellitus, Type 2
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Therapy, Combination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypoglycemic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Insulin
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    169
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    epublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="doi">
+     10.1002/14651858.CD003418.pub2
+    </articleid>
+    <articleid idtype="pubmed">
+     15495054
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    5682248
+   </pmid>
+   <datecreated>
+    <year>
+     1968
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     02
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1968
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     02
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0003-4819
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       69
+      </volume>
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <year>
+        1968
+       </year>
+       <month>
+        Oct
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Annals of internal medicine
+     </title>
+     <isoabbreviation>
+      Ann. Intern. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Routine serum magnesium analysis. Correlation with clinical state in 5,100 patients.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      743-8
+     </medlinepgn>
+    </pagination>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Jackson
+      </lastname>
+      <forename>
+       C E
+      </forename>
+      <initials>
+       CE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Meier
+      </lastname>
+      <forename>
+       D W
+      </forename>
+      <initials>
+       DW
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Ann Intern Med
+    </medlineta>
+    <nlmuniqueid>
+     0372351
+    </nlmuniqueid>
+    <issnlinking>
+     0003-4819
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Diuretics
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      7439-95-4
+     </registrynumber>
+     <nameofsubstance>
+      Magnesium
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Deficiency Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetes Complications
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diuretics
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Magnesium
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Metabolic Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Spectrophotometry
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Uremia
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1968
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1968
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1968
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     5682248
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,352 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    3520319
+   </pmid>
+   <datecreated>
+    <year>
+     1986
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     14
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1986
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     14
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0028-4793
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       314
+      </volume>
+      <issue>
+       26
+      </issue>
+      <pubdate>
+       <year>
+        1986
+       </year>
+       <month>
+        Jun
+       </month>
+       <day>
+        26
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Prevention of early-onset neonatal group B streptococcal disease with selective intrapartum chemoprophylaxis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1665-9
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Most cases of neonatal group B streptococcal disease with early onset have an intrapartum pathogenesis. Attack rates are increased substantially in infants born to mothers with prenatal group B streptococcal colonization and various perinatal risk factors (premature labor, prolonged membrane rupture, or intrapartum fever). In a randomized controlled trial, we studied the effect of selective intrapartum prophylaxis with ampicillin in 160 such high-risk women. In infants born to mothers who received intravenous ampicillin during labor, as compared with controls who received no treatment, neonatal colonization with group B streptococci was present in 8 of 85 (9 percent) versus 40 of 79 (51 percent; P less than 0.001), colonization at multiple (greater than or equal to 3) sites was observed in 3 of 85 (4 percent) versus 24 of 79 (30 percent; P less than 0.001), and bacteremia occurred in none of 85 versus 5 of 79 (6 percent; P = 0.024). The side effects of ampicillin were limited to a single episode of urticaria in a mother who had no history of penicillin allergy. We conclude that intrapartum ampicillin prophylaxis in women with positive prenatal cultures for group B streptococci who have certain perinatal risk factors can prevent early-onset neonatal group B streptococcal disease.
+     </abstracttext>
+    </abstract>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Boyer
+      </lastname>
+      <forename>
+       K M
+      </forename>
+      <initials>
+       KM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gotoff
+      </lastname>
+      <forename>
+       S P
+      </forename>
+      <initials>
+       SP
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       AI 17941
+      </grantid>
+      <acronym>
+       AI
+      </acronym>
+      <agency>
+       NIAID NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       HD 09700
+      </grantid>
+      <acronym>
+       HD
+      </acronym>
+      <agency>
+       NICHD NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      69-53-4
+     </registrynumber>
+     <nameofsubstance>
+      Ampicillin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ampicillin
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Clinical Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Genital Diseases, Female
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      microbiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant, Newborn
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Labor, Obstetric
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pregnancy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pregnancy Complications, Infectious
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      microbiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Random Allocation
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Rectum
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      microbiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Streptococcal Infections
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      transmission
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Streptococcus agalactiae
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      isolation &amp; purification
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vagina
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      microbiology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1986
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      26
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1986
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1986
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     3520319
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJM198606263142603
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

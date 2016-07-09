@@ -1,0 +1,421 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10807325
+   </pmid>
+   <datecreated>
+    <year>
+     2000
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     18
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2000
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     18
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0886-4470
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       126
+      </volume>
+      <issue>
+       5
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+       <month>
+        May
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Archives of otolaryngology--head &amp; neck surgery
+     </title>
+     <isoabbreviation>
+      Arch. Otolaryngol. Head Neck Surg.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Impact of tympanostomy tubes on child quality of life.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      585-92
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      The objective benefits of tympanostomy tubes for otitis media are well established, but the subjective impact of surgery on child quality of life (QOL) has not been systematically studied.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To determine the subjective impact of tympanostomy tubes on child QOL, and to compare the variability in QOL before surgery with that observed after surgery.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Prospective, observational, before-and-after trial.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      Fourteen referral-based pediatric otolaryngology practices in the United States.
+     </abstracttext>
+     <abstracttext label="PATIENTS" nlmcategory="METHODS">
+      Consecutive (64%) and convenience (36%) sample of 248 children (median age, 1.4 years) with otitis media scheduled for bilateral tympanostomy tube placement as an isolated surgical procedure.
+     </abstracttext>
+     <abstracttext label="INTERVENTION" nlmcategory="METHODS">
+      Tympanostomy tubes were inserted as part of routine clinical care. Validated measures of QOL (OM-6 survey), satisfaction with health care decision (Satisfaction With Decision Scale), and satisfaction with office visit; surveys were completed at baseline (visit 1), at surgery (visit 2), and after surgery (visit 3).
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      Short-term changes in QOL before surgery (visit 1 to visit 2) and after surgery (visit 2 to visit 3).
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Changes in QOL before surgery were mostly trivial, and were smaller than changes observed after surgery (P&lt;.001). Large, moderate, and small improvements in QOL occurred after surgery in 56%, 15%, and 8% of children, respectively. Physical symptoms, caregiver concerns, emotional distress, and hearing loss were most improved, but significant changes were also seen for activity limitations and speech impairment. Trivial changes occurred in 17% of children, and 4% had poorer QOL. Predictors of poorer QOL were otorrhea 3 or more days (10% of variance) and decreased satisfaction with surgical decision (3% of variance). Hearing status, child age, type of otitis media (recurrent vs chronic), and office visit satisfaction were unrelated to outcome.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Tympanostomy tubes produce large short-term improvements in QOL for most children. The best outcomes occur when postoperative otorrhea is absent or minimal, and when parents are satisfied with their initial decision to have surgery. Further research is needed to document the long-term impact of tubes on child QOL.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Otolaryngology, SUNY Health Science Center at Brooklyn, NY, USA. richrosenfeld@msn.com
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Rosenfeld
+      </lastname>
+      <forename>
+       R M
+      </forename>
+      <initials>
+       RM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bhaya
+      </lastname>
+      <forename>
+       M H
+      </forename>
+      <initials>
+       MH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bower
+      </lastname>
+      <forename>
+       C M
+      </forename>
+      <initials>
+       CM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Brookhouser
+      </lastname>
+      <forename>
+       P E
+      </forename>
+      <initials>
+       PE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Casselbrant
+      </lastname>
+      <forename>
+       M L
+      </forename>
+      <initials>
+       ML
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Chan
+      </lastname>
+      <forename>
+       K H
+      </forename>
+      <initials>
+       KH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cunningham
+      </lastname>
+      <forename>
+       M J
+      </forename>
+      <initials>
+       MJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Derkay
+      </lastname>
+      <forename>
+       C S
+      </forename>
+      <initials>
+       CS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gray
+      </lastname>
+      <forename>
+       S D
+      </forename>
+      <initials>
+       SD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Manning
+      </lastname>
+      <forename>
+       S C
+      </forename>
+      <initials>
+       SC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Messner
+      </lastname>
+      <forename>
+       A H
+      </forename>
+      <initials>
+       AH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Smith
+      </lastname>
+      <forename>
+       R J
+      </forename>
+      <initials>
+       RJ
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Arch Otolaryngol Head Neck Surg
+    </medlineta>
+    <nlmuniqueid>
+     8603209
+    </nlmuniqueid>
+    <issnlinking>
+     0886-4470
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Follow-Up Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Ear Ventilation
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      psychology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Otitis Media
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      psychology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      surgery
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Postoperative Complications
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      psychology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Quality of Life
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sickness Impact Profile
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      12
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2000
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      12
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10807325
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

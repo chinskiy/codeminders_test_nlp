@@ -1,0 +1,617 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15908441
+   </pmid>
+   <datecreated>
+    <year>
+     2005
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     10
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     27
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print-Electronic">
+    <journal>
+     <issn issntype="Electronic">
+      1468-5833
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       330
+      </volume>
+      <issue>
+       7504
+      </issue>
+      <pubdate>
+       <year>
+        2005
+       </year>
+       <month>
+        Jun
+       </month>
+       <day>
+        11
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      BMJ (Clinical research ed.)
+     </title>
+     <isoabbreviation>
+      BMJ
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Early life risk factors for obesity in childhood: cohort study.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1357
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To identify risk factors in early life (up to 3 years of age) for obesity in children in the United Kingdom.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Prospective cohort study.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      Avon longitudinal study of parents and children, United Kingdom.
+     </abstracttext>
+     <abstracttext label="PARTICIPANTS" nlmcategory="METHODS">
+      8234 children in cohort aged 7 years and a subsample of 909 children (children in focus) with data on additional early growth related risk factors for obesity.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      Obesity at age 7 years, defined as a body mass index (3) 95th centile relative to reference data for the UK population in 1990.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Eight of 25 putative risk factors were associated with a risk of obesity in the final models: parental obesity (both parents: adjusted odds ratio, 10.44, 95% confidence interval 5.11 to 21.32), very early (by 43 months) body mass index or adiposity rebound (15.00, 5.32 to 42.30), more than eight hours spent watching television per week at age 3 years (1.55, 1.13 to 2.12), catch-up growth (2.60, 1.09 to 6.16), standard deviation score for weight at age 8 months (3.13, 1.43 to 6.85) and 18 months (2.65, 1.25 to 5.59); weight gain in first year (1.06, 1.02 to 1.10 per 100 g increase); birth weight, per 100 g (1.05, 1.03 to 1.07); and short (&lt; 10.5 hours) sleep duration at age 3 years (1.45, 1.10 to 1.89).
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Eight factors in early life are associated with an increased risk of obesity in childhood.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     University of Glasgow Division of Developmental Medicine, Yorkhill Hospitals, Glasgow G3 8SJ. jjr2y@clinmed.gla.ac.uk
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Reilly
+      </lastname>
+      <forename>
+       John J
+      </forename>
+      <initials>
+       JJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Armstrong
+      </lastname>
+      <forename>
+       Julie
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dorosty
+      </lastname>
+      <forename>
+       Ahmad R
+      </forename>
+      <initials>
+       AR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Emmett
+      </lastname>
+      <forename>
+       Pauline M
+      </forename>
+      <initials>
+       PM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ness
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rogers
+      </lastname>
+      <forename>
+       I
+      </forename>
+      <initials>
+       I
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Steer
+      </lastname>
+      <forename>
+       Colin
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sherriff
+      </lastname>
+      <forename>
+       Andrea
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       Avon Longitudinal Study of Parents and Children Study Team
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <agency>
+       Wellcome Trust
+      </agency>
+      <country>
+       United Kingdom
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, N.I.H., Extramural
+     </publicationtype>
+     <publicationtype>
+      Research Support, N.I.H., Intramural
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2005
+     </year>
+     <month>
+      05
+     </month>
+     <day>
+      20
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     BMJ
+    </medlineta>
+    <nlmuniqueid>
+     8900488
+    </nlmuniqueid>
+    <issnlinking>
+     0959-535X
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Epidemiol. 2002 Nov 15;156(10):954-61
+     </refsource>
+     <pmid version="1">
+      12419768
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 2000 May;105(5):1115-8
+     </refsource>
+     <pmid version="1">
+      10790472
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 2000 Apr 8;320(7240):967-71
+     </refsource>
+     <pmid version="1">
+      10753147
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Diabetes. 2000 Dec;49(12):2208-11
+     </refsource>
+     <pmid version="1">
+      11118027
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Paediatr Perinat Epidemiol. 2001 Jan;15(1):74-87
+     </refsource>
+     <pmid version="1">
+      11237119
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 2001 May 16;285(19):2506-7
+     </refsource>
+     <pmid version="1">
+      11368704
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Endocrinol Metab. 2001 Nov;86(11):5420-6
+     </refsource>
+     <pmid version="1">
+      11701716
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 2002 Feb;109(2):194-9
+     </refsource>
+     <pmid version="1">
+      11826195
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Dis Child. 2002 Jun;86(6):392-4
+     </refsource>
+     <pmid version="1">
+      12023163
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 2002 Jun 8;359(9322):2003-4
+     </refsource>
+     <pmid version="1">
+      12076560
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1998 Mar;101(3 Pt 2):539-49
+     </refsource>
+     <pmid version="1">
+      12224660
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Clin Nutr. 2000 Aug;72(2):335-6
+     </refsource>
+     <pmid version="1">
+      10919923
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Obes Res. 2003 Jan;11(1):143-51
+     </refsource>
+     <pmid version="1">
+      12529497
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Pediatr Adolesc Med. 2003 Aug;157(8):725-7
+     </refsource>
+     <pmid version="1">
+      12912775
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Dis Child. 2003 Sep;88(9):748-52
+     </refsource>
+     <pmid version="1">
+      12937090
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Obes Res. 2004 Sep;12(9):1527-35
+     </refsource>
+     <pmid version="1">
+      15483218
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Dis Child. 1995 Jul;73(1):25-9
+     </refsource>
+     <pmid version="1">
+      7639544
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Pediatr Adolesc Med. 1996 Apr;150(4):356-62
+     </refsource>
+     <pmid version="1">
+      8634729
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1999 Oct 27;282(16):1561-7
+     </refsource>
+     <pmid version="1">
+      10546696
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1999 Nov 27;354(9193):1874-5
+     </refsource>
+     <pmid version="1">
+      10584727
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      BMJ. 2005 Aug 20;331(7514):453-4; author reply 454
+     </refsource>
+     <pmid version="1">
+      16110080
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      BMJ. 2005 Aug 20;331(7514):453; author reply 454
+     </refsource>
+     <pmid version="1">
+      16110081
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      BMJ. 2005 Jun 11;330(7504):1339-40
+     </refsource>
+     <pmid version="1">
+      15947373
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Body Mass Index
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cohort Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diet
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Family Characteristics
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Growth
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      physiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant Nutritional Physiological Phenomena
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant, Newborn
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Life Style
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Obesity
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Weaning
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC558282
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="aheadofprint">
+     <year>
+      2005
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      20
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2005
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2005
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     bmj.38470.670903.E0
+    </articleid>
+    <articleid idtype="doi">
+     10.1136/bmj.38470.670903.E0
+    </articleid>
+    <articleid idtype="pubmed">
+     15908441
+    </articleid>
+    <articleid idtype="pmc">
+     PMC558282
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

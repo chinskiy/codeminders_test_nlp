@@ -1,0 +1,496 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12196473
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     28
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     18
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0012-1797
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       51
+      </volume>
+      <issue>
+       9
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Sep
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Diabetes
+     </title>
+     <isoabbreviation>
+      Diabetes
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Preservation of pancreatic beta-cell function and prevention of type 2 diabetes by pharmacological treatment of insulin resistance in high-risk hispanic women.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      2796-803
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Type 2 diabetes frequently results from progressive failure of pancreatic beta-cell function in the presence of chronic insulin resistance. We tested whether chronic amelioration of insulin resistance would preserve pancreatic beta-cell function and delay or prevent the onset of type 2 diabetes in high-risk Hispanic women. Women with previous gestational diabetes were randomized to placebo (n = 133) or the insulin-sensitizing drug troglitazone (400 mg/day; n = 133) administered in double-blind fashion. Fasting plasma glucose was measured every 3 months, and oral glucose tolerance tests (OGTTs) were performed annually to detect diabetes. Intravenous glucose tolerance tests (IVGTTs) were performed at baseline and 3 months later to identify early metabolic changes associated with any protection from diabetes. Women who did not develop diabetes during the trial returned for OGTTs and IVGTTs 8 months after study medications were stopped. During a median follow-up of 30 months on blinded medication, average annual diabetes incidence rates in the 236 women who returned for at least one follow-up visit were 12.1 and 5.4% in women assigned to placebo and troglitazone, respectively (P &lt; 0.01). Protection from diabetes in the troglitazone group 1) was closely related to the degree of reduction in endogenous insulin requirements 3 months after randomization, 2) persisted 8 months after study medications were stopped, and 3) was associated with preservation of beta-cell compensation for insulin resistance. Treatment with troglitazone delayed or prevented the onset of type 2 diabetes in high-risk Hispanic women. The protective effect was associated with the preservation of pancreatic beta-cell function and appeared to be mediated by a reduction in the secretory demands placed on beta-cells by chronic insulin resistance.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Medicine, University of Southern California Keck School of Medicine, Los Angeles, California 90033, USA. buchanan@usc.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Buchanan
+      </lastname>
+      <forename>
+       Thomas A
+      </forename>
+      <initials>
+       TA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Xiang
+      </lastname>
+      <forename>
+       Anny H
+      </forename>
+      <initials>
+       AH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Peters
+      </lastname>
+      <forename>
+       Ruth K
+      </forename>
+      <initials>
+       RK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kjos
+      </lastname>
+      <forename>
+       Siri L
+      </forename>
+      <initials>
+       SL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Marroquin
+      </lastname>
+      <forename>
+       Aura
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Goico
+      </lastname>
+      <forename>
+       Jose
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ochoa
+      </lastname>
+      <forename>
+       Cesar
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tan
+      </lastname>
+      <forename>
+       Sylvia
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Berkowitz
+      </lastname>
+      <forename>
+       Kathleen
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hodis
+      </lastname>
+      <forename>
+       Howard N
+      </forename>
+      <initials>
+       HN
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Azen
+      </lastname>
+      <forename>
+       Stanley P
+      </forename>
+      <initials>
+       SP
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       R01-DK-46374
+      </grantid>
+      <acronym>
+       DK
+      </acronym>
+      <agency>
+       NIDDK NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Diabetes
+    </medlineta>
+    <nlmuniqueid>
+     0372763
+    </nlmuniqueid>
+    <issnlinking>
+     0012-1797
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Chromans
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Thiazoles
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Thiazolidinediones
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      11061-68-0
+     </registrynumber>
+     <nameofsubstance>
+      Insulin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      97322-87-7
+     </registrynumber>
+     <nameofsubstance>
+      troglitazone
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Chromans
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetes Mellitus, Type 2
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetes, Gestational
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Glucose Tolerance Test
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Hispanic Americans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Incidence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Insulin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      physiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Insulin Resistance
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      physiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Islets of Langerhans
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      physiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Medical Records
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pregnancy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Thiazoles
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Thiazolidinediones
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12196473
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

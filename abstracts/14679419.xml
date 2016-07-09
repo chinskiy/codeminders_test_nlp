@@ -1,0 +1,422 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    14679419
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     17
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     09
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0835-7900
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       17
+      </volume>
+      <issue>
+       12
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Dec
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Canadian journal of gastroenterology = Journal canadien de gastroenterologie
+     </title>
+     <isoabbreviation>
+      Can. J. Gastroenterol.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Ursodeoxycholic acid and atorvastatin in the treatment of nonalcoholic steatohepatitis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      713-8
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND/AIMS" nlmcategory="OBJECTIVE">
+      Nonalcoholic steatohepatitis (NASH) is a serious disorder with the potential to gradually progress to cirrhosis. It is generally associated with obesity, diabetes and hyperlipidemia. Currently, there is no established therapy for NASH. The aim of the present study was to evaluate the effectiveness of atorvastatin and ursodeoxycholic acid (UDCA) in the treatment of NASH.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      This prospective study included 44 adult patients (24 men, 20 women) with a mean age of 48.90+/-7.69 years and mean body mass index (BMI) of 29.40+/-3.82. Ten patients had a history of diabetes. Serological markers for viral hepatitis were negative in all patients and there was no history of alcohol or drug abuse. Patients who had autoimmune hepatitis were excluded from the study. Liver biopsy was performed before therapy to confirm the diagnosis. Among NASH patients, 17 normolipidemic cases received UDCA 13 to 15 mg/kg/day (group 1), while hyperlipidemic cases (n=27) received atorvastatin 10 mg/day (group 2) for six months. The BMI, serum lipids, liver function tests and liver density, assessed by computerized tomography, were evaluated before and after the treatment period. The BMI, serum aminotransferase levels, histological parameters (steatosis, inflammation, fibrosis scores) and liver densities were not statistically different between the groups at the beginning of therapy.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The BMI, serum glucose, and triglyceride levels did not change in either group after the treatment period. In group 1, serum alanine aminotransferase (ALT) and gamma-glutamyl-transferase (GGT) levels reduced significantly, and in group 2, serum cholesterol, aspartate aminotransferase, ALT, alkaline phosphatase and GGT levels reduced significantly. Liver densities increased only in group 2, probably as a result of diminishing fat content of liver. The normalization of transaminases was also more prevalent in group 2. Liver steatosis was closely correlated with liver density, but inflammation and fibrosis were not.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The use of atorvastatin in NASH patients with hyperlipidemia was found to be both effective and safe. The benefit of statin and UDCA therapy in normolipidemic patients with NASH requires confirmation with further placebo-controlled trials.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Gastroenterology, Uludag University, Bursa, Turkey. mkiyici@uludag.edu.tr
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Kiyici
+      </lastname>
+      <forename>
+       Murat
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gulten
+      </lastname>
+      <forename>
+       Macit
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gurel
+      </lastname>
+      <forename>
+       Selim
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Nak
+      </lastname>
+      <forename>
+       Selim Giray
+      </forename>
+      <initials>
+       SG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dolar
+      </lastname>
+      <forename>
+       Enver
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Savci
+      </lastname>
+      <forename>
+       Gursel
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Adim
+      </lastname>
+      <forename>
+       Saduman Balaban
+      </forename>
+      <initials>
+       SB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Yerci
+      </lastname>
+      <forename>
+       Omer
+      </forename>
+      <initials>
+       O
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Memik
+      </lastname>
+      <forename>
+       Faruk
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     Canada
+    </country>
+    <medlineta>
+     Can J Gastroenterol
+    </medlineta>
+    <nlmuniqueid>
+     8807867
+    </nlmuniqueid>
+    <issnlinking>
+     0835-7900
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anticholesteremic Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Heptanoic Acids
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Pyrroles
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      110862-48-1
+     </registrynumber>
+     <nameofsubstance>
+      atorvastatin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      128-13-2
+     </registrynumber>
+     <nameofsubstance>
+      Ursodeoxycholic Acid
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anticholesteremic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fatty Liver
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hepatitis
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heptanoic Acids
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pyrroles
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ursodeoxycholic Acid
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     14679419
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

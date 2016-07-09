@@ -1,0 +1,543 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11914253
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     26
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     19
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1524-4539
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       105
+      </volume>
+      <issue>
+       12
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Mar
+       </month>
+       <day>
+        26
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Circulation
+     </title>
+     <isoabbreviation>
+      Circulation
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Withdrawal of statins increases event rates in patients with acute coronary syndromes.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1446-52
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      HMG-CoA Reductase Inhibitors (statins) reduce cardiac event rates in patients with stable coronary heart disease. Withdrawal of chronic statin treatment during acute coronary syndromes may impair vascular function independent of lipid-lowering effects and thus increase cardiac event rate.
+     </abstracttext>
+     <abstracttext label="METHODS AND RESULTS" nlmcategory="RESULTS">
+      We investigated the effects of statins on the cardiac event rate in 1616 patients of the Platelet Receptor Inhibition in Ischemic Syndrome Management (PRISM) study who had coronary artery disease and chest pain in the previous 24 hours. We recorded death and nonfatal myocardial infarction during the 30-day follow-up. Baseline clinical characteristics did not differ among 1249 patients without statin therapy, 379 patients with continued statin therapy, and 86 patients with discontinued statin therapy after hospitalization. Statin therapy was associated with a reduced event rate at 30-day follow-up compared with patients without statins (adjusted hazard ratio, 0.49 [95% CI, 0.21 to 0.86]; P=0.004). If the statin therapy was withdrawn after admission, cardiac risk increased compared with patients who continued to receive statins (2.93 [95% CI, 1.64 to 6.27]; P=0.005) and tended to be higher compared with patients who never received statins (1.69 [95% CI, 0.92 to 3.56]; P=0.15). This was related to an increased event rate during the first week after onset of symptoms and was independent of cholesterol levels. In a multivariate model, troponin T elevation (P=0.005), ST changes (P=0.02), and continuation of statin therapy (P=0.008) were the only independent predictors of patient outcome.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Statin pretreatment in patients with acute coronary syndromes is associated with improved clinical outcome. However, discontinuation of statins after onset of symptoms completely abrogates this beneficial effect.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     University Hospital Frankfurt, Germany.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Heeschen
+      </lastname>
+      <forename>
+       Christopher
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hamm
+      </lastname>
+      <forename>
+       Christian W
+      </forename>
+      <initials>
+       CW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Laufs
+      </lastname>
+      <forename>
+       Ulrich
+      </forename>
+      <initials>
+       U
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Snapinn
+      </lastname>
+      <forename>
+       Steven
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Böhm
+      </lastname>
+      <forename>
+       Michael
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       White
+      </lastname>
+      <forename>
+       Harvey D
+      </forename>
+      <initials>
+       HD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       Platelet Receptor Inhibition in Ischemic Syndrome Management (PRISM) Investigators
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Circulation
+    </medlineta>
+    <nlmuniqueid>
+     0147763
+    </nlmuniqueid>
+    <issnlinking>
+     0009-7322
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Hydroxymethylglutaryl-CoA Reductase Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Platelet Aggregation Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Troponin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      57-88-5
+     </registrynumber>
+     <nameofsubstance>
+      Cholesterol
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      75330-75-5
+     </registrynumber>
+     <nameofsubstance>
+      Lovastatin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      79902-63-9
+     </registrynumber>
+     <nameofsubstance>
+      Simvastatin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      81093-37-0
+     </registrynumber>
+     <nameofsubstance>
+      Pravastatin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      9005-49-6
+     </registrynumber>
+     <nameofsubstance>
+      Heparin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Circulation. 2003 Jan 28;107(3):e27
+     </refsource>
+     <pmid version="1">
+      12551886
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Circulation. 2004 Oct 19;110(16):2280-2
+     </refsource>
+     <pmid version="1">
+      15492328
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Circulation. 2002 Mar 26;105(12):e9085-90
+     </refsource>
+     <pmid version="1">
+      11914270
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Acute Disease
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cholesterol
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Clinical Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Comorbidity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Coronary Artery Disease
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dose-Response Relationship, Drug
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Follow-Up Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heparin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hydroxymethylglutaryl-CoA Reductase Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Incidence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lovastatin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Myocardial Infarction
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      chemically induced
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Odds Ratio
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Platelet Aggregation Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pravastatin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Proportional Hazards Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Simvastatin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Substance Withdrawal Syndrome
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Survival Rate
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Troponin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      United States
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      27
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      27
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11914253
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,500 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15276392
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     27
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     19
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1474-547X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       364
+      </volume>
+      <issue>
+       9431
+      </issue>
+      <pubdate>
+       <medlinedate>
+        2004 Jul 24-30
+       </medlinedate>
+      </pubdate>
+     </journalissue>
+     <title>
+      Lancet
+     </title>
+     <isoabbreviation>
+      Lancet
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Aspirin and clopidogrel compared with clopidogrel alone after recent ischaemic stroke or transient ischaemic attack in high-risk patients (MATCH): randomised, double-blind, placebo-controlled trial.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      331-7
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Clopidogrel was superior to aspirin in patients with previous manifestations of atherothrombotic disease in the CAPRIE study and its benefit was amplified in some high-risk subgroups of patients. We aimed to assess whether addition of aspirin to clopidogrel could have a greater benefit than clopidogrel alone in prevention of vascular events with potentially higher bleeding risk.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We did a randomised, double-blind, placebo-controlled trial to compare aspirin (75 mg/day) with placebo in 7599 high-risk patients with recent ischaemic stroke or transient ischaemic attack and at least one additional vascular risk factor who were already receiving clopidogrel 75 mg/day. Duration of treatment and follow-up was 18 months. The primary endpoint was a composite of ischaemic stroke, myocardial infarction, vascular death, or rehospitalisation for acute ischaemia (including rehospitalisation for transient ischaemic attack, angina pectoris, or worsening of peripheral arterial disease). Analysis was by intention to treat, using logrank test and a Cox's proportional-hazards model.
+     </abstracttext>
+     <abstracttext label="FINDINGS" nlmcategory="RESULTS">
+      596 (15.7%) patients reached the primary endpoint in the group receiving aspirin and clopidogrel compared with 636 (16.7%) in the clopidogrel alone group (relative risk reduction 6.4%, [95% CI -4.6 to 16.3]; absolute risk reduction 1% [-0.6 to 2.7]). Life-threatening bleedings were higher in the group receiving aspirin and clopidogrel versus clopidogrel alone (96 [2.6%] vs 49 [1.3%]; absolute risk increase 1.3% [95% CI 0.6 to 1.9]). Major bleedings were also increased in the group receiving aspirin and clopidogrel but no difference was recorded in mortality.
+     </abstracttext>
+     <abstracttext label="INTERPRETATION" nlmcategory="CONCLUSIONS">
+      Adding aspirin to clopidogrel in high-risk patients with recent ischaemic stroke or transient ischaemic attack is associated with a non-significant difference in reducing major vascular events. However, the risk of life-threatening or major bleeding is increased by the addition of aspirin.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Neurology, University of Essen, Hufelandstrasse 55, 45122 Essen, Germany. h.diener@uni-essen.de
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Diener
+      </lastname>
+      <forename>
+       Hans-Christoph
+      </forename>
+      <initials>
+       HC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bogousslavsky
+      </lastname>
+      <forename>
+       Julien
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Brass
+      </lastname>
+      <forename>
+       Lawrence M
+      </forename>
+      <initials>
+       LM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cimminiello
+      </lastname>
+      <forename>
+       Claudio
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Csiba
+      </lastname>
+      <forename>
+       Laszlo
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kaste
+      </lastname>
+      <forename>
+       Markku
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Leys
+      </lastname>
+      <forename>
+       Didier
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Matias-Guiu
+      </lastname>
+      <forename>
+       Jordi
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rupprecht
+      </lastname>
+      <forename>
+       Hans-Jürgen
+      </forename>
+      <initials>
+       HJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       MATCH investigators
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Lancet
+    </medlineta>
+    <nlmuniqueid>
+     2985213R
+    </nlmuniqueid>
+    <issnlinking>
+     0140-6736
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Platelet Aggregation Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      50-78-2
+     </registrynumber>
+     <nameofsubstance>
+      Aspirin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      55142-85-3
+     </registrynumber>
+     <nameofsubstance>
+      Ticlopidine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      90055-48-4
+     </registrynumber>
+     <nameofsubstance>
+      clopidogrel
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2004 Jul 24-30;364(9431):305-7
+     </refsource>
+     <pmid version="1">
+      15276368
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2004 Nov-Dec;141(3):68
+     </refsource>
+     <pmid version="1">
+      15518452
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2004 Nov 6-12;364(9446):1661; author reply 1662-3
+     </refsource>
+     <pmid version="1">
+      15530615
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2004 Nov 6-12;364(9446):1661; author reply 1662-3
+     </refsource>
+     <pmid version="1">
+      15530616
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2004 Nov 6-12;364(9446):1662; author reply 1662-3
+     </refsource>
+     <pmid version="1">
+      15530618
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aspirin
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Therapy, Combination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hemorrhage
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      chemically induced
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Intracranial Hemorrhages
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      chemically induced
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ischemic Attack, Transient
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Platelet Aggregation Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Recurrence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Stroke
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ticlopidine
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      analogs &amp; derivatives
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     15276392
+    </articleid>
+    <articleid idtype="doi">
+     10.1016/S0140-6736(04)16721-4
+    </articleid>
+    <articleid idtype="pii">
+     S0140-6736(04)16721-4
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

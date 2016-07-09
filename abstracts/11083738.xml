@@ -1,0 +1,456 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11083738
+   </pmid>
+   <datecreated>
+    <year>
+     2000
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     07
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2000
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     07
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1468-201X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       84
+      </volume>
+      <issue>
+       6
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+       <month>
+        Dec
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Heart (British Cardiac Society)
+     </title>
+     <isoabbreviation>
+      Heart
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Baseline predictors of tolerability to carvedilol in patients with chronic heart failure.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      615-9
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To determine baseline predictors of tolerance to the alpha/beta blocker carvedilol in everyday clinical practice.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Retrospective analysis of tolerance to carvedilol in patients with chronic heart failure. Tolerance was defined as currently on carvedilol or on it at the time of death or heart transplantation. To meet the criteria for tolerance, carvedilol had to be prescribed at a stable dose for &gt;/= 3 months.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      Everyday clinical practice, comprising both hospital specialist practice and private practice. Tolerance was assessed in all patients prescribed carvedilol for chronic heart failure in those practices.
+     </abstracttext>
+     <abstracttext label="PATIENTS" nlmcategory="METHODS">
+      808 consecutive patients in both hospital specialist (611 patients) and private practice (197 patients).
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      Baseline predictors of tolerance assessed by proportional hazards analysis. Both univariate and multivariate analyses were performed.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Within the entire cohort of 808 patients, 95 had stopped carvedilol, 606 were currently receiving the drug, 50 had died, and 44 had received a heart transplant. Overall, 88% of patients tolerated carvedilol (87% in the hospital specialist group, 92% in the private practitioner group). Factors that indicated impaired tolerance by univariate analysis were increased age in years (hazard ratio 1.01, 95% confidence interval (CI) 1.0 to 1.3), low diastolic blood pressure (hazard ratio 1.04, 95% CI 1.02 to 1.08), and raised plasma urea concentration (hazard ratio 1.04, 95% CI 1.02 to 1.05). New York Heart Association (NYHA) class was also a marker of tolerance (proportion not tolerated: 3% class I; 9% class II; 13% class III, 22% class IV). By multivariate analysis, no single baseline variable was an independent marker of inability to tolerate carvedilol. Tolerance was also assessed in relation to traditional precautions or relative contraindications to beta blockade. Tolerance in these subgroups was: chronic obstructive airways disease/asthma 85% (89 patients), diabetes 86% (127 patients), peripheral vascular disease 84% (58 patients), concomitant amiodarone treatment 83% (230 patients), and heart rate &lt; 70 beats/min 84% (184 patients).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      beta Blocker treatment was well tolerated in everyday clinical practice, including non-hospital-based private practice. There was no single predictor of poor tolerance on multivariate analysis, although there was a clear association with NYHA class as well as age, diastolic blood pressure, and plasma urea on univariate analysis. Carvedilol was tolerated well among selected patients with traditional contraindications to beta blockade in this situation.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Clinical Pharmacology Unit, Department of Epidemiology and Preventive Medicine, Department of Medicine, Monash University/Alfred Hospital, Prahran, Victoria, Australia.henry.krum@med.monash.edu.au
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Krum
+      </lastname>
+      <forename>
+       H
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ninio
+      </lastname>
+      <forename>
+       D
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       MacDonald
+      </lastname>
+      <forename>
+       P
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     ENGLAND
+    </country>
+    <medlineta>
+     Heart
+    </medlineta>
+    <nlmuniqueid>
+     9602087
+    </nlmuniqueid>
+    <issnlinking>
+     1355-6037
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Adrenergic beta-Antagonists
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Carbazoles
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Propanolamines
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Vasodilator Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      72956-09-3
+     </registrynumber>
+     <nameofsubstance>
+      carvedilol
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1996 May 23;334(21):1349-55
+     </refsource>
+     <pmid version="1">
+      8614419
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Eur J Clin Pharmacol. 1990;38 Suppl 2:S82-8
+     </refsource>
+     <pmid version="1">
+      1974511
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Circulation. 1996 Dec 1;94(11):2807-16
+     </refsource>
+     <pmid version="1">
+      8941106
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adrenergic beta-Antagonists
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      contraindications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Analysis of Variance
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Carbazoles
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      contraindications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Administration Schedule
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heart Failure
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant, Newborn
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Propanolamines
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      contraindications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Retrospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Severity of Illness Index
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vasodilator Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC1729537
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11083738
+    </articleid>
+    <articleid idtype="pmc">
+     PMC1729537
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

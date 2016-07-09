@@ -1,0 +1,488 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12140298
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     25
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     31
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1533-4406
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       347
+      </volume>
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Jul
+       </month>
+       <day>
+        25
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     A population-based comparison of strategies to prevent early-onset group B streptococcal disease in neonates.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      233-9
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Guidelines issued in 1996 in the United States recommend either screening of pregnant women for group B streptococcal colonization by means of cultures (screening approach) or assessing clinical risk factors (risk-based approach) to identify candidates for intrapartum antibiotic prophylaxis.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      In a multistate retrospective cohort study, we compared the effectiveness of the screening and risk-based approaches in preventing early-onset group B streptococcal disease (in infants less than seven days old). We studied a stratified random sample of the 629,912 live births in 1998 and 1999 in eight geographical areas where there was active surveillance for group B streptococcal infection, including all births in which the neonate had early-onset disease. Women with no documented culture for group B streptococcus were considered to have been cared for according to the risk-based approach.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      We studied 5144 births, including 312 in which the newborn had early-onset group B streptococcal disease. Antenatal screening was documented for 52 percent of the mothers. The risk of early-onset disease was significantly lower among the infants of screened women than among those in the risk-based group (adjusted relative risk, 0.46; 95 percent confidence interval, 0.36 to 0.60). Because women whose providers had no strategy for prophylaxis may have been misclassified in the risk-based group, we excluded all women with risk factors and adequate time for prophylaxis who did not receive antibiotics. The adjusted relative risk of early-onset disease associated with the screening approach in this secondary analysis was similar--0.48 (95 percent confidence interval, 0.37 to 0.63).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Routine screening for group B streptococcus during pregnancy prevents more cases of early-onset disease than the risk-based approach. Recommendations that endorse both strategies as equivalent warrant reconsideration.
+     </abstracttext>
+     <copyrightinformation>
+      Copyright 2002 Massachusetts Medical Society
+     </copyrightinformation>
+    </abstract>
+    <affiliation>
+     Respiratory Diseases Branch, MS-C23, Division of Bacterial and Mycotic Disease, Centers for Disease Control and Prevention, Atlanta, GA 30333, USA. zha6@cdc.gov
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Schrag
+      </lastname>
+      <forename>
+       Stephanie J
+      </forename>
+      <initials>
+       SJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Zell
+      </lastname>
+      <forename>
+       Elizabeth R
+      </forename>
+      <initials>
+       ER
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lynfield
+      </lastname>
+      <forename>
+       Ruth
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Roome
+      </lastname>
+      <forename>
+       Aaron
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Arnold
+      </lastname>
+      <forename>
+       Kathryn E
+      </forename>
+      <initials>
+       KE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Craig
+      </lastname>
+      <forename>
+       Allen S
+      </forename>
+      <initials>
+       AS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Harrison
+      </lastname>
+      <forename>
+       Lee H
+      </forename>
+      <initials>
+       LH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Reingold
+      </lastname>
+      <forename>
+       Arthur
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Stefonek
+      </lastname>
+      <forename>
+       Karen
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Smith
+      </lastname>
+      <forename>
+       Glenda
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gamble
+      </lastname>
+      <forename>
+       Melanie
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schuchat
+      </lastname>
+      <forename>
+       Anne
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       Active Bacterial Core Surveillance Team
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2002 Jul 25;347(4):280-1
+     </refsource>
+     <pmid version="1">
+      12140305
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2002 Nov 28;347(22):1798-9; author reply 1798-9
+     </refsource>
+     <pmid version="1">
+      12456858
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2002 Nov 28;347(22):1798-9; author reply 1798-9
+     </refsource>
+     <pmid version="1">
+      12462224
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Analysis of Variance
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Antibiotic Prophylaxis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cohort Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Confounding Factors (Epidemiology)
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant, Newborn
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Labor, Obstetric
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Mass Screening
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Medicaid
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pregnancy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pregnancy Complications, Infectious
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prenatal Care
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prenatal Diagnosis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Retrospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Streptococcal Infections
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Streptococcus agalactiae
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      isolation &amp; purification
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12140298
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJMoa020205
+    </articleid>
+    <articleid idtype="pii">
+     347/4/233
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

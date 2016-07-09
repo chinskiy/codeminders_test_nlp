@@ -1,0 +1,352 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11856693
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     21
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     12
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2008
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     21
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0361-803X
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       178
+      </volume>
+      <issue>
+       3
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Mar
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      AJR. American journal of roentgenology
+     </title>
+     <isoabbreviation>
+      AJR Am J Roentgenol
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Usefulness of an artificial neural network for differentiating benign from malignant pulmonary nodules on high-resolution CT: evaluation with receiver operating characteristic analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      657-63
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      The purpose of our study was to use an artificial neural network to differentiate benign from malignant pulmonary nodules on high-resolution CT findings and to evaluate the effect of artificial neural network output on the performance of radiologists using receiver operating characteristic analysis.
+     </abstracttext>
+     <abstracttext label="MATERIALS AND METHODS" nlmcategory="METHODS">
+      We selected 155 cases with pulmonary nodules less than 3 cm (99 malignant nodules and 56 benign nodules). An artificial neural network was used to distinguish benign from malignant nodules on the basis of seven clinical parameters and 16 radiologic findings that were extracted by attending radiologists using subjective rating scales. In the observer test, 12 radiologists (four attending radiologists, four radiology fellows, and four radiology residents) were presented with high-resolution CT images, first without and then with the artificial neural network output. Observer performance was evaluated by means of receiver operating characteristic analysis using a continuous rating scale.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The artificial neural network showed a high performance in differentiating benign from malignant pulmonary nodules (A(z) = 0.951). The average A(z) value for all radiologists increased by a statistically significant level, from 0.831 to 0.959, with the use of the artificial neural network output.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Our computerized scheme using the artificial neural network can improve the diagnostic accuracy of radiologists who are differentiating benign from malignant pulmonary nodules on high-resolution CT.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Radiology, University of Occupational and Environmental Health School of Medicine, Iseigaoka 1-1, Yahatanishi-ku, Kitakyushu-shi, 807-8555, Japan.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Matsuki
+      </lastname>
+      <forename>
+       Yuichi
+      </forename>
+      <initials>
+       Y
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Nakamura
+      </lastname>
+      <forename>
+       Katsumi
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Watanabe
+      </lastname>
+      <forename>
+       Hideyuki
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Aoki
+      </lastname>
+      <forename>
+       Takatoshi
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Nakata
+      </lastname>
+      <forename>
+       Hajime
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Katsuragawa
+      </lastname>
+      <forename>
+       Shigehiko
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Doi
+      </lastname>
+      <forename>
+       Kunio
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     AJR Am J Roentgenol
+    </medlineta>
+    <nlmuniqueid>
+     7708173
+    </nlmuniqueid>
+    <issnlinking>
+     0361-803X
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diagnosis, Differential
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lung Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      radiography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Neural Networks (Computer)
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Observer Variation
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      ROC Curve
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Radiographic Image Interpretation, Computer-Assisted
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Solitary Pulmonary Nodule
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      radiography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Tomography, X-Ray Computed
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      22
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      22
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11856693
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

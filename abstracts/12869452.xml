@@ -1,0 +1,610 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12869452
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     18
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     28
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1468-5833
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       327
+      </volume>
+      <issue>
+       7407
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Jul
+       </month>
+       <day>
+        19
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      BMJ (Clinical research ed.)
+     </title>
+     <isoabbreviation>
+      BMJ
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Effect of non-steroidal anti-inflammatory drugs on risk of Alzheimer's disease: systematic review and meta-analysis of observational studies.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      128
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To quantify the risk of Alzheimer's disease in users of all non-steroidal anti-inflammatory drugs (NSAIDs) and users of aspirin and to determine any influence of duration of use.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Systematic review and meta-analysis of observational studies published between 1966 and October 2002 that examined the role of NSAID use in preventing Alzheimer's disease. Studies identified through Medline, Embase, International Pharmaceutical Abstracts, and the Cochrane Library.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Nine studies looked at all NSAIDs in adults aged &gt; 55 years. Six were cohort studies (total of 13 211 participants), and three were case-control studies (1443 participants). The pooled relative risk of Alzheimer's disease among users of NSAIDs was 0.72 (95% confidence interval 0.56 to 0.94). The risk was 0.95 (0.70 to 1.29) among short term users (&lt; 1 month) and 0.83 (0.65 to 1.06) and 0.27 (0.13 to 0.58) among intermediate term (mostly &lt; 24 months) and long term (mostly &gt; 24 months) users, respectively. The pooled relative risk in the eight studies of aspirin users was 0.87 (0.70 to 1.07).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      NSAIDs offer some protection against the development of Alzheimer's disease. The appropriate dosage and duration of drug use and the ratios of risk to benefit are still unclear.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Clinical Epidemiology, Royal Victoria Hospital, Montreal, Quebec, Canada H3A 1A1. mahyar.etminan@mail.mcgill.ca
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Etminan
+      </lastname>
+      <forename>
+       Mahyar
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gill
+      </lastname>
+      <forename>
+       Sudeep
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Samii
+      </lastname>
+      <forename>
+       Ali
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     BMJ
+    </medlineta>
+    <nlmuniqueid>
+     8900488
+    </nlmuniqueid>
+    <issnlinking>
+     0959-535X
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Inflammatory Agents, Non-Steroidal
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      50-78-2
+     </registrynumber>
+     <nameofsubstance>
+      Aspirin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Neurobiol Aging. 1998 Nov-Dec;19(6):607-11
+     </refsource>
+     <pmid version="1">
+      10192221
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Neurology. 1999 Jul 13;53(1):197-201
+     </refsource>
+     <pmid version="1">
+      10408559
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Mayo Clin Proc. 1998 Oct;73(10):951-5
+     </refsource>
+     <pmid version="1">
+      9787743
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Epidemiol. 1999 Jul 15;150(2):206-15
+     </refsource>
+     <pmid version="1">
+      10412966
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Neurology. 2000 Jun 13;54(11):2066-71
+     </refsource>
+     <pmid version="1">
+      10851364
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Stroke. 2000 Jul;31(7):1487-93
+     </refsource>
+     <pmid version="1">
+      10884442
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Neurology. 2000 Dec 26;55(12):1847-53
+     </refsource>
+     <pmid version="1">
+      11134384
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Comput Methods Programs Biomed. 2001 Feb;64(2):101-107
+     </refsource>
+     <pmid version="1">
+      11137192
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Neurol. 2001 Mar;58(3):487-92
+     </refsource>
+     <pmid version="1">
+      11255454
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Neurol. 2001 Dec;58(12):1985-92
+     </refsource>
+     <pmid version="1">
+      11735772
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 2001 Nov 22;345(21):1515-21
+     </refsource>
+     <pmid version="1">
+      11794217
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 2001 Nov 22;345(21):1567-8
+     </refsource>
+     <pmid version="1">
+      11794225
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Neuroepidemiology. 2002 Mar-Apr;21(2):81-6
+     </refsource>
+     <pmid version="1">
+      11901277
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Neurology. 2002 Apr 9;58(7):1050-4
+     </refsource>
+     <pmid version="1">
+      11940691
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Pain Symptom Manage. 2002 Apr;23(4 Suppl):S35-40
+     </refsource>
+     <pmid version="1">
+      11992749
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Epidemiol. 2002 Sep 1;156(5):445-53
+     </refsource>
+     <pmid version="1">
+      12196314
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Neurology. 2002 Sep 24;59(6):880-6
+     </refsource>
+     <pmid version="1">
+      12297571
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Public Health. 1988 Aug;78(8):961-6
+     </refsource>
+     <pmid version="1">
+      3260455
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Control Clin Trials. 1986 Sep;7(3):177-88
+     </refsource>
+     <pmid version="1">
+      3802833
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Neurology. 1995 Aug;45(8):1441-5
+     </refsource>
+     <pmid version="1">
+      7644037
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Neurology. 1994 Nov;44(11):2073-80
+     </refsource>
+     <pmid version="1">
+      7969962
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Neurology. 1994 Feb;44(2):227-32
+     </refsource>
+     <pmid version="1">
+      8309563
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Neurobiol Aging. 1995 Jul-Aug;16(4):523-30
+     </refsource>
+     <pmid version="1">
+      8544901
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1996 Jan 27;312(7025):227-31
+     </refsource>
+     <pmid version="1">
+      8563591
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1996 Apr 13;347(9007):1024-6
+     </refsource>
+     <pmid version="1">
+      8606568
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Neurology. 1996 Aug;47(2):425-32
+     </refsource>
+     <pmid version="1">
+      8757015
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Epidemiol. 1996 Oct;49(10):1201
+     </refsource>
+     <pmid version="1">
+      8827002
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Neurology. 1997 Mar;48(3):626-32
+     </refsource>
+     <pmid version="1">
+      9065537
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1997 Aug 2;350(9074):326-9
+     </refsource>
+     <pmid version="1">
+      9251637
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int J Geriatr Psychiatry. 1997 Sep;12(9):926-30
+     </refsource>
+     <pmid version="1">
+      9309471
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Stat Med. 1998 Apr 30;17(8):841-56
+     </refsource>
+     <pmid version="1">
+      9595615
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Med. 1998 May;104(5):413-21
+     </refsource>
+     <pmid version="1">
+      9626023
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      BMJ. 2003 Sep 27;327(7417):751; author reply 751-2
+     </refsource>
+     <pmid version="1">
+      14512494
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      BMJ. 2003 Sep 27;327(7417):752
+     </refsource>
+     <pmid version="1">
+      14512499
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Alzheimer Disease
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Inflammatory Agents, Non-Steroidal
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aspirin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Case-Control Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cohort Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Odds Ratio
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Assessment
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    32
+   </numberofreferences>
+   <otherid source="NLM">
+    PMC165707
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      29
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12869452
+    </articleid>
+    <articleid idtype="doi">
+     10.1136/bmj.327.7407.128
+    </articleid>
+    <articleid idtype="pii">
+     327/7407/128
+    </articleid>
+    <articleid idtype="pmc">
+     PMC165707
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

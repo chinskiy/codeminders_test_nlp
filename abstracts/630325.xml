@@ -1,0 +1,454 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    630325
+   </pmid>
+   <datecreated>
+    <year>
+     1978
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     17
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1978
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     17
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0007-1447
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       1
+      </volume>
+      <issue>
+       6115
+      </issue>
+      <pubdate>
+       <year>
+        1978
+       </year>
+       <month>
+        Mar
+       </month>
+       <day>
+        25
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      British medical journal
+     </title>
+     <isoabbreviation>
+      Br Med J
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Haemoglobin AIc concentrations after initial insulin treatment for newly discovered diabetes.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      741-2
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Glycosylated haemoglobins AIa+Ib and AIc were measured serially in 10 consecutive cases of newly discovered non-acidotic diabetes before and after diet and insulin treatment. The average concentration of Hb AIc was 11.4% in untreated diabetics as compared with 4.3% in healthy controls. With prolonged optimal regulation of blood glucose Hb AIc slowly decreased to a mean concentration of 5.5%. The concentration of Hb AIc was significantly correlated with the fasting blood sugar value. The findings suggest that determining Hb AIc may give valuable information on the regulation of carbohydrate metabolism in the preceding one to two months and thus become an important aid to management.
+     </abstracttext>
+    </abstract>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Ditzel
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kjaergaard
+      </lastname>
+      <forename>
+       J J
+      </forename>
+      <initials>
+       JJ
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     ENGLAND
+    </country>
+    <medlineta>
+     Br Med J
+    </medlineta>
+    <nlmuniqueid>
+     0372673
+    </nlmuniqueid>
+    <issnlinking>
+     0007-1447
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Blood Glucose
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Hemoglobins
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Triglycerides
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      11061-68-0
+     </registrynumber>
+     <nameofsubstance>
+      Insulin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      57-88-5
+     </registrynumber>
+     <nameofsubstance>
+      Cholesterol
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      9034-51-9
+     </registrynumber>
+     <nameofsubstance>
+      Hemoglobin A
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Endocrinol Metab. 1977 May;44(5):859-64
+     </refsource>
+     <pmid version="1">
+      858776
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Diabetes. 1976 Dec;25(12):1118-22
+     </refsource>
+     <pmid version="1">
+      992231
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Diabetes. 1976;25(2 SUPPL):890-6
+     </refsource>
+     <pmid version="1">
+      823066
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1977 Oct 8;2(8041):734-7
+     </refsource>
+     <pmid version="1">
+      71541
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Diabetes. 1976;25(2 SUPPL):832-8
+     </refsource>
+     <pmid version="1">
+      9322
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Diabetologia. 1973 Dec;9(6):461-6
+     </refsource>
+     <pmid version="1">
+      4359285
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Diabetologia. 1975 Aug;11(4):255-60
+     </refsource>
+     <pmid version="1">
+      1319
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Diabetes. 1975 Oct;24(10):944-57
+     </refsource>
+     <pmid version="1">
+      170155
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1976 Aug 19;295(8):417-20
+     </refsource>
+     <pmid version="1">
+      934240
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Acta Paediatr Scand. 1975 Mar;64(2):355-61
+     </refsource>
+     <pmid version="1">
+      1130194
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1971 Feb 18;284(7):353-7
+     </refsource>
+     <pmid version="1">
+      5539916
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Invest. 1970 Jun;49(6):1088-95
+     </refsource>
+     <pmid version="1">
+      5422014
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Glucose
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      analysis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cholesterol
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetes Mellitus
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetic Diet
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Glycosuria
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hemoglobin A
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      analysis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hemoglobins
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      analysis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Insulin
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Triglycerides
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC1603348
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1978
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      25
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1978
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1978
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     630325
+    </articleid>
+    <articleid idtype="pmc">
+     PMC1603348
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

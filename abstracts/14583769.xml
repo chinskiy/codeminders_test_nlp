@@ -1,0 +1,957 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    14583769
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     29
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     24
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0007-0920
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       89
+      </volume>
+      <issue>
+       9
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Nov
+       </month>
+       <day>
+        3
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      British journal of cancer
+     </title>
+     <isoabbreviation>
+      Br. J. Cancer
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Dietary fat and breast cancer risk revisited: a meta-analysis of the published literature.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1672-85
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Animal experiments and human ecological studies suggest that dietary fat intake is associated with a risk of breast cancer, but individual-based studies have given contradictory results. We have carried out a meta-analysis of this association to include all papers published up to July 2003. Case-control and cohort studies that examined the association of dietary fat, or fat-containing foods, with risk of breast cancer were identified. A total of 45 risk estimates for total fat intake were obtained. Descriptive data from each study were extracted with an estimate of relative risk and its associated 95% confidence interval (CI), and were analysed using the random effects model of DerSimonian and Laird. The summary relative risk, comparing the highest and lowest levels of intake of total fat, was 1.13 (95% CI: 1.03-1.25). Cohort studies (N=14) had a summary relative risk of 1.11 (95% CI: 0.99-1.25) and case-control studies (N=31) had a relative risk of 1.14 (95% CI 0.99-1.32). Significant summary relative risks were also found for saturated fat (RR, 1.19; 95% CI: 1.06-1.35) and meat intake (RR, 1.17; 95% CI 1.06-1.29). Combined estimates of risk for total and saturated fat intake, and for meat intake, all indicate an association between higher intakes and an increased risk of breast cancer. Case-control and cohort studies gave similar results.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Division of Epidemiology and Statistics, Ontario Cancer Institute, 610 University Avenue, Toronto, Ontario, Canada M5G 1K9. boyd@uhnres.otoronto.ca
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Boyd
+      </lastname>
+      <forename>
+       N F
+      </forename>
+      <initials>
+       NF
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Stone
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Vogt
+      </lastname>
+      <forename>
+       K N
+      </forename>
+      <initials>
+       KN
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Connelly
+      </lastname>
+      <forename>
+       B S
+      </forename>
+      <initials>
+       BS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Martin
+      </lastname>
+      <forename>
+       L J
+      </forename>
+      <initials>
+       LJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Minkin
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Br J Cancer
+    </medlineta>
+    <nlmuniqueid>
+     0370635
+    </nlmuniqueid>
+    <issnlinking>
+     0007-0920
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Dietary Fats
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Neoplasma. 1991;38(3):357-66
+     </refsource>
+     <pmid version="1">
+      1857455
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Epidemiol. 1991 Sep 15;134(6):552-66
+     </refsource>
+     <pmid version="1">
+      1951261
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Natl Cancer Inst. 1991 Mar 6;83(5):336-40
+     </refsource>
+     <pmid version="1">
+      1995917
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int J Cancer. 1991 Mar 12;47(5):707-10
+     </refsource>
+     <pmid version="1">
+      2004852
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int J Cancer. 1991 Apr 22;48(1):1-9
+     </refsource>
+     <pmid version="1">
+      2019449
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int J Cancer. 1991 Jun 19;48(4):493-501
+     </refsource>
+     <pmid version="1">
+      2045197
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Cancer Causes Control. 1990 Jul;1(1):81-97; discussion 99-109
+     </refsource>
+     <pmid version="1">
+      2102280
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Cancer Res. 1990 Sep 15;50(18):5710-9
+     </refsource>
+     <pmid version="1">
+      2203521
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int J Cancer. 1990 Nov 15;46(5):779-84
+     </refsource>
+     <pmid version="1">
+      2228305
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Clin Nutr. 1990 Nov;52(5):903-8
+     </refsource>
+     <pmid version="1">
+      2239766
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int J Cancer. 1990 Jul 15;46(1):12-5
+     </refsource>
+     <pmid version="1">
+      2365494
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Cancer Res. 1990 Aug 15;50(16):5017-21
+     </refsource>
+     <pmid version="1">
+      2379166
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Cancer Res. 1989 Apr 15;49(8):2161-7
+     </refsource>
+     <pmid version="1">
+      2539254
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Cancer Res. 1989 Jul 15;49(14):4020-3
+     </refsource>
+     <pmid version="1">
+      2736542
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Cancer. 1989 Aug 1;64(3):582-90
+     </refsource>
+     <pmid version="1">
+      2743252
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Nutr Cancer. 1987;10(4):205-14
+     </refsource>
+     <pmid version="1">
+      2829140
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Natl Cancer Inst. 1989 Feb 15;81(4):278-86
+     </refsource>
+     <pmid version="1">
+      2913325
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Natl Cancer Inst. 1986 Sep;77(3):605-12
+     </refsource>
+     <pmid version="1">
+      3018342
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Natl Cancer Inst. 1986 Sep;77(3):633-6
+     </refsource>
+     <pmid version="1">
+      3091896
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Natl Cancer Inst. 1987 Apr;78(4):595-600
+     </refsource>
+     <pmid version="1">
+      3104644
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Natl Cancer Inst. 1988 Aug 3;80(11):802-14
+     </refsource>
+     <pmid version="1">
+      3292773
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Cancer. 1988 Jan 1;61(1):181-5
+     </refsource>
+     <pmid version="1">
+      3334945
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Epidemiol. 1988 Sep;128(3):478-89
+     </refsource>
+     <pmid version="1">
+      3414656
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Natl Cancer Inst. 1987 Sep;79(3):465-71
+     </refsource>
+     <pmid version="1">
+      3476789
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Anticancer Res. 1986 Mar-Apr;6(2):215-8
+     </refsource>
+     <pmid version="1">
+      3707057
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Cancer Detect Prev. 1986;9(1-2):47-58
+     </refsource>
+     <pmid version="1">
+      3731194
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1987 Jan 1;316(1):22-8
+     </refsource>
+     <pmid version="1">
+      3785347
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int J Cancer. 1986 Dec 15;38(6):815-20
+     </refsource>
+     <pmid version="1">
+      3793261
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Control Clin Trials. 1986 Sep;7(3):177-88
+     </refsource>
+     <pmid version="1">
+      3802833
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Natl Cancer Inst Monogr. 1985 Dec;69:187-90
+     </refsource>
+     <pmid version="1">
+      3834330
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Cancer. 1984 Jun;49(6):723-9
+     </refsource>
+     <pmid version="1">
+      6547346
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Epidemiol. 1978 Jun;107(6):499-509
+     </refsource>
+     <pmid version="1">
+      665664
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Prev Med. 1978 Jun;7(2):173-95
+     </refsource>
+     <pmid version="1">
+      674105
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Epidemiol. 1982 Jul;116(1):68-75
+     </refsource>
+     <pmid version="1">
+      7102657
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int J Cancer. 1981 Dec;28(6):685-9
+     </refsource>
+     <pmid version="1">
+      7333703
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Natl Cancer Inst. 1995 Jan 18;87(2):110-6
+     </refsource>
+     <pmid version="1">
+      7503842
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int J Cancer. 1995 Sep 27;63(1):13-7
+     </refsource>
+     <pmid version="1">
+      7558440
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Cancer. 1995 Jun;71(6):1353-8
+     </refsource>
+     <pmid version="1">
+      7779738
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Epidemiology. 1994 Jul;5(4):391-7
+     </refsource>
+     <pmid version="1">
+      7918807
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int J Cancer. 1994 Sep 15;58(6):774-80
+     </refsource>
+     <pmid version="1">
+      7927867
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Eur J Cancer Prev. 1994 Jul;3(4):313-20
+     </refsource>
+     <pmid version="1">
+      7950885
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Cancer. 1994 Aug 1;74(3 Suppl):1055-62
+     </refsource>
+     <pmid version="1">
+      8039139
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Intern Med. 1994 Aug 22;154(16):1805-11
+     </refsource>
+     <pmid version="1">
+      8053747
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Cancer. 1994 Sep;70(3):537-41
+     </refsource>
+     <pmid version="1">
+      8080743
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Natl Cancer Inst. 1993 Nov 17;85(22):1819-27
+     </refsource>
+     <pmid version="1">
+      8230262
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Nutr Cancer. 1993;19(3):327-35
+     </refsource>
+     <pmid version="1">
+      8346081
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Cancer. 1993 Sep;68(3):627-36
+     </refsource>
+     <pmid version="1">
+      8353053
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Cancer Res. 1993 Jan 1;53(1):75-82
+     </refsource>
+     <pmid version="1">
+      8416752
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1996 Feb 8;334(6):356-61
+     </refsource>
+     <pmid version="1">
+      8538706
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Cancer. 1996 Mar;73(5):680-6
+     </refsource>
+     <pmid version="1">
+      8605107
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Cancer. 1996 Mar;73(5):687-91
+     </refsource>
+     <pmid version="1">
+      8605108
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1996 May 18;347(9012):1351-6
+     </refsource>
+     <pmid version="1">
+      8637339
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Rev Clin Esp. 1996 Feb;196(2):75-81
+     </refsource>
+     <pmid version="1">
+      8685492
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int J Cancer. 1995 Dec 11;63(6):785-9
+     </refsource>
+     <pmid version="1">
+      8847134
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Breast Cancer Res Treat. 1997 Feb;42(3):243-51
+     </refsource>
+     <pmid version="1">
+      9065608
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Nutr Cancer. 1997;28(1):14-9
+     </refsource>
+     <pmid version="1">
+      9200145
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Cancer Res. 1997 Sep 15;57(18):3979-88
+     </refsource>
+     <pmid version="1">
+      9307282
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Intern Med. 1998 Jan 12;158(1):41-5
+     </refsource>
+     <pmid version="1">
+      9437377
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Natl Cancer Inst. 1998 Feb 4;90(3):226-33
+     </refsource>
+     <pmid version="1">
+      9462680
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int J Cancer. 1998 Mar 16;75(6):825-30
+     </refsource>
+     <pmid version="1">
+      9506525
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int J Cancer. 1998 May 18;76(4):491-4
+     </refsource>
+     <pmid version="1">
+      9590123
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int J Cancer. 1999 Jan 5;80(1):13-7
+     </refsource>
+     <pmid version="1">
+      9935222
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1999 Mar 10;281(10):914-20
+     </refsource>
+     <pmid version="1">
+      10078488
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Epidemiol. 1999 May;52(5):429-39
+     </refsource>
+     <pmid version="1">
+      10360338
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int J Epidemiol. 2000 Feb;29(1):20-8
+     </refsource>
+     <pmid version="1">
+      10750599
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Natl Cancer Inst. 2000 May 17;92(10):833-9
+     </refsource>
+     <pmid version="1">
+      10814679
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int J Cancer. 2001 Sep15;93(6):888-93
+     </refsource>
+     <pmid version="1">
+      11519053
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Bull Cancer. 2001 Oct;88(10):954-8
+     </refsource>
+     <pmid version="1">
+      11713032
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Zhonghua Liu Xing Bing Xue Za Zhi. 2000 Jun;21(3):216-20
+     </refsource>
+     <pmid version="1">
+      11860789
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Environ Mol Mutagen. 2002;39(2-3):82-8
+     </refsource>
+     <pmid version="1">
+      11921173
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Cancer Epidemiol Biomarkers Prev. 2002 Sep;11(9):795-800
+     </refsource>
+     <pmid version="1">
+      12223421
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 2003 Jul 19;362(9379):182-3
+     </refsource>
+     <pmid version="1">
+      12885475
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 2003 Jul 19;362(9379):212-4
+     </refsource>
+     <pmid version="1">
+      12885485
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1992 Oct 21;268(15):2037-44
+     </refsource>
+     <pmid version="1">
+      1328696
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Epidemiol. 1992 Dec 1;136(11):1327-37
+     </refsource>
+     <pmid version="1">
+      1336931
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Breast Cancer Res Treat. 1992;24(1):51-9
+     </refsource>
+     <pmid version="1">
+      1463872
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Natl Cancer Inst. 1992 Jul 15;84(14):1092-9
+     </refsource>
+     <pmid version="1">
+      1619683
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1991 May 18;337(8751):1197-200
+     </refsource>
+     <pmid version="1">
+      1673746
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int J Cancer. 1991 Mar 12;47(5):649-53
+     </refsource>
+     <pmid version="1">
+      1848533
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Cancer. 1991 Jul;64(1):187-91
+     </refsource>
+     <pmid version="1">
+      1854621
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Breast Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Case-Control Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cohort Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dietary Fats
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC2394401
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      30
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      30
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     14583769
+    </articleid>
+    <articleid idtype="doi">
+     10.1038/sj.bjc.6601314
+    </articleid>
+    <articleid idtype="pii">
+     6601314
+    </articleid>
+    <articleid idtype="pmc">
+     PMC2394401
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,327 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10629474
+   </pmid>
+   <datecreated>
+    <year>
+     2000
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     03
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2000
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     03
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0194-5998
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       122
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+       <month>
+        Jan
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery
+     </title>
+     <isoabbreviation>
+      Otolaryngol Head Neck Surg
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Diagnosis and treatment of uncomplicated acute bacterial rhinosinusitis: summary of the Agency for Health Care Policy and Research evidence-based report.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1-7
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="PURPOSE" nlmcategory="OBJECTIVE">
+      The goal was to critically examine evidence regarding the performance of diagnostic tests and the efficacy of antibiotic and other treatments for uncomplicated acute bacterial rhinosinusitis (ABR).
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Scientific literature was reviewed, and meta-analysis methods were used to assess diagnostic test and antibiotic efficacy. A decision analysis and cost-effective analysis were performed.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Although more sensitive than clinical examination for diagnosis of ABR, sinus radiograms are not cost-effective as an initial management strategy. Antibiotics reduce the incidence of clinical failures by one half compared to no treatment and, when coupled with clinical criteria-based diagnosis, present the most cost-effective treatment strategy. However, without antibiotics, symptoms in two thirds of patients improve by 14 days with no serious complications. The risk of treatment failure does not differ significantly between amoxicillin or folate inhibitors and newer, more expensive antibiotics.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The current literature shows that treatment of uncomplicated ABR with amoxicillin or folate inhibitors and based on clinical criteria is the most cost-effective strategy.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Henry Ford Health System, American Academy of Otolaryngology-Head and Neck Surgery Foundation, Alexandria, VA, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Benninger
+      </lastname>
+      <forename>
+       M S
+      </forename>
+      <initials>
+       MS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sedory Holzer
+      </lastname>
+      <forename>
+       S E
+      </forename>
+      <initials>
+       SE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lau
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Otolaryngol Head Neck Surg
+    </medlineta>
+    <nlmuniqueid>
+     8508176
+    </nlmuniqueid>
+    <issnlinking>
+     0194-5998
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Bacterial Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      26787-78-0
+     </registrynumber>
+     <nameofsubstance>
+      Amoxicillin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Otolaryngol Head Neck Surg. 2000 Nov;123(5):665-7
+     </refsource>
+     <pmid version="1">
+      11077370
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Acute Disease
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Amoxicillin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Bacterial Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bacterial Infections
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cost-Benefit Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Evidence-Based Medicine
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Rhinitis
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sinusitis
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      12
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2000
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      12
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      12
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10629474
+    </articleid>
+    <articleid idtype="pii">
+     S0194599800696146
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

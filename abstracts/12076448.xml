@@ -1,0 +1,326 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12076448
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     21
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     09
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Tricyclic drugs for depression in children and adolescents.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD002317
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      There is a need to identify effective and safe treatments for depression in children and adolescents. While tricyclic drugs are effective in treating depression in adults, individual studies involving children and adolescents have been equivocal.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To assess the effects of oral tricyclic antidepressants compared to placebo in the treatment of child and adolescent depression.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      We searched MEDLINE (1966-1997), EMBASE, Excerpta Medica (June 1974-1997), the Cochrane Collaboration Depression, Anxiety and Neurosis Group trials register (most recent search 25/1/2000) and bibliographies of previously published reviews and papers describing original research were cross-checked. Current Contents was screened for recent publications. We contacted authors of relevant abstracts in conference proceedings of the American Academy of Child and Adolescent Psychiatry, and we hand searched the Journal of the American Academy of Child and Adolescent Psychiatry (1978-1999).
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      Randomised controlled trials comparing the efficacy of orally administered tricyclic medication with placebo in depressed people aged 6-18 years.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      Most studies reported multiple outcome measures including depression scales and clinical global impression scales. For each study the best available depression measure was taken as the index measure of depression outcome. Predetermined criteria were established to assist in the ranking of measures. Where authors reported categorical outcomes we calculated individual and pooled odds ratios for the odds of improvement in treated compared with control subjects. For continuous outcomes pooled effect sizes were calculated as the number of standard deviations by which the change in depression scores for the treatment group exceeded those for the control groups.
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      Thirteen trials (involving 506 participants) were included. No overall improvement with treatment compared to placebo was seen for children or adolescents (odds ratio = 0.84, 95% confidence interval 0.56 to 1.25). A statistically significant but small benefit of treatment over placebo was seen in reducing symptoms (effect size (standardised mean difference) = -0.31, 95% confidence interval -0.62 to -0.01). Subgroup analyses suggest a larger benefit among adolescents (effect size = -0.47, 95% confidence interval -0.92 to -0.02), and no benefit among children (effect size = 0.15, 95% confidence interval -0.34 to 0.64). Treatment with a tricyclic antidepressant caused more vertigo (odds ratio = 4.38, 95% confidence interval 2.33 to 8.25), orthostatic hypotension (odds ratio = 6.78, 95% confidence interval 2.06 to 22.26), tremor (odds ratio 6.29, 95% confidence interval 1.78 to 22.17) and dry mouth (odds ratio = 5.17, 95% confidence interval 2.68 to 29.99) than did placebo, but no statistically significant difference was found for other possible adverse effects.
+     </abstracttext>
+     <abstracttext label="REVIEWER'S CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Data suggest tricyclic antidepressants are not useful in treating depression in pre pubertal children. There is marginal evidence to support the use of tricyclic antidepressants in the treatment of depression in adolescents, although the magnitude of effect is likely to be moderate at best.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Child and Youth Mental Health Service, Hunter Mental Health Service, Wallsend Hospital, Wallsend Hospital, Locked Bag 1014, Wallsend, New South Wales, Australia, 2287. hazell@mail.newcastle.edu.au
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Hazell
+      </lastname>
+      <forename>
+       P
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       O'Connell
+      </lastname>
+      <forename>
+       D
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Heathcote
+      </lastname>
+      <forename>
+       D
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Henry
+      </lastname>
+      <forename>
+       D
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antidepressive Agents, Tricyclic
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="UpdateOf">
+     <refsource>
+      Cochrane Database Syst Rev. 2000;(3):CD002317
+     </refsource>
+     <pmid version="1">
+      10908557
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Administration, Oral
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antidepressive Agents, Tricyclic
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Confidence Intervals
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Depression
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Odds Ratio
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Outcome Assessment (Health Care)
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    35
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      22
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      22
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12076448
+    </articleid>
+    <articleid idtype="pii">
+     CD002317
+    </articleid>
+    <articleid idtype="doi">
+     10.1002/14651858.CD002317
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

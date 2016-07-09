@@ -1,0 +1,410 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15103233
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     12
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     02
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print-Electronic">
+    <journal>
+     <issn issntype="Print">
+      0378-7346
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       58
+      </volume>
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Gynecologic and obstetric investigation
+     </title>
+     <isoabbreviation>
+      Gynecol. Obstet. Invest.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     A double-blinded, randomized controlled trial of oxytocin at the beginning versus the end of the third stage of labor for prevention of postpartum hemorrhage.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      72-6
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      The objective of this study was to compare the administration of oxytocin at the beginning and end of the third stage of labor for the prevention of postpartum hemorrhage.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Patients with documented singleton pregnancies were randomly assigned to two groups. The first received 10 units of oxytocin intramuscularly at delivery of the anterior shoulder of the fetus and an identical appearing placebo injection following delivery of the placenta. The second received the opposite medication sequence. The study was double blinded. Blood loss was measured by weighing all fluids collected, visual estimation, and serial blood counts.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      27 women received oxytocin at the delivery of the fetal shoulder and 24 after the placenta. Oxytocin given after placenta delivery resulted in lower blood loss (345 vs. 400 ml, p = 0.28), lower collection bag weight (763 vs. 833 g, p = 0.55), lower change in HgB (-1.26 vs. -1.32 g, p = 0.86), lower DeltaHCT (-3.43 vs. -3.64%, p = 0.85), and a shorter third stage of labor duration (8.6 vs. 9.2 min, p = 0.75). The incidence of postpartum hemorrhage, defined as estimated blood loss &gt;500 ml (0 vs. 14.8%) was significantly lowered with oxytocin following placental delivery (p = 0.049).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      In our study, postpartum hemorrhage was less frequent when oxytocin administration was delayed until after placenta delivery.
+     </abstracttext>
+     <copyrightinformation>
+      Copyright 2004 S. Karger AG, Basel
+     </copyrightinformation>
+    </abstract>
+    <affiliation>
+     Division of Maternal-Fetal Medicine, Department of Obstetrics and Gynecology, Tufts University School of Medicine/Tufts-New England Medical Center, Boston, Mass. 02111, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Huh
+      </lastname>
+      <forename>
+       Warner K
+      </forename>
+      <initials>
+       WK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Chelmow
+      </lastname>
+      <forename>
+       David
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Malone
+      </lastname>
+      <forename>
+       Fergal D
+      </forename>
+      <initials>
+       FD
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2004
+     </year>
+     <month>
+      04
+     </month>
+     <day>
+      20
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     Switzerland
+    </country>
+    <medlineta>
+     Gynecol Obstet Invest
+    </medlineta>
+    <nlmuniqueid>
+     7900587
+    </nlmuniqueid>
+    <issnlinking>
+     0378-7346
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      50-56-6
+     </registrynumber>
+     <nameofsubstance>
+      Oxytocin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Confidence Intervals
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dose-Response Relationship, Drug
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Administration Schedule
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Follow-Up Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Gestational Age
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Injections, Intramuscular
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Labor Stage, First
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Labor Stage, Third
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Oxytocin
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Postpartum Hemorrhage
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pregnancy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Pregnancy Outcome
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Primary Prevention
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Probability
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Reference Values
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Assessment
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      23
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="received">
+     <year>
+      2003
+     </year>
+     <month>
+      May
+     </month>
+     <day>
+      8
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="accepted">
+     <year>
+      2004
+     </year>
+     <month>
+      Feb
+     </month>
+     <day>
+      16
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="aheadofprint">
+     <year>
+      2004
+     </year>
+     <month>
+      Apr
+     </month>
+     <day>
+      20
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      23
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     15103233
+    </articleid>
+    <articleid idtype="doi">
+     10.1159/000078095
+    </articleid>
+    <articleid idtype="pii">
+     78095
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

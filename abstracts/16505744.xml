@@ -1,0 +1,434 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    16505744
+   </pmid>
+   <datecreated>
+    <year>
+     2006
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     27
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2006
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     26
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0148-5717
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       33
+      </volume>
+      <issue>
+       5
+      </issue>
+      <pubdate>
+       <year>
+        2006
+       </year>
+       <month>
+        May
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Sexually transmitted diseases
+     </title>
+     <isoabbreviation>
+      Sex Transm Dis
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Prevalence of Neisseria Gonorrhoeae among men screened for Chlamydia Trachomatis in four United States cities, 1999-2003.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      314-9
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      Neisseria gonorrhoeae infections are the second most commonly reported disease in the United States and cause significant morbidity. We describe the prevalence of gonorrhea in a large sample of men tested for gonorrhea and Chlamydia trachomatis in Baltimore, Denver, San Francisco, and Seattle.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Gonorrhea prevalence was measured among 17,712 men tested in a variety of non-sexually transmitted disease (STD) clinic venues using urine-based nucleic acid amplification tests.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Among 16,850 asymptomatic men, prevalence ranged from 0% to 1.5% by city (P=0.20): Baltimore 1.3%, Denver 1.5%, San Francisco 1.5%, and Seattle 0%. Among 862 symptomatic men, the gonorrhea prevalence varied from 0.0% to 28.3% by city (P&lt;0.01).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The high prevalence of gonorrhea in symptomatic men supports the importance of testing for symptomatic men. The prevalence of gonorrhea among asymptomatic men is low, and routine screening cannot be recommended when screening is performed for chlamydia, unless a substantial local prevalence of gonorrhea can be documented in specific targeted venues or population groups.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA. cgaydos@jhmi.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Gaydos
+      </lastname>
+      <forename>
+       Charlotte Ann
+      </forename>
+      <initials>
+       CA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kent
+      </lastname>
+      <forename>
+       Charlotte Kathleen
+      </forename>
+      <initials>
+       CK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rietmeijer
+      </lastname>
+      <forename>
+       Cornelis Arthur
+      </forename>
+      <initials>
+       CA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Willard
+      </lastname>
+      <forename>
+       Nancy Jo
+      </forename>
+      <initials>
+       NJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Marrazzo
+      </lastname>
+      <forename>
+       Jeanne Marisa
+      </forename>
+      <initials>
+       JM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Chapin
+      </lastname>
+      <forename>
+       Johanna Beach
+      </forename>
+      <initials>
+       JB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dunne
+      </lastname>
+      <forename>
+       Eileen Frances
+      </forename>
+      <initials>
+       EF
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Markowitz
+      </lastname>
+      <forename>
+       Lauri Ellen
+      </forename>
+      <initials>
+       LE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Klausner
+      </lastname>
+      <forename>
+       Jeffrey David
+      </forename>
+      <initials>
+       JD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ellen
+      </lastname>
+      <forename>
+       Jonathan Mark
+      </forename>
+      <initials>
+       JM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schillinger
+      </lastname>
+      <forename>
+       Julia Ann
+      </forename>
+      <initials>
+       JA
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       U30/CCV317876
+      </grantid>
+      <agency>
+       PHS HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Sex Transm Dis
+    </medlineta>
+    <nlmuniqueid>
+     7705941
+    </nlmuniqueid>
+    <issnlinking>
+     0148-5717
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Chlamydia Infections
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      microbiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Chlamydia trachomatis
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      isolation &amp; purification
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Gonorrhea
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      microbiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Mass Screening
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Neisseria gonorrhoeae
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      isolation &amp; purification
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prevalence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      United States
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Urban Health
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2006
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2006
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      27
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2006
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="doi">
+     10.1097/01.olq.0000194572.51186.96
+    </articleid>
+    <articleid idtype="pubmed">
+     16505744
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

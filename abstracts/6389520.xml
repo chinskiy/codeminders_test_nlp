@@ -1,0 +1,403 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    6389520
+   </pmid>
+   <datecreated>
+    <year>
+     1985
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     15
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1985
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     15
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0160-6689
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       45
+      </volume>
+      <issue>
+       12
+      </issue>
+      <pubdate>
+       <year>
+        1984
+       </year>
+       <month>
+        Dec
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The Journal of clinical psychiatry
+     </title>
+     <isoabbreviation>
+      J Clin Psychiatry
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Evaluation of lithium therapy for alcoholism.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      494-9
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      The efficacy of lithium therapy for alcoholism was examined in 84 alcoholic volunteers admitted for rehabilitation. Subjects were randomly assigned to a lithium or placebo treatment condition for 18 months, and were reinterviewed monthly to document their compliance, drinking status, and mood. Two separate factors contributed to abstinent outcome: therapeutic serum lithium levels (greater than or equal to 0.4 mEq/L) and medication compliance. Recommendations are proposed for studying compliance effects in future treatment studies.
+     </abstracttext>
+    </abstract>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Fawcett
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Clark
+      </lastname>
+      <forename>
+       D C
+      </forename>
+      <initials>
+       DC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gibbons
+      </lastname>
+      <forename>
+       R D
+      </forename>
+      <initials>
+       RD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Aagesen
+      </lastname>
+      <forename>
+       C A
+      </forename>
+      <initials>
+       CA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pisani
+      </lastname>
+      <forename>
+       V D
+      </forename>
+      <initials>
+       VD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tilkin
+      </lastname>
+      <forename>
+       J M
+      </forename>
+      <initials>
+       JM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sellers
+      </lastname>
+      <forename>
+       D
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Stutzman
+      </lastname>
+      <forename>
+       D
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       AA-04-240
+      </grantid>
+      <acronym>
+       AA
+      </acronym>
+      <agency>
+       NIAAA NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     J Clin Psychiatry
+    </medlineta>
+    <nlmuniqueid>
+     7801243
+    </nlmuniqueid>
+    <issnlinking>
+     0160-6689
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Placebos
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      7439-93-2
+     </registrynumber>
+     <nameofsubstance>
+      Lithium
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Alcoholism
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      psychology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Clinical Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Depressive Disorder
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      psychology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lithium
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Outcome and Process Assessment (Health Care)
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Patient Compliance
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Placebos
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Psychiatric Status Rating Scales
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Random Allocation
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Recurrence
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1984
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1984
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1984
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     6389520
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,563 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10691158
+   </pmid>
+   <datecreated>
+    <year>
+     2000
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     13
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2000
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     13
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0742-3071
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       17
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+       <month>
+        Jan
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Diabetic medicine : a journal of the British Diabetic Association
+     </title>
+     <isoabbreviation>
+      Diabet. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Addition of low-dose rosiglitazone to sulphonylurea therapy improves glycaemic control in Type 2 diabetic patients.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      40-7
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="AIMS" nlmcategory="OBJECTIVE">
+      This study was designed to test the efficacy and safety of low-dose rosiglitazone, a potent, insulin-sensitizing thiazolidinedione, in combination with sulphonylurea in Type 2 diabetic patients.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      For the intention-to-treat analysis, 574 patients (59% male, mean age 61 years) were available, randomized to receive 26 weeks of twice-daily placebo (n = 192), rosiglitazone 1 mg (n = 199) or rosiglitazone 2 mg (n = 183) in addition to existing sulphonylurea treatment with gliclazide (47.6% of patients), glibenclamide (41.8%) or glipizide (9.4%) (two patients were taking carbutamide or glimepiride). Change in haemoglobin A1c (HbA1c), fasting plasma glucose (FPG), fructosamine, insulin, C-peptide, albumin, and lipids were measured, and safety was evaluated.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Mean baseline HbA1c was 9.2% and FPG was 11.4 mmol/l. Rosiglitazone at doses of 1 and 2 mg b.d. plus sulphonylurea produced significant decreases, compared with sulphonylurea plus placebo, in HbA1c (-0.59% and -1.03%, respectively; both P&lt;0.0001) and FPG (1.35 mmol/l and 2.44 mmol/l, respectively; both P&lt;0.0001). Both HDL-cholesterol and LDL-cholesterol increased and potentially beneficial decreases in non-esterified fatty acids and gamma glutamyl transpeptidase levels were seen in both rosiglitazone groups. The overall incidence of adverse experiences was similar in all three treatment groups, with no significant cardiac events, hypoglycaemia or hepatotoxicity.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Overall, the combination of rosiglitazone and a sulphonylurea was safe, well tolerated and effective in patients with Type 2 diabetes.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     University Hospital Maastricht, The Netherlands. bwo@sint.azm.nl
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Wolffenbuttel
+      </lastname>
+      <forename>
+       B H
+      </forename>
+      <initials>
+       BH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gomis
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Squatrito
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jones
+      </lastname>
+      <forename>
+       N P
+      </forename>
+      <initials>
+       NP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Patwardhan
+      </lastname>
+      <forename>
+       R N
+      </forename>
+      <initials>
+       RN
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Clinical Trial, Phase III
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     ENGLAND
+    </country>
+    <medlineta>
+     Diabet Med
+    </medlineta>
+    <nlmuniqueid>
+     8500858
+    </nlmuniqueid>
+    <issnlinking>
+     0742-3071
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Blood Glucose
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      C-Peptide
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cholesterol, HDL
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cholesterol, LDL
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Hypoglycemic Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Thiazoles
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Thiazolidinediones
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Triglycerides
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      10238-21-8
+     </registrynumber>
+     <nameofsubstance>
+      Glyburide
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      11061-68-0
+     </registrynumber>
+     <nameofsubstance>
+      Insulin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      122320-73-4
+     </registrynumber>
+     <nameofsubstance>
+      rosiglitazone
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      21187-98-4
+     </registrynumber>
+     <nameofsubstance>
+      Gliclazide
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      29094-61-9
+     </registrynumber>
+     <nameofsubstance>
+      Glipizide
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      4429-04-3
+     </registrynumber>
+     <nameofsubstance>
+      Fructosamine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      57-88-5
+     </registrynumber>
+     <nameofsubstance>
+      Cholesterol
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2000 Sep-Oct;133(2):49
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Glucose
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      C-Peptide
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cholesterol
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cholesterol, HDL
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cholesterol, LDL
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetes Mellitus, Type 2
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Therapy, Combination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      Europe
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fructosamine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Gliclazide
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Glipizide
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Glyburide
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypoglycemic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Insulin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Safety
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Thiazoles
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Thiazolidinediones
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Triglycerides
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2000
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10691158
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

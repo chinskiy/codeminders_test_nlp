@@ -1,0 +1,515 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    9103344
+   </pmid>
+   <datecreated>
+    <year>
+     1997
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     28
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1997
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     28
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       277
+      </volume>
+      <issue>
+       15
+      </issue>
+      <pubdate>
+       <year>
+        1997
+       </year>
+       <month>
+        Apr
+       </month>
+       <day>
+        16
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Bioequivalence of generic and brand-name levothyroxine products in the treatment of hypothyroidism.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1205-13
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To compare relative bioavailability of Synthroid, Levoxine (Levoxine has been renamed Levoxyl), and 2 generic levothyroxine sodium preparations.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Single-blind (primary investigators blinded), randomized, 4-way crossover trial.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      Ambulatory care.
+     </abstracttext>
+     <abstracttext label="PATIENTS" nlmcategory="METHODS">
+      Twenty-two women with hypothyroidism who were clinically and chemically euthyroid and were receiving levothyroxine sodium, 0.1 or 0.15 mg.
+     </abstracttext>
+     <abstracttext label="INTERVENTIONS" nlmcategory="METHODS">
+      All patients received each of the 4 levothyroxine products for 6-week periods in the same dosage as their prestudy regimen with no washout period. The order of the drug sequences was randomly determined before study initiation.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      Area under the curve, time to peak serum concentrations, and peak serum concentrations of thyroxine, triiodothyronine, and free thyroxine index for all 4 products.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      All data analyses were completed prior to unblinding of the product codes. No significant differences between the 4 products were found in area under the curve or peak serum concentrations of total thyroxine, total triiodothyronine, or free thyroxine index. Although Synthroid produced a more rapid rise in total serum triiodothyronine concentration and a higher total peak serum triiodothyronine concentration than the other products, these differences were not statistically significant (P=.08). The Food and Drug Administration criterion for relative bioequivalence within 90% confidence intervals (0.8-1.25) was demonstrated (P&lt;.05) for all pairs of products. Relative bioequivalence of 0.95 to 1.07 was demonstrated, tighter than the current bioequivalence criterion for oral formulations.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The 4 generic and brand-name levothyroxine preparations studied are different but are bioequivalent by current Food and Drug Administration criteria and are interchangeable in the majority of patients receiving thyroxine replacement therapy. Further investigation is required to determine whether our results are equally applicable to all existing levothyroxine preparations.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Clinical Pharmacy, University of California Medical Center, San Francisco 94143-0622, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Dong
+      </lastname>
+      <forename>
+       B J
+      </forename>
+      <initials>
+       BJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hauck
+      </lastname>
+      <forename>
+       W W
+      </forename>
+      <initials>
+       WW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gambertoglio
+      </lastname>
+      <forename>
+       J G
+      </forename>
+      <initials>
+       JG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gee
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       White
+      </lastname>
+      <forename>
+       J R
+      </forename>
+      <initials>
+       JR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bubp
+      </lastname>
+      <forename>
+       J L
+      </forename>
+      <initials>
+       JL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Greenspan
+      </lastname>
+      <forename>
+       F S
+      </forename>
+      <initials>
+       FS
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Drugs, Generic
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      6893-02-3
+     </registrynumber>
+     <nameofsubstance>
+      Triiodothyronine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      7488-70-2
+     </registrynumber>
+     <nameofsubstance>
+      Thyroxine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      9002-71-5
+     </registrynumber>
+     <nameofsubstance>
+      Thyrotropin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 1997 Sep 17;278(11):897; author reply 898-9
+     </refsource>
+     <pmid version="1">
+      9302236
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 1997 Sep 17;278(11):897; author reply 898-9
+     </refsource>
+     <pmid version="1">
+      9302237
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 1997 Sep 17;278(11):896; author reply 898-9
+     </refsource>
+     <pmid version="1">
+      9302233
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 1997 Apr 16;277(15):1238-43
+     </refsource>
+     <pmid version="1">
+      9103350
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 1997 Sep 17;278(11):895; author reply 898-9
+     </refsource>
+     <pmid version="1">
+      9302231
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 1997 Sep 17;278(11):897-8; author reply 898-900
+     </refsource>
+     <pmid version="1">
+      9302239
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 1997 Apr 16;277(15):1199-200
+     </refsource>
+     <pmid version="1">
+      9103337
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 1997 Sep 17;278(11):896-7; author reply 898-9
+     </refsource>
+     <pmid version="1">
+      9302235
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 1997 Sep 17;278(11):897; author reply 898-900
+     </refsource>
+     <pmid version="1">
+      9302238
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 1997 Sep 17;278(11):895-6; author reply 898-9
+     </refsource>
+     <pmid version="1">
+      9302232
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 1997 Apr 16;277(15):1200-1
+     </refsource>
+     <pmid version="1">
+      9103338
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Area Under Curve
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cross-Over Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Industry
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drugs, Generic
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      pharmacokinetics
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypothyroidism
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Therapeutic Equivalency
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Thyroid Function Tests
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Thyrotropin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Thyroxine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      pharmacokinetics
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Triiodothyronine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1997
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      16
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1997
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1997
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     9103344
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,412 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11988059
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     03
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     14
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       287
+      </volume>
+      <issue>
+       18
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        May
+       </month>
+       <day>
+        8
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Cost-effectiveness of alternative triage strategies for atypical squamous cells of undetermined significance.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      2382-90
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Every year approximately 2 million US women are diagnosed as having a cervical cytological result of atypical squamous cells of undetermined significance (ASC-US).
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To determine the most efficient and cost-effective management strategy for women in the United States diagnosed as having ASC-US.
+     </abstracttext>
+     <abstracttext label="DESIGN AND SETTING" nlmcategory="METHODS">
+      Cost-effectiveness analysis of data from clinical trials, prospective studies, and other published literature. A computer-based model was used to compare 4 management strategies for a cytological result of ASC-US: immediate colposcopy; human papillomavirus (HPV) triage, which includes colposcopy if high-risk HPV types are detected; repeat cytology, which includes follow-up cytology at 6 and 12 months and referral for colposcopy if a repeat abnormal result occurs; and reclassifying ASC-US as normal in which a cytological result of ASC-US is ignored. Reflex HPV DNA testing uses either residual liquid-based cytological specimens or samples co-collected at the time of the initial screening for conventional cytology. Another method, referred to as the 2-visit HPV DNA triage, requires a woman with an ASC-US result to return within 1 month to provide another speciman sample.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      Years of life saved (YLS), quality-adjusted life-years (QALYs), and incremental cost-effectiveness ratios.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The least costly strategy for biennial screening was to reclassify ASC-US as normal, resulting in a reduction in total cancer incidence of 75% for conventional cytology and 84% for liquid-based cytology compared with no screening. The next least costly strategy was HPV DNA testing resulting in a reduction in total cancer incidence of 86% for conventional cytology and 90% for liquid-based cytology, followed by immediate colposcopy with a reduction of 87% and 91%, respectively. Compared with reflex HPV DNA testing, a strategy of repeat cervical cytology or delayed HPV testing costs more but is less effective. When all strategies were compared simultaneously, varying frequency and type of cytological test, biennial (vs every 3 years) liquid-based cytology with reflex HPV testing had a cost of $174 200 per YLS. In a similar comparison, liquid-based cytology with reflex HPV testing conducted every 3 years (vs every 5 years) had a cost of $59 600 per YLS and was more effective and less costly than a strategy of conventional cytology incorporating repeat cytology or immediate colposcopy conducted biennially.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Reflex HPV DNA testing provides the same or greater life expectancy benefits and is more cost-effective than other management strategies for women diagnosed as having ASC-US.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Health Policy and Management, Harvard Center for Risk Analysis, 718 Huntington Ave, Second Floor, Boston, MA 02115, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Kim
+      </lastname>
+      <forename>
+       Jane J
+      </forename>
+      <initials>
+       JJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wright
+      </lastname>
+      <forename>
+       Thomas C
+      </forename>
+      <initials>
+       TC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Goldie
+      </lastname>
+      <forename>
+       Sue J
+      </forename>
+      <initials>
+       SJ
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      DNA, Viral
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2002 May 8;287(18):2428-9
+     </refsource>
+     <pmid version="1">
+      11988064
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cervical Intraepithelial Neoplasia
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      virology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Colposcopy
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cost-Benefit Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      DNA, Viral
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      analysis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Disease Progression
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Health Status Indicators
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Mass Screening
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Models, Theoretical
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Papillomaviridae
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      isolation &amp; purification
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Papillomavirus Infections
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Quality-Adjusted Life Years
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tumor Virus Infections
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      United States
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Uterine Cervical Dysplasia
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      virology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Uterine Cervical Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      virology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vaginal Smears
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      4
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      15
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      4
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11988059
+    </articleid>
+    <articleid idtype="pii">
+     joc11842
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

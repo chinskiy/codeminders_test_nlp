@@ -1,0 +1,570 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12937105
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     25
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     24
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1468-2044
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       88
+      </volume>
+      <issue>
+       9
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Sep
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Archives of disease in childhood
+     </title>
+     <isoabbreviation>
+      Arch. Dis. Child.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Severe and unrecognised: pertussis in UK infants.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      802-6
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="AIMS" nlmcategory="OBJECTIVE">
+      To diagnose pertussis using culture, polymerase chain reaction, and serology, in children admitted to intensive care units (PICUs) and some paediatric wards in London, and in their household contacts to determine the source of infection.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Infants &lt;5 months old admitted to London PICUs between 1998 and 2000 with respiratory failure, apnoea and/or bradycardia, or acute life threatening episodes (ALTE), and children &lt;15 years admitted to paediatric wards at St Mary's and St George's Hospitals between 1999 and 2000 with lower respiratory tract infection, apnoea, or ALTE were studied.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Sixty seven per cent of eligible children (142/212) were recruited; 23% (33/142) had pertussis, 19.8% (25/126) on the PICU and 50% (8/16) on wards. Two died. Only 4% (6/142) were culture positive. Pertussis was clinically suspected on admission in 28% of infants (7/25) on the PICU and 75% (6/8) on the wards. Infants on PICU with pertussis coughed for longer, had apnoeas and whooped more often, and a higher lymphocyte count than infants without pertussis. Pertussis and respiratory syncytial virus (RSV) co-infection was frequent (11/33, 33%). Pertussis was confirmed in 22/33 (67%) of those who were first to become ill in the family. For 14/33 children the source of infection was a parent; for 9/33 the source of pertussis was an older fully vaccinated child in the household.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Severe pertussis is under diagnosed. An RSV diagnosis does not exclude pertussis. Future changes to the UK vaccination programme should aim to reduce pertussis transmission to young infants by their parents and older siblings.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Immunisation Division, HPA Communicable Disease Surveillance Centre, 61 Colindale Avenue, London NW9 5EQ, UK. natasha.crowcroft@hpa.org.uk
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Crowcroft
+      </lastname>
+      <forename>
+       N S
+      </forename>
+      <initials>
+       NS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Booy
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Harrison
+      </lastname>
+      <forename>
+       T
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Spicer
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Britto
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Mok
+      </lastname>
+      <forename>
+       Q
+      </forename>
+      <initials>
+       Q
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Heath
+      </lastname>
+      <forename>
+       P
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Murdoch
+      </lastname>
+      <forename>
+       I
+      </forename>
+      <initials>
+       I
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Zambon
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       George
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Miller
+      </lastname>
+      <forename>
+       E
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Arch Dis Child
+    </medlineta>
+    <nlmuniqueid>
+     0372434
+    </nlmuniqueid>
+    <issnlinking>
+     0003-9888
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Bacterial Agents
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Dis Child. 1999 Mar;80(3):297-9
+     </refsource>
+     <pmid version="1">
+      10325717
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1999 Nov 13;354(9191):1699-700
+     </refsource>
+     <pmid version="1">
+      10568576
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Microbiol. 2000 Feb;38(2):800-6
+     </refsource>
+     <pmid version="1">
+      10655388
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Epidemiol Infect. 1999 Dec;123(3):403-11
+     </refsource>
+     <pmid version="1">
+      10694150
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Vaccine. 2002 Jan 31;20(9-10):1316-30
+     </refsource>
+     <pmid version="1">
+      11818150
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Curr Opin Infect Dis. 2001 Jun;14(3):329-35
+     </refsource>
+     <pmid version="1">
+      11964852
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Dis Child. 2002 May;86(5):336-8
+     </refsource>
+     <pmid version="1">
+      11970924
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 2002 Jun 29;324(7353):1537-8
+     </refsource>
+     <pmid version="1">
+      12089076
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Microbiol. 1990 Sep;28(9):1982-7
+     </refsource>
+     <pmid version="1">
+      2229381
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Res Microbiol. 1989 Sep;140(7):477-87
+     </refsource>
+     <pmid version="1">
+      2560238
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1987 Jan 10;1(8524):96
+     </refsource>
+     <pmid version="1">
+      2879188
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Acta Paediatr Jpn. 1996 Jun;38(3):282-5
+     </refsource>
+     <pmid version="1">
+      8741324
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 1998 Apr;17(4):353-4
+     </refsource>
+     <pmid version="1">
+      9576398
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Microbiol. 1998 Oct;36(10):2990-5
+     </refsource>
+     <pmid version="1">
+      9738055
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="ErratumIn">
+     <refsource>
+      Arch Dis Child. 2006 May;91(5):453
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Bacterial Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Critical Illness
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hospitalization
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant, Newborn
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Intensive Care Units
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      London
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Polymerase Chain Reaction
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Respiratory Insufficiency
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      virology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Respiratory Syncytial Virus Infections
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vaccination
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      standards
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Whooping Cough
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC1719623
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12937105
+    </articleid>
+    <articleid idtype="pmc">
+     PMC1719623
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

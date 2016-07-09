@@ -1,0 +1,366 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11667937
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     22
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     04
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       286
+      </volume>
+      <issue>
+       16
+      </issue>
+      <pubdate>
+       <medlinedate>
+        2001 Oct 24-31
+       </medlinedate>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Universal newborn hearing screening: summary of evidence.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      2000-10
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Each year, approximately 5000 infants are born in the United States with moderate-to-profound, bilateral permanent hearing loss (PHL). Universal newborn hearing screening (UNHS) has been proposed as a means to speed diagnosis and treatment and thereby improve language outcomes in these children.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To identify strengths, weaknesses, and gaps in the evidence supporting UNHS and to compare the additional benefits and harms of UNHS with those of selective screening of high-risk newborns.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      We searched the MEDLINE, CINAHL, and PsychINFO databases for relevant articles published from 1994 to August 2001, using terms for hearing disorders, infants or newborns, screening, and relevant treatments. We contacted experts and reviewed reference lists to identify additional articles, including those published before 1994.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION" nlmcategory="METHODS">
+      We included controlled and observational studies of (1) the accuracy, yield, and harms of screening using otoacoustic emissions (OAEs), auditory brainstem response (ABR), or both in the general newborn population and (2) the effects of screening or early identification and treatment on language outcomes. Of an original 340 articles identified, 19 articles, including 1 controlled trial, met these inclusion criteria.
+     </abstracttext>
+     <abstracttext label="DATA EXTRACTION" nlmcategory="METHODS">
+      Data on population, test performance, outcomes, and methodological quality were extracted by 2 authors (D.C.T., H.M.) using prespecified criteria developed by the US Preventive Services Task Force. We queried authors when information needed to assess study quality was missing.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      Good-quality studies show that from 2041 to 2794 low-risk and 86 to 208 high-risk newborns were screened to find 1 case of moderate-to-profound PHL. The best estimate of positive predictive value was 6.7%. Six percent to 15% of infants who are missed by the screening tests are subsequently diagnosed with bilateral PHL. In a trial of UNHS vs clinical screening at age 8 months, UNHS increased the proportion of infants with moderate-to-severe hearing loss diagnosed by age 10 months (57% vs 14%) but did not reduce the rate of diagnosis after age 18 months. No good-quality controlled study has compared UNHS with selective screening of high-risk newborns. In fair- to poor-quality cohort studies, intervention before age 6 months was associated with improved language and communication skills by ages 2 to 5 years. These studies had unclear criteria for selecting subjects, and none compared an inception cohort of low-risk newborns identified by screening with those identified in usual care, making it impossible to exclude selection bias as an explanation for the results. In a mathematical model based on the literature review, we estimated that extending screening to low-risk infants would detect 1 additional case before age 10 months for every 1441 low-risk infants screened, and result in treatment before 10 months of 1 additional case for every 2401 low-risk infants screened. With UNHS, 254 newborns would be referred for audiological evaluation because of false-positive second-stage screening test results vs 48 for selective screening.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Modern screening tests for hearing impairment can improve identification of newborns with PHL, but the efficacy of UNHS to improve long-term language outcomes remains uncertain.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Harborview Injury Prevention and Research Center, 325 Ninth Ave, Box 359960, Seattle, WA 98104, USA. dct@u.washington.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Thompson
+      </lastname>
+      <forename>
+       D C
+      </forename>
+      <initials>
+       DC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McPhillips
+      </lastname>
+      <forename>
+       H
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Davis
+      </lastname>
+      <forename>
+       R L
+      </forename>
+      <initials>
+       RL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lieu
+      </lastname>
+      <forename>
+       T L
+      </forename>
+      <initials>
+       TL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Homer
+      </lastname>
+      <forename>
+       C J
+      </forename>
+      <initials>
+       CJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Helfand
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       290-97-0018
+      </grantid>
+      <agency>
+       PHS HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2002 Feb 6;287(5):587-8
+     </refsource>
+     <pmid version="1">
+      11829693
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Evidence-Based Medicine
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hearing Disorders
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hearing Loss, Sensorineural
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Hearing Tests
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant, Newborn
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Language Development
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Neonatal Screening
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    76
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11667937
+    </articleid>
+    <articleid idtype="pii">
+     jrv10043
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,481 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11483144
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     02
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     06
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0003-990X
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       58
+      </volume>
+      <issue>
+       8
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Aug
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Archives of general psychiatry
+     </title>
+     <isoabbreviation>
+      Arch. Gen. Psychiatry
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Efficacy of a mixed amphetamine salts compound in adults with attention-deficit/hyperactivity disorder.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      775-82
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      We report on a controlled trial of a mixed amphetamine salts compound (Adderall, dextroamphetamine sulfate, dextro-, levoamphetamine sulfate, dextroamphetamine aspartate, levoamphetamine aspartate, and dextroamphetamine saccharate) in the treatment of adult attention-deficit/hyperactivity disorder (ADHD).
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      This was a 7-week, randomized, double-blind, placebo-controlled, crossover study of Adderall in 27 well-characterized adults satisfying full DSM-IV criteria for ADHD of childhood onset and persistent symptoms into adulthood. Medication was titrated up to 30 mg twice a day. Outcome measures included the ADHD Rating Scale and the Clinical Global Impression Score. Comorbid psychiatric disorders were assessed to test for potential effects on treatment outcome.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Treatment with Adderall at an average oral dose of 54 mg (administered in 2 daily doses) was effective and well tolerated. Drug-specific improvement in ADHD symptoms was highly significant overall (42% decrease on the ADHD Rating Scale, P&lt;.001), and sufficiently robust to be detectable in a parallel groups comparison restricted to the first 3 weeks of the protocol (P&lt;.001). The percentage of subjects who improved (reduction in the ADHD rating scale of &gt; or =30%) was significantly higher with Adderall treatment than with a placebo (70% vs 7%; P =.001).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Adderall was effective and well tolerated in the short-term treatment of adults with ADHD. More work is needed to evaluate the long-term effects of Adderall, or other amphetamine compounds, in the treatment of adults with ADHD.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Pediatric Psychopharmacology Unit (ACC-725), Massachusetts General Hospital, Fruit Street, Boston, MA 02114, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Spencer
+      </lastname>
+      <forename>
+       T
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Biederman
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wilens
+      </lastname>
+      <forename>
+       T
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Faraone
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Prince
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gerard
+      </lastname>
+      <forename>
+       K
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Doyle
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Parekh
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kagan
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bearman
+      </lastname>
+      <forename>
+       S K
+      </forename>
+      <initials>
+       SK
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       R29MH57511
+      </grantid>
+      <acronym>
+       MH
+      </acronym>
+      <agency>
+       NIMH NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Arch Gen Psychiatry
+    </medlineta>
+    <nlmuniqueid>
+     0372435
+    </nlmuniqueid>
+    <issnlinking>
+     0003-990X
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Adderall
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Amphetamines
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Placebos
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Arch Gen Psychiatry. 2001 Aug;58(8):784-5
+     </refsource>
+     <pmid version="1">
+      11483145
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Age Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Amphetamines
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Attention Deficit Disorder with Hyperactivity
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cross-Over Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Administration Schedule
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Mental Disorders
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      genetics
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Neuropsychological Tests
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Placebos
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Psychiatric Status Rating Scales
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      6
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      8
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      6
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11483144
+    </articleid>
+    <articleid idtype="pii">
+     yoa9442
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

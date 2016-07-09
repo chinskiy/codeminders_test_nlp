@@ -1,0 +1,410 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    6543133
+   </pmid>
+   <datecreated>
+    <year>
+     1985
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     14
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1985
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     14
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0004-4172
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       34
+      </volume>
+      <issue>
+       11
+      </issue>
+      <pubdate>
+       <year>
+        1984
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Arzneimittel-Forschung
+     </title>
+     <isoabbreviation>
+      Arzneimittelforschung
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     On the therapeutic effects of trivalent and divalent iron in iron deficiency anaemia.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1575-9
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      The effectiveness of orally administered iron was investigated using three different iron preparations in a randomized study with 3 patient groups, each consisting of 20 subjects with iron deficiency anaemia. Group A received a ferric(III)-dextrin complex, group B Fe(II)-sulfate, and group C Fe(II)-fumarate with vitamins. For all three preparations the increase in the number of erythrocytes as well as hemoglobin and hematocrit values ran absolutely parallel for a period of 12 weeks. A relevant difference between the trivalent ferric-dextrin complex and the two bivalent iron preparations could not be detected on evaluation of the parameters measured except for a moderate increase in the transaminase values in the patients group who received the Fe(II)-sulfate preparation. No differences were found among the preparations with respect to tolerance. The results are discussed with respect to a possible overloading of the iron transport system by highly absorptive Fe(II)-preparations.
+     </abstracttext>
+    </abstract>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Sas
+      </lastname>
+      <forename>
+       G
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Nemesanszky
+      </lastname>
+      <forename>
+       E
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bräuer
+      </lastname>
+      <forename>
+       H
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Scheffer
+      </lastname>
+      <forename>
+       K
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     GERMANY, WEST
+    </country>
+    <medlineta>
+     Arzneimittelforschung
+    </medlineta>
+    <nlmuniqueid>
+     0372660
+    </nlmuniqueid>
+    <issnlinking>
+     0004-4172
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Ferric Compounds
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Ferrous Compounds
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Hemoglobins
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      10028-22-5
+     </registrynumber>
+     <nameofsubstance>
+      ferric sulfate
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      1309-33-7
+     </registrynumber>
+     <nameofsubstance>
+      ferric hydroxide
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      141-01-5
+     </registrynumber>
+     <nameofsubstance>
+      ferrous fumarate
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      59-30-3
+     </registrynumber>
+     <nameofsubstance>
+      Folic Acid
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      68-19-9
+     </registrynumber>
+     <nameofsubstance>
+      Vitamin B 12
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      7439-89-6
+     </registrynumber>
+     <nameofsubstance>
+      Iron
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      EC 1.1.1.27
+     </registrynumber>
+     <nameofsubstance>
+      L-Lactate Dehydrogenase
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anemia, Hypochromic
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Erythrocyte Count
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ferric Compounds
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ferrous Compounds
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Folic Acid
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hematocrit
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hemoglobins
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      metabolism
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Iron
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      L-Lactate Dehydrogenase
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vitamin B 12
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1984
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1984
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1984
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     6543133
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

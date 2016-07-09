@@ -1,0 +1,663 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    14610160
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     24
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print-Electronic">
+    <journal>
+     <issn issntype="Electronic">
+      1533-4406
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       349
+      </volume>
+      <issue>
+       20
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Nov
+       </month>
+       <day>
+        13
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Valsartan, captopril, or both in myocardial infarction complicated by heart failure, left ventricular dysfunction, or both.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1893-906
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Angiotensin-converting-enzyme (ACE) inhibitors such as captopril reduce mortality and cardiovascular morbidity among patients with myocardial infarction complicated by left ventricular systolic dysfunction, heart failure, or both. In a double-blind trial, we compared the effect of the angiotensin-receptor blocker valsartan, the ACE inhibitor captopril, and the combination of the two on mortality in this population of patients.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Patients receiving conventional therapy were randomly assigned, 0.5 to 10 days after acute myocardial infarction, to additional therapy with valsartan (4909 patients), valsartan plus captopril (4885 patients), or captopril (4909 patients). The primary end point was death from any cause.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      During a median follow-up of 24.7 months, 979 patients in the valsartan group died, as did 941 patients in the valsartan-and-captopril group and 958 patients in the captopril group (hazard ratio in the valsartan group as compared with the captopril group, 1.00; 97.5 percent confidence interval, 0.90 to 1.11; P=0.98; hazard ratio in the valsartan-and-captopril group as compared with the captopril group, 0.98; 97.5 percent confidence interval, 0.89 to 1.09; P=0.73). The upper limit of the one-sided 97.5 percent confidence interval for the comparison of the valsartan group with the captopril group was within the prespecified margin for noninferiority with regard to mortality (P=0.004) and with regard to the composite end point of fatal and nonfatal cardiovascular events (P&lt;0.001). The valsartan-and-captopril group had the most drug-related adverse events. With monotherapy, hypotension and renal dysfunction were more common in the valsartan group, and cough, rash, and taste disturbance were more common in the captopril group.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Valsartan is as effective as captopril in patients who are at high risk for cardiovascular events after myocardial infarction. Combining valsartan with captopril increased the rate of adverse events without improving survival.
+     </abstracttext>
+     <copyrightinformation>
+      Copyright 2003 Massachusetts Medical Society
+     </copyrightinformation>
+    </abstract>
+    <affiliation>
+     Cardiovascular Division, Brigham and Women's Hospital, Boston, MA 02115, USA. mpfeffer@rics.bwh.harvard.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Pfeffer
+      </lastname>
+      <forename>
+       Marc A
+      </forename>
+      <initials>
+       MA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McMurray
+      </lastname>
+      <forename>
+       John J V
+      </forename>
+      <initials>
+       JJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Velazquez
+      </lastname>
+      <forename>
+       Eric J
+      </forename>
+      <initials>
+       EJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rouleau
+      </lastname>
+      <forename>
+       Jean-Lucien
+      </forename>
+      <initials>
+       JL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Køber
+      </lastname>
+      <forename>
+       Lars
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Maggioni
+      </lastname>
+      <forename>
+       Aldo P
+      </forename>
+      <initials>
+       AP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Solomon
+      </lastname>
+      <forename>
+       Scott D
+      </forename>
+      <initials>
+       SD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Swedberg
+      </lastname>
+      <forename>
+       Karl
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Van de Werf
+      </lastname>
+      <forename>
+       Frans
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       White
+      </lastname>
+      <forename>
+       Harvey
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Leimberger
+      </lastname>
+      <forename>
+       Jeffrey D
+      </forename>
+      <initials>
+       JD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Henis
+      </lastname>
+      <forename>
+       Marc
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Edwards
+      </lastname>
+      <forename>
+       Susan
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Zelenkofske
+      </lastname>
+      <forename>
+       Steven
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sellers
+      </lastname>
+      <forename>
+       Mary Ann
+      </forename>
+      <initials>
+       MA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Califf
+      </lastname>
+      <forename>
+       Robert M
+      </forename>
+      <initials>
+       RM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       Valsartan in Acute Myocardial Infarction Trial Investigators
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2003
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      10
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Angiotensin Receptor Antagonists
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Angiotensin-Converting Enzyme Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Tetrazoles
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      137862-53-4
+     </registrynumber>
+     <nameofsubstance>
+      valsartan
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      62571-86-2
+     </registrynumber>
+     <nameofsubstance>
+      Captopril
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      7004-03-7
+     </registrynumber>
+     <nameofsubstance>
+      Valine
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2004 Feb 26;350(9):943-5; author reply 943-5
+     </refsource>
+     <pmid version="1">
+      14985495
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2003 Nov 13;349(20):1963-5
+     </refsource>
+     <pmid version="1">
+      14610159
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2004 Feb 26;350(9):943-5; author reply 943-5
+     </refsource>
+     <pmid version="1">
+      14988935
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Curr Hypertens Rep. 2004 Aug;6(4):255-6
+     </refsource>
+     <pmid version="1">
+      15257858
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2004 Feb 26;350(9):943-5; author reply 943-5
+     </refsource>
+     <pmid version="1">
+      14988936
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2004 Jul-Aug;141(1):3
+     </refsource>
+     <pmid version="1">
+      15230551
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="ErratumIn">
+     <refsource>
+      N Engl J Med. 2004 Jan 8;350(2):203
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Angiotensin Receptor Antagonists
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Angiotensin-Converting Enzyme Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Captopril
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cardiovascular Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Therapy, Combination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heart Failure
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Myocardial Infarction
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tetrazoles
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Valine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      analogs &amp; derivatives
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ventricular Dysfunction, Left
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      12
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="aheadofprint">
+     <year>
+      2003
+     </year>
+     <month>
+      Nov
+     </month>
+     <day>
+      10
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      12
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     14610160
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJMoa032292
+    </articleid>
+    <articleid idtype="pii">
+     NEJMoa032292
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

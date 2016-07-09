@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11641030
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     19
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     07
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0378-3782
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       65
+      </volume>
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Dec
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Early human development
+     </title>
+     <isoabbreviation>
+      Early Hum. Dev.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     The effect of low-dose erythromycin on whole gastrointestinal transit time of preterm infants.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      91-6
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      The aim of the study was to determine the effect of a low oral dose of erythromycin on whole gastrointestinal transit time [WGTT]. Erythromycin [EM] [1.5 mg/kg, 6 hourly] or placebo was given first over 7 days in a double blind randomized crossover study of 21 preterm infants with feed intolerance. Median [range] birth weight was 1420 [690, 2200] g and postconceptual age 32. 5 [20, 36.4] weeks. WGTT was assessed on day 3 of each treatment, by timing the transit of carmine red through the gut. Treatments were compared using Student's paired t test. RESULTS: WGTT was significantly shorter following EM treatment as compared to placebo: mean [SD] 10.16 [4.6] h vs. 15. 9 [7.2] h, p&lt;0.01. CONCLUSION: Oral low-dose EM significantly shortens WGTT of feed-intolerant preterm infants.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Neonatal Medicine, Alexandra General Hospital Athens, 130 Artemidos Str, Paleo Faliro 17562, Greece.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Costalos
+      </lastname>
+      <forename>
+       C
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gavrili
+      </lastname>
+      <forename>
+       V
+      </forename>
+      <initials>
+       V
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Skouteri
+      </lastname>
+      <forename>
+       V
+      </forename>
+      <initials>
+       V
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gounaris
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     Ireland
+    </country>
+    <medlineta>
+     Early Hum Dev
+    </medlineta>
+    <nlmuniqueid>
+     7708381
+    </nlmuniqueid>
+    <issnlinking>
+     0378-3782
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Bacterial Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      114-07-8
+     </registrynumber>
+     <nameofsubstance>
+      Erythromycin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Bacterial Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      pharmacology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dose-Response Relationship, Drug
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Erythromycin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      pharmacology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Food Hypersensitivity
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Gastrointestinal Transit
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Gestational Age
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant, Newborn
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Infant, Premature
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11641030
+    </articleid>
+    <articleid idtype="pii">
+     S0378378201001918
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

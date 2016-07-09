@@ -1,0 +1,949 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15598960
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     16
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     30
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print-Electronic">
+    <journal>
+     <issn issntype="Electronic">
+      1533-4406
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       351
+      </volume>
+      <issue>
+       25
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Dec
+       </month>
+       <day>
+        16
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Maternal and perinatal outcomes associated with a trial of labor after prior cesarean delivery.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      2581-9
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      The proportion of women who attempt vaginal delivery after prior cesarean delivery has decreased largely because of concern about safety. The absolute and relative risks associated with a trial of labor in women with a history of cesarean delivery, as compared with elective repeated cesarean delivery without labor, are uncertain.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We conducted a prospective four-year observational study of all women with a singleton gestation and a prior cesarean delivery at 19 academic medical centers. Maternal and perinatal outcomes were compared between women who underwent a trial of labor and women who had an elective repeated cesarean delivery without labor.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Vaginal delivery was attempted by 17,898 women, and 15,801 women underwent elective repeated cesarean delivery without labor. Symptomatic uterine rupture occurred in 124 women who underwent a trial of labor (0.7 percent). Hypoxic-ischemic encephalopathy occurred in no infants whose mothers underwent elective repeated cesarean delivery and in 12 infants born at term whose mothers underwent a trial of labor (P&lt;0.001). Seven of these cases of hypoxic-ischemic encephalopathy followed uterine rupture (absolute risk, 0.46 per 1000 women at term undergoing a trial of labor), including two neonatal deaths. The rate of endometritis was higher in women undergoing a trial of labor than in women undergoing repeated elective cesarean delivery (2.9 percent vs. 1.8 percent), as was the rate of blood transfusion (1.7 percent vs. 1.0 percent). The frequency of hysterectomy and of maternal death did not differ significantly between groups (0.2 percent vs. 0.3 percent, and 0.02 percent vs. 0.04 percent, respectively).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      A trial of labor after prior cesarean delivery is associated with a greater perinatal risk than is elective repeated cesarean delivery without labor, although absolute risks are low. This information is relevant for counseling women about their choices after a cesarean section.
+     </abstracttext>
+     <copyrightinformation>
+      Copyright 2004 Massachusetts Medical Society.
+     </copyrightinformation>
+    </abstract>
+    <affiliation>
+     Department of Obstetrics and Gynecology at Ohio State University, College of Medicine and Public Health, Columbus 43210-1228, USA. landon.1@osu.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Landon
+      </lastname>
+      <forename>
+       Mark B
+      </forename>
+      <initials>
+       MB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hauth
+      </lastname>
+      <forename>
+       John C
+      </forename>
+      <initials>
+       JC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Leveno
+      </lastname>
+      <forename>
+       Kenneth J
+      </forename>
+      <initials>
+       KJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Spong
+      </lastname>
+      <forename>
+       Catherine Y
+      </forename>
+      <initials>
+       CY
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Leindecker
+      </lastname>
+      <forename>
+       Sharon
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Varner
+      </lastname>
+      <forename>
+       Michael W
+      </forename>
+      <initials>
+       MW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Moawad
+      </lastname>
+      <forename>
+       Atef H
+      </forename>
+      <initials>
+       AH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Caritis
+      </lastname>
+      <forename>
+       Steve N
+      </forename>
+      <initials>
+       SN
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Harper
+      </lastname>
+      <forename>
+       Margaret
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wapner
+      </lastname>
+      <forename>
+       Ronald J
+      </forename>
+      <initials>
+       RJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sorokin
+      </lastname>
+      <forename>
+       Yoram
+      </forename>
+      <initials>
+       Y
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Miodovnik
+      </lastname>
+      <forename>
+       Menachem
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Carpenter
+      </lastname>
+      <forename>
+       Marshall
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Peaceman
+      </lastname>
+      <forename>
+       Alan M
+      </forename>
+      <initials>
+       AM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       O'Sullivan
+      </lastname>
+      <forename>
+       Mary Jo
+      </forename>
+      <initials>
+       MJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sibai
+      </lastname>
+      <forename>
+       Baha
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Langer
+      </lastname>
+      <forename>
+       Oded
+      </forename>
+      <initials>
+       O
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Thorp
+      </lastname>
+      <forename>
+       John M
+      </forename>
+      <initials>
+       JM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ramin
+      </lastname>
+      <forename>
+       Susan M
+      </forename>
+      <initials>
+       SM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Mercer
+      </lastname>
+      <forename>
+       Brian M
+      </forename>
+      <initials>
+       BM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gabbe
+      </lastname>
+      <forename>
+       Steven G
+      </forename>
+      <initials>
+       SG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       National Institute of Child Health and Human Development Maternal-Fetal Medicine Units Network
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       HD21410
+      </grantid>
+      <acronym>
+       HD
+      </acronym>
+      <agency>
+       NICHD NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       HD21414
+      </grantid>
+      <acronym>
+       HD
+      </acronym>
+      <agency>
+       NICHD NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       HD27860
+      </grantid>
+      <acronym>
+       HD
+      </acronym>
+      <agency>
+       NICHD NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       HD27861
+      </grantid>
+      <acronym>
+       HD
+      </acronym>
+      <agency>
+       NICHD NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       HD27869
+      </grantid>
+      <acronym>
+       HD
+      </acronym>
+      <agency>
+       NICHD NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       HD27905
+      </grantid>
+      <acronym>
+       HD
+      </acronym>
+      <agency>
+       NICHD NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       HD27915
+      </grantid>
+      <acronym>
+       HD
+      </acronym>
+      <agency>
+       NICHD NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       HD27917
+      </grantid>
+      <acronym>
+       HD
+      </acronym>
+      <agency>
+       NICHD NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       HD34116
+      </grantid>
+      <acronym>
+       HD
+      </acronym>
+      <agency>
+       NICHD NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       HD34122
+      </grantid>
+      <acronym>
+       HD
+      </acronym>
+      <agency>
+       NICHD NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       HD34136
+      </grantid>
+      <acronym>
+       HD
+      </acronym>
+      <agency>
+       NICHD NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       HD34208
+      </grantid>
+      <acronym>
+       HD
+      </acronym>
+      <agency>
+       NICHD NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       HD34210
+      </grantid>
+      <acronym>
+       HD
+      </acronym>
+      <agency>
+       NICHD NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       HD36801
+      </grantid>
+      <acronym>
+       HD
+      </acronym>
+      <agency>
+       NICHD NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       HD40485
+      </grantid>
+      <acronym>
+       HD
+      </acronym>
+      <agency>
+       NICHD NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       HD40500
+      </grantid>
+      <acronym>
+       HD
+      </acronym>
+      <agency>
+       NICHD NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       HD40512
+      </grantid>
+      <acronym>
+       HD
+      </acronym>
+      <agency>
+       NICHD NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       HD40544
+      </grantid>
+      <acronym>
+       HD
+      </acronym>
+      <agency>
+       NICHD NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       HD40545
+      </grantid>
+      <acronym>
+       HD
+      </acronym>
+      <agency>
+       NICHD NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       HD40560
+      </grantid>
+      <acronym>
+       HD
+      </acronym>
+      <agency>
+       NICHD NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2004
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      14
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2004 Dec 16;351(25):2647-9
+     </refsource>
+     <pmid version="1">
+      15598961
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2005 Apr 21;352(16):1718-20; author reply 1718-20
+     </refsource>
+     <pmid version="1">
+      15843676
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2005 Apr 21;352(16):1718-20; author reply 1718-20
+     </refsource>
+     <pmid version="1">
+      15846861
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2005 Apr 21;352(16):1718-20; author reply 1718-20
+     </refsource>
+     <pmid version="1">
+      15846860
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2005 Apr 21;352(16):1718-20; author reply 1718-20
+     </refsource>
+     <pmid version="1">
+      15846859
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Transfusion
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      utilization
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cesarean Section, Repeat
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Endometritis
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fetal Death
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypoxia-Ischemia, Brain
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hysterectomy
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant Mortality
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant, Newborn
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Logistic Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Obstetric Labor Complications
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pregnancy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Pregnancy Outcome
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Trial of Labor
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Uterine Hemorrhage
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      surgery
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Uterine Rupture
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      surgery
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vaginal Birth after Cesarean
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="aheadofprint">
+     <year>
+      2004
+     </year>
+     <month>
+      December
+     </month>
+     <day>
+      14
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      31
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     NEJMoa040405
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJMoa040405
+    </articleid>
+    <articleid idtype="pubmed">
+     15598960
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,552 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11448655
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     12
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     02
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0002-9343
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       111
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Jul
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The American journal of medicine
+     </title>
+     <isoabbreviation>
+      Am. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Pioglitazone hydrochloride in combination with sulfonylurea therapy improves glycemic control in patients with type 2 diabetes mellitus: a randomized, placebo-controlled study.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      10-7
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="PURPOSE" nlmcategory="OBJECTIVE">
+      To evaluate the efficacy and tolerability of pioglitazone in combination with a sulfonylurea in the treatment of type 2 diabetes mellitus.
+     </abstracttext>
+     <abstracttext label="SUBJECTS AND METHODS" nlmcategory="METHODS">
+      This 16-week, double-blind study included patients on a stable regimen of a sulfonylurea for &gt; or = 30 days and with a glycosylated hemoglobin (HbA1C) level &gt; or = 8.0%. Patients were randomly assigned to receive once daily pioglitazone 15 mg (n = 184), pioglitazone 30 mg (n = 189), or placebo plus sulfonylurea (n = 187).
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Patients receiving pioglitazone + sulfonylurea had significant (P &lt; 0.05) decreases from baseline in HbA1C and fasting plasma glucose levels compared with patients treated with placebo + sulfonylurea. As compared with placebo, HbA1C decreased by 0.9% (95% confidence interval [CI]: 0.06% to 1.2%) with pioglitazone 15 mg and 1.3% (CI: 1% to 1.6%) with 30 mg pioglitazone; fasting plasma glucose levels decreased by 39 mg/dL (95% CI: 27 to 52 mg/dL) with pioglitazone 15 mg and by 58 mg/dL (95% CI: 46-70 mg/dL) with 30 mg pioglitazone. Both pioglitazone + sulfonylurea groups had significant (P &lt; 0.05) mean percent decreases in triglyceride levels (17%, 95% CI: 6% to 27% for 15 mg; 26%, 95% CI: 16% to 36% for 30 mg) and increases in high-density lipoprotein cholesterol levels (6%, 95% CI: 1% to 11% for 15 mg; 13%, CI: 8% to 18% for 30 mg) compared with placebo + sulfonylurea. There were small but statistically significant mean percent increases in low-density lipoprotein cholesterol levels in all groups. Pioglitazone was well tolerated, and the rates of adverse events were similar in all groups.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      In patients with type 2 diabetes, pioglitazone plus sulfonylurea significantly improves HbA1C and fasting plasma glucose levels with beneficial effects on serum triglyceride and HDL-cholesterol levels.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Diabetes and Glandular Disease Clinic, San Antonio, Texas, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Kipnes
+      </lastname>
+      <forename>
+       M S
+      </forename>
+      <initials>
+       MS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Krosnick
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rendell
+      </lastname>
+      <forename>
+       M S
+      </forename>
+      <initials>
+       MS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Egan
+      </lastname>
+      <forename>
+       J W
+      </forename>
+      <initials>
+       JW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Mathisen
+      </lastname>
+      <forename>
+       A L
+      </forename>
+      <initials>
+       AL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schneider
+      </lastname>
+      <forename>
+       R L
+      </forename>
+      <initials>
+       RL
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Am J Med
+    </medlineta>
+    <nlmuniqueid>
+     0267200
+    </nlmuniqueid>
+    <issnlinking>
+     0002-9343
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Blood Glucose
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      C-Peptide
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cholesterol, HDL
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cholesterol, LDL
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Hemoglobin A, Glycosylated
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Hypoglycemic Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Lipids
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Sulfonylurea Compounds
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Thiazoles
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Thiazolidinediones
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Triglycerides
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      11061-68-0
+     </registrynumber>
+     <nameofsubstance>
+      Insulin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      111025-46-8
+     </registrynumber>
+     <nameofsubstance>
+      pioglitazone
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Am J Med. 2001 Jul;111(1):71-2
+     </refsource>
+     <pmid version="1">
+      11448665
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Analysis of Variance
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Glucose
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      metabolism
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      C-Peptide
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cholesterol, HDL
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cholesterol, LDL
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetes Mellitus, Type 2
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Therapy, Combination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hemoglobin A, Glycosylated
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      metabolism
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypoglycemic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Insulin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lipids
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sulfonylurea Compounds
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Thiazoles
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Thiazolidinediones
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Time Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Triglycerides
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      United States
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11448655
+    </articleid>
+    <articleid idtype="pii">
+     S0002-9343(01)00713-6
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,370 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    17053529
+   </pmid>
+   <datecreated>
+    <year>
+     2006
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     20
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     30
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0263-6352
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       24
+      </volume>
+      <issue>
+       11
+      </issue>
+      <pubdate>
+       <year>
+        2006
+       </year>
+       <month>
+        Nov
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of hypertension
+     </title>
+     <isoabbreviation>
+      J. Hypertens.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     How strong is the evidence for use of beta-blockers as first-line therapy for hypertension? Systematic review and meta-analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      2131-41
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To quantify the effect of first-line antihypertensive treatment with beta-blockers on mortality, morbidity and withdrawal rates, compared with the other main classes of antihypertensive agents.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We identified eligible trials by searching the Cochrane Controlled Trials Register, Medline, Embase, reference lists of previous reviews, and contacting researchers. We extracted data independently in duplicate and conducted meta-analysis by analysing trial participants in groups to which they were randomized, regardless of subsequent treatment actually received.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Thirteen trials with 91,561 participants, meeting inclusion criteria, compared beta-blockers to placebo (four trials; n = 23,613), diuretics (five trials; n = 18,241), calcium-channel blockers (CCBs) (four trials; n = 44,825), and renin-angiotensin system (RAS) inhibitors, namely angiotensin-converting enzyme inhibitors or angiotensin receptor blockers (three trials; n = 10,828). Compared to placebo, beta-blockers reduced the risk of stroke (relative risk 0.80; 95% confidence interval 0.66-0.96) with a marginal fall in total cardiovascular events (0.88, 0.79-0.97), but did not affect all-cause mortality (0.99, 0.88-1.11), coronary heart disease (0.93, 0.81-1.07) or cardiovascular mortality (0.93, 0.80-1.09). The effect on stroke was less than that of CCBs (1.24, 1.11-1.40) and RAS inhibitors (1.30, 1.11-1.53), and that on total cardiovascular events less than that of CCBs (1.18, 1.08-1.29). In addition, patients on beta-blockers were more likely to discontinue treatment than those on diuretics (1.80; 1.33-2.42) or RAS inhibitors (1.41; 1.29-1.54).
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Beta-blockers are inferior to CCBs and to RAS inhibitors for reducing several important hard end points. Compared with diuretics, they had similar outcomes, but were less well tolerated. Hence beta-blockers are generally suboptimal first-line antihypertensive drugs.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     School of Public Health, University of the Western Cape, South Africa.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Bradley
+      </lastname>
+      <forename>
+       Hazel A
+      </forename>
+      <initials>
+       HA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wiysonge
+      </lastname>
+      <forename>
+       Charles Shey
+      </forename>
+      <initials>
+       CS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Volmink
+      </lastname>
+      <forename>
+       Jimmy A
+      </forename>
+      <initials>
+       JA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Mayosi
+      </lastname>
+      <forename>
+       Bongani M
+      </forename>
+      <initials>
+       BM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Opie
+      </lastname>
+      <forename>
+       Lionel H
+      </forename>
+      <initials>
+       LH
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     J Hypertens
+    </medlineta>
+    <nlmuniqueid>
+     8306882
+    </nlmuniqueid>
+    <issnlinking>
+     0263-6352
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Adrenergic beta-Antagonists
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antihypertensive Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Calcium Channel Blockers
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Diuretics
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adrenergic beta-Antagonists
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antihypertensive Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Calcium Channel Blockers
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diuretics
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertension
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Renin-Angiotensin System
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    53
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2006
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2006
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2006
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="doi">
+     10.1097/01.hjh.0000249685.58370.28
+    </articleid>
+    <articleid idtype="pii">
+     00004872-200611000-00002
+    </articleid>
+    <articleid idtype="pubmed">
+     17053529
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

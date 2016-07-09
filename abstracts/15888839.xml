@@ -1,0 +1,331 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15888839
+   </pmid>
+   <datecreated>
+    <year>
+     2005
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     12
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     10
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0012-3692
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       127
+      </volume>
+      <issue>
+       5
+      </issue>
+      <pubdate>
+       <year>
+        2005
+       </year>
+       <month>
+        May
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Chest
+     </title>
+     <isoabbreviation>
+      Chest
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Bed rest or ambulation in the initial treatment of patients with acute deep vein thrombosis or pulmonary embolism: findings from the RIETE registry.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1631-6
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Traditionally, many patients with acute deep vein thrombosis (DVT) are treated not only by anticoagulation therapy but additionally by strict bed rest, which is aimed at reducing the risk of pulmonary embolism (PE) events. However, this risk has not been subjected to empirical verification.
+     </abstracttext>
+     <abstracttext label="PATIENTS AND METHODS" nlmcategory="METHODS">
+      The Registro Informatizado de la Enfermedad TromboEmbólica is a Spanish registry of consecutively enrolled patients with objectively confirmed, symptomatic acute DVT or PE. In this analysis, the clinical characteristics, details of anticoagulant therapy, and clinical outcomes of enrolled patients with and without strict bed rest prescribed during the first 15 days were compared. Patients in whom ambulation was not possible were not included in this analysis.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      A total of 2,650 patients entered the study (DVT, 2,038 patients; PE, 612 patients). Of these patients, 1,050 DVT patients (52%) and 385 PE patients (63%) were prescribed strict bed rest. New events of symptomatic, objectively confirmed PE developed during the 15-day study period in 11 patients with DVT (0.5%) and 4 patients with PE (0.7%). Five of these 15 patients (33%) died as a result of their PE. Age &lt; 65 years (odds ratio [OR], 3.1; 95% confidence interval [CI], 0.98 to 11) and cancer (OR, 3.0; 95% CI, 0.98 to 9.1) were associated with an increased rate of new PEs. There were not significant differences between bedridden and ambulant patients in terms of new PE events, fatal PE, or bleeding complications.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Our findings confirm those from previous reports suggesting that bed rest has no influence on the risk of developing PE among patients with acute DVT of the lower limbs. In addition, our findings show for the first time the lack of influence of bed rest even in patients presenting with acute submassive PE.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Unidades de Medicina Interna, Hospital Costa del Sol, Marbella, Málaga, Spain.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Trujillo-Santos
+      </lastname>
+      <forename>
+       Javier
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Perea-Milla
+      </lastname>
+      <forename>
+       Emilio
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jiménez-Puente
+      </lastname>
+      <forename>
+       Alberto
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sánchez-Cantalejo
+      </lastname>
+      <forename>
+       Emilio
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       del Toro
+      </lastname>
+      <forename>
+       Jorge
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Grau
+      </lastname>
+      <forename>
+       Enric
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Monreal
+      </lastname>
+      <forename>
+       Manuel
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       RIETE Investigators
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Chest
+    </medlineta>
+    <nlmuniqueid>
+     0231335
+    </nlmuniqueid>
+    <issnlinking>
+     0012-3692
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Bed Rest
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Early Ambulation
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pulmonary Embolism
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Registries
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Venous Thrombosis
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2005
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      11
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2005
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     127/5/1631
+    </articleid>
+    <articleid idtype="doi">
+     10.1378/chest.127.5.1631
+    </articleid>
+    <articleid idtype="pubmed">
+     15888839
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

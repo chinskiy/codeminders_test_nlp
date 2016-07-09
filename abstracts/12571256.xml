@@ -1,0 +1,480 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12571256
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     06
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     21
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1533-4406
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       348
+      </volume>
+      <issue>
+       6
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Feb
+       </month>
+       <day>
+        6
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Nephrotoxic effects in high-risk patients undergoing angiography.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      491-9
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      The use of iodinated contrast medium can result in nephropathy. Whether iso-osmolar contrast medium is less nephrotoxic than low-osmolar contrast medium in high-risk patients is uncertain.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We conducted a randomized, double-blind, prospective, multicenter study comparing the nephrotoxic effects of an iso-osmolar, dimeric, nonionic contrast medium, iodixanol, with those of a low-osmolar, nonionic, monomeric contrast medium, iohexol. The study involved 129 patients with diabetes with serum creatinine concentrations of 1.5 to 3.5 mg per deciliter who underwent coronary or aortofemoral angiography. The primary end point was the peak increase from base line in the creatinine concentration during the three days after angiography. Other end points were an increase in the creatinine concentration of 0.5 mg per deciliter or more, an increase of 1.0 mg per deciliter or more, and a change in the creatinine concentration from day 0 to day 7.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The creatinine concentration increased significantly less in patients who received iodixanol. From day 0 to day 3, the mean peak increase in creatinine was 0.13 mg per deciliter in the iodixanol group and 0.55 mg per deciliter in the iohexol group (P=0.001; the increase with iodixanol minus the increase with iohexol, -0.42 mg per deciliter [95 percent confidence interval, -0.73 to -0.22]). Two of the 64 patients in the iodixanol group (3 percent) had an increase in the creatinine concentration of 0.5 mg per deciliter or more, as compared with 17 of the 65 patients in the iohexol group (26 percent) (P=0.002; odds ratio for such an increase in the iodixanol group, 0.09 [95 percent confidence interval, 0.02 to 0.41]). No patient receiving iodixanol had an increase of 1.0 mg per deciliter or more, but 10 patients in the iohexol group (15 percent) did. The mean change in the creatinine concentration from day 0 to day 7 was 0.07 mg per deciliter in the iodixanol group and 0.24 mg per deciliter in the iohexol group (P=0.003; value in the iodixanol group minus the value in the iohexol group, -0.17 mg per deciliter [95 percent confidence interval, -0.34 to -0.07]).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Nephropathy induced by contrast medium may be less likely to develop in high-risk patients when iodixanol is used rather than a low-osmolar, nonionic contrast medium.
+     </abstracttext>
+     <copyrightinformation>
+      Copyright 2003 Massachusetts Medical Society
+     </copyrightinformation>
+    </abstract>
+    <affiliation>
+     Department of Radiology, Huddinge University Hospital, Stockholm, Sweden. peter.aspelin@cfss.ki.se
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Aspelin
+      </lastname>
+      <forename>
+       Peter
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Aubry
+      </lastname>
+      <forename>
+       Pierre
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Fransson
+      </lastname>
+      <forename>
+       Sven-Göran
+      </forename>
+      <initials>
+       SG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Strasser
+      </lastname>
+      <forename>
+       Ruth
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Willenbrock
+      </lastname>
+      <forename>
+       Roland
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Berg
+      </lastname>
+      <forename>
+       Knut Joachim
+      </forename>
+      <initials>
+       KJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       Nephrotoxicity in High-Risk Patients Study of Iso-Osmolar and Low-Osmolar Non-Ionic Contrast Media Study Investigators
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Contrast Media
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Triiodobenzoic Acids
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      60-27-5
+     </registrynumber>
+     <nameofsubstance>
+      Creatinine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      66108-95-0
+     </registrynumber>
+     <nameofsubstance>
+      Iohexol
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      92339-11-2
+     </registrynumber>
+     <nameofsubstance>
+      iodixanol
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2003 May 29;348(22):2257-9; author reply 2257-9
+     </refsource>
+     <pmid version="1">
+      12774814
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2003 May 29;348(22):2257-9; author reply 2257-9
+     </refsource>
+     <pmid version="1">
+      12773659
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2003 May 29;348(22):2257-9; author reply 2257-9
+     </refsource>
+     <pmid version="1">
+      12774816
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Rev Cardiovasc Med. 2003 Summer;4(3):188-91
+     </refsource>
+     <pmid version="1">
+      12949446
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2003 Feb 6;348(6):551-3
+     </refsource>
+     <pmid version="1">
+      12571263
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Angiography
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Contrast Media
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Creatinine
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetes Mellitus
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Iohexol
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Kidney
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Kidney Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      chemically induced
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Osmolar Concentration
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Triiodobenzoic Acids
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      7
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      22
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      7
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12571256
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJMoa021833
+    </articleid>
+    <articleid idtype="pii">
+     348/6/491
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

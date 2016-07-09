@@ -1,0 +1,258 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    1790394
+   </pmid>
+   <datecreated>
+    <year>
+     1992
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     02
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1992
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     02
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0937-941X
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       1
+      </volume>
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        1991
+       </year>
+       <month>
+        Feb
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Osteoporosis international : a journal established as result of cooperation between the European Foundation for Osteoporosis and the National Osteoporosis Foundation of the USA
+     </title>
+     <isoabbreviation>
+      Osteoporos Int
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Calcium supplements: practical considerations.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      65-71
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      The preferable source of calcium is a balanced diet, but medicinal supplements are sometimes necessary if patients are to reach desired intakes. A divided dose regimen (4x/d; i.e., with meals and at bedtime) results in substantially greater absorption of a supplement than does 1x/d dosing. However, differences in chemical solubility between supplement preparations are of little importance, with calcium carbonate preparations, for example, being absorbed as well or better than some much more highly soluble salts. Gastric acid is not necessary for absorption of even poorly soluble preparations, so long as they are taken with meals. Because typical patients exhibit a wide range of absorption efficiencies, it is desirable to assess absorption fraction before beginning a supplement regimen. (Some patients will need three times as large a dose as others to absorb the same amount of calcium.) Calcium intakes up to at least 62.5 mmol (2500 mg) are safe for virtually all patients.
+     </abstracttext>
+    </abstract>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Heaney
+      </lastname>
+      <forename>
+       R P
+      </forename>
+      <initials>
+       RP
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       AR 39221
+      </grantid>
+      <acronym>
+       AR
+      </acronym>
+      <agency>
+       NIAMS NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       AR07912
+      </grantid>
+      <acronym>
+       AR
+      </acronym>
+      <agency>
+       NIAMS NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Editorial
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     ENGLAND
+    </country>
+    <medlineta>
+     Osteoporos Int
+    </medlineta>
+    <nlmuniqueid>
+     9100105
+    </nlmuniqueid>
+    <issnlinking>
+     0937-941X
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      7440-70-2
+     </registrynumber>
+     <nameofsubstance>
+      Calcium
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Biological Availability
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Calcium
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Intestinal Absorption
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Patient Compliance
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1991
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1991
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1991
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     1790394
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

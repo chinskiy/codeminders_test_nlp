@@ -1,0 +1,546 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15150204
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     19
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     24
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1538-3598
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       291
+      </volume>
+      <issue>
+       19
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        May
+       </month>
+       <day>
+        19
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Prevention of contrast-induced nephropathy with sodium bicarbonate: a randomized controlled trial.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      2328-34
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Contrast-induced nephropathy remains a common complication of radiographic procedures. Pretreatment with sodium bicarbonate is more protective than sodium chloride in animal models of acute ischemic renal failure. Acute renal failure from both ischemia and contrast are postulated to occur from free-radical injury. However, no studies in humans or animals have evaluated the efficacy of sodium bicarbonate for prophylaxis against contrast-induced nephropathy.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To examine the efficacy of sodium bicarbonate compared with sodium chloride for preventive hydration before and after radiographic contrast.
+     </abstracttext>
+     <abstracttext label="DESIGN, SETTING, AND PATIENTS" nlmcategory="METHODS">
+      A prospective, single-center, randomized trial conducted from September 16, 2002, to June 17, 2003, of 119 patients with stable serum creatinine levels of at least 1.1 mg/dL (&gt; or =97.2 micromol/L) who were randomized to receive a 154-mEq/L infusion of either sodium chloride (n = 59) or sodium bicarbonate (n = 60) before and after iopamidol administration (370 mg iodine/mL). Serum creatinine levels were measured at baseline and 1 and 2 days after contrast.
+     </abstracttext>
+     <abstracttext label="INTERVENTIONS" nlmcategory="METHODS">
+      Patients received 154 mEq/L of either sodium chloride or sodium bicarbonate, as a bolus of 3 mL/kg per hour for 1 hour before iopamidol contrast, followed by an infusion of 1 mL/kg per hour for 6 hours after the procedure.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURE" nlmcategory="METHODS">
+      Contrast-induced nephropathy, defined as an increase of 25% or more in serum creatinine within 2 days of contrast.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      There were no significant group differences in age, sex, incidence of diabetes mellitus, ethnicity, or contrast volume. Baseline serum creatinine was slightly higher but not statistically different in patients receiving sodium bicarbonate treatment (mean [SD], 1.71 [0.42] mg/dL [151.2 [37.1] micromol/L] for sodium chloride and 1.89 [0.69] mg/dL [167.1 [61.0] micromol/L] for sodium bicarbonate; P =.09). The primary end point of contrast-induced nephropathy occurred in 8 patients (13.6%) infused with sodium chloride but in only 1 (1.7%) of those receiving sodium bicarbonate (mean difference, 11.9%; 95% confidence interval [CI], 2.6%-21.2%; P =.02). A follow-up registry of 191 consecutive patients receiving prophylactic sodium bicarbonate and meeting the same inclusion criteria as the study resulted in 3 cases of contrast-induced nephropathy (1.6%; 95% CI, 0%-3.4%).
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Hydration with sodium bicarbonate before contrast exposure is more effective than hydration with sodium chloride for prophylaxis of contrast-induced renal failure.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Internal Medicine, Sanger Cardiology, Sanger Cardiovascular Surgery, and Metrolina Nephrology, Carolinas Medical Center, Charlotte, NC 28232, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Merten
+      </lastname>
+      <forename>
+       Gregory J
+      </forename>
+      <initials>
+       GJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Burgess
+      </lastname>
+      <forename>
+       W Patrick
+      </forename>
+      <initials>
+       WP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gray
+      </lastname>
+      <forename>
+       Lee V
+      </forename>
+      <initials>
+       LV
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Holleman
+      </lastname>
+      <forename>
+       Jeremiah H
+      </forename>
+      <initials>
+       JH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Roush
+      </lastname>
+      <forename>
+       Timothy S
+      </forename>
+      <initials>
+       TS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kowalchuk
+      </lastname>
+      <forename>
+       Glen J
+      </forename>
+      <initials>
+       GJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bersin
+      </lastname>
+      <forename>
+       Robert M
+      </forename>
+      <initials>
+       RM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Van Moore
+      </lastname>
+      <forename>
+       Arl
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Simonton
+      </lastname>
+      <forename>
+       Charles A
+      </forename>
+      <initials>
+       CA
+      </initials>
+      <suffix>
+       3rd
+      </suffix>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rittase
+      </lastname>
+      <forename>
+       Robert A
+      </forename>
+      <initials>
+       RA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Norton
+      </lastname>
+      <forename>
+       H James
+      </forename>
+      <initials>
+       HJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kennedy
+      </lastname>
+      <forename>
+       Thomas P
+      </forename>
+      <initials>
+       TP
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Contrast Media
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Rehydration Solutions
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      144-55-8
+     </registrynumber>
+     <nameofsubstance>
+      Sodium Bicarbonate
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      60-27-5
+     </registrynumber>
+     <nameofsubstance>
+      Creatinine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      62883-00-5
+     </registrynumber>
+     <nameofsubstance>
+      Iopamidol
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      7647-14-5
+     </registrynumber>
+     <nameofsubstance>
+      Sodium Chloride
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2004 Sep 22;292(12):1428; author reply 1428-9
+     </refsource>
+     <pmid version="1">
+      15383507
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2004 May 19;291(19):2376-7
+     </refsource>
+     <pmid version="1">
+      15150210
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2004 Sep 22;292(12):1428; author reply 1428-9
+     </refsource>
+     <pmid version="1">
+      15383508
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Contrast Media
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Creatinine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Glomerular Filtration Rate
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Iopamidol
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Radiography
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Rehydration Solutions
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Renal Insufficiency
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      chemically induced
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sodium Bicarbonate
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sodium Chloride
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Water-Electrolyte Balance
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     15150204
+    </articleid>
+    <articleid idtype="doi">
+     10.1001/jama.291.19.2328
+    </articleid>
+    <articleid idtype="pii">
+     291/19/2328
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

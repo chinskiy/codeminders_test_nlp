@@ -1,0 +1,604 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15635110
+   </pmid>
+   <datecreated>
+    <year>
+     2005
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     06
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     10
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1533-4406
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       352
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2005
+       </year>
+       <month>
+        Jan
+       </month>
+       <day>
+        6
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Statin therapy, LDL cholesterol, C-reactive protein, and coronary artery disease.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      29-38
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Recent trials have demonstrated better outcomes with intensive than with moderate statin treatment. Intensive treatment produced greater reductions in both low-density lipoprotein (LDL) cholesterol and C-reactive protein (CRP), suggesting a relationship between these two biomarkers and disease progression.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We performed intravascular ultrasonography in 502 patients with angiographically documented coronary disease. Patients were randomly assigned to receive moderate treatment (40 mg of pravastatin orally per day) or intensive treatment (80 mg of atorvastatin orally per day). Ultrasonography was repeated after 18 months to measure the progression of atherosclerosis. Lipoprotein and CRP levels were measured at baseline and follow-up.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      In the group as a whole, the mean LDL cholesterol level was reduced from 150.2 mg per deciliter (3.88 mmol per liter) at baseline to 94.5 mg per deciliter (2.44 mmol per liter) at 18 months (P&lt;0.001), and the geometric mean CRP level decreased from 2.9 to 2.3 mg per liter (P&lt;0.001). The correlation between the reduction in LDL cholesterol levels and that in CRP levels was weak but significant in the group as a whole (r=0.13, P=0.005), but not in either treatment group alone. In univariate analyses, the percent change in the levels of LDL cholesterol, CRP, apolipoprotein B-100, and non-high-density lipoprotein cholesterol were related to the rate of progression of atherosclerosis. After adjustment for the reduction in these lipid levels, the decrease in CRP levels was independently and significantly correlated with the rate of progression. Patients with reductions in both LDL cholesterol and CRP that were greater than the median had significantly slower rates of progression than patients with reductions in both biomarkers that were less than the median (P=0.001).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      For patients with coronary artery disease, the reduced rate of progression of atherosclerosis associated with intensive statin treatment, as compared with moderate statin treatment, is significantly related to greater reductions in the levels of both atherogenic lipoproteins and CRP.
+     </abstracttext>
+     <copyrightinformation>
+      Copyright 2005 Massachusetts Medical Society.
+     </copyrightinformation>
+    </abstract>
+    <affiliation>
+     Department of Cardiovascular Medicine, Cleveland Clinic Foundation, Cleveland, OH 44195, USA. nissens@ccf.org
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Nissen
+      </lastname>
+      <forename>
+       Steven E
+      </forename>
+      <initials>
+       SE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tuzcu
+      </lastname>
+      <forename>
+       E Murat
+      </forename>
+      <initials>
+       EM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schoenhagen
+      </lastname>
+      <forename>
+       Paul
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Crowe
+      </lastname>
+      <forename>
+       Tim
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sasiela
+      </lastname>
+      <forename>
+       William J
+      </forename>
+      <initials>
+       WJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tsai
+      </lastname>
+      <forename>
+       John
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Orazem
+      </lastname>
+      <forename>
+       John
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Magorien
+      </lastname>
+      <forename>
+       Raymond D
+      </forename>
+      <initials>
+       RD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       O'Shaughnessy
+      </lastname>
+      <forename>
+       Charles
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ganz
+      </lastname>
+      <forename>
+       Peter
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       Reversal of Atherosclerosis with Aggressive Lipid Lowering (REVERSAL) Investigators
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anticholesteremic Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Biological Markers
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cholesterol, LDL
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Heptanoic Acids
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Hydroxymethylglutaryl-CoA Reductase Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Lipids
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Pyrroles
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      110862-48-1
+     </registrynumber>
+     <nameofsubstance>
+      atorvastatin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      81093-37-0
+     </registrynumber>
+     <nameofsubstance>
+      Pravastatin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      9007-41-4
+     </registrynumber>
+     <nameofsubstance>
+      C-Reactive Protein
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Curr Diab Rep. 2005 Jun;5(3):165; discussion 165-6
+     </refsource>
+     <pmid version="1">
+      15929860
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2005 Jan 6;352(1):73-5
+     </refsource>
+     <pmid version="1">
+      15635116
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anticholesteremic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Biological Markers
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      C-Reactive Protein
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      metabolism
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cholesterol, LDL
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Coronary Artery Disease
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      ultrasonography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Coronary Vessels
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      ultrasonography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Disease Progression
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heptanoic Acids
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hydroxymethylglutaryl-CoA Reductase Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lipids
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Myocardial Infarction
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pravastatin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pyrroles
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Recurrence
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Regression Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ultrasonography, Interventional
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2005
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      7
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      11
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2005
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      7
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     352/1/29
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJMoa042000
+    </articleid>
+    <articleid idtype="pubmed">
+     15635110
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

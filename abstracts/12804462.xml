@@ -1,0 +1,274 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12804462
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     13
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     28
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     22
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Regular self-examination or clinical examination for early detection of breast cancer.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD003373
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Breast self-examination and clinical breast examination have been promoted for many years as general screening methods to diagnose breast cancer at an earlier stage in order to decrease morbidity and or mortality. The possible benefits and harms remain unclear.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To determine whether screening for breast cancer by regular self-examination or clinical breast examination reduces breast cancer mortality and morbidity.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      The Cochrane Library and Medline were searched for randomised trials; date of last search October 2002. The specialised register maintained by the Cochrane Breast Cancer Group was searched.
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      Randomised clinical trials, including cluster randomised trials.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      Decisions on which trials to include were taken independently by the reviewers based on the methods of trial. Disagreements were resolved by discussion. Intention to treat analyses were conducted using a fixed effect model with 95% confidence intervals.
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      Two large population-based studies (388,535 women) from Russia and Shanghai that compared breast self-examination with no intervention were included. There was no statistically significant difference in breast cancer mortality, relative risk 1.05 (95% confidence interval (CI) 0.90 to 1.24) (587 deaths in total). In Russia, more cancers were found in the breast self-examination group than in the control group (relative risk 1.24, 95% CI 1.09 to 1.41), while this was not the case in Shanghai (relative risk 0.97, 95% CI 0.88 to 1.06). Almost twice as many biopsies (3406) with benign results were performed in the screening group compared to the control group (1856), relative risk 1.89, 95% CI 1.79 to 2.00.
+     </abstracttext>
+     <abstracttext label="REVIEWER'S CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Data from two large trials do not suggest a beneficial effect of screening by breast self-examination whereas there is evidence for harms. There were no randomised trials of clinical breast examination. At present, breast self-examination cannot be recommended.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Nordic Cochrane Centre, Rigshospitalet, Dept. 7112, Blegdamsvej 9, 2100 Copenhagen Ø, Denmark. mbx59852@cochrane.dk
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Kösters
+      </lastname>
+      <forename>
+       J P
+      </forename>
+      <initials>
+       JP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gøtzsche
+      </lastname>
+      <forename>
+       P C
+      </forename>
+      <initials>
+       PC
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Int J Epidemiol. 2008 Dec;37(6):1219
+     </refsource>
+     <pmid version="1">
+      18931392
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Evid Based Nurs. 2004 Jan;7(1):15
+     </refsource>
+     <pmid version="1">
+      14994688
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Breast Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Breast Self-Examination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Physical Examination
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    24
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      14
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      29
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      14
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12804462
+    </articleid>
+    <articleid idtype="doi">
+     10.1002/14651858.CD003373
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

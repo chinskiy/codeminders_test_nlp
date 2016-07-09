@@ -1,0 +1,392 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    14506119
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     24
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     29
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1538-3598
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       290
+      </volume>
+      <issue>
+       12
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Sep
+       </month>
+       <day>
+        24
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Ability of exercise testing to predict cardiovascular and all-cause death in asymptomatic women: a 20-year follow-up of the lipid research clinics prevalence study.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1600-7
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      The value of exercise testing in women has been questioned.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To determine the prognostic value of exercise testing in a population-based cohort of asymptomatic women followed up for 20 years.
+     </abstracttext>
+     <abstracttext label="DESIGN AND SETTING" nlmcategory="METHODS">
+      Near-maximal Bruce-protocol treadmill test data from the Lipid Research Clinics Prevalence Study (1972-1976) with follow-up through 1995.
+     </abstracttext>
+     <abstracttext label="PARTICIPANTS" nlmcategory="METHODS">
+      A total of 2994 asymptomatic North American women, aged 30 to 80 years, without known cardiovascular disease.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      Cardiovascular and all-cause mortality.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      There were 427 (14%) deaths during 20 years of follow-up, of which 147 were due to cardiovascular causes. Low exercise capacity, low heart rate recovery (HRR), and not achieving target heart rate were independently associated with increased all-cause and cardiovascular mortality. There was no increased cardiovascular death risk for exercise-induced ST-segment depression (age-adjusted hazard ratio, 1.02; 95% confidence interval [CI], 0.57-1.80; P =.96). The age-adjusted hazard ratio for cardiovascular death for every metabolic equivalent (MET) decrement in exercise capacity was 1.20 (95% CI, 1.18-1.30; P&lt;.001); for every 10 beats per minute decrement in HRR, the hazard ratio was 1.36 (95% CI, 1.19-1.55; P&lt;.001). After adjusting for multiple other risk factors, women who were below the median for both exercise capacity and HRR had a 3.5-fold increased risk of cardiovascular death (95% CI, 1.57-7.86; P =.002) compared with those above the median for both variables. Among women with low risk Framingham scores, those with below median levels of both exercise capacity and HRR had significantly increased risk compared with women who had above median levels of these 2 exercise variables, 44.5 and 3.5 cardiovascular deaths per 10 000 person-years, respectively (hazard ratio for cardiovascular death, 12.93; 95% CI, 5.62-29.73; P&lt;.001).
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      The prognostic value of exercise testing in asymptomatic women derives not from electrocardiographic ischemia but from fitness-related variables.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Ciccarone Preventive Cardiology Center, Department of Medicine, Johns Hopkins Medical Institutions, Baltimore, Md 21287, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Mora
+      </lastname>
+      <forename>
+       Samia
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Redberg
+      </lastname>
+      <forename>
+       Rita F
+      </forename>
+      <initials>
+       RF
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cui
+      </lastname>
+      <forename>
+       Yadong
+      </forename>
+      <initials>
+       Y
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Whiteman
+      </lastname>
+      <forename>
+       Maura K
+      </forename>
+      <initials>
+       MK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Flaws
+      </lastname>
+      <forename>
+       Jodi A
+      </forename>
+      <initials>
+       JA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sharrett
+      </lastname>
+      <forename>
+       A Richey
+      </forename>
+      <initials>
+       AR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Blumenthal
+      </lastname>
+      <forename>
+       Roger S
+      </forename>
+      <initials>
+       RS
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       T32-HL07024
+      </grantid>
+      <acronym>
+       HL
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2004 Jan 14;291(2):183; author reply 183-4
+     </refsource>
+     <pmid version="1">
+      14722140
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2004 May-Jun;140(3):79
+     </refsource>
+     <pmid version="1">
+      15122842
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cardiovascular Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Cause of Death
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Exercise Test
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Follow-Up Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prognosis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Proportional Hazards Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Assessment
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      30
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     14506119
+    </articleid>
+    <articleid idtype="doi">
+     10.1001/jama.290.12.1600
+    </articleid>
+    <articleid idtype="pii">
+     290/12/1600
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

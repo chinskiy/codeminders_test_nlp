@@ -1,0 +1,358 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    8782752
+   </pmid>
+   <datecreated>
+    <year>
+     1996
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     17
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1996
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     17
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0140-6736
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       348
+      </volume>
+      <issue>
+       9028
+      </issue>
+      <pubdate>
+       <year>
+        1996
+       </year>
+       <month>
+        Sep
+       </month>
+       <day>
+        7
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Lancet
+     </title>
+     <isoabbreviation>
+      Lancet
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Adjusted-dose warfarin versus low-intensity, fixed-dose warfarin plus aspirin for high-risk patients with atrial fibrillation: Stroke Prevention in Atrial Fibrillation III randomised clinical trial.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      633-8
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Adjusted-dose warfarin is highly efficacious for prevention of ischaemic stroke in patients with atrial fibrillation (AF). However, this treatment carries a risk of bleeding and the need for frequent medical monitoring. We sought an alternative that would be safer and easier to administer to patients with AF who are at high-risk of thromboembolism.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      1044 patients with AF and with at least one thromboembolic risk factor (congestive heart failure or left ventricular fractional shortening &lt; or = 25%, previous thromboembolism, systolic blood pressure of more than 160 mm Hg at study enrollment, or being a woman aged over 75 years) were randomly assigned either a combination of low-intensity, fixed-dose warfarin (international normalised ratio [INR] 1.2-1.5 for initial dose adjustment) and aspirin (325 mg/day) or adjusted-dose warfarin (INR 2.0-3.0). Drugs were given open-labelled.
+     </abstracttext>
+     <abstracttext label="FINDINGS" nlmcategory="RESULTS">
+      The mean INR during follow-up of patients taking combination therapy (n = 521) was 1.3, compared with 2.4 for those taking adjusted-dose warfarin (n = 523). During follow-up, 54% of INRs in patients taking combination therapy were 1.2-1.5 and 34% were less than 1.2. The trial was stopped after a mean, follow-up of 1.1 years when the rate of ischaemic stroke and systemic embolism (primary events) in patients given combination therapy (7.9% per year) was significantly higher than in those given adjusted-dose warfarin (1.9% per year) at an interim analysis (p &lt; 0.0001), an absolute reduction of 6.0% per year (95% Cl 3.4, 8.6) by adjusted-dose warfarin. The annual rates of disabling stroke (5.6% vs 1.7%, p = 0.0007) and of primary event or vascular death (11.8% vs 6.4%, p = 0.002), were also higher with combination therapy. The rates of major bleeding were similar in both treatment groups.
+     </abstracttext>
+     <abstracttext label="INTERPRETATION" nlmcategory="CONCLUSIONS">
+      Low-intensity, fixed-dose warfarin plus aspirin in this regimen is insufficient for stroke prevention in patients with non-valvular AF at high-risk for thromboembolism; adjusted-dose warfarin (target INR 2.0-3.0) importantly reduces stroke for high-risk patients.
+     </abstracttext>
+    </abstract>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       R01 NS 24224
+      </grantid>
+      <acronym>
+       NS
+      </acronym>
+      <agency>
+       NINDS NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Clinical Trial, Phase III
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     ENGLAND
+    </country>
+    <medlineta>
+     Lancet
+    </medlineta>
+    <nlmuniqueid>
+     2985213R
+    </nlmuniqueid>
+    <issnlinking>
+     0140-6736
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anticoagulants
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Platelet Aggregation Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      50-78-2
+     </registrynumber>
+     <nameofsubstance>
+      Aspirin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      81-81-2
+     </registrynumber>
+     <nameofsubstance>
+      Warfarin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 1997 Jan-Feb;126(1):1
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anticoagulants
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aspirin
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Atrial Fibrillation
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cerebrovascular Disorders
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Therapy, Combination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Follow-Up Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Platelet Aggregation Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      United States
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Warfarin
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1996
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      7
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1996
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      7
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1996
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      7
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     8782752
+    </articleid>
+    <articleid idtype="pii">
+     S0140673696034873
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

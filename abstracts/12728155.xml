@@ -1,0 +1,572 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12728155
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     02
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     07
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0040-6376
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       58
+      </volume>
+      <issue>
+       5
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        May
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Thorax
+     </title>
+     <isoabbreviation>
+      Thorax
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Defining community acquired pneumonia severity on presentation to hospital: an international derivation and validation study.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      377-82
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      In the assessment of severity in community acquired pneumonia (CAP), the modified British Thoracic Society (mBTS) rule identifies patients with severe pneumonia but not patients who might be suitable for home management. A multicentre study was conducted to derive and validate a practical severity assessment model for stratifying adults hospitalised with CAP into different management groups.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Data from three prospective studies of CAP conducted in the UK, New Zealand, and the Netherlands were combined. A derivation cohort comprising 80% of the data was used to develop the model. Prognostic variables were identified using multiple logistic regression with 30 day mortality as the outcome measure. The final model was tested against the validation cohort.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      1068 patients were studied (mean age 64 years, 51.5% male, 30 day mortality 9%). Age &gt;/=65 years (OR 3.5, 95% CI 1.6 to 8.0) and albumin &lt;30 g/dl (OR 4.7, 95% CI 2.5 to 8.7) were independently associated with mortality over and above the mBTS rule (OR 5.2, 95% CI 2.7 to 10). A six point score, one point for each of Confusion, Urea &gt;7 mmol/l, Respiratory rate &gt;/=30/min, low systolic(&lt;90 mm Hg) or diastolic (&lt;/=60 mm Hg) Blood pressure), age &gt;/=65 years (CURB-65 score) based on information available at initial hospital assessment, enabled patients to be stratified according to increasing risk of mortality: score 0, 0.7%; score 1, 3.2%; score 2, 3%; score 3, 17%; score 4, 41.5% and score 5, 57%. The validation cohort confirmed a similar pattern.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      A simple six point score based on confusion, urea, respiratory rate, blood pressure, and age can be used to stratify patients with CAP into different management groups.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Respiratory Infection Research Group, Respiratory Medicine, Nottingham City Hospital, Nottingham NG5 1PB, UK.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Lim
+      </lastname>
+      <forename>
+       W S
+      </forename>
+      <initials>
+       WS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       van der Eerden
+      </lastname>
+      <forename>
+       M M
+      </forename>
+      <initials>
+       MM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Laing
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Boersma
+      </lastname>
+      <forename>
+       W G
+      </forename>
+      <initials>
+       WG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Karalus
+      </lastname>
+      <forename>
+       N
+      </forename>
+      <initials>
+       N
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Town
+      </lastname>
+      <forename>
+       G I
+      </forename>
+      <initials>
+       GI
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lewis
+      </lastname>
+      <forename>
+       S A
+      </forename>
+      <initials>
+       SA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Macfarlane
+      </lastname>
+      <forename>
+       J T
+      </forename>
+      <initials>
+       JT
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Validation Studies
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Thorax
+    </medlineta>
+    <nlmuniqueid>
+     0417353
+    </nlmuniqueid>
+    <issnlinking>
+     0040-6376
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Am Geriatr Soc. 1996 May;44(5):539-44
+     </refsource>
+     <pmid version="1">
+      8617902
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1996 Jan 10;275(2):134-41
+     </refsource>
+     <pmid version="1">
+      8531309
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Respir Crit Care Med. 1996 Nov;154(5):1450-5
+     </refsource>
+     <pmid version="1">
+      8912763
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Thorax. 1996 Oct;51(10):1010-6
+     </refsource>
+     <pmid version="1">
+      8977602
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1997 Jan 23;336(4):243-50
+     </refsource>
+     <pmid version="1">
+      8995086
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Investig Med. 1997 Aug;45(6):394-400
+     </refsource>
+     <pmid version="1">
+      9291696
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ned Tijdschr Geneeskd. 1998 Apr 25;142(17):952-6
+     </refsource>
+     <pmid version="1">
+      9623168
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Intern Med. 1996 Oct 28;156(19):2206-12
+     </refsource>
+     <pmid version="1">
+      8885819
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Thorax. 2000 Mar;55(3):219-23
+     </refsource>
+     <pmid version="1">
+      10679541
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Infect Dis. 2000 Aug;31(2):347-82
+     </refsource>
+     <pmid version="1">
+      10987697
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Infect Dis. 2000 Aug;31(2):383-421
+     </refsource>
+     <pmid version="1">
+      10987698
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Thorax. 2001 Apr;56(4):296-301
+     </refsource>
+     <pmid version="1">
+      11254821
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Eur Respir J. 2001 Feb;17(2):200-5
+     </refsource>
+     <pmid version="1">
+      11334120
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Respir Crit Care Med. 2001 Jun;163(7):1730-54
+     </refsource>
+     <pmid version="1">
+      11401897
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Intern Med. 1991 Sep 15;115(6):428-36
+     </refsource>
+     <pmid version="1">
+      1872491
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Eur Respir J. 1990 Nov;3(10):1105-13
+     </refsource>
+     <pmid version="1">
+      2090471
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Rev Infect Dis. 1989 Jul-Aug;11(4):586-99
+     </refsource>
+     <pmid version="1">
+      2772465
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Age Ageing. 1974 Aug;3(3):152-7
+     </refsource>
+     <pmid version="1">
+      4463714
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Eur Respir J. 1995 Mar;8(3):392-7
+     </refsource>
+     <pmid version="1">
+      7789483
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Med. 1993 Feb;94(2):153-9
+     </refsource>
+     <pmid version="1">
+      8430711
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Thorax. 2003 May;58(5):371-2
+     </refsource>
+     <pmid version="1">
+      12728152
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Community-Acquired Infections
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      England
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Home Care Services
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hospitalization
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      New Zealand
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Patient Selection
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pneumonia
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prognosis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Regression Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Severity of Illness Index
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC1746657
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      8
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12728155
+    </articleid>
+    <articleid idtype="pmc">
+     PMC1746657
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,591 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    17065637
+   </pmid>
+   <datecreated>
+    <year>
+     2006
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     26
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     01
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2008
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     28
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1533-4406
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       355
+      </volume>
+      <issue>
+       17
+      </issue>
+      <pubdate>
+       <year>
+        2006
+       </year>
+       <month>
+        Oct
+       </month>
+       <day>
+        26
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Survival of patients with stage I lung cancer detected on CT screening.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1763-71
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      The outcome among patients with clinical stage I cancer that is detected on annual screening using spiral computed tomography (CT) is unknown.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      In a large collaborative study, we screened 31,567 asymptomatic persons at risk for lung cancer using low-dose CT from 1993 through 2005, and from 1994 through 2005, 27,456 repeated screenings were performed 7 to 18 months after the previous screening. We estimated the 10-year lung-cancer-specific survival rate among participants with clinical stage I lung cancer that was detected on CT screening and diagnosed by biopsy, regardless of the type of treatment received, and among those who underwent surgical resection of clinical stage I cancer within 1 month. A pathology panel reviewed the surgical specimens obtained from participants who underwent resection.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Screening resulted in a diagnosis of lung cancer in 484 participants. Of these participants, 412 (85%) had clinical stage I lung cancer, and the estimated 10-year survival rate was 88% in this subgroup (95% confidence interval [CI], 84 to 91). Among the 302 participants with clinical stage I cancer who underwent surgical resection within 1 month after diagnosis, the survival rate was 92% (95% CI, 88 to 95). The 8 participants with clinical stage I cancer who did not receive treatment died within 5 years after diagnosis.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Annual spiral CT screening can detect lung cancer that is curable.
+     </abstracttext>
+     <copyrightinformation>
+      Copyright 2006 Massachusetts Medical Society.
+     </copyrightinformation>
+    </abstract>
+    <affiliation>
+     New York Presbyterian Hospital-Weill Medical College of Cornell University, New York 10021, USA. chensch@med.cornell.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <collectivename>
+       International Early Lung Cancer Action Program Investigators
+      </collectivename>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Henschke
+      </lastname>
+      <forename>
+       Claudia I
+      </forename>
+      <initials>
+       CI
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Yankelevitz
+      </lastname>
+      <forename>
+       David F
+      </forename>
+      <initials>
+       DF
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Libby
+      </lastname>
+      <forename>
+       Daniel M
+      </forename>
+      <initials>
+       DM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pasmantier
+      </lastname>
+      <forename>
+       Mark W
+      </forename>
+      <initials>
+       MW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Smith
+      </lastname>
+      <forename>
+       James P
+      </forename>
+      <initials>
+       JP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Miettinen
+      </lastname>
+      <forename>
+       Olli S
+      </forename>
+      <initials>
+       OS
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       R01-CA-633931
+      </grantid>
+      <acronym>
+       CA
+      </acronym>
+      <agency>
+       NCI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       R01-CA-78905
+      </grantid>
+      <acronym>
+       CA
+      </acronym>
+      <agency>
+       NCI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Research Support, N.I.H., Extramural
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, Non-P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Tobacco Smoke Pollution
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2007 Feb 15;356(7):743-4; author reply 746-7
+     </refsource>
+     <pmid version="1">
+      17310522
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2007 Feb 15;356(7):745-6; author reply 746-7
+     </refsource>
+     <pmid version="1">
+      17310515
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2007 Feb 15;356(7):745; author reply 746-7
+     </refsource>
+     <pmid version="1">
+      17310516
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2007 Feb 15;356(7):745; author reply 746-7
+     </refsource>
+     <pmid version="1">
+      17310517
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2007 Feb 15;356(7):745; author reply 746-7
+     </refsource>
+     <pmid version="1">
+      17310518
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2007 Feb 15;356(7):744-5; author reply 746-7
+     </refsource>
+     <pmid version="1">
+      17310519
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2007 Feb 15;356(7):744; author reply 746-7
+     </refsource>
+     <pmid version="1">
+      17310520
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2007 Feb 15;356(7):744; author reply 746-7
+     </refsource>
+     <pmid version="1">
+      17310521
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2007 Feb 15;356(7):743; author reply 746-7
+     </refsource>
+     <pmid version="1">
+      17301309
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Nat Clin Pract Oncol. 2007 Apr;4(4):218-9
+     </refsource>
+     <pmid version="1">
+      17310233
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2006 Oct 26;355(17):1822-4
+     </refsource>
+     <pmid version="1">
+      17065645
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Can Fam Physician. 2007 Aug;53(8):1334-6
+     </refsource>
+     <pmid version="1">
+      17872852
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2008 Apr 24;358(17):1850-1
+     </refsource>
+     <pmid version="1">
+      18385491
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2008 Aug 21;359(8):871-3
+     </refsource>
+     <pmid version="1">
+      18669421
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="ErratumIn">
+     <refsource>
+      N Engl J Med. 2008 Aug 21;359(8):877
+     </refsource>
+    </commentscorrections>
+    <commentscorrections reftype="ErratumIn">
+     <refsource>
+      N Engl J Med. 2008 Apr 24;358(17):1862
+     </refsource>
+     <pmid version="1">
+      18385492
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="ErratumIn">
+     <refsource>
+      N Engl J Med. 2008 Apr 24;358(17):1875
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Algorithms
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Biopsy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Carcinoma
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      radiography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Case-Control Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Longitudinal Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lung
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      radiography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lung Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      radiography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Neoplasm Staging
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Occupational Exposure
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Smoking
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Survival Rate
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tobacco Smoke Pollution
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Tomography, X-Ray Computed
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2006
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      27
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2006
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      2
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2006
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      27
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     355/17/1763
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJMoa060476
+    </articleid>
+    <articleid idtype="pubmed">
+     17065637
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

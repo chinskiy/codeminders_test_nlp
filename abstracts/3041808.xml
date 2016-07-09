@@ -1,0 +1,341 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    3041808
+   </pmid>
+   <datecreated>
+    <year>
+     1988
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     29
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1988
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     29
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0002-9343
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       84
+      </volume>
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <year>
+        1988
+       </year>
+       <month>
+        Apr
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The American journal of medicine
+     </title>
+     <isoabbreviation>
+      Am. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Factors affecting sensitivity and specificity of a diagnostic test: the exercise thallium scintigram.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      699-710
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Technical and methodological factors might affect the reported accuracies of diagnostic tests. To assess their influence on the accuracy of exercise thallium scintigraphy, the medical literature (1977 to 1986) was non-selectively searched and meta-analysis was applied to the 56 publications thus retrieved. These were analyzed for year of publication, sex and mean age of patients, percentage of patients with angina pectoris, percentage of patients with prior myocardial infarction, percentage of patients taking beta-blocking medications, and for angiographic referral (workup) bias, blinding of tests, and technical factors. The percentage of patients with myocardial infarction had the highest correlation with sensitivity (0.45, p = 0.0007). Only the inclusion of subjects with prior infarction and the percentage of men in the study group were independently and significantly (p less than 0.05) related to test sensitivity. Both the presence of workup bias and publication year adversely affected specificity (p less than 0.05). Of these two factors, publication year had the strongest association by stepwise linear regression. This analysis suggests that the reported sensitivity of thallium scintigraphy is higher and the specificity lower than that expected in clinical practice because of the presence of workup bias and the inappropriate inclusion of post-infarct patients.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Veterans Administration Medical Center, Long Beach, California 90822.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Detrano
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Janosi
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lyons
+      </lastname>
+      <forename>
+       K P
+      </forename>
+      <initials>
+       KP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Marcondes
+      </lastname>
+      <forename>
+       G
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Abbassi
+      </lastname>
+      <forename>
+       N
+      </forename>
+      <initials>
+       N
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Froelicher
+      </lastname>
+      <forename>
+       V F
+      </forename>
+      <initials>
+       VF
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Am J Med
+    </medlineta>
+    <nlmuniqueid>
+     0267200
+    </nlmuniqueid>
+    <issnlinking>
+     0002-9343
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Thallium Radioisotopes
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Coronary Angiography
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Coronary Disease
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      radionuclide imaging
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Exercise Test
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Myocardial Infarction
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      radionuclide imaging
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Research Design
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Statistics as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Thallium Radioisotopes
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnostic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1988
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1988
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1988
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     3041808
+    </articleid>
+    <articleid idtype="pii">
+     0002-9343(88)90107-6
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

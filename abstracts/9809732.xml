@@ -1,0 +1,390 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    9809732
+   </pmid>
+   <datecreated>
+    <year>
+     1998
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1998
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     07
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       280
+      </volume>
+      <issue>
+       17
+      </issue>
+      <pubdate>
+       <year>
+        1998
+       </year>
+       <month>
+        Nov
+       </month>
+       <day>
+        4
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Endovaginal ultrasound to exclude endometrial cancer and other endometrial abnormalities.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1510-7
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Postmenopausal vaginal bleeding is a common clinical problem. Endovaginal ultrasound (EVUS) is a noninvasive diagnostic test that may help determine which women should undergo endometrial biopsy.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To determine the accuracy of EVUS in detecting endometrial disease in postmenopausal women with vaginal bleeding according to hormone replacement use.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      Literature search of English-language and non-English-language articles published from 1966 through November 1996 using MEDLINE and by a manual search of bibliographies of published articles.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION" nlmcategory="METHODS">
+      Studies were included if they prospectively collected EVUS measurements of endometrial thickness prior to obtaining endometrial tissue for histologic evaluation in postmenopausal women with vaginal bleeding. Of 85 studies that included data on EVUS and endometrial histology, 35 were included in the meta-analysis and included 5892 women.
+     </abstracttext>
+     <abstracttext label="DATA EXTRACTION" nlmcategory="METHODS">
+      Articles were reviewed and independently selected and abstracted by 2 reviewers. Disagreement was resolved by consensus.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      The overall summary mean weighted estimates of sensitivity and specificity were calculated for thresholds of endometrial thickness from 3 to 10 mm. Using a 5-mm threshold to define abnormal endometrial thickening, 96% (95% confidence interval [CI], 94%-98%) of women with cancer had an abnormal EVUS result, whereas 92% (95% CI, 90%-93%) of women with endometrial disease (cancer, polyp, or atypical hyperplasia) had an abnormal result. This did not vary by hormone replacement use. However, the number of women with normal histology who had an abnormal EVUS result did vary by hormone replacement use. In women who were not using hormone replacement therapy, 593 (8%) with normal histological findings had an abnormal EVUS result (specificity, 92%; 95% CI, 90%-94%), whereas 1544 (23%) using hormone replacement therapy had an abnormal EVUS result (specificity, 77%; 95% CI, 75%-79%). For a postmenopausal woman with vaginal bleeding with a 10% pretest probability of endometrial cancer, her probability of cancer is 1% following a normal EVUS result.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Endovaginal ultrasound has a high sensitivity for detecting endometrial cancer and other endometrial disease and can reliably identify postmenopausal women with vaginal bleeding who are highly unlikely to have significant endometrial disease so that endometrial sampling may be unnecessary.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     San Francisco Veterans Affairs Medical Center, Department of Radiology, University of California, 94115, USA. Rebecca.Smith-Bindman@Radiology.UCSF.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Smith-Bindman
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kerlikowske
+      </lastname>
+      <forename>
+       K
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Feldstein
+      </lastname>
+      <forename>
+       V A
+      </forename>
+      <initials>
+       VA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Subak
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Scheidler
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Segal
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Brand
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Grady
+      </lastname>
+      <forename>
+       D
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 1998 Nov 4;280(17):1529-30
+     </refsource>
+     <pmid version="1">
+      9809736
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 1999 May 12;281(18):1693-4
+     </refsource>
+     <pmid version="1">
+      10328060
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Biopsy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Endometrial Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      ultrasonography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Endometrium
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      ultrasonography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Endosonography
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hormone Replacement Therapy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Likelihood Functions
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Postmenopause
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      ROC Curve
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Uterine Hemorrhage
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1998
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      11
+     </day>
+     <hour>
+      3
+     </hour>
+     <minute>
+      2
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      14
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1998
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      11
+     </day>
+     <hour>
+      3
+     </hour>
+     <minute>
+      2
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     9809732
+    </articleid>
+    <articleid idtype="pii">
+     jma80013
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

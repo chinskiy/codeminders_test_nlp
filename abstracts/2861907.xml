@@ -1,0 +1,278 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    2861907
+   </pmid>
+   <datecreated>
+    <year>
+     1985
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     16
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1985
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     16
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2008
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     11
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0333-1024
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       5 Suppl 2
+      </volume>
+      <pubdate>
+       <year>
+        1985
+       </year>
+       <month>
+        May
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cephalalgia : an international journal of headache
+     </title>
+     <isoabbreviation>
+      Cephalalgia
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Flunarizine v. placebo in childhood migraine. A double-blind study.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      145-8
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Successful migraine prophylaxis with flunarizine has been reported in adults by several authors. We used flunarizine in a double-blind, placebo controlled, randomized trial in childhood migraine. Twenty-four children with classical or common migraine were followed by a 12-week flunarizine treatment period. Each patient took 5 mg/day of the drug before going to sleep. Twenty-four children with similar clinical characteristics were assigned to placebo treatment. Efficacy of flunarizine versus placebo was assessed on the basis of the reduction of headache frequency and duration. A statistical comparison was performed between values reported in the treatment period and those in the three months before. Children treated with flunarizine experienced a statistically significant reduction in headache (66%) and duration (51%). These results were statistically superior to those observed in the placebo group. Sixteen patients on flunarizine therapy experienced an improvement of more than 50% of both parameters. We found flunarizine is an effective agent in children's migraine prophylaxis. Moreover it is suitable for the low incidence of mild side effects.
+     </abstracttext>
+    </abstract>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Sorge
+      </lastname>
+      <forename>
+       F
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Marano
+      </lastname>
+      <forename>
+       E
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     NORWAY
+    </country>
+    <medlineta>
+     Cephalalgia
+    </medlineta>
+    <nlmuniqueid>
+     8200710
+    </nlmuniqueid>
+    <issnlinking>
+     0333-1024
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Calcium Channel Blockers
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Histamine H1 Antagonists
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Calcium Channel Blockers
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Clinical Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Histamine H1 Antagonists
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Migraine Disorders
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Random Allocation
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1985
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1985
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1985
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     2861907
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

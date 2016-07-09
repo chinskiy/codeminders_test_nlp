@@ -1,0 +1,340 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11403348
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     13
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     04
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0263-6352
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       19
+      </volume>
+      <issue>
+       6
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Jun
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of hypertension
+     </title>
+     <isoabbreviation>
+      J. Hypertens.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Independent predictors of isolated clinic ('white-coat') hypertension.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1015-20
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Hypertension guidelines recommend 24 h ambulatory blood pressure (ABP) monitoring in hypertensive subjects with suspected isolated clinic hypertension (ICH). However, the pre-test probability of ICH based on the distribution of its independent predictors has not yet been estimated in hypertensive subjects with mildly elevated blood pressure.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To ascertain the independent predictors of ICH in mildly hypertensive subjects.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      In the setting of the HARVEST-PIUMA collaboration, we studied 1564 subjects with hypertension stage I. At entry, all subjects were untreated and all underwent ABP monitoring and echocardiography. Diabetes, hypertension grade &gt; I, renal failure or previous cardiovascular morbid events were exclusion criteria. Clinic BP was 143/92 mmHg (SD 9/5) and 24 h ABP was 128/81 mmHg (SD 10/8).
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Prevalence of ICH (daytime ABP &lt; 130 mmHg systolic and 80 mmHg diastolic) was 10.4%. In a multivariate logistic regression analysis, sex (P = 0.002), smoking (P = 0.038) and clinic diastolic BP (P = 0.0002) were the sole independent predictors of ICH according to the following equation: Y = 2.6438 + 0.5128 x sex (0 = men; 1 = women) + 0.4543 x current smoking (0 = yes; 1 = no) - 0.0531 x clinic diastolic BP (mmHg) and P (probability of ICH) = exp(Y)/[1 + (exp(Y)]. Left ventricular (LV) mass at echocardiography was a further independent predictor (P = 0.002) of ICH according to the following equation: Y= 3.4343 + 0.4603 x sex + 0.5989 x current smoking - 0.0482 x clinic diastolic BP - 0.0312 x LV mass [g/height (m)2.7]. LV mass was greater (P &lt; 0.01) in the group with ambulatory hypertension [42.3 g/height (m)2.7] than in that with ICH [39.2 g/height (m)2.7] and not dissimilar between the ICH group and a control group of 370 healthy normotensive subjects [38.1 g/height (m)2.7].
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      In untreated subjects with stage I hypertension, ICH is most frequent among women, nonsmokers and subjects with low clinic BP and smaller LV mass. These findings allow identification of subjects with indication to ABP monitoring because of suspected ICH.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Cardiologia e Fisiopatologia Cardiovascolare and Medicina Interna, Universiá di Perugia, Italy. verdec@tin.it
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Verdecchia
+      </lastname>
+      <forename>
+       P
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Palatini
+      </lastname>
+      <forename>
+       P
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schillaci
+      </lastname>
+      <forename>
+       G
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Mormino
+      </lastname>
+      <forename>
+       P
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Porcellati
+      </lastname>
+      <forename>
+       C
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pessina
+      </lastname>
+      <forename>
+       A C
+      </forename>
+      <initials>
+       AC
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     J Hypertens
+    </medlineta>
+    <nlmuniqueid>
+     8306882
+    </nlmuniqueid>
+    <issnlinking>
+     0263-6352
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Pressure Monitoring, Ambulatory
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diastole
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Echocardiography
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heart Ventricles
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      ultrasonography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertension
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Multivariate Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sex Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Smoking
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      14
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      14
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11403348
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

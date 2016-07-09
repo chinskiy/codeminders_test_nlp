@@ -1,0 +1,345 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11578281
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     01
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     25
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0007-1323
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       88
+      </volume>
+      <issue>
+       10
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Oct
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The British journal of surgery
+     </title>
+     <isoabbreviation>
+      Br J Surg
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Systematic review of randomized clinical trials of surgical treatment for carpal tunnel syndrome.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1285-95
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Carpal tunnel syndrome (CTS) is a common disorder for which several surgical treatment options are available. However, there is no consensus on the most effective method of treatment. The object of this systematic review is to compare the efficacy of the various surgical techniques in relieving the symptoms of CTS and promoting return to work and/or activities of daily living.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Computer-aided searches of Medline, EMBASE and the Cochrane Controlled Trials Register were conducted, together with reference checking. A rating system, based on the number of studies and their methodological quality and findings, was used to determine the strength of the available evidence for the efficacy of the treatment.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Fourteen studies were included in the review. None of the alternatives to standard open carpal tunnel release (OCTR) seems to offer better relief of symptoms. There is conflicting evidence about whether endoscopic carpal tunnel release results in earlier return to work and/or activities of daily living.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Standard OCTR is still the preferred method of treatment for CTS. It is just as effective as the alternatives, but is technically less demanding, so incurs a lower risk of complications and of added costs.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Institute for Research in Extramural Medicine, VU University Medical Centre, Amsterdam, The Netherlands. aam.gerritsen.emgo@med.vu.nl
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Gerritsen
+      </lastname>
+      <forename>
+       A A
+      </forename>
+      <initials>
+       AA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Uitdehaag
+      </lastname>
+      <forename>
+       B M
+      </forename>
+      <initials>
+       BM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       van Geldere
+      </lastname>
+      <forename>
+       D
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Scholten
+      </lastname>
+      <forename>
+       R J
+      </forename>
+      <initials>
+       RJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       de Vet
+      </lastname>
+      <forename>
+       H C
+      </forename>
+      <initials>
+       HC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bouter
+      </lastname>
+      <forename>
+       L M
+      </forename>
+      <initials>
+       LM
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Br J Surg
+    </medlineta>
+    <nlmuniqueid>
+     0372553
+    </nlmuniqueid>
+    <issnlinking>
+     0007-1323
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Bone Joint Surg Am. 2003 May;85-A(5):964; author reply 964
+     </refsource>
+     <pmid version="1">
+      12728051
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Bone Joint Surg Am. 2002 Aug;84-A(8):1489
+     </refsource>
+     <pmid version="1">
+      12177290
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Carpal Tunnel Syndrome
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      surgery
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Endoscopy
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      methods
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      standards
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Postoperative Complications
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Quality of Health Care
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    48
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      2
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      2
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11578281
+    </articleid>
+    <articleid idtype="pii">
+     bjs1858
+    </articleid>
+    <articleid idtype="doi">
+     10.1046/j.0007-1323.2001.01858.x
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

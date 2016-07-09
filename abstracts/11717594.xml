@@ -1,0 +1,392 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11717594
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     21
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     07
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1097-6744
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       142
+      </volume>
+      <issue>
+       6
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Dec
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      American heart journal
+     </title>
+     <isoabbreviation>
+      Am. Heart J.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Pharmacologic stress testing for coronary disease diagnosis: A meta-analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      934-44
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Although noninvasive pharmacologic stress tests are widely used, their relative performance is not clear. We compared the performance of pharmacologic stress tests combined with echocardiography or nuclear imaging for the diagnosis of coronary disease.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We performed a regression meta-analysis of published data. We included studies published between January 1975 and June 1999 in which subjects underwent echocardiographic or single-photon emission computed tomography (SPECT) stress testing with adenosine, dipyridamole, or dobutamine for diagnosis of coronary artery disease. All subjects also underwent coronary angiography. Two independent reviewers abstracted population characteristics, technical factors, methodologic factors, and results and calculated test sensitivity and specificity.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Eighty-two studies met the inclusion criteria. The sensitivity of dipyridamole SPECT imaging, 89% (95% CI, 84%-93%), was higher than that of dipyridamole echocardiography, but the specificity of dipyridamole SPECT imaging, 65% (95% CI, 54%-74%), was lower than that of dipyridamole echocardiography. Dipyridamole and adenosine tests had similar sensitivities and specificities. The sensitivity of dobutamine echocardiography, 80% (95% CI, 77%-83%) was similar to that of dobutamine SPECT imaging, but dobutamine echocardiography had a higher specificity, 84% (95% CI, 80%-86%) than dobutamine SPECT imaging did.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The findings of our study can be used to guide the selection of the optimal pharmacologic stress test for each patient. Maximum sensitivity can be attained by use of a vasodilator combined with SPECT imaging. Maximum specificity can be attained by use of a vasodilator with echocardiography. The highest combination of sensitivity and specificity can be attained with dobutamine echocardiography.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Robert Wood Johnson Clinical Scholars Program, University of Washington, Seattle, WA, USA. cathkim@umich.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Kim
+      </lastname>
+      <forename>
+       C
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kwok
+      </lastname>
+      <forename>
+       Y S
+      </forename>
+      <initials>
+       YS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Heagerty
+      </lastname>
+      <forename>
+       P
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Redberg
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       R01 HL57702
+      </grantid>
+      <acronym>
+       HL
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Am Heart J
+    </medlineta>
+    <nlmuniqueid>
+     0370465
+    </nlmuniqueid>
+    <issnlinking>
+     0002-8703
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      34368-04-2
+     </registrynumber>
+     <nameofsubstance>
+      Dobutamine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      58-32-2
+     </registrynumber>
+     <nameofsubstance>
+      Dipyridamole
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      58-61-7
+     </registrynumber>
+     <nameofsubstance>
+      Adenosine
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adenosine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnostic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Coronary Angiography
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Coronary Disease
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dipyridamole
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnostic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dobutamine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnostic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Echocardiography
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Exercise Test
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Multivariate Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      ROC Curve
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sex Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tomography, Emission-Computed, Single-Photon
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      22
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      22
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11717594
+    </articleid>
+    <articleid idtype="pii">
+     S0002-8703(01)14530-8
+    </articleid>
+    <articleid idtype="doi">
+     10.1067/mhj.2001.119761
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

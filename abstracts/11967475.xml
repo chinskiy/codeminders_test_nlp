@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11967475
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     22
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     14
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      1087-0547
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       5
+      </volume>
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Mar
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of attention disorders
+     </title>
+     <isoabbreviation>
+      J Atten Disord
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     A review of the pharmacotherapy of adults with attention-deficit/hyperactivity disorder.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      189-202
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      Despite the increasing recognition of attention deficit hyperactivity disorder (ADHD) in adults, the use of pharmacotherapeutics remains less established.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      A systematic review of the literature identified 15 studies (N = 435 subjects) of stimulants, and 22 studies of non-stimulant medications (N = 421 subjects) including antidepressants, antihypertensives, amino acids, and wake-promoting agents for the treatment of ADHD in adults.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Studies with stimulants and antidepressants demonstrated significant short-term improvement in ADHD symptoms compared to placebo in adults. Methylphenidate (MPH) and amphetamine had an immediate onset of action whereas the ADHD response to pemoline and antidepressants appeared delayed. The response to amphetamine and MPH appears to be dose-dependent. Controlled data on nicotonic and noradrenergic compounds appear promising. There was considerable variability in diagnostic criteria, dosing parameters, and response rates between the various studies.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Under controlled conditions, the aggregate literature shows that the stimulants and noradrenergic antidepressants had a clinically and statistically significant beneficial effect on treating ADHD in adults.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Massachusetts General Hospital, Boston, MA 02114, USA. wilens@helix.mgh.harvard.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Wilens
+      </lastname>
+      <forename>
+       Timothy E
+      </forename>
+      <initials>
+       TE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Spencer
+      </lastname>
+      <forename>
+       Thomas J
+      </forename>
+      <initials>
+       TJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Biederman
+      </lastname>
+      <forename>
+       Joseph
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       DA11929
+      </grantid>
+      <acronym>
+       DA
+      </acronym>
+      <agency>
+       NIDA NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     Canada
+    </country>
+    <medlineta>
+     J Atten Disord
+    </medlineta>
+    <nlmuniqueid>
+     9615686
+    </nlmuniqueid>
+    <issnlinking>
+     1087-0547
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antidepressive Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antihypertensive Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Central Nervous System Stimulants
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cholinergic Agents
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antidepressive Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antihypertensive Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Attention Deficit Disorder with Hyperactivity
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Central Nervous System Stimulants
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cholinergic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    121
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      23
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      23
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11967475
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

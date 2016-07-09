@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10877038
+   </pmid>
+   <datecreated>
+    <year>
+     2000
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     19
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2000
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     19
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0114-5916
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       22
+      </volume>
+      <issue>
+       6
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+       <month>
+        Jun
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Drug safety : an international journal of medical toxicology and drug experience
+     </title>
+     <isoabbreviation>
+      Drug Saf
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     HMG-CoA reductase inhibitors and myotoxicity.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      441-57
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      The 3-hydroxy-3-methylglutaryl coenzyme A (HMG-CoA) reductase inhibitors specifically inhibit HMG-CoA reductase in the liver, thereby inhibiting the biosynthesis of cholesterol. These drugs significantly reduce plasma cholesterol level and long term treatment reduces morbidity and mortality associated with coronary heart disease. The tolerability of these drugs during long term administration is an important issue. Adverse reactions involving skeletal muscle are not uncommon, and sometimes serious adverse reactions involving skeletal muscle such as myopathy and rhabdomyolysis may occur, requiring discontinuation of the drug. Occasionally, arthralgia, alone or in association with myalgia, has been reported. In this article we review scientific data provided via Medline, adverse drug reaction case reports from the Swedish Drug Information System (SWEDIS) and the World Health Organization's International Drug Information System (INTDIS) database, focusing on HMG-CoA reductase inhibitor-related musculoskeletal system events. Cytochrome P450 (CYP) 3A4 is the main isoenzyme involved in the metabolic transformation of HMG-CoA reductase inhibitors. Individuals with both low hepatic and low gastrointestinal tract levels of CYP3A4 expression may be at in increased risk of myotoxicity due to potentially higher HMG-CoA reductase inhibitor plasma concentrations. The reported incidence of myotoxic reactions in patients treated with this drug class varies from 1 to 7% and varies between different agents. The risk of these serious adverse reactions is dose-dependent and may increase when HMG-CoA reductase inhibitors are prescribed concomitantly with drugs that inhibit their metabolism, such as itraconazole, cyclosporin, erythromycin and nefazodone. Electrolyte disturbances, infections, major trauma, hypoxia as well as drugs of abuse may increase the risk of myotoxicity. It is important that the potentially serious adverse reactions are recognised and correctly diagnosed so that the HMG-CoA reductase inhibitor may at once be withdrawn to prevent further muscular damage.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Division of Clinical Pharmacology, Norrland University Hospital, Umeå, Sweden. memduh.ucar@vmo.ltjkpg.se
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Ucar
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Mjörndal
+      </lastname>
+      <forename>
+       T
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dahlqvist
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     NEW ZEALAND
+    </country>
+    <medlineta>
+     Drug Saf
+    </medlineta>
+    <nlmuniqueid>
+     9002928
+    </nlmuniqueid>
+    <issnlinking>
+     0114-5916
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Hydroxymethylglutaryl-CoA Reductase Inhibitors
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Animals
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hydroxymethylglutaryl-CoA Reductase Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Muscular Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      chemically induced
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    113
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      6
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2000
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      6
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10877038
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

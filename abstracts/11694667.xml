@@ -1,0 +1,403 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11694667
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     05
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     14
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1098-4275
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       108
+      </volume>
+      <issue>
+       5
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Nov
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Pediatrics
+     </title>
+     <isoabbreviation>
+      Pediatrics
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Atomoxetine in the treatment of children and adolescents with attention-deficit/hyperactivity disorder: a randomized, placebo-controlled, dose-response study.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      E83
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      Atomoxetine is an investigational, nonstimulant pharmacotherapy being studied as potential treatment for attention-deficit/hyperactivity disorder (ADHD). It is thought to act via blockade of the presynaptic norepinephrine transporter in the brain. We assessed the efficacy of 3 doses of atomoxetine compared with placebo in children and adolescents with ADHD.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      A total of 297 children and adolescents who were 8 to 18 years of age and had ADHD as defined by the Diagnostic and Statistical Manual of Mental Disorders, 4th edition, were randomized to placebo or atomoxetine dosed on a weight-adjusted basis at 0.5 mg/kg/day, 1.2 mg/kg/day, or 1.8 mg/kg/day for an 8-week period. ADHD symptoms, affective symptoms, and social and family functioning were assessed using parent and investigator rating scales.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Approximately 71% of children enrolled were male, approximately 67% met criteria for mixed subtype (both inattentive and hyperactive/impulsive symptoms), and the only common psychiatric comorbidity was oppositional defiant disorder (approximately 38% of the sample). At baseline, symptom severity was rated as moderate to severe for most children. At endpoint, atomoxetine 1.2 mg/kg/day and 1.8 mg/kg/day were consistently associated with superior outcomes in ADHD symptoms compared with placebo and were not different from each other. The dose of 0.5 mg/kg/day was associated with intermediate efficacy between placebo and the 2 higher doses, suggesting a graded dose-response. Social and family functioning also were improved in the atomoxetine groups compared with placebo with statistically significant improvements in measures of children's ability to meet psychosocial role expectations and parental impact. Discontinuations as a result of adverse events were &lt;5% for all groups.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Among children and adolescents aged 8 to 18, atomoxetine was superior to placebo in reducing ADHD symptoms and in improving social and family functioning symptoms. Atomoxetine was associated with a graded dose-response, and 1.2 mg/kg/day seems to be as effective as 1.8 mg/kg/day and is likely to be the appropriate initial target dose for most patients. Treatment with atomoxetine was safe and well tolerated.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Lilly Research Laboratories and Indiana University School of Medicine, Indianapolis, Indiana, USA. dmichelson@lilly.com
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Michelson
+      </lastname>
+      <forename>
+       D
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Faries
+      </lastname>
+      <forename>
+       D
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wernicke
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kelsey
+      </lastname>
+      <forename>
+       D
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kendrick
+      </lastname>
+      <forename>
+       K
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sallee
+      </lastname>
+      <forename>
+       F R
+      </forename>
+      <initials>
+       FR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Spencer
+      </lastname>
+      <forename>
+       T
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       Atomoxetine ADHD Study Group
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Pediatrics
+    </medlineta>
+    <nlmuniqueid>
+     0376422
+    </nlmuniqueid>
+    <issnlinking>
+     0031-4005
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Drugs, Investigational
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Propylamines
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      83015-26-3
+     </registrynumber>
+     <nameofsubstance>
+      atomoxetine
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Age Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Algorithms
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Analysis of Variance
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Attention Deficit Disorder with Hyperactivity
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Depression
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dose-Response Relationship, Drug
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drugs, Investigational
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Propylamines
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      6
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      6
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11694667
+    </articleid>
+    <articleid idtype="pii">
+     108/5/e83
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

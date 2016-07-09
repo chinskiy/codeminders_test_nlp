@@ -1,0 +1,429 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    14738790
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     23
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     05
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1474-547X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       363
+      </volume>
+      <issue>
+       9404
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Jan
+       </month>
+       <day>
+        17
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Lancet
+     </title>
+     <isoabbreviation>
+      Lancet
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Sudden unexplained infant death in 20 regions in Europe: case control study.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      185-91
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      After striking changes in rates of sudden unexplained infant death (SIDS) around 1990, four large case-control studies were set up to re-examine the epidemiology of this syndrome. The European Concerted Action on SIDS (ECAS) investigation was planned to bring together data from these and new studies to give an overview of risk factors for the syndrome in Europe.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We undertook case-control studies in 20 regions. Data for more than 60 variables were extracted from anonymised records of 745 SIDS cases and 2411 live controls. Logistic regression was used to calculate odds ratios (ORs) for every factor in isolation, and to construct multivariate models.
+     </abstracttext>
+     <abstracttext label="FINDINGS" nlmcategory="RESULTS">
+      Principal risk factors were largely independent. Multivariately significant ORs showed little evidence of intercentre heterogeneity apart from four outliers, which were eliminated. Highly significant risks were associated with prone sleeping (OR 13.1 [95% CI 8.51-20.2]) and with turning from the side to the prone position (45.4 [23.4-87.9]). About 48% of cases were attributable to sleeping in the side or prone position. If the mother smoked, significant risks were associated with bed-sharing, especially during the first weeks of life (at 2 weeks 27.0 [13.3-54.9]). This OR was partly attributable to mother's consumption of alcohol. Mother's alcohol consumption was significant only when baby bed-shared all night (OR increased by 1.66 [1.16-2.38] per drink). For mothers who did not smoke during pregnancy, OR for bed-sharing was very small (at 2 weeks 2.4 [1.2-4.6]) and only significant during the first 8 weeks of life. About 16% of cases were attributable to bed-sharing and roughly 36% to the baby sleeping in a separate room.
+     </abstracttext>
+     <abstracttext label="INTERPRETATION" nlmcategory="CONCLUSIONS">
+      Avoidable risk factors such as those associated with inappropriate infants' sleeping position, type of bedding used, and sleeping arrangements strongly suggest a basis for further substantial reductions in SIDS incidence rates.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Medical Statistics Unit, Department of Epidemiology and Population Health, London School of Hygiene and Tropical Medicine, London, UK. bob.carpenter@lshtm.ac.uk
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Carpenter
+      </lastname>
+      <forename>
+       R G
+      </forename>
+      <initials>
+       RG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Irgens
+      </lastname>
+      <forename>
+       L M
+      </forename>
+      <initials>
+       LM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Blair
+      </lastname>
+      <forename>
+       P S
+      </forename>
+      <initials>
+       PS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       England
+      </lastname>
+      <forename>
+       P D
+      </forename>
+      <initials>
+       PD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Fleming
+      </lastname>
+      <forename>
+       P
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Huber
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jorch
+      </lastname>
+      <forename>
+       G
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schreuder
+      </lastname>
+      <forename>
+       P
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Lancet
+    </medlineta>
+    <nlmuniqueid>
+     2985213R
+    </nlmuniqueid>
+    <issnlinking>
+     0140-6736
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2004 Mar 20;363(9413):994
+     </refsource>
+     <pmid version="1">
+      15043979
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2004 May 8;363(9420):1558
+     </refsource>
+     <pmid version="1">
+      15135621
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Alcohol Drinking
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Case-Control Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child of Impaired Parents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cross-Cultural Comparison
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      Europe
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Incidence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant, Newborn
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Logistic Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Odds Ratio
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prone Position
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      physiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sleep
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      physiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Smoking
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sudden Infant Death
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      6
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     14738790
+    </articleid>
+    <articleid idtype="pii">
+     S0140673603153238
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

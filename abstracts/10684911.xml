@@ -1,0 +1,537 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10684911
+   </pmid>
+   <datecreated>
+    <year>
+     2000
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     24
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2000
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     24
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0028-4793
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       342
+      </volume>
+      <issue>
+       8
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+       <month>
+        Feb
+       </month>
+       <day>
+        24
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Metronidazole to prevent preterm delivery in pregnant women with asymptomatic bacterial vaginosis. National Institute of Child Health and Human Development Network of Maternal-Fetal Medicine Units.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      534-40
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Bacterial vaginosis has been associated with preterm birth. In clinical trials, the treatment of bacterial vaginosis in pregnant women who previously had a preterm delivery reduced the risk of recurrence.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      To determine whether treating women in a general obstetrical population who have asymptomatic bacterial vaginosis (as diagnosed on the basis of vaginal Gram's staining and pH) prevents preterm delivery, we randomly assigned 1953 women who were 16 to less than 24 weeks pregnant to receive two 2-g doses of metronidazole or placebo. The diagnostic studies were repeated and a second treatment was administered to all the women at 24 to less than 30 weeks' gestation. The primary outcome was the rate of delivery before 37 weeks' gestation.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Bacterial vaginosis resolved in 657 of 845 women who had follow-up Gram's staining in the metronidazole group (77.8 percent) and 321 of 859 women in the placebo group (37.4 percent). Data on the time and characteristics of delivery were available for 953 women in the metronidazole group and 966 in the placebo group. Preterm delivery occurred in 116 women in the metronidazole group (12.2 percent) and 121 women in the placebo group (12.5 percent) (relative risk, 1.0; 95 percent confidence interval, 0.8 to 1.2). Treatment did not prevent preterm deliveries that resulted from spontaneous labor (5.1 percent in the metronidazole group vs. 5.7 percent in the placebo group) or spontaneous rupture of the membranes (4.2 percent vs. 3.7 percent), nor did it prevent delivery before 32 weeks (2.3 percent vs. 2.7 percent). Treatment with metronidazole did not reduce the occurrence of preterm labor, intraamniotic or postpartum infections, neonatal sepsis, or admission of the infant to the neonatal intensive care unit.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The treatment of asymptomatic bacterial vaginosis in pregnant women does not reduce the occurrence of preterm delivery or other adverse perinatal outcomes.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Obstetrics and Gynecology, University of Oklahoma, Oklahoma City, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Carey
+      </lastname>
+      <forename>
+       J C
+      </forename>
+      <initials>
+       JC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Klebanoff
+      </lastname>
+      <forename>
+       M A
+      </forename>
+      <initials>
+       MA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hauth
+      </lastname>
+      <forename>
+       J C
+      </forename>
+      <initials>
+       JC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hillier
+      </lastname>
+      <forename>
+       S L
+      </forename>
+      <initials>
+       SL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Thom
+      </lastname>
+      <forename>
+       E A
+      </forename>
+      <initials>
+       EA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ernest
+      </lastname>
+      <forename>
+       J M
+      </forename>
+      <initials>
+       JM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Heine
+      </lastname>
+      <forename>
+       R P
+      </forename>
+      <initials>
+       RP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Nugent
+      </lastname>
+      <forename>
+       R P
+      </forename>
+      <initials>
+       RP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Fischer
+      </lastname>
+      <forename>
+       M L
+      </forename>
+      <initials>
+       ML
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Leveno
+      </lastname>
+      <forename>
+       K J
+      </forename>
+      <initials>
+       KJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wapner
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Varner
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="N">
+     <grant>
+      <grantid>
+       U10 HD21410
+      </grantid>
+      <acronym>
+       HD
+      </acronym>
+      <agency>
+       NICHD NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       U10 HD21414
+      </grantid>
+      <acronym>
+       HD
+      </acronym>
+      <agency>
+       NICHD NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       U10 HD27869
+      </grantid>
+      <acronym>
+       HD
+      </acronym>
+      <agency>
+       NICHD NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Infective Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      443-48-1
+     </registrynumber>
+     <nameofsubstance>
+      Metronidazole
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2000 Feb 24;342(8):581-3
+     </refsource>
+     <pmid version="1">
+      10684919
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="SummaryForPatientsIn">
+     <refsource>
+      Can Fam Physician. 2002 May;48:891-3
+     </refsource>
+     <pmid version="1">
+      12138871
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Infective Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Disease-Free Survival
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant, Newborn
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Metronidazole
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Obstetric Labor, Premature
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Patient Compliance
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pregnancy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pregnancy Complications, Infectious
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pregnancy Outcome
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pregnancy Trimester, Second
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vaginosis, Bacterial
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2000
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      29
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10684911
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJM200002243420802
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

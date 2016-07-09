@@ -1,0 +1,406 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    7573593
+   </pmid>
+   <datecreated>
+    <year>
+     1995
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     31
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1995
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     31
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0002-953X
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       152
+      </volume>
+      <issue>
+       10
+      </issue>
+      <pubdate>
+       <year>
+        1995
+       </year>
+       <month>
+        Oct
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The American journal of psychiatry
+     </title>
+     <isoabbreviation>
+      Am J Psychiatry
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Selective serotonin reuptake inhibitor-induced sexual dysfunction: efficacy of a drug holiday.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1514-6
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      The purpose of this study was to evaluate whether weekend drug holidays would improve sexual functioning in recovered depressed patients with selective serotonin reuptake inhibitor (SSRI)-induced sexual dysfunction.
+     </abstracttext>
+     <abstracttext label="METHOD" nlmcategory="METHODS">
+      Thirty outpatients who reported worsening of sexual functioning during SSRI treatment were instructed to discontinue their SSRIs after the Thursday morning dose and to restart the SSRIs (at their previous dosage) on Sunday at 12:00 noon for four weekends.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Significant improvement in sexual functioning was reported by the patients taking sertraline and paroxetine but not by those taking fluoxetine. There were no statistically significant increases in mean Hamilton depression scores after discontinuation of the SSRIs; two patients had increases in scores from the 4-8 range to the 10-14 range.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      For some patients taking sertraline and paroxetine who experience sexual dysfunction side effects, brief drug holidays may allow for significant improvement in sexual functioning without a significant return of depressive symptoms.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Psychiatry, Harvard Medical School, Boston, MA, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Rothschild
+      </lastname>
+      <forename>
+       A J
+      </forename>
+      <initials>
+       AJ
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       MH-47457
+      </grantid>
+      <acronym>
+       MH
+      </acronym>
+      <agency>
+       NIMH NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Am J Psychiatry
+    </medlineta>
+    <nlmuniqueid>
+     0370512
+    </nlmuniqueid>
+    <issnlinking>
+     0002-953X
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Serotonin Uptake Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      134-32-7
+     </registrynumber>
+     <nameofsubstance>
+      1-Naphthylamine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      54910-89-3
+     </registrynumber>
+     <nameofsubstance>
+      Fluoxetine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      61869-08-7
+     </registrynumber>
+     <nameofsubstance>
+      Paroxetine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      79617-96-2
+     </registrynumber>
+     <nameofsubstance>
+      Sertraline
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      1-Naphthylamine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      analogs &amp; derivatives
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ambulatory Care
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Depressive Disorder
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      psychology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dose-Response Relationship, Drug
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Administration Schedule
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fluoxetine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Follow-Up Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Paroxetine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Psychiatric Status Rating Scales
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Serotonin Uptake Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sertraline
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sexual Behavior
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sexual Dysfunctions, Psychological
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      chemically induced
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      psychology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1995
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1995
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1995
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     7573593
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

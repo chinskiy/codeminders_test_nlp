@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15674889
+   </pmid>
+   <datecreated>
+    <year>
+     2005
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     27
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     27
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     20
+    </day>
+   </daterevised>
+   <article pubmodel="Electronic">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2005
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Behavioural treatment for chronic low-back pain.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD002014
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Behavioural treatment, commonly used in the treatment of chronic low-back pain (CLBP), is primarily focused at reducing disability through the modification of environmental contingencies and cognitive processes. In general, three behavioural treatment approaches are distinguished: operant, cognitive and respondent.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To determine if behavioural therapy is more effective than reference treatments for CLBP, and which type of behavioural treatment is most effective.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      We searched the CENTRAL, MEDLINE, EMBASE, and PsycLIT databases up to October 2003. References of identified randomised trials and relevant systematic reviews were screened.
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      Only randomised trials on behavioural treatment for non-specific CLBP were included.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      Two reviewers independently assessed the methodological quality and extracted the data. The magnitude of effect was assessed by computing a pooled effect size for post-treatment and long-term results for each comparison, for each domain (i.e., behavioural outcomes, overall improvement, back pain specific and generic functional status, return to work, and pain intensity) using the random effects model.
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      Seven studies (33%) were considered high quality. Comparing behavioural treatment to waiting list control (WLC) revealed strong evidence (4 trials, 134 people) in favour of a combined respondent-cognitive therapy for a medium positive effect on pain, and moderate evidence (2 trials, 39 people) in favour of progressive relaxation for a large positive effect on pain and behavioural outcomes (short-term only). When comparing operant treatment to WLC no significant differences could be detected on general functional status (strong evidence: 2 trials, 87 people) or on behavioural outcomes (moderate evidence; 3 trials, 153 people) (short-term only). There is limited evidence (1 trial, 98 people) that a graded activity program in an industrial setting is more effective than usual care for early return to work and reduced long-term sick leave. There is limited evidence (1 trail, 39 people) that there are no differences between behavioural treatment and exercises. Finally, there is moderate evidence (6 trials, 210 people) that there are no significant differences in short-term and long-term effectiveness when behavioural components are added to usual treatment programs for CLBP (i.e. physiotherapy, back education) on pain, generic functional status and behavioural outcomes.
+     </abstracttext>
+     <abstracttext label="AUTHORS' CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Combined respondent-cognitive therapy and progressive relaxation therapy are more effective than WLC on short-term pain relief. However, it is unknown whether these results sustain in the long term. No significant differences could be detected between behavioural treatment and exercise therapy. Whether clinicians should refer patients with CLBP to behavioural treatment programs or to active conservative treatment cannot be concluded from this review.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Institute for Research in Extramural Medicine, VU University Medical Center, van der Boechorststraat 7, Amsterdam, Netherlands, 1081 BT. r.ostelo.emgo@med.vu.nl
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Ostelo
+      </lastname>
+      <forename>
+       R W J G
+      </forename>
+      <initials>
+       RW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       van Tulder
+      </lastname>
+      <forename>
+       M W
+      </forename>
+      <initials>
+       MW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Vlaeyen
+      </lastname>
+      <forename>
+       J W S
+      </forename>
+      <initials>
+       JW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Linton
+      </lastname>
+      <forename>
+       S J
+      </forename>
+      <initials>
+       SJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Morley
+      </lastname>
+      <forename>
+       S J
+      </forename>
+      <initials>
+       SJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Assendelft
+      </lastname>
+      <forename>
+       W J J
+      </forename>
+      <initials>
+       WJ
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2005
+     </year>
+     <month>
+      01
+     </month>
+     <day>
+      25
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="UpdateIn">
+     <refsource>
+      Cochrane Database Syst Rev. 2010;(7):CD002014
+     </refsource>
+     <pmid version="1">
+      20614428
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="UpdateOf">
+     <refsource>
+      Cochrane Database Syst Rev. 2000;(2):CD002014
+     </refsource>
+     <pmid version="1">
+      10796459
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Behavior Therapy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Chronic Disease
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Combined Modality Therapy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Low Back Pain
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Relaxation Therapy
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    69
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2005
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2005
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    epublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="doi">
+     10.1002/14651858.CD002014.pub2
+    </articleid>
+    <articleid idtype="pubmed">
+     15674889
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

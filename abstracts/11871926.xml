@@ -1,0 +1,357 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11871926
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     01
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     22
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0003-9926
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       162
+      </volume>
+      <issue>
+       5
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Mar
+       </month>
+       <day>
+        11
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Archives of internal medicine
+     </title>
+     <isoabbreviation>
+      Arch. Intern. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Prognostic value of systolic and diastolic blood pressure in treated hypertensive men.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      577-81
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      The aim of this study was to assess the cardiovascular risk in hypertensive subjects according to systolic blood pressure (SBP) and diastolic blood pressure (DBP) levels.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      The study sample consisted of 4714 hypertensive men, treated by their physician, who had a standard health checkup at the d'Investigations Préventives et Cliniques Center, Paris, France, between 1972 and 1988. Cardiovascular disease (CVD) and coronary heart disease (CHD) mortality were assessed for a mean period of 14 years.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Among treated subjects, 85.5% presented uncontrolled values for SBP (&gt; or = 40 mm Hg) and/or DBP (&gt; or = 90 mm Hg). After adjustment for age and associated risk factors, these subjects presented an increased risk for CVD mortality (risk ratio [RR], 1.66; 95% confidence interval [CI], 1.04-2.64) and for CHD mortality (RR, 2.35; 95% CI, 1.03-5.35) compared with controlled subjects. After adjustment for age, associated risk factors, and DBP, and compared with subjects with SBP under 140 mm Hg, the RR for CVD mortality was 1.81 (95% CI, 1.04-3.13) in subjects with SBP between 140 and 160 mm Hg and 1.94 (95% CI, 1.10-3.43) in subjects with SBP over 160 mm Hg. By contrast, after adjustment for SBP levels, CVD risk was not associated with DBP. Compared with subjects with DBP under 90 mm Hg, RR for CVD mortality was 1.17 (95% CI, 0.80-1.70) in subjects with DBP between 90 and 99 mm Hg and 1.03 (95% CI, 0.67-1.56) in subjects with DBP over 100 mm Hg. Similar results were observed for CHD mortality.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      In hypertensive men treated in clinical practice, SBP is a good predictor of CVD and CHD risk. Diastolic blood pressure, which remains the main criterion used by most physicians to determine drug efficacy, appears to be of little value in determining cardiovascular risk. Evaluation of risk in treated individuals should take SBP rather than DBP values into account.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Centre d'Investigations Préventives et Cliniques, 6/14 rue de la Pérouse, 75116 Paris, France. benetos@ipc.asso.fr
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Benetos
+      </lastname>
+      <forename>
+       Athanase
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Thomas
+      </lastname>
+      <forename>
+       Frédérique
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bean
+      </lastname>
+      <forename>
+       Kathryn
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gautier
+      </lastname>
+      <forename>
+       Sylvie
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Smulyan
+      </lastname>
+      <forename>
+       Harold
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Guize
+      </lastname>
+      <forename>
+       Louis
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Arch Intern Med
+    </medlineta>
+    <nlmuniqueid>
+     0372440
+    </nlmuniqueid>
+    <issnlinking>
+     0003-9926
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Arch Intern Med. 2002 Mar 11;162(5):506-8
+     </refsource>
+     <pmid version="1">
+      11871917
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Blood Pressure
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cardiovascular Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Coronary Disease
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diastole
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertension
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prognosis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Systole
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      23
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11871926
+    </articleid>
+    <articleid idtype="pii">
+     ioi10033
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

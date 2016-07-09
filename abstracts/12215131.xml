@@ -1,0 +1,407 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12215131
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     06
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     23
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       288
+      </volume>
+      <issue>
+       10
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Sep
+       </month>
+       <day>
+        11
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Splinting vs surgery in the treatment of carpal tunnel syndrome: a randomized controlled trial.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1245-51
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Carpal tunnel syndrome (CTS) can be treated with nonsurgical or surgical options. However, there is no consensus on the most effective method of treatment.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To compare the short-term and long-term efficacy of splinting and surgery for relieving the symptoms of CTS.
+     </abstracttext>
+     <abstracttext label="DESIGN, SETTING, AND PATIENTS" nlmcategory="METHODS">
+      A randomized controlled trial conducted from October 1998 to April 2000 at 13 neurological outpatient clinics in the Netherlands. A total of 176 patients with clinically and electrophysiologically confirmed idiopathic CTS were assigned to wrist splinting during the night for at least 6 weeks (89 patients) or open carpal tunnel release (87 patients); 147 patients (84%) completed the final follow-up assessment 18 months after randomization.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      General improvement, number of nights waking up due to symptoms, and severity of symptoms.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      In the intention-to-treat analyses, surgery was more effective than splinting on all outcome measures. The success rates (based on general improvement) after 3 months were 80% for the surgery group (62/78 patients) vs 54% for the splinting group (46/86 patients), which is a difference of 26% (95% confidence interval [CI], 12%-40%; P&lt;.001). After 18 months, the success rates increased to 90% for the surgery group (61/68 patients) vs 75% for the splinting group (59/79 patients), which is a difference of 15% (95% CI, 3%-27%; P =.02). However, by that time 41% of patients (32/79) in the splint group had also received the surgery treatment.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Treatment with open carpal tunnel release surgery resulted in better outcomes than treatment with wrist splinting for patients with CTS.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Institute for Research in Extramural Medicine, Vrije Universiteit Medical Center, Van der Boechorststraat 7, 1081 BT Amsterdam, The Netherlands. aam.gerritsen.emgo@med.vu.nl
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Gerritsen
+      </lastname>
+      <forename>
+       Annette A M
+      </forename>
+      <initials>
+       AA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       de Vet
+      </lastname>
+      <forename>
+       Henrica C W
+      </forename>
+      <initials>
+       HC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Scholten
+      </lastname>
+      <forename>
+       Rob J P M
+      </forename>
+      <initials>
+       RJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bertelsmann
+      </lastname>
+      <forename>
+       Frits W
+      </forename>
+      <initials>
+       FW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       de Krom
+      </lastname>
+      <forename>
+       Marc C T F M
+      </forename>
+      <initials>
+       MC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bouter
+      </lastname>
+      <forename>
+       Lex M
+      </forename>
+      <initials>
+       LM
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2002 Sep 11;288(10):1281-2
+     </refsource>
+     <pmid version="1">
+      12215138
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2003 Jan 22-29;289(4):420; author reply 421-2
+     </refsource>
+     <pmid version="1">
+      12533116
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2003 Jan 22-29;289(4):420; author reply 421-2
+     </refsource>
+     <pmid version="1">
+      12533115
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2003 Mar-Apr;138(2):47
+     </refsource>
+     <pmid version="1">
+      12614132
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2003 Jan 22-29;289(4):421; author reply 421-2
+     </refsource>
+     <pmid version="1">
+      12533111
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2003 Jan 22-29;289(4):421; author reply 421-2
+     </refsource>
+     <pmid version="1">
+      12533113
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2003 Jan 22-29;289(4):422; author reply 422-3
+     </refsource>
+     <pmid version="1">
+      12533109
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2003 Jan 22-29;289(4):420-1; author reply 421-2
+     </refsource>
+     <pmid version="1">
+      12533114
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Carpal Tunnel Syndrome
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      surgery
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Decompression, Surgical
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Severity of Illness Index
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Splints
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      7
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      6
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      7
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12215131
+    </articleid>
+    <articleid idtype="pii">
+     joc20494
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

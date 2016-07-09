@@ -1,0 +1,679 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11029681
+   </pmid>
+   <datecreated>
+    <year>
+     2000
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     28
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2000
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     28
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2011
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     10
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0884-8734
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       15
+      </volume>
+      <issue>
+       9
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+       <month>
+        Sep
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of general internal medicine
+     </title>
+     <isoabbreviation>
+      J Gen Intern Med
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Treatment of fibromyalgia with antidepressants: a meta-analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      659-66
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Fibromyalgia is a common, poorly understood musculoskeletal pain syndrome with limited therapeutic options.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To systematically review the efficacy of antidepressants in the treatment of fibromyalgia and examine whether this effect was independent of depression.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Meta-analysis of English-language, randomized, placebo-controlled trials. Studies were obtained from searching MEDLINE, EMBASE, and PSYCLIT (1966-1999), the Cochrane Library, unpublished literature, and bibliographies. We performed independent duplicate review of each study for both inclusion and data extraction.
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      Sixteen randomized, placebo-controlled trials were identified, of which 13 were appropriate for data extraction. There were 3 classes of antidepressants evaluated: tricyclics (9 trials), selective serotonin reuptake inhibitors (3 trials), and S-adenosylmethionine (2 trials). Overall, the quality of the studies was good (mean score 5.6, scale 0-8). The odds ratio for improvement with therapy was 4.2 (95% confidence interval [95% CI], 2.6 to 6.8). The pooled risk difference for these studies was 0.25 (95% CI, 0.16 to 0.34), which calculates to 4 (95% CI, 2.9 to 6.3) individuals needing treatment for 1 patient to experience symptom improvement. When the effect on individual symptoms was combined, antidepressants improved sleep, fatigue, pain, and well-being, but not trigger points. In the 5 studies where there was adequate assessment for an effect independent of depression, only 1 study found a correlation between symptom improvement and depression scores. Outcomes were not affected by class of agent or quality score using meta-regression.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Antidepressants are efficacious in treating many of the symptoms of fibromyalgia. Patients were more than 4 times as likely to report overall improvement, and reported moderate reductions in individual symptoms, particularly pain. Whether this effect is independent of depression needs further study.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Division of General Internal Medicine, Walter Reed Army Medical Center Washington, DC, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       O'Malley
+      </lastname>
+      <forename>
+       P G
+      </forename>
+      <initials>
+       PG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Balden
+      </lastname>
+      <forename>
+       E
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tomkins
+      </lastname>
+      <forename>
+       G
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Santoro
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kroenke
+      </lastname>
+      <forename>
+       K
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jackson
+      </lastname>
+      <forename>
+       J L
+      </forename>
+      <initials>
+       JL
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     J Gen Intern Med
+    </medlineta>
+    <nlmuniqueid>
+     8605834
+    </nlmuniqueid>
+    <issnlinking>
+     0884-8734
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antidepressive Agents
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pain. 1996 Mar;64(3):415-23
+     </refsource>
+     <pmid version="1">
+      8783304
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pain. 1996 Dec;68(2-3):217-27
+     </refsource>
+     <pmid version="1">
+      9121808
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Gen Intern Med. 1997 Jun;12(6):384-9
+     </refsource>
+     <pmid version="1">
+      9192257
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1997 Sep 13;315(7109):629-34
+     </refsource>
+     <pmid version="1">
+      9310563
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 1997 Nov;40(11):1928-39
+     </refsource>
+     <pmid version="1">
+      9365080
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Rheumatol. 1998;17(2):89-94
+     </refsource>
+     <pmid version="1">
+      9641502
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Psychosom Med. 1998 Jul-Aug;60(4):503-9
+     </refsource>
+     <pmid version="1">
+      9710298
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Rheumatol. 1998 Dec;37(12):1279-86
+     </refsource>
+     <pmid version="1">
+      9973149
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Intern Med. 1999 Apr 26;159(8):777-85
+     </refsource>
+     <pmid version="1">
+      10219923
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Fam Pract. 1999 Dec;48(12):980-90
+     </refsource>
+     <pmid version="1">
+      10628579
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Med. 1975 Apr;58(4):532-6
+     </refsource>
+     <pmid version="1">
+      1092164
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Gen Hosp Psychiatry. 1992 Jul;14(4):265-72
+     </refsource>
+     <pmid version="1">
+      1505748
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pain. 1992 May;49(2):205-19
+     </refsource>
+     <pmid version="1">
+      1535121
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Med. 1992 Apr;92(4):363-7
+     </refsource>
+     <pmid version="1">
+      1558082
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Rheumatol. 1991 Mar;18(3):447-51
+     </refsource>
+     <pmid version="1">
+      1856813
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Scand J Rheumatol. 1991;20(4):294-302
+     </refsource>
+     <pmid version="1">
+      1925418
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Psychiatry. 1991 Dec;148(12):1721-6
+     </refsource>
+     <pmid version="1">
+      1957937
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 1991 Jan;34(1):15-21
+     </refsource>
+     <pmid version="1">
+      1984776
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Dig Dis Sci. 1991 Jan;36(1):59-64
+     </refsource>
+     <pmid version="1">
+      1985007
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 1990 Feb;33(2):160-72
+     </refsource>
+     <pmid version="1">
+      2306288
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Rheumatol. 1989 Jan;16(1):97-101
+     </refsource>
+     <pmid version="1">
+      2716012
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Med. 1987 Nov 20;83(5A):107-10
+     </refsource>
+     <pmid version="1">
+      3318438
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 1986 May;29(5):655-9
+     </refsource>
+     <pmid version="1">
+      3521612
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 1986 Nov;29(11):1371-7
+     </refsource>
+     <pmid version="1">
+      3535811
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Control Clin Trials. 1986 Sep;7(3):177-88
+     </refsource>
+     <pmid version="1">
+      3802833
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Med. 1982 Jan;72(1):127-35
+     </refsource>
+     <pmid version="1">
+      7058818
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pain. 1995 Jun;61(3):445-9
+     </refsource>
+     <pmid version="1">
+      7478688
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 1995 Sep;38(9):1211-7
+     </refsource>
+     <pmid version="1">
+      7575714
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Neuropsychobiology. 1994;30(2-3):66-72
+     </refsource>
+     <pmid version="1">
+      7800166
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Rheumatol. 1993 Nov;20(11):1925-31
+     </refsource>
+     <pmid version="1">
+      7848390
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Scand J Rheumatol. 1994;23(5):255-9
+     </refsource>
+     <pmid version="1">
+      7973479
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Fam Med. 1994 Sep;3(9):774-9
+     </refsource>
+     <pmid version="1">
+      7987511
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 1994 Jun;37(6):794-800
+     </refsource>
+     <pmid version="1">
+      8003050
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Neurol. 1994;35 Suppl:S50-3
+     </refsource>
+     <pmid version="1">
+      8185299
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Med. 1993 May;94(5):505-8
+     </refsource>
+     <pmid version="1">
+      8498395
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1996 May 25;312(7042):1339
+     </refsource>
+     <pmid version="1">
+      8646049
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pain. 1995 Dec;63(3):335-9
+     </refsource>
+     <pmid version="1">
+      8719534
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Control Clin Trials. 1996 Feb;17(1):1-12
+     </refsource>
+     <pmid version="1">
+      8721797
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Sleep. 1996 Apr;19(3):200-4
+     </refsource>
+     <pmid version="1">
+      8723376
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2001 May-Jun;134(3):85
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antidepressive Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Depression
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fibromyalgia
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      classification
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      psychology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Severity of Illness Index
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC1495596
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11029681
+    </articleid>
+    <articleid idtype="pii">
+     jgi06279
+    </articleid>
+    <articleid idtype="pmc">
+     PMC1495596
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,511 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12076217
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     21
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     02
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       287
+      </volume>
+      <issue>
+       24
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Jun
+       </month>
+       <day>
+        26
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Fluvastatin for prevention of cardiac events following successful first percutaneous coronary intervention: a randomized controlled trial.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      3215-22
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Percutaneous coronary intervention (PCI) is associated with excellent short-term improvements in ischemic symptoms, yet only three fifths of PCI patients at 5 years and one third of patients at 10 years remain free of major adverse cardiac events (MACE).
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To determine whether treatment with fluvastatin reduces MACE in patients who have undergone PCI.
+     </abstracttext>
+     <abstracttext label="DESIGN AND SETTING" nlmcategory="METHODS">
+      Randomized, double-blind, placebo-controlled trial conducted at 77 referral centers in Europe, Canada, and Brazil.
+     </abstracttext>
+     <abstracttext label="PATIENTS" nlmcategory="METHODS">
+      A total of 1677 patients (aged 18-80 years) recruited between April 1996 and October 1998 with stable or unstable angina or silent ischemia following successful completion of their first PCI who had baseline total cholesterol levels between 135 and 270 mg/dL (3.5-7.0 mmol/L), with fasting triglyceride levels of less than 400 mg/dL (4.5 mmol/L).
+     </abstracttext>
+     <abstracttext label="INTERVENTIONS" nlmcategory="METHODS">
+      Patients were randomly assigned to receive treatment with fluvastatin, 80 mg/d (n = 844), or matching placebo (n = 833) at hospital discharge for 3 to 4 years.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURE" nlmcategory="METHODS">
+      Survival time free of MACE, defined as cardiac death, nonfatal myocardial infarction, or reintervention procedure, compared between the treatment and placebo groups.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Median time between PCI and first dose of study medication was 2.0 days, and median follow-up was 3.9 years. MACE-free survival time was significantly longer in the fluvastatin group (P =.01). One hundred eighty-one (21.4%) of 844 patients in the fluvastatin group and 222 (26.7%) of 833 patients in the placebo group had at least 1 MACE (relative risk [RR], 0.78; 95% confidence interval [CI], 0.64-0.95; P =.01). This result was independent of baseline total cholesterol levels (above [RR, 0.76; 95% CI, 0.56-1.04] vs below [RR, 0.77; 95% CI, 0.57-1.02] the median). In subgroup analysis, the risk of MACE was reduced in patients with diabetes (n = 202; RR, 0.53; 95% CI, 0.29-0.97; P =.04) and in those with multivessel disease (n = 614; RR, 0.66; 95% CI, 0.48-0.91; P =.01) who received fluvastatin compared with those who received placebo. There were no instances of creatine phosphokinase elevations 10 or more times the upper limit of normal or rhabdomyolysis in the fluvastatin group.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Fluvastatin treatment in patients with average cholesterol levels undergoing their first successful PCI significantly reduces the risk of major adverse cardiac events.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Interventional Cardiology, Thoraxcenter, Bd 418, Academic Hospital, Dr Molewaterplein 40, 3015 GD Rotterdam, The Netherlands. serruys@card.azr.nl
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Serruys
+      </lastname>
+      <forename>
+       Patrick W J C
+      </forename>
+      <initials>
+       PW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       de Feyter
+      </lastname>
+      <forename>
+       Pim
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Macaya
+      </lastname>
+      <forename>
+       Carlos
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kokott
+      </lastname>
+      <forename>
+       Norbert
+      </forename>
+      <initials>
+       N
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Puel
+      </lastname>
+      <forename>
+       Jacques
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Vrolix
+      </lastname>
+      <forename>
+       Matthias
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Branzi
+      </lastname>
+      <forename>
+       Angelo
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bertolami
+      </lastname>
+      <forename>
+       Marcelo C
+      </forename>
+      <initials>
+       MC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jackson
+      </lastname>
+      <forename>
+       Graham
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Strauss
+      </lastname>
+      <forename>
+       Bradley
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Meier
+      </lastname>
+      <forename>
+       Bernhard
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       Lescol Intervention Prevention Study (LIPS) Investigators
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Fatty Acids, Monounsaturated
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Hydroxymethylglutaryl-CoA Reductase Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Indoles
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Lipoproteins
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      93957-54-1
+     </registrynumber>
+     <nameofsubstance>
+      fluvastatin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Rev Cardiovasc Med. 2003 Fall;4(4):262-3
+     </refsource>
+     <pmid version="1">
+      14674383
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2003 Jan-Feb;138(1):1
+     </refsource>
+     <pmid version="1">
+      12511113
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2002 Jun 26;287(24):3259-61
+     </refsource>
+     <pmid version="1">
+      12076224
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Angioplasty, Balloon, Coronary
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fatty Acids, Monounsaturated
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hydroxymethylglutaryl-CoA Reductase Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Indoles
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lipoproteins
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Myocardial Ischemia
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Proportional Hazards Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Survival Analysis
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      22
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      22
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12076217
+    </articleid>
+    <articleid idtype="pii">
+     joc20700
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

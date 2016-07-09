@@ -1,0 +1,411 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12472787
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     10
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     02
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0085-2538
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       63
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Jan
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Kidney international
+     </title>
+     <isoabbreviation>
+      Kidney Int.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Development and progression of nephropathy in type 2 diabetes: the United Kingdom Prospective Diabetes Study (UKPDS 64).
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      225-32
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      The progression of nephropathy from diagnosis of type 2 diabetes has not been well described from a single population. This study sought to describe the development and progression through the stages of microalbuminuria, macroalbuminuria, persistently elevated plasma creatinine or renal replacement therapy (RRT), and death.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Using observed and modeled data from 5097 subjects in the UK Prospective Diabetes Study, we measured the annual probability of transition from stage to stage (incidence), prevalence, cumulative incidence, ten-year survival, median duration per stage, and risk of death from all-causes or cardiovascular disease.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      From diagnosis of diabetes, progression to microalbuminuria occurred at 2.0% per year, from microalbuminuria to macroalbuminuria at 2.8% per year, and from macroalbuminuria to elevated plasma creatinine (&gt;or=175 micromol/L) or renal replacement therapy at 2.3% per year. Ten years following diagnosis of diabetes, the prevalence of microalbuminuria was 24.9%, of macroalbuminuria was 5.3%, and of elevated plasma creatinine or RRT was 0.8%. Patients with elevated plasma creatinine or RRT had an annual death rate of 19.2% (95% confidence interval, CI, 14.0 to 24.4%). There was a trend for increasing risk of cardiovascular death with increasing nephropathy (P &lt; 0.0001), with an annual rate of 0.7% for subjects in the stage of no nephropathy, 2.0% for those with microalbuminuria, 3.5% for those with macroalbuminuria, and 12.1% with elevated plasma creatinine or RRT. Individuals with macroalbuminuria were more likely to die in any year than to develop renal failure.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The proportion of patients with type 2 diabetes who develop microalbuminuria is substantial with one quarter affected by 10 years from diagnosis. Relatively fewer patients develop macroalbuminuria, but in those who do, the death rate exceeds the rate of progression to worse nephropathy.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Diabetes Trials Unit, Oxford Centre for Diabetes, Endocrinology and Metabolism, University of Oxford, Oxford,and South Cleveland Hospital, Cleveland, United Kingdom. amanda.adler@dtu.ox.ac.uk
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Adler
+      </lastname>
+      <forename>
+       Amanda I
+      </forename>
+      <initials>
+       AI
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Stevens
+      </lastname>
+      <forename>
+       Richard J
+      </forename>
+      <initials>
+       RJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Manley
+      </lastname>
+      <forename>
+       Sue E
+      </forename>
+      <initials>
+       SE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bilous
+      </lastname>
+      <forename>
+       Rudy W
+      </forename>
+      <initials>
+       RW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cull
+      </lastname>
+      <forename>
+       Carole A
+      </forename>
+      <initials>
+       CA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Holman
+      </lastname>
+      <forename>
+       Rury R
+      </forename>
+      <initials>
+       RR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       UKPDS GROUP
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Kidney Int
+    </medlineta>
+    <nlmuniqueid>
+     0323470
+    </nlmuniqueid>
+    <issnlinking>
+     0085-2538
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antihypertensive Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Hypoglycemic Agents
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Albuminuria
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antihypertensive Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetes Mellitus, Type 2
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetic Nephropathies
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Disease Progression
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      Great Britain
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertension, Renal
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypoglycemic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Incidence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prevalence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      11
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      11
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12472787
+    </articleid>
+    <articleid idtype="pii">
+     kid712
+    </articleid>
+    <articleid idtype="doi">
+     10.1046/j.1523-1755.2003.00712.x
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

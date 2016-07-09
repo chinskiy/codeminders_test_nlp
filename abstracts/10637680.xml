@@ -1,0 +1,336 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10637680
+   </pmid>
+   <datecreated>
+    <year>
+     2000
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     15
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2000
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     15
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0706-7437
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       44
+      </volume>
+      <issue>
+       10
+      </issue>
+      <pubdate>
+       <year>
+        1999
+       </year>
+       <month>
+        Dec
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Canadian journal of psychiatry. Revue canadienne de psychiatrie
+     </title>
+     <isoabbreviation>
+      Can J Psychiatry
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Attention-deficit hyperactivity disorder in children and youth: a quantitative systematic review of the efficacy of different management strategies.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1007-16
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To obtain estimates of the relative efficacy of 3 main treatment strategies for attention-deficit hyperactivity disorder (ADHD) in children and youth (age &lt; 18 years).
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Design: quantitative systematic review of randomized trials. Subjects: 999 patients with ADHD from 26 randomized trials. Interventions: medications alone, behavioural interventions alone, and a combination of these 2 modalities. Main outcome measure: differences in scores between treatment groups on commonly used teacher- and parent-completed behaviour rating scales.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Medication-only therapy was efficacious in ADHD. Behavioural therapies used alone appeared not to be efficacious in ADHD. Combination therapy was more efficacious than placebo or no treatment for parent but not teacher ratings, not more efficacious than drug therapy alone, and more efficacious than behavioural treatments alone based on parent but not teacher ratings.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Though stimulant medications were found to be an effective treatment strategy for ADHD in children and youth, it proved difficult to assess the relative benefits of behavioural interventions alone and combined medication and behavioural therapy because of the paucity of treatment studies other than medication-only treatment studies and heterogeneity of various kinds that exist in relation to ADHD studies and treatments.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Centre for Health Evaluation Research, Faculty of Medicine, University of British Columbia, Vancouver. afk@interchange.ubc.ca
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Klassen
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Miller
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Raina
+      </lastname>
+      <forename>
+       P
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lee
+      </lastname>
+      <forename>
+       S K
+      </forename>
+      <initials>
+       SK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Olsen
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     CANADA
+    </country>
+    <medlineta>
+     Can J Psychiatry
+    </medlineta>
+    <nlmuniqueid>
+     7904187
+    </nlmuniqueid>
+    <issnlinking>
+     0706-7437
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Central Nervous System Stimulants
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Attention Deficit Disorder with Hyperactivity
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Central Nervous System Stimulants
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Combined Modality Therapy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Evidence-Based Medicine
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant, Newborn
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Psychiatric Status Rating Scales
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2000
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10637680
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

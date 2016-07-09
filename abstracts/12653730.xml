@@ -1,0 +1,354 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12653730
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     25
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     15
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0007-0963
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       148
+      </volume>
+      <issue>
+       3
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Mar
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The British journal of dermatology
+     </title>
+     <isoabbreviation>
+      Br. J. Dermatol.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Guidelines for treatment of onychomycosis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      402-10
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      These guidelines for management of onychomycosis have been prepared for dermatologists on behalf of the British Association of Dermatologists. They present evidence-based guidance for treatment, with identification of the strength of evidence available at the time of preparation of the guidelines, and a brief overview of epidemiological aspects, diagnosis and investigation.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Southern General Hospital, Glasgow G51 4TF, UK. dai.roberts@sgh.scot.nhs.uk
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Roberts
+      </lastname>
+      <forename>
+       D T
+      </forename>
+      <initials>
+       DT
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Taylor
+      </lastname>
+      <forename>
+       W D
+      </forename>
+      <initials>
+       WD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Boyle
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       British Association of Dermatologists
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Guideline
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Practice Guideline
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Br J Dermatol
+    </medlineta>
+    <nlmuniqueid>
+     0004041
+    </nlmuniqueid>
+    <issnlinking>
+     0007-0963
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antifungal Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Naphthalenes
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      126-07-8
+     </registrynumber>
+     <nameofsubstance>
+      Griseofulvin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      84625-61-6
+     </registrynumber>
+     <nameofsubstance>
+      Itraconazole
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      91161-71-6
+     </registrynumber>
+     <nameofsubstance>
+      terbinafine
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Administration, Topical
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antifungal Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Candidiasis
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dermatomycoses
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Griseofulvin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Itraconazole
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Naphthalenes
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Onychomycosis
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Failure
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12653730
+    </articleid>
+    <articleid idtype="pii">
+     5242
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

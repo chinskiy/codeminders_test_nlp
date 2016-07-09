@@ -1,0 +1,457 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15262830
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     10
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     08
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print-Electronic">
+    <journal>
+     <issn issntype="Electronic">
+      1524-4539
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       110
+      </volume>
+      <issue>
+       6
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Aug
+       </month>
+       <day>
+        10
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Circulation
+     </title>
+     <isoabbreviation>
+      Circulation
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Prevalence of and risk factors for peripheral arterial disease in the United States: results from the National Health and Nutrition Examination Survey, 1999-2000.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      738-43
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Peripheral arterial disease (PAD) is associated with significant morbidity and mortality and is an important marker of subclinical coronary heart disease. However, estimates of PAD prevalence in the general US population have varied widely.
+     </abstracttext>
+     <abstracttext label="METHODS AND RESULTS" nlmcategory="RESULTS">
+      We analyzed data from 2174 participants aged 40 years and older from the 1999-2000 National Health and Nutrition Examination Survey. PAD was defined as an ankle-brachial index &lt;0.90 in either leg. The prevalence of PAD among adults aged 40 years and over in the United States was 4.3% (95% CI 3.1% to 5.5%), which corresponds to approximately 5 million individuals (95% CI 4 to 7 million). Among those aged 70 years or over, the prevalence was 14.5% (95% CI 10.8% to 18.2%). In age- and gender-adjusted logistic regression analyses, black race/ethnicity (OR 2.83, 95% CI 1.48 to 5.42) current smoking (OR 4.46, 95% CI 2.25 to 8.84), diabetes (OR 2.71, 95% CI 1.03 to 7.12), hypertension (OR 1.75, 95% CI 0.97 to 3.13), hypercholesterolemia (OR 1.68, 95% CI 1.09 to 2.57), and low kidney function (OR 2.00, 95% CI 1.08 to 3.70) were positively associated with prevalent PAD. More than 95% of persons with PAD had 1 or more cardiovascular disease risk factors. Elevated fibrinogen and C-reactive protein levels were also associated with PAD.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      This study provides nationally representative prevalence estimates of PAD in the United States, revealing that PAD affects more than 5 million adults. PAD prevalence increases dramatically with age and disproportionately affects blacks. The vast majority of individuals with PAD have 1 or more cardiovascular disease risk factors that should be targeted for therapy.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Epidemiology, Johns Hopkins University Bloomberg School of Public Health, Baltimore, Md, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Selvin
+      </lastname>
+      <forename>
+       Elizabeth
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Erlinger
+      </lastname>
+      <forename>
+       Thomas P
+      </forename>
+      <initials>
+       TP
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       T32HL07024
+      </grantid>
+      <acronym>
+       HL
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2004
+     </year>
+     <month>
+      07
+     </month>
+     <day>
+      19
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Circulation
+    </medlineta>
+    <nlmuniqueid>
+     0147763
+    </nlmuniqueid>
+    <issnlinking>
+     0009-7322
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Biological Markers
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      9001-32-5
+     </registrynumber>
+     <nameofsubstance>
+      Fibrinogen
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      9007-41-4
+     </registrynumber>
+     <nameofsubstance>
+      C-Reactive Protein
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Biological Markers
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Pressure Determination
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Brachial Artery
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      C-Reactive Protein
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      analysis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Comorbidity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Continental Population Groups
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cross-Sectional Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetes Mellitus
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fibrinogen
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      analysis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Glomerular Filtration Rate
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Health Surveys
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypercholesterolemia
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertension
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Kidney Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Peripheral Vascular Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prevalence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Smoking
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tibial Arteries
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      United States
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="aheadofprint">
+     <year>
+      2004
+     </year>
+     <month>
+      Jul
+     </month>
+     <day>
+      19
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     15262830
+    </articleid>
+    <articleid idtype="doi">
+     10.1161/01.CIR.0000137913.26087.F0
+    </articleid>
+    <articleid idtype="pii">
+     01.CIR.0000137913.26087.F0
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,581 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    16554525
+   </pmid>
+   <datecreated>
+    <year>
+     2006
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     23
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2006
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     07
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1533-4406
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       354
+      </volume>
+      <issue>
+       12
+      </issue>
+      <pubdate>
+       <year>
+        2006
+       </year>
+       <month>
+        Mar
+       </month>
+       <day>
+        23
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Bupropion-SR, sertraline, or venlafaxine-XR after failure of SSRIs for depression.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1231-42
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      After unsuccessful treatment for depression with a selective serotonin-reuptake inhibitor (SSRI), it is not known whether switching to one antidepressant is more effective than switching to another.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We randomly assigned 727 adult outpatients with a nonpsychotic major depressive disorder who had no remission of symptoms or could not tolerate the SSRI citalopram to receive one of the following drugs for up to 14 weeks: sustained-release bupropion (239 patients) at a maximal daily dose of 400 mg, sertraline (238 patients) at a maximal daily dose of 200 mg, or extended-release venlafaxine (250 patients) at a maximal daily dose of 375 mg. The study was conducted in 18 primary and 23 psychiatric care settings. The primary outcome was symptom remission, defined by a total score of 7 or less on the 17-item Hamilton Rating Scale for Depression (HRSD-17) at the end of the study. Scores on the Quick Inventory of Depressive Symptomatology - Self Report (QIDS-SR-16), obtained at treatment visits, determined secondary outcomes, including remission (a score of 5 or less at exit) and response (a reduction of 50 percent or more on baseline scores).
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Remission rates as assessed by the HRSD-17 and the QIDS-SR-16, respectively, were 21.3 percent and 25.5 percent for sustained-release bupropion, 17.6 percent and 26.6 percent for sertraline, and 24.8 percent and 25.0 percent for extended-release venlafaxine. QIDS-SR-16 response rates were 26.1 percent for sustained-release bupropion, 26.7 percent for sertraline, and 28.2 percent for extended-release venlafaxine. These treatments did not differ significantly with respect to outcomes, tolerability, or adverse events.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      After unsuccessful treatment with an SSRI, approximately one in four patients had a remission of symptoms after switching to another antidepressant. Any one of the medications in the study provided a reasonable second-step choice for patients with depression. (ClinicalTrials.gov number, NCT00021528.).
+     </abstracttext>
+     <copyrightinformation>
+      Copyright 2006 Massachusetts Medical Society.
+     </copyrightinformation>
+    </abstract>
+    <affiliation>
+     Department of Psychiatry, University of Texas Southwestern Medical Center, Dallas, TX 75390-9086, USA. john.rush@utsouthwestern.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Rush
+      </lastname>
+      <forename>
+       A John
+      </forename>
+      <initials>
+       AJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Trivedi
+      </lastname>
+      <forename>
+       Madhukar H
+      </forename>
+      <initials>
+       MH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wisniewski
+      </lastname>
+      <forename>
+       Stephen R
+      </forename>
+      <initials>
+       SR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Stewart
+      </lastname>
+      <forename>
+       Jonathan W
+      </forename>
+      <initials>
+       JW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Nierenberg
+      </lastname>
+      <forename>
+       Andrew A
+      </forename>
+      <initials>
+       AA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Thase
+      </lastname>
+      <forename>
+       Michael E
+      </forename>
+      <initials>
+       ME
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ritz
+      </lastname>
+      <forename>
+       Louise
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Biggs
+      </lastname>
+      <forename>
+       Melanie M
+      </forename>
+      <initials>
+       MM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Warden
+      </lastname>
+      <forename>
+       Diane
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Luther
+      </lastname>
+      <forename>
+       James F
+      </forename>
+      <initials>
+       JF
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Shores-Wilson
+      </lastname>
+      <forename>
+       Kathy
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Niederehe
+      </lastname>
+      <forename>
+       George
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Fava
+      </lastname>
+      <forename>
+       Maurizio
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       STAR*D Study Team
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <databanklist completeyn="Y">
+     <databank>
+      <databankname>
+       ClinicalTrials.gov
+      </databankname>
+      <accessionnumberlist>
+       <accessionnumber>
+        NCT00021528
+       </accessionnumber>
+      </accessionnumberlist>
+     </databank>
+    </databanklist>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       N01MH90003
+      </grantid>
+      <acronym>
+       MH
+      </acronym>
+      <agency>
+       NIMH NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, N.I.H., Extramural
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antidepressive Agents, Second-Generation
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cyclohexanols
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Delayed-Action Preparations
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Serotonin Uptake Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      34841-39-9
+     </registrynumber>
+     <nameofsubstance>
+      Bupropion
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      79617-96-2
+     </registrynumber>
+     <nameofsubstance>
+      Sertraline
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      93413-69-5
+     </registrynumber>
+     <nameofsubstance>
+      venlafaxine
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2006 Mar 23;354(12):1305-7
+     </refsource>
+     <pmid version="1">
+      16554533
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Evid Based Ment Health. 2006 Nov;9(4):100
+     </refsource>
+     <pmid version="1">
+      17065297
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2006 Jun 15;354(24):2611-3; author reply 2611-3
+     </refsource>
+     <pmid version="1">
+      16775243
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antidepressive Agents, Second-Generation
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bupropion
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cyclohexanols
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Delayed-Action Preparations
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Depressive Disorder, Major
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Remission Induction
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Serotonin Uptake Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sertraline
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Time Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Failure
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2006
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2006
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      8
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2006
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     354/12/1231
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJMoa052963
+    </articleid>
+    <articleid idtype="pubmed">
+     16554525
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

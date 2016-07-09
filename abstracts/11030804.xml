@@ -1,0 +1,391 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11030804
+   </pmid>
+   <datecreated>
+    <year>
+     2000
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     03
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2000
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     03
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0003-9942
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       57
+      </volume>
+      <issue>
+       10
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+       <month>
+        Oct
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Archives of neurology
+     </title>
+     <isoabbreviation>
+      Arch. Neurol.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Vitamin E and beta carotene supplementation in high risk for stroke: a subgroup analysis of the Alpha-Tocopherol, Beta-Carotene Cancer Prevention Study.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1503-9
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      High serum or dietary levels of vitamin E and beta carotene appear to be associated with lower risk of stroke, but studies regarding their supplementation have not supported their use in stroke prevention.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To determine if vitamin E (dl-alpha tocopherol) and beta carotene supplementations could be used in prevention of stroke in men at high risk for hemorrhagic or ischemic events.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Population-based, randomized, double-blind, placebo-controlled, 2 x 2 factorial design trial (the Alpha-Tocopherol, Beta-Carotene Cancer Prevention Study), conducted from April 1985 through April 30, 1993, with median follow-up of 6 years.
+     </abstracttext>
+     <abstracttext label="INTERVENTIONS" nlmcategory="METHODS">
+      Alpha tocopherol, 50 mg; beta carotene, 20 mg; both; or placebo.
+     </abstracttext>
+     <abstracttext label="PARTICIPANTS" nlmcategory="METHODS">
+      From the total male population aged 50 through 69 years in southwestern Finland (n = 290,406), 29,133 male smokers were randomized to 1 of 4 treatment regimens. We excluded 614 men because of previous stroke at baseline, leaving 28, 519.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      Incident and fatal subarachnoid and intracerebral hemorrhage, cerebral infarction, and unspecified stroke.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Stroke occurred in a total of 1057 men: 85 had subarachnoid and 112 had intracerebral hemorrhage, 807 had cerebral infarction, and 53 had unspecified stroke. Within 90 days from onset, 160 men died of stroke. Vitamin E supplementation increased the risk of subarachnoid hemorrhage (relative risk [RR], 2.45; 95% confidence interval [CI], 1.08-5.55) and decreased risk of cerebral infarction (RR, 0.70; 95% CI, 0.55-0.89) in hypertensive men but had no effect among normotensive men. Furthermore, it decreased the risk of cerebral infarction, without elevating the risk of subarachnoid hemorrhage, among hypertensive men with concurrent diabetes (RR, 0.33; 95% CI, 0.14-0.78). Beta carotene supplementation appeared to increase the risk of intracerebral hemorrhage and modestly decrease that of cerebral infarction among men with greater alcohol consumption.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Vitamin E supplementation may prevent ischemic stroke in high-risk hypertensive patients, but further studies are needed. Arch Neurol. 2000;57:1503-1509
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Public Health, University of Helsinki, PO Box 41, 00014 Helsinki, Finland. jleppala@ucla.edu.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Leppälä
+      </lastname>
+      <forename>
+       J M
+      </forename>
+      <initials>
+       JM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Virtamo
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Fogelholm
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Albanes
+      </lastname>
+      <forename>
+       D
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Taylor
+      </lastname>
+      <forename>
+       P R
+      </forename>
+      <initials>
+       PR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Heinonen
+      </lastname>
+      <forename>
+       O P
+      </forename>
+      <initials>
+       OP
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       N01-CN-45165
+      </grantid>
+      <acronym>
+       CN
+      </acronym>
+      <agency>
+       NCI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Arch Neurol
+    </medlineta>
+    <nlmuniqueid>
+     0372436
+    </nlmuniqueid>
+    <issnlinking>
+     0003-9942
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      1406-18-4
+     </registrynumber>
+     <nameofsubstance>
+      Vitamin E
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      7235-40-7
+     </registrynumber>
+     <nameofsubstance>
+      beta Carotene
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Dietary Supplements
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Follow-Up Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Stroke
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vitamin E
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      beta Carotene
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11030804
+    </articleid>
+    <articleid idtype="pii">
+     noc90079
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,724 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15890695
+   </pmid>
+   <datecreated>
+    <year>
+     2005
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     22
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     13
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print-Electronic">
+    <journal>
+     <issn issntype="Electronic">
+      1468-2044
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       90
+      </volume>
+      <issue>
+       9
+      </issue>
+      <pubdate>
+       <year>
+        2005
+       </year>
+       <month>
+        Sep
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Archives of disease in childhood
+     </title>
+     <isoabbreviation>
+      Arch. Dis. Child.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     What is the long term outcome for children who fail to thrive? A systematic review.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      925-31
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="AIMS" nlmcategory="OBJECTIVE">
+      To ascertain the long term outcomes in children diagnosed as having failure to thrive (FTT).
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Systematic review of cohort studies. Medline, Psychinfo, Embase, Cinahl, Web of Science, Cochrane, and DARE databases were searched for potentially relevant studies. Inclusion criteria: cohort studies or randomised controlled trials in children &lt;2 years old with failure to thrive defined as weight &lt;10th centile or lower centile and/or weight velocity &lt;10th centile, with growth, development, or behaviour measured at 3 years of age or older.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Thirteen studies met the inclusion criteria; eight included a comparison group, of which five included children identified in community settings. Two were randomised controlled trials. Attrition rates were 10-30%. Data from population based studies with comparison groups and which reported comparable outcomes in an appropriate form were pooled in a random effects meta-analysis. Four studies report IQ scores at follow up and the pooled standardised mean difference was -0.22 (95% CI -0.41 to -0.03). Two studies reported growth data as standard deviation scores. Their pooled weighted mean difference for weight was -1.24 SDS (95% CI -2.00 to -0.48), and for height -0.87 SDS (95% CI -1.47 to -0.28). No studies corrected for parental height, but two reported that parents of index children were shorter.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The IQ difference (equivalent to approximately 3 IQ points) is of questionable clinical significance. The height and weight differences are larger, but few children were below the 3rd centile at follow up. It is unclear to what extent observed differences reflect causal relations or confounding due to other variables. In the light of these results the aggressive approach to identification and management of failure to thrive needs reassessing.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Community Paediatrics, East Leeds Primary Care Trust and University of Leeds, Leeds, UK. Mary.Rudolf@Leedsth.nhs.uk
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Rudolf
+      </lastname>
+      <forename>
+       M C J
+      </forename>
+      <initials>
+       MC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Logan
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2005
+     </year>
+     <month>
+      05
+     </month>
+     <day>
+      12
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Arch Dis Child
+    </medlineta>
+    <nlmuniqueid>
+     0372434
+    </nlmuniqueid>
+    <issnlinking>
+     0003-9888
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Pediatr (Phila). 1969 Oct;8(10):584-9
+     </refsource>
+     <pmid version="1">
+      5344423
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Pediatr (Phila). 1968 May;7(5):255-61
+     </refsource>
+     <pmid version="1">
+      5648331
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Orthopsychiatry. 1967 Jul;37(4):680-90
+     </refsource>
+     <pmid version="1">
+      6033422
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Dev Behav Pediatr. 1981 Sep;2(3):112-4
+     </refsource>
+     <pmid version="1">
+      6168654
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Pediatr Psychol. 1984 Jun;9(2):241-56
+     </refsource>
+     <pmid version="1">
+      6470906
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Pediatr Psychol. 1984 Sep;9(3):363-83
+     </refsource>
+     <pmid version="1">
+      6502402
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Child Abuse Negl. 1984;8(2):229-42
+     </refsource>
+     <pmid version="1">
+      6539644
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Pediatr (Phila). 1984 Jun;23(6):325-30
+     </refsource>
+     <pmid version="1">
+      6723176
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1980 May;65(5):971-7
+     </refsource>
+     <pmid version="1">
+      7367142
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Child Psychol Psychiatry. 1994 Mar;35(3):521-45
+     </refsource>
+     <pmid version="1">
+      7515070
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1995 Jun;95(6):807-14
+     </refsource>
+     <pmid version="1">
+      7539121
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Isr J Med Sci. 1995 Aug;31(8):483-9
+     </refsource>
+     <pmid version="1">
+      7543467
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1995 Oct;96(4 Pt 1):707-11
+     </refsource>
+     <pmid version="1">
+      7567335
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Dis Child. 1995 Jul;73(1):8-16
+     </refsource>
+     <pmid version="1">
+      7639558
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Child Psychol Psychiatry. 1995 May;36(4):573-95
+     </refsource>
+     <pmid version="1">
+      7650084
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Pediatr Adolesc Med. 1994 Oct;148(10):1071-7
+     </refsource>
+     <pmid version="1">
+      7921099
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1994 Oct 26;272(16):1257-62
+     </refsource>
+     <pmid version="1">
+      7933370
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Dev Behav Pediatr. 1994 Apr;15(2):78-85
+     </refsource>
+     <pmid version="1">
+      8034771
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Dev Med Child Neurol. 1993 Apr;35(4):285-97
+     </refsource>
+     <pmid version="1">
+      8335143
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1977 Jan;59(1):73-7
+     </refsource>
+     <pmid version="1">
+      840545
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Dev Med Child Neurol. 1999 Feb;41(2):115-22
+     </refsource>
+     <pmid version="1">
+      10075097
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Dis Child. 1999 Jun;80(6):500-6
+     </refsource>
+     <pmid version="1">
+      10331996
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Child Psychol Psychiatry. 1999 May;40(4):551-61
+     </refsource>
+     <pmid version="1">
+      10357162
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Dis Child. 2000 Jan;82(1):5-9
+     </refsource>
+     <pmid version="1">
+      10630901
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Dis Child. 2000 Mar;82(3):197-201
+     </refsource>
+     <pmid version="1">
+      10685919
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Child Abuse Negl. 2000 May;24(5):587-98
+     </refsource>
+     <pmid version="1">
+      10819092
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Child Psychol Psychiatry. 2000 Nov;41(8):1003-14
+     </refsource>
+     <pmid version="1">
+      11099117
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Pediatr (Phila). 2001 Feb;40(2):63-70
+     </refsource>
+     <pmid version="1">
+      11261452
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Dev Behav Pediatr. 1992 Aug;13(4):266-73
+     </refsource>
+     <pmid version="1">
+      1506465
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Dev Behav Pediatr. 1991 Aug;12(4):254-8
+     </refsource>
+     <pmid version="1">
+      1939681
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Child Psychol Psychiatry. 1987 Jul;28(4):529-41
+     </refsource>
+     <pmid version="1">
+      2443523
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Child Abuse Negl. 1989;13(1):19-28
+     </refsource>
+     <pmid version="1">
+      2706559
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Dev Behav Pediatr. 1989 Oct;10(5):229-35
+     </refsource>
+     <pmid version="1">
+      2808715
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Child Abuse Negl. 1988;12(3):375-81
+     </refsource>
+     <pmid version="1">
+      3048580
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Pediatr Psychol. 1988 Jun;13(2):281-96
+     </refsource>
+     <pmid version="1">
+      3171820
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Child Abuse Negl. 1986;10(4):479-86
+     </refsource>
+     <pmid version="1">
+      3791024
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Child Abuse Negl. 1987;11(1):35-40
+     </refsource>
+     <pmid version="1">
+      3828874
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1985 Jan;75(1):36-40
+     </refsource>
+     <pmid version="1">
+      3966044
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Pediatr. 1968 Nov;73(5):690-8
+     </refsource>
+     <pmid version="1">
+      4176086
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      South Med J. 1979 Jun;72(6):693-5, 698
+     </refsource>
+     <pmid version="1">
+      451654
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Acta Paediatr. 1996 Nov;85(11):1278-83
+     </refsource>
+     <pmid version="1">
+      8955452
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Child Abuse Negl. 1997 Jul;21(7):691-700
+     </refsource>
+     <pmid version="1">
+      9238552
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Pediatr Psychol. 1997 Oct;22(5):651-68
+     </refsource>
+     <pmid version="1">
+      9383928
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Prof Care Mother Child. 1998;8(1):5-6
+     </refsource>
+     <pmid version="1">
+      9697575
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1998 Aug 29;317(7158):571-4
+     </refsource>
+     <pmid version="1">
+      9721113
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Child Psychol Psychiatry. 1998 Oct;39(7):1017-29
+     </refsource>
+     <pmid version="1">
+      9804034
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1993 May;91(5):941-8
+     </refsource>
+     <pmid version="1">
+      8474814
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Med Screen. 1995;2(3):145-9
+     </refsource>
+     <pmid version="1">
+      8536184
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Dis Child. 1996 Aug;75(2):145-8
+     </refsource>
+     <pmid version="1">
+      8869197
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Body Height
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Body Weight
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child Behavior
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child Development
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cohort Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Failure to Thrive
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      psychology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Growth
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prognosis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Psychomotor Performance
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    58
+   </numberofreferences>
+   <otherid source="NLM">
+    PMC1720590
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="aheadofprint">
+     <year>
+      2005
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      12
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2005
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      14
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      15
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2005
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      14
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     adc.2004.050179
+    </articleid>
+    <articleid idtype="doi">
+     10.1136/adc.2004.050179
+    </articleid>
+    <articleid idtype="pubmed">
+     15890695
+    </articleid>
+    <articleid idtype="pmc">
+     PMC1720590
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

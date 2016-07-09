@@ -1,0 +1,331 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12519601
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     09
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     21
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Deep transverse friction massage for treating tendinitis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD003528
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Deep transverse friction massage (DTFM) is one of several physiotherapy interventions suggested for the management of tendinitis pain.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To assess the efficacy of DTFM for treating tendinitis.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      We searched the MEDLINE, EMBASE, HealthSTAR, Sports Discus, CINAHL, the Cochrane Controlled Trials Register, PEDro, the specialized registry of the Cochrane musculoskeletal group and the Cochrane field of Physical and Related Therapies up to the end of June 2002. The reference list of the trials and key experts in the area were also consulted for additional studies.
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      All randomized controlled trials (RCTs) and controlled clinical trials (CCTs) comparing therapeutic ultrasound with control or another active intervention in patients with all types of tendinitis, such as iliotibial band friction syndrome and extensor carpi radialis tendinitis (i.e. tennis elbow or lateral epicondylitis or lateralis epicondylitis humeri), were selected.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      Two reviewers determined the studies to be included based upon the inclusion and exclusion criteria (LB, VR). Data were independently abstracted by two reviewers (VR, LB), and checked by a third reviewer (BS) using a pre-developed form of the Cochrane Musculoskeletal Group. The two reviewers, using a validated checklist, assessed the methodological quality of the RCTs and CCTs independently. The pooled analysis was performed using weighted mean differences (WMDs) for continuous outcomes.
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      One RCT included patients with ITBFS. DTFM combined with rest, stretching exercises, cryotherapy and therapeutic ultrasound was compared to the control group (rest, stretching exercises, cryotherapy and therapeutic ultrasound only). This trial showed no statistical difference in the three types of pain relief measured after four consecutive sessions of DTFM combined with other physiotherapy modalities for runners. There was a clinically important relative percentage difference in pain while running of 22%. A RCT on ECRT showed no statistical difference in pain relief, grip strength and the three types of functional status measured after 9 consecutive sessions within 5 weeks of DTFM compared with other physiotherapy modalities.
+     </abstracttext>
+     <abstracttext label="REVIEWER'S CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      DTFM combined with other physiotherapy modalities did not show consistent benefit over the control of pain, or improvement of grip strength and functional status for patients with ITBFS or for patients with ECRT. These conclusions are limited by the small sample size of the included RCTs. No conclusions can be drawn concerning the use or non use of DTFM for the treatment of ITBFS. Future trials, utilizing specific ITBFS methods and adequate sample sizes are needed, before conclusions can be drawn regarding the specific effect of DTFM on tendinitis.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     School of Rehabilitation Sciences, University of Ottawa, 451 Smyth, Room 3060, Ottawa, ON, Canada, K1H8M5. LBROSSEA@UOTTAWA.CA
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Brosseau
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Casimiro
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Milne
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Robinson
+      </lastname>
+      <forename>
+       V
+      </forename>
+      <initials>
+       V
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Shea
+      </lastname>
+      <forename>
+       B
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tugwell
+      </lastname>
+      <forename>
+       P
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wells
+      </lastname>
+      <forename>
+       G
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="UpdateOf">
+     <refsource>
+      Cochrane Database Syst Rev. 2002;(1):CD003528
+     </refsource>
+     <pmid version="1">
+      11869672
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Clinical Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Combined Modality Therapy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cryotherapy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Rest
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tendinopathy
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Ultrasonic Therapy
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    38
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      22
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12519601
+    </articleid>
+    <articleid idtype="doi">
+     10.1002/14651858.CD003528
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

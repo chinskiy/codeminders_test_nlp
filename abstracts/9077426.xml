@@ -1,0 +1,349 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    9077426
+   </pmid>
+   <datecreated>
+    <year>
+     1997
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     25
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1997
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     25
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0928-0197
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       7
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        1996
+       </year>
+       <month>
+        Oct
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Clinical and diagnostic virology
+     </title>
+     <isoabbreviation>
+      Clin Diagn Virol
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Evaluation of six commercially available kits using purified heterophile antigen for the rapid diagnosis of infectious mononucleosis compared with Epstein-Barr virus-specific serology.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      17-21
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Novel commercial kits based on antibody reactivity to purified heterophile antigens have recently been introduced for the diagnosis of Epstein-Barr (EB) virus-associated infectious mononucleosis (IM). It is important to determine possible improvements in the performance and reliability of such tests for the diagnosis of IM.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To evaluate the reliability of six commercially available kits for the rapid diagnosis of IM in comparison to EB-virus-specific serology.
+     </abstracttext>
+     <abstracttext label="STUDY DESIGN" nlmcategory="METHODS">
+      In total, 100 sera, 53 from patients with serologically verified primary EB virus infection and 47 from EB-virus-immune or -susceptible patients, were used to evaluate the six rapid test kits: Monolatex, Mono-Latex, Mono-Lex (latex agglutination-based kits), Mono-Plus, IM-Check and Clearview IM (solid-phase-based kits). EB-virus-specific serologies including detection of viral capsid antigen IgM and IgG and EB nuclear antigen-1 IgG, were used as reference methods.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Compared with the reference methods, the sensitivities and specificities of the heterophile antibody test kits were 70-92% and 96-100%, respectively. IM-Check had a low sensitivity and was difficult to read. The remaining kits performed well.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Monolatex, Mono-Latex, Mono-Lex, Mono-Plus and Clearview IM can be recommended for the confirmation of EB-virus-associated infectious mononucleosis. Clearview IM combined a high sensitivity and specificity with very simple one-step solid-phase-based procedure.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Virology, Umeå University, Sweden. Fredrik.Elgh@climi.umu.se
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Elgh
+      </lastname>
+      <forename>
+       F
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Linderholm
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     NETHERLANDS
+    </country>
+    <medlineta>
+     Clin Diagn Virol
+    </medlineta>
+    <nlmuniqueid>
+     9309653
+    </nlmuniqueid>
+    <issnlinking>
+     0928-0197
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antibodies, Viral
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antigens, Heterophile
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antigens, Viral
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Reagent Kits, Diagnostic
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antibodies, Viral
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      immunology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antigens, Heterophile
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      immunology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antigens, Viral
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      immunology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Evaluation Studies as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Herpesvirus 4, Human
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      immunology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      isolation &amp; purification
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infectious Mononucleosis
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      immunology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      virology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Reagent Kits, Diagnostic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Reproducibility of Results
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1996
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1996
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1996
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     9077426
+    </articleid>
+    <articleid idtype="pii">
+     S0928019796002450
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

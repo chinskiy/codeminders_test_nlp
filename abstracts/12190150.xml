@@ -1,0 +1,258 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12190150
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     22
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     17
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0002-9270
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       97
+      </volume>
+      <issue>
+       8
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Aug
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The American journal of gastroenterology
+     </title>
+     <isoabbreviation>
+      Am. J. Gastroenterol.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Updated guidelines for the diagnosis, surveillance, and therapy of Barrett's esophagus.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1888-95
+     </medlinepgn>
+    </pagination>
+    <affiliation>
+     Southern Arizona VA Health Care System, Tucson 85723, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Sampliner
+      </lastname>
+      <forename>
+       Richard E
+      </forename>
+      <initials>
+       RE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       Practice Parameters Committee of the American College of Gastroenterology
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Guideline
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Practice Guideline
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Am J Gastroenterol
+    </medlineta>
+    <nlmuniqueid>
+     0421030
+    </nlmuniqueid>
+    <issnlinking>
+     0002-9270
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Barrett Esophagus
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Biopsy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cell Transformation, Neoplastic
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Esophageal Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Esophagoscopy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Gastroesophageal Reflux
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      23
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      23
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12190150
+    </articleid>
+    <articleid idtype="doi">
+     10.1111/j.1572-0241.2002.05910.x
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

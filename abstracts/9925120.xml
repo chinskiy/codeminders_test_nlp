@@ -1,0 +1,355 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    9925120
+   </pmid>
+   <datecreated>
+    <year>
+     1999
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     11
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1999
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     11
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0002-9165
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       69
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        1999
+       </year>
+       <month>
+        Jan
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The American journal of clinical nutrition
+     </title>
+     <isoabbreviation>
+      Am. J. Clin. Nutr.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Cholesterol-lowering effects of dietary fiber: a meta-analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      30-42
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      The effects of dietary soluble fibers on blood cholesterol are uncertain.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      This meta-analysis of 67 controlled trials was performed to quantify the cholesterol-lowering effect of major dietary fibers.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Least-squares regression analyses were used to test the effect on blood lipids of pectin, oat bran, guar gum, and psyllium. Independent variables were type and amount of soluble fiber, initial cholesterol concentration, and other important study characteristics.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Soluble fiber, 2-10 g/d, was associated with small but significant decreases in total cholesterol [-0.045 mmol L(-1).g soluble fiber(-1) (95% CI: -0.054, -0.035)] and LDL cholesterol [-0.057 mmol.L(-1).g(-1) (95% CI: -0.070, -0.044)]. The effects on plasma lipids of soluble fiber from oat, psyllium, or pectin were not significantly different. We were unable to compare effects of guar because of the limited number of studies using 2-10 g/d. Triacylglycerols and HDL cholesterol were not significantly influenced by soluble fiber. Lipid changes were independent of study design, treatment length, and background dietary fat content.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Various soluble fibers reduce total and LDL cholesterol by similar amounts. The effect is small within the practical range of intake. For example, 3 g soluble fiber from oats (3 servings of oatmeal, 28 g each) can decrease total and LDL cholesterol by approximately 0.13 mmol/L. Increasing soluble fiber can make only a small contribution to dietary therapy to lower cholesterol.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Nutrition, Harvard School of Public Health, Boston, MA 02115, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Brown
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rosner
+      </lastname>
+      <forename>
+       B
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Willett
+      </lastname>
+      <forename>
+       W W
+      </forename>
+      <initials>
+       WW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sacks
+      </lastname>
+      <forename>
+       F M
+      </forename>
+      <initials>
+       FM
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Am J Clin Nutr
+    </medlineta>
+    <nlmuniqueid>
+     0376027
+    </nlmuniqueid>
+    <issnlinking>
+     0002-9165
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cholesterol, LDL
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Triglycerides
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      57-88-5
+     </registrynumber>
+     <nameofsubstance>
+      Cholesterol
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Am J Clin Nutr. 1999 Jan;69(1):1
+     </refsource>
+     <pmid version="1">
+      9925113
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Am J Clin Nutr. 1999 Nov;70(5):942-3
+     </refsource>
+     <pmid version="1">
+      10539761
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Analysis of Variance
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cholesterol
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cholesterol, LDL
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Controlled Clinical Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dietary Fiber
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Least-Squares Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Triglycerides
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1999
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      30
+     </day>
+     <hour>
+      3
+     </hour>
+     <minute>
+      10
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2000
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      4
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1999
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      30
+     </day>
+     <hour>
+      3
+     </hour>
+     <minute>
+      10
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     9925120
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,397 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10080415
+   </pmid>
+   <datecreated>
+    <year>
+     1999
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     01
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1999
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     01
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2008
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     21
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0002-9149
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       83
+      </volume>
+      <issue>
+       5
+      </issue>
+      <pubdate>
+       <year>
+        1999
+       </year>
+       <month>
+        Mar
+       </month>
+       <day>
+        1
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The American journal of cardiology
+     </title>
+     <isoabbreviation>
+      Am. J. Cardiol.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Meta-analysis of exercise testing to detect coronary artery disease in women.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      660-6
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      To determine the accuracy of the exercise electrocardiogram (ECG), exercise thallium, and exercise echocardiogram (echo) for the diagnosis of coronary artery disease in women, English language studies published between 1966 and 1995 were identified through a MEDLINE search. Studies that contained data on at least 50 women who underwent both an exercise test and coronary angiography were examined. Studies were reviewed for sensitivity, specificity, and methodologic characteristics by 2 independent reviewers. Nineteen studies met the inclusion criteria for exercise electrocardiography, 5 studies for exercise thallium, and 3 studies for exercise echo. The exercise ECG had a weighted mean sensitivity, specificity, and a likelihood ratio (LR) of 0.61 (95% confidence intervals 0.54 to 0.68), 0.70 (0.64 to 0.75), (+) LR 2.25 (1.84 to 2.66), (-) LR 0.55 (0.47 to 0.62), respectively. The exercise thallium had a weighted mean sensitivity, specificity, and LRs of 0.78 (0.72 to 0.83), 0.64 (0.51 to 0.77), (+) LR 2.87 (1.0 to 4.96), (-) LR 0.36 (0.27 to 0.45). The exercise echo had a weighted mean sensitivity, specificity, and LRs of 0.86 (0.75 to 0.96), 0.79 (0.72 to 0.86), (+) LR 4.29 (2.93 to 5.65), (-) LR 0.18 (0.05 to 0.31). Thallium subset analysis revealed that studies using planar imaging were more specific than those using tomographic imaging. Thus, currently available exercise tests are only moderately sensitive and specific for the diagnosis of coronary artery disease in women.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Medicine, University of California, San Francisco, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Kwok
+      </lastname>
+      <forename>
+       Y
+      </forename>
+      <initials>
+       Y
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kim
+      </lastname>
+      <forename>
+       C
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Grady
+      </lastname>
+      <forename>
+       D
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Segal
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Redberg
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       R01 HL 50772
+      </grantid>
+      <acronym>
+       HL
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Am J Cardiol
+    </medlineta>
+    <nlmuniqueid>
+     0207277
+    </nlmuniqueid>
+    <issnlinking>
+     0002-9149
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Radiopharmaceuticals
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Thallium Radioisotopes
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Am J Cardiol. 1999 Dec 15;84(12):1454-6
+     </refsource>
+     <pmid version="1">
+      10606126
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 1999 Jul-Aug;130(1):21
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Coronary Angiography
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Coronary Disease
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      radiography
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      radionuclide imaging
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      ultrasonography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Echocardiography
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Electrocardiography
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Exercise Test
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Likelihood Functions
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Physical Exertion
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      physiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Predictive Value of Tests
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      ROC Curve
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Radiopharmaceuticals
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnostic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Thallium Radioisotopes
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnostic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1999
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      3
+     </hour>
+     <minute>
+      3
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2000
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1999
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      3
+     </hour>
+     <minute>
+      3
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10080415
+    </articleid>
+    <articleid idtype="pii">
+     S0002914998009631
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

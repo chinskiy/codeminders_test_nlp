@@ -1,0 +1,354 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    7993150
+   </pmid>
+   <datecreated>
+    <year>
+     1995
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     11
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1995
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     11
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0003-9926
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       154
+      </volume>
+      <issue>
+       23
+      </issue>
+      <pubdate>
+       <medlinedate>
+        1994 Dec 12-26
+       </medlinedate>
+      </pubdate>
+     </journalissue>
+     <title>
+      Archives of internal medicine
+     </title>
+     <isoabbreviation>
+      Arch. Intern. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Efficacy of pneumococcal vaccination in adults. A meta-analysis of randomized controlled trials.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      2666-77
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Because of the prevalence of pneumococcal pneumonia, the substantial morbidity and mortality associated with many pneumococcal infections, and an increase in the incidence of antibiotic resistance among pneumococcal isolates, considerable efforts for disease prevention have been made using a polyvalent polysaccharide pneumococcal vaccine. Despite numerous clinical trials of the vaccine, its efficacy in the prevention of pneumococcal infections and other clinically relevant medical outcomes in adults remains uncertain.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      To assess quantitatively the efficacy of pneumococcal vaccination, a MEDLINE literature search, manual reviews of article bibliographies, and communications with pneumococcal vaccine investigators were used to identify randomized controlled trials of the pneumococcal vaccine. Independent review of 594 articles revealed nine randomized trials with 12 vaccine and control study groups that evaluated clinically relevant outcomes in adults. To estimate a summary effect size for all outcomes, Mantel-Haenszel odds ratios (ORs) and Dersimonian and Laird rate differences (RDs) and their associated 95% confidence intervals (CIs) were computed.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Summary ORs demonstrated a statistically significant protective effect of the vaccine for four pneumococcal infection-related outcomes: definitive pneumococcal pneumonia (OR = 0.34; 95% CI = 0.24 to 0.48), definitive pneumococcal pneumonia for vaccine-containing pneumococcal antigen types only (vaccine types only) (OR = 0.17; 95% CI = 0.09 to 0.33), presumptive pneumococcal pneumonia (OR = 0.47; 95% CI = 0.35 to 0.63), and presumptive pneumococcal pneumonia (vaccine types only) (OR = 0.39; 95% CI = 0.26 to 0.59). The summary RDs, which account for heterogeneity among studies, confirmed a statistically significant protective effect for two of these same outcomes: definitive pneumococcal pneumonia (RD = 4/1000; 95% CI = 0/1000 to 7/1000) and definitive pneumococcal pneumonia (vaccine types only) (RD = 8/1000; 95% CI = 1/1000 to 16/1000). Summary ORs and RDs failed to demonstrate a protective effect for pneumonia (all causes), bronchitis, and mortality (all causes) or mortality due to pneumonia or pneumococcal infection. Subgroup analyses showed that for all four pneumococcal infection-related outcomes, vaccine efficacy differed for high- and low-risk subjects, demonstrating efficacy for low-risk subjects and lack of efficacy for high-risk subjects.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Pneumococcal vaccination appears efficacious in reducing bacteremic pneumococcal pneumonia in low-risk adults. However, evidence from randomized controlled trials fails to demonstrate vaccine efficacy for pneumococcal infection-related or other medical outcomes in the heterogeneous group of subjects currently labeled as high risk.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Medicine, University of Pittsburgh, Pa.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Fine
+      </lastname>
+      <forename>
+       M J
+      </forename>
+      <initials>
+       MJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Smith
+      </lastname>
+      <forename>
+       M A
+      </forename>
+      <initials>
+       MA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Carson
+      </lastname>
+      <forename>
+       C A
+      </forename>
+      <initials>
+       CA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Meffe
+      </lastname>
+      <forename>
+       F
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sankey
+      </lastname>
+      <forename>
+       S S
+      </forename>
+      <initials>
+       SS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Weissfeld
+      </lastname>
+      <forename>
+       L A
+      </forename>
+      <initials>
+       LA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Detsky
+      </lastname>
+      <forename>
+       A S
+      </forename>
+      <initials>
+       AS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kapoor
+      </lastname>
+      <forename>
+       W N
+      </forename>
+      <initials>
+       WN
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       HS 06468
+      </grantid>
+      <acronym>
+       HS
+      </acronym>
+      <agency>
+       AHRQ HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Arch Intern Med
+    </medlineta>
+    <nlmuniqueid>
+     0372440
+    </nlmuniqueid>
+    <issnlinking>
+     0003-9926
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Bacterial Vaccines
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Bacterial Vaccines
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Odds Ratio
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pneumococcal Infections
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pneumonia, Pneumococcal
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1994
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      12
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1994
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      12
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1994
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      12
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     7993150
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

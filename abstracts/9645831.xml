@@ -1,0 +1,310 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    9645831
+   </pmid>
+   <datecreated>
+    <year>
+     1998
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     09
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1998
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     09
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0003-9926
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       158
+      </volume>
+      <issue>
+       12
+      </issue>
+      <pubdate>
+       <year>
+        1998
+       </year>
+       <month>
+        Jun
+       </month>
+       <day>
+        22
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Archives of internal medicine
+     </title>
+     <isoabbreviation>
+      Arch. Intern. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Physical examination and chronic lower-extremity ischemia: a critical review.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1357-64
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To determine the clinical utility of physical examination in patients with suspected chronic ischemia of the lower extremities.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      MEDLINE search (January 1966 to January 1997), personal files, and bibliographies of textbooks on physical diagnosis, surgery, and vascular surgery.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION" nlmcategory="METHODS">
+      Both authors independently graded the studies as level 1, 2, or 3, according to predetermined criteria. Criteria deemed essential for analysis of sensitivity, specificity, and likelihood ratios were (1) clear definition of study population, (2) clear definition of physical examination maneuver, and (3) use of an acceptable criterion standard test for comparison.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The following positive findings help clinicians diagnose the presence of peripheral arterial disease: abnormal pedal pulses, a unilaterally cool extremity, a prolonged venous filling time, and a femoral bruit. Other physical signs help determine the extent and distribution of vascular disease, including an abnormal femoral pulse, lower-extremity bruits, warm knees, and the Buerger test. The capillary refill test and the findings of foot discoloration, atrophic skin, and hairless extremities are unhelpful in diagnostic decisions. Mathematical formulas, derived from 2 studies using multivariate analysis, allow clinicians to estimate the probability of peripheral arterial disease in their patients.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Certain aspects of the physical examination help clinicians make accurate judgments about the presence of peripheral arterial disease and its distribution.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Medicine, Veterans Affairs Puget Sound Health Care System, University of Washington, Seattle 98108, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       McGee
+      </lastname>
+      <forename>
+       S R
+      </forename>
+      <initials>
+       SR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Boyko
+      </lastname>
+      <forename>
+       E J
+      </forename>
+      <initials>
+       EJ
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Arch Intern Med
+    </medlineta>
+    <nlmuniqueid>
+     0372440
+    </nlmuniqueid>
+    <issnlinking>
+     0003-9926
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 1999 Jan-Feb;130(1):18
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Arterial Occlusive Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Chronic Disease
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diagnosis, Differential
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ischemia
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Leg
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood supply
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Multivariate Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Physical Examination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Predictive Value of Tests
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pulse
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1998
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      30
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1998
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      30
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1998
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      30
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     9645831
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

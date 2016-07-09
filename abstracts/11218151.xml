@@ -1,0 +1,323 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11218151
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     19
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     05
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0036-5513
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       60
+      </volume>
+      <issue>
+       8
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+       <month>
+        Dec
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Scandinavian journal of clinical and laboratory investigation
+     </title>
+     <isoabbreviation>
+      Scand. J. Clin. Lab. Invest.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Random C-peptide in the classification of diabetes.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      687-93
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To clarify whether random C-peptide is a valuable test in the classification of diabetes.
+     </abstracttext>
+     <abstracttext label="RESEARCH DESIGN AND METHODS" nlmcategory="METHODS">
+      All C-peptide measurements conducted in the diabetic population of Skaraborg (280,539 inhabitants and 3.2% diabetes) between 1995 and 1998 (3,115 samples) were considered, but only patients with well-defined diabetes type (1,449 samples from 1,093 patients) were analyzed for the correlation between diabetes type and C-peptide concentration. Serum C-peptide was measured after fasting over night (fCP), after glucagon stimulation (gCP), and randomly (rCP) without considering previous meals at an ordinary visit to the diabetic clinic (rCP). Receiver Operating Characteristic (ROC) curves were constructed to illustrate the power of the different C-peptide protocols and to determine the optimal cut-off values.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Although all three tests had high discriminative power, the ROC curves demonstrated that rCP was superior to fCP and gCP in discriminating type 1 from type 2 diabetes. The optimal cut-off value for rCP was 0.50 nmol/L, for fCP 0.42 nmol/L, and for gCP 0.60 nmol/L.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      rCP is more powerful than fCP and gCP in distinguishing type 1 from type 2 diabetes and can therefore be recommended as a classification tool, particularly in outpatients.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Medicine; KSS Skövde, Sweden. bo.berger@vgregion.se
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Berger
+      </lastname>
+      <forename>
+       B
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Stenström
+      </lastname>
+      <forename>
+       G
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sundkvist
+      </lastname>
+      <forename>
+       G
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     Norway
+    </country>
+    <medlineta>
+     Scand J Clin Lab Invest
+    </medlineta>
+    <nlmuniqueid>
+     0404375
+    </nlmuniqueid>
+    <issnlinking>
+     0036-5513
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      C-Peptide
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      C-Peptide
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetes Mellitus
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      classification
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetes Mellitus, Type 1
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      classification
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetes Mellitus, Type 2
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      classification
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fasting
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      ROC Curve
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Retrospective Studies
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      12
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      6
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      12
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11218151
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

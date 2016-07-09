@@ -1,0 +1,444 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    17341709
+   </pmid>
+   <datecreated>
+    <year>
+     2007
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     07
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2007
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     13
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2008
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     08
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1538-3598
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       297
+      </volume>
+      <issue>
+       9
+      </issue>
+      <pubdate>
+       <year>
+        2007
+       </year>
+       <month>
+        Mar
+       </month>
+       <day>
+        7
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Computed tomography screening and lung cancer outcomes.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      953-61
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Current and former smokers are currently being screened for lung cancer with computed tomography (CT), although there are limited data on the effect screening has on lung cancer outcomes. Randomized controlled trials assessing CT screening are currently under way.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To assess whether screening may increase the frequency of lung cancer diagnosis and lung cancer resection or may reduce the risk of a diagnosis of advanced lung cancer or death from lung cancer.
+     </abstracttext>
+     <abstracttext label="DESIGN, SETTING, AND PARTICIPANTS" nlmcategory="METHODS">
+      Longitudinal analysis of 3246 asymptomatic current or former smokers screened for lung cancer beginning in 1998 either at 1 of 2 academic medical centers in the United States or an academic medical center in Italy with follow-up for a median of 3.9 years.
+     </abstracttext>
+     <abstracttext label="INTERVENTION" nlmcategory="METHODS">
+      Annual CT scans with comprehensive evaluation and treatment of detected nodules.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      Comparison of predicted with observed number of new lung cancer cases, lung cancer resections, advanced lung cancer cases, and deaths from lung cancer.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      There were 144 individuals diagnosed with lung cancer compared with 44.5 expected cases (relative risk [RR], 3.2; 95% confidence interval [CI], 2.7-3.8; P&lt;.001). There were 109 individuals who had a lung resection compared with 10.9 expected cases (RR, 10.0; 95% CI, 8.2-11.9; P&lt;.001). There was no evidence of a decline in the number of diagnoses of advanced lung cancers (42 individuals compared with 33.4 expected cases) or deaths from lung cancer (38 deaths due to lung cancer observed and 38.8 expected; RR, 1.0; 95% CI, 0.7-1.3; P = .90).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Screening for lung cancer with low-dose CT may increase the rate of lung cancer diagnosis and treatment, but may not meaningfully reduce the risk of advanced lung cancer or death from lung cancer. Until more conclusive data are available, asymptomatic individuals should not be screened outside of clinical research studies that have a reasonable likelihood of further clarifying the potential benefits and risks.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Epidemiology and Biostatistics, Memorial Sloan-Kettering Cancer Center, New York, NY 10021, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Bach
+      </lastname>
+      <forename>
+       Peter B
+      </forename>
+      <initials>
+       PB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jett
+      </lastname>
+      <forename>
+       James R
+      </forename>
+      <initials>
+       JR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pastorino
+      </lastname>
+      <forename>
+       Ugo
+      </forename>
+      <initials>
+       U
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tockman
+      </lastname>
+      <forename>
+       Melvyn S
+      </forename>
+      <initials>
+       MS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Swensen
+      </lastname>
+      <forename>
+       Stephen J
+      </forename>
+      <initials>
+       SJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Begg
+      </lastname>
+      <forename>
+       Colin B
+      </forename>
+      <initials>
+       CB
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       R01CA79935
+      </grantid>
+      <acronym>
+       CA
+      </acronym>
+      <agency>
+       NCI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       UO1CA94973
+      </grantid>
+      <acronym>
+       CA
+      </acronym>
+      <agency>
+       NCI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, N.I.H., Extramural
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, Non-P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2007 Aug 1;298(5):514-5; author reply 515-6
+     </refsource>
+     <pmid version="1">
+      17666669
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Curr Oncol Rep. 2007 Nov;9(6):501-2
+     </refsource>
+     <pmid version="1">
+      17991359
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2007 Aug 1;298(5):513-4; author reply 515-6
+     </refsource>
+     <pmid version="1">
+      17666667
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2007 Mar 7;297(9):995-7
+     </refsource>
+     <pmid version="1">
+      17341714
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2007 Aug 1;298(5):514; author reply 515-6
+     </refsource>
+     <pmid version="1">
+      17666670
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2007 Aug 1;298(5):513; author reply 515-6
+     </refsource>
+     <pmid version="1">
+      17666668
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="ErratumIn">
+     <refsource>
+      JAMA. 2007 Aug 1;298(5):518
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lung Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      radiography
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      surgery
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Mass Screening
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Outcome Assessment (Health Care)
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pneumonectomy
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Probability
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Smoking
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Tomography, X-Ray Computed
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2007
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      8
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2007
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      14
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2007
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      8
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     297/9/953
+    </articleid>
+    <articleid idtype="doi">
+     10.1001/jama.297.9.953
+    </articleid>
+    <articleid idtype="pubmed">
+     17341709
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

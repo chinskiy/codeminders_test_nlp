@@ -1,0 +1,426 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11401736
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     12
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     05
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0094-3509
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       50
+      </volume>
+      <issue>
+       6
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Jun
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The Journal of family practice
+     </title>
+     <isoabbreviation>
+      J Fam Pract
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Beta-blockers to reduce mortality in patients with systolic dysfunction: a meta-analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      499-504
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      The researchers reviewed published clinical trials and performed a meta-analysis to assess if therapy with adrenergic beta-antagonists (beta-blockers) reduces the risk of mortality in patients with systolic dysfunction.
+     </abstracttext>
+     <abstracttext label="STUDY DESIGN" nlmcategory="METHODS">
+      A systematic review was performed with meta-analysis where appropriate. Clinical trials were reviewed with respect to the quality of the research methods, including patient population and end points. Two independent reviewers calculated relative risk, relative risk reduction, absolute risk reduction, and number needed to treat for the total mortality end point reported in each trial. A meta-analysis was performed.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      The study team searched pertinent indexing services and references from published articles for relevant literature. The selected clinical trials were randomized, double-blinded, and controlled, and included patients with systolic heart failure. Mortality was assessed as a primary or secondary end point.
+     </abstracttext>
+     <abstracttext label="OUTCOMES MEASURED" nlmcategory="METHODS">
+      The primary outcome was mortality.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Statistically and clinically significant improvement, including a statistically significant reduction in mortality, has been noted in patients receiving therapy with either bisoprolol, carvedilol, or metoprolol. Pooled analysis revealed a statistically significant reduction in the risk of total mortality (odds ratio [OR]MH=0.66; 95% confidence interval [CI], 0.58-0.75) and sudden death (ORMH=0.61; 95% CI, 0.5-0.75) for patients receiving beta-blocker therapy.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      All patients with New York Heart Association class II and III heart failure should receive beta-blocker therapy with bisoprolol, carvedilol, or metoprolol. Additional clinical trials are ongoing and will provide further data on which patients receive the greatest benefit from therapy and which beta-blocker may be preferred.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Pharmacy Practice, Medical University of South Carolina, Charleston, SC 29425, USA. leesj@musc.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Lee
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Spencer
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     J Fam Pract
+    </medlineta>
+    <nlmuniqueid>
+     7502590
+    </nlmuniqueid>
+    <issnlinking>
+     0094-3509
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Adrenergic beta-Antagonists
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Carbazoles
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Propanolamines
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      37350-58-6
+     </registrynumber>
+     <nameofsubstance>
+      Metoprolol
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      66722-44-9
+     </registrynumber>
+     <nameofsubstance>
+      Bisoprolol
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      72956-09-3
+     </registrynumber>
+     <nameofsubstance>
+      carvedilol
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Fam Pract. 2001 Nov;50(11):996
+     </refsource>
+     <pmid version="1">
+      11711024
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adrenergic beta-Antagonists
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pharmacology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bisoprolol
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pharmacology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Carbazoles
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pharmacology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heart Failure
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      classification
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      mortality
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hemodynamics
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Metoprolol
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pharmacology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Propanolamines
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pharmacology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Research Design
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      standards
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Severity of Illness Index
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Systole
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      6
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="received">
+     <year>
+      2001
+     </year>
+     <month>
+      Apr
+     </month>
+     <day>
+      13
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="revised">
+     <year>
+      2001
+     </year>
+     <month>
+      Apr
+     </month>
+     <day>
+      13
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11401736
+    </articleid>
+    <articleid idtype="pii">
+     jfp_0601_04990.asp
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

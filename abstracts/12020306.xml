@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12020306
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     21
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     04
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     25
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       287
+      </volume>
+      <issue>
+       20
+      </issue>
+      <pubdate>
+       <medlinedate>
+        2002 May 22-29
+       </medlinedate>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Does this woman have an acute uncomplicated urinary tract infection?
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      2701-10
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Symptoms suggestive of acute urinary tract infection (UTI) constitute one of the most common reasons for women to visit clinicians. Although the clinical encounter typically involves taking a history and performing a physical examination, the diagnostic accuracy of the clinical assessment for UTI remains uncertain.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To review the accuracy and precision of history taking and physical examination for the diagnosis of UTI in women.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      We conducted a MEDLINE search for articles published from 1966 through September 2001 and manually reviewed bibliographies, 3 commonly used clinical skills textbooks, and contacted experts in the field.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION" nlmcategory="METHODS">
+      Studies were included if they contained original data on the accuracy or precision of history or physical examination for diagnosing acute uncomplicated UTI in women. One author initially screened titles and abstracts found by our search. Nine of 464 identified studies met inclusion criteria.
+     </abstracttext>
+     <abstracttext label="DATA EXTRACTION" nlmcategory="METHODS">
+      Two authors independently abstracted data from the included studies. Disagreements were resolved by discussion and consensus with a third author.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      Four symptoms and 1 sign significantly increased the probability of UTI: dysuria (summary positive likelihood ratio [LR], 1.5; 95% confidence interval [CI], 1.2-2.0), frequency (LR, 1.8; 95% CI, 1.1-3.0), hematuria (LR, 2.0; 95% CI, 1.3-2.9), back pain (LR, 1.6; 95% CI, 1.2-2.1), and costovertebral angle tenderness (LR, 1.7; 95% CI, 1.1-2.5). Four symptoms and 1 sign significantly decreased the probability of UTI: absence of dysuria (summary negative LR, 0.5; 95% CI, 0.3-0.7), absence of back pain (LR, 0.8; 95% CI, 0.7-0.9), history of vaginal discharge (LR, 0.3; 95% CI, 0.1-0.9), history of vaginal irritation (LR, 0.2; 95% CI, 0.1-0.9), and vaginal discharge on examination (LR, 0.7; 95% CI, 0.5-0.9). Of all individual diagnostic signs and symptoms, the 2 most powerful were history of vaginal discharge and history of vaginal irritation, which significantly decreased the likelihood of UTI when present (LRs, 0.3 and 0.2, respectively). One study examined combinations of symptoms, and the resulting LRs were more powerful (24.6 for the combination of dysuria and frequency but no vaginal discharge or irritation). One study of patients with recurrent UTI found that self-diagnosis significantly increased the probability of UTI (LR, 4.0).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      In women who present with 1 or more symptoms of UTI, the probability of infection is approximately 50%. Specific combinations of symptoms (eg, dysuria and frequency without vaginal discharge or irritation) raise the probability of UTI to more than 90%, effectively ruling in the diagnosis based on history alone. In contrast, history taking, physical examination, and dipstick urinalysis are not able to reliably lower the posttest probability of disease to a level where a UTI can be ruled out when a patient presents with 1 or more symptoms.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     University of California, San Francisco, San Francisco VAMC, 94121, USA. bent@itsa.ucsf.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Bent
+      </lastname>
+      <forename>
+       Stephen
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Nallamothu
+      </lastname>
+      <forename>
+       Brahmajee K
+      </forename>
+      <initials>
+       BK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Simel
+      </lastname>
+      <forename>
+       David L
+      </forename>
+      <initials>
+       DL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Fihn
+      </lastname>
+      <forename>
+       Stephan D
+      </forename>
+      <initials>
+       SD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Saint
+      </lastname>
+      <forename>
+       Sanjay
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Evid Based Nurs. 2002 Oct;5(4):119
+     </refsource>
+     <pmid version="1">
+      12402822
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2002 Sep 11;288(10):1229-30; author reply 1230-1
+     </refsource>
+     <pmid version="1">
+      12215123
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Ann Emerg Med. 2007 Jan;49(1):106-8
+     </refsource>
+     <pmid version="1">
+      17203544
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2002 Sep 11;288(10):1229; author reply 1230-1
+     </refsource>
+     <pmid version="1">
+      12215122
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Acute Disease
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Algorithms
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bacteriuria
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diagnosis, Differential
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Medical History Taking
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Physical Examination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sexually Transmitted Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Urinalysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Urinary Tract Infections
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vaginal Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    52
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      22
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      22
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12020306
+    </articleid>
+    <articleid idtype="pii">
+     jrc10003
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

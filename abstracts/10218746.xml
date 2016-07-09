@@ -1,0 +1,328 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10218746
+   </pmid>
+   <datecreated>
+    <year>
+     1999
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     05
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1999
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     05
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0003-9926
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       159
+      </volume>
+      <issue>
+       7
+      </issue>
+      <pubdate>
+       <year>
+        1999
+       </year>
+       <month>
+        Apr
+       </month>
+       <day>
+        12
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Archives of internal medicine
+     </title>
+     <isoabbreviation>
+      Arch. Intern. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Choosing antithrombotic therapy for elderly patients with atrial fibrillation who are at risk for falls.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      677-85
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To determine whether the risk of falling (with a possible increased chance of subdural hematoma) should influence the choice of antithrombotic therapy in elderly patients with atrial fibrillation.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      A Markov decision analytic model was used to determine the preferred treatment strategy (no antithrombotic therapy, long-term aspirin use, or long-term warfarin use) for patients with atrial fibrillation who are 65 years of age and older, are at risk for falling, and have no other contraindications to antithrombotic therapy. Input data were obtained by systematic review of MEDLINE. Outcomes were expressed as quality-adjusted life-years.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      For patients with average risks of stroke and falling, warfarin therapy was associated with 12.90 quality-adjusted life-years per patient; aspirin therapy, 11.17 quality-adjusted life-years; and no antithrombotic therapy, 10.15 quality-adjusted life-years. Sensitivity analysis demonstrated that, regardless of the patients' age or baseline risk of stroke, the risk of falling was not an important factor in determining their optimal antithrombotic therapy.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      For elderly patients with atrial fibrillation, the choice of optimal therapy to prevent stroke depends on many clinical factors, especially their baseline risk of stroke. However, patients' propensity to fall is not an important factor in this decision.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Medicine, University of Ottawa, Ontario, Canada. mhing@civich.ottawa.on.ca
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Man-Son-Hing
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Nichol
+      </lastname>
+      <forename>
+       G
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lau
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Laupacis
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Arch Intern Med
+    </medlineta>
+    <nlmuniqueid>
+     0372440
+    </nlmuniqueid>
+    <issnlinking>
+     0003-9926
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Fibrinolytic Agents
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Accidental Falls
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Atrial Fibrillation
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      complications
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cerebral Hemorrhage
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      chemically induced
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fibrinolytic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Markov Chains
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Quality-Adjusted Life Years
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Thrombosis
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1999
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      28
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1999
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1999
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10218746
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

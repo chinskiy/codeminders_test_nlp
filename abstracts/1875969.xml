@@ -1,0 +1,436 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    1875969
+   </pmid>
+   <datecreated>
+    <year>
+     1991
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     20
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1991
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     20
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     24
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0028-4793
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       325
+      </volume>
+      <issue>
+       12
+      </issue>
+      <pubdate>
+       <year>
+        1991
+       </year>
+       <month>
+        Sep
+       </month>
+       <day>
+        19
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Prognostic value of a treadmill exercise score in outpatients with suspected coronary artery disease.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      849-53
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      The treadmill exercise test identifies patients with different degrees of risk of death from cardiovascular events. We devised a prognostic score, based on the results of treadmill exercise testing, that accurately predicts outcome among inpatients referred for cardiac catheterization. This study was designed to determine whether this score could also accurately predict prognosis in unselected outpatients.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We prospectively studied 613 consecutive outpatients with suspected coronary disease who were referred for exercise testing between 1983 and 1985. Follow-up was 98 percent complete at four years. The treadmill score was calculated as follows: duration of exercise in minutes--(5 x the maximal ST-segment deviation during or after exercise, in millimeters)--(4 x the treadmill angina index). The numerical treadmill angina index was 0 for no angina, 1 for nonlimiting angina, and 2 for exercise-limiting angina. Treadmill scores ranged from -25 (indicating the highest risk) to +15 (indicating the lowest risk).
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Predicted outcomes for the outpatients, based on their treadmill scores, agreed closely with the observed outcomes. The score accurately separated patients who subsequently died from those who lived for four years (area under the receiver-operating-characteristic curve = 0.849). The treadmill score was a better discriminator than the clinical data and was even more useful for outpatients than it had been for inpatients. Approximately two thirds of the outpatients had treadmill scores indicating low risk (greater than or equal to +5), reflecting longer exercise times and little or no ST-segment deviation, and their four-year survival rate was 99 percent (average annual mortality rate, 0.25 percent). Four percent of the outpatients had scores indicating high risk (less than -10), reflecting shorter exercise times and more severe ST-segment deviation; their four-year survival rate was 79 percent (average annual mortality rate, 5 percent).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The treadmill score is a useful and valid tool that can help clinicians determine prognosis and decide whether to refer outpatients with suspected coronary disease for cardiac catheterization. In this study, it was a better predictor of outcome than the clinical assessment.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Medicine, Duke University Medical Center, Durham, N.C. 27710.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Mark
+      </lastname>
+      <forename>
+       D B
+      </forename>
+      <initials>
+       DB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Shaw
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Harrell
+      </lastname>
+      <forename>
+       F E
+      </forename>
+      <initials>
+       FE
+      </initials>
+      <suffix>
+       Jr
+      </suffix>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hlatky
+      </lastname>
+      <forename>
+       M A
+      </forename>
+      <initials>
+       MA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lee
+      </lastname>
+      <forename>
+       K L
+      </forename>
+      <initials>
+       KL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bengtson
+      </lastname>
+      <forename>
+       J R
+      </forename>
+      <initials>
+       JR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McCants
+      </lastname>
+      <forename>
+       C B
+      </forename>
+      <initials>
+       CB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Califf
+      </lastname>
+      <forename>
+       R M
+      </forename>
+      <initials>
+       RM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pryor
+      </lastname>
+      <forename>
+       D B
+      </forename>
+      <initials>
+       DB
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="N">
+     <grant>
+      <grantid>
+       HS-04873
+      </grantid>
+      <acronym>
+       HS
+      </acronym>
+      <agency>
+       AHRQ HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       HS-05635
+      </grantid>
+      <acronym>
+       HS
+      </acronym>
+      <agency>
+       AHRQ HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       HS-06503
+      </grantid>
+      <acronym>
+       HS
+      </acronym>
+      <agency>
+       AHRQ HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 1991 Sep 19;325(12):887-8
+     </refsource>
+     <pmid version="1">
+      1875976
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Angina Pectoris
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Coronary Disease
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Electrocardiography
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Exercise Test
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Outpatients
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prognosis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Time Factors
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1991
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      29
+     </day>
+     <hour>
+      19
+     </hour>
+     <minute>
+      15
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1991
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      29
+     </day>
+     <hour>
+      19
+     </hour>
+     <minute>
+      15
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     1875969
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJM199109193251204
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

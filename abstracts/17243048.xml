@@ -1,0 +1,572 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    17243048
+   </pmid>
+   <datecreated>
+    <year>
+     2007
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     23
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2007
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     28
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     03
+    </day>
+   </daterevised>
+   <article pubmodel="Print-Electronic">
+    <journal>
+     <issn issntype="Electronic">
+      1537-6591
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       44
+      </volume>
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <year>
+        2007
+       </year>
+       <month>
+        Feb
+       </month>
+       <day>
+        15
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Clinical infectious diseases : an official publication of the Infectious Diseases Society of America
+     </title>
+     <isoabbreviation>
+      Clin. Infect. Dis.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Clinical and epidemiologic characteristics cannot distinguish community-associated methicillin-resistant Staphylococcus aureus infection from methicillin-susceptible S. aureus infection: a prospective investigation.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      471-82
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Community-associated (CA) methicillin-resistant Staphylococcus aureus (MRSA) infection has become common worldwide. Some researchers have argued that empirical therapy for MRSA should be given only to patients with suspected CA S. aureus infections who have risk factors for acquisition of MRSA. However, there are no prospective data examining this approach.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We prospectively enrolled consecutive patients who were hospitalized with S. aureus infection, administered a detailed questionnaire, and collected clinical and microbiological information.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Of the 280 consenting patients, 180 were adults with CA S. aureus infection. Among these subjects, 108 (60%) had MRSA infection, and 78 (40%) had methicillin-susceptible S. aureus (MSSA) infection. MRSA infection was associated with younger age (P&lt;.0001); skin/soft-tissue infection (P=.015); snorting/smoking illegal drugs (P=.01); recent incarceration (P=.03); lower comorbidity index (P=.01); more frequent visits to bars, raves, and/or clubs (P=.03); and higher frequency of laundering clothes in hot water (P=.05). However, the sensitivity, specificity, and predictive values for these factors for discriminating CA-MRSA infection from CA-MSSA infection were relatively poor. Post-hoc modeling revealed that, even in a 10% (i.e., low) MRSA prevalence population, patients lacking the 3 strongest MRSA risk factors would still have a 7% posttest probability of MRSA. Most MRSA strains belonged to the ST-8/USA300 genotype, contained SCCmec type IV, and shared virulence factors commonly found in the ST1:USA400 clone. MSSA strains were genotypically heterogeneous.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      We found that clinical and epidemiological risk factors in persons hospitalized for CA S. aureus infection cannot reliably distinguish between MRSA and MSSA. Our findings have important implications for the choice of empirical antibiotic therapy for suspected S. aureus infections and for infection control.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Division of Infectious Diseases, Harbor-University of California-Los Angeles (UCLA) Medical Center, Torrance, CA 90509, USA. lgmiller@ucla.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Miller
+      </lastname>
+      <forename>
+       Loren G
+      </forename>
+      <initials>
+       LG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Perdreau-Remington
+      </lastname>
+      <forename>
+       Franciose
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bayer
+      </lastname>
+      <forename>
+       Arnold S
+      </forename>
+      <initials>
+       AS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Diep
+      </lastname>
+      <forename>
+       Binh
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tan
+      </lastname>
+      <forename>
+       Nelly
+      </forename>
+      <initials>
+       N
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bharadwa
+      </lastname>
+      <forename>
+       Kiran
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tsui
+      </lastname>
+      <forename>
+       Jennifer
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Perlroth
+      </lastname>
+      <forename>
+       Joshua
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Shay
+      </lastname>
+      <forename>
+       Anthony
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tagudar
+      </lastname>
+      <forename>
+       Grace
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ibebuogu
+      </lastname>
+      <forename>
+       Uzoma
+      </forename>
+      <initials>
+       U
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Spellberg
+      </lastname>
+      <forename>
+       Brad
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       K23AI0183
+      </grantid>
+      <acronym>
+       AI
+      </acronym>
+      <agency>
+       NIAID NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       R01/ CCR923419
+      </grantid>
+      <agency>
+       PHS HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, N.I.H., Extramural
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2007
+     </year>
+     <month>
+      01
+     </month>
+     <day>
+      19
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Clin Infect Dis
+    </medlineta>
+    <nlmuniqueid>
+     9203213
+    </nlmuniqueid>
+    <issnlinking>
+     1058-4838
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Bacterial Agents
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Age Distribution
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Bacterial Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Community-Acquired Infections
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      microbiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diagnosis, Differential
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Follow-Up Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hospitalization
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Incidence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Methicillin Resistance
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Microbial Sensitivity Tests
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Multivariate Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Polymerase Chain Reaction
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Probability
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Severity of Illness Index
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sex Distribution
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Staphylococcal Infections
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Staphylococcus aureus
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      isolation &amp; purification
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="received">
+     <year>
+      2006
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      4
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="accepted">
+     <year>
+      2006
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      6
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="aheadofprint">
+     <year>
+      2007
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      19
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2007
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2007
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2007
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     CID40768
+    </articleid>
+    <articleid idtype="doi">
+     10.1086/511033
+    </articleid>
+    <articleid idtype="pubmed">
+     17243048
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

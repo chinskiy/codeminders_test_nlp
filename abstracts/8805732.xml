@@ -1,0 +1,466 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    8805732
+   </pmid>
+   <datecreated>
+    <year>
+     1996
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     16
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1996
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     16
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       276
+      </volume>
+      <issue>
+       12
+      </issue>
+      <pubdate>
+       <year>
+        1996
+       </year>
+       <month>
+        Sep
+       </month>
+       <day>
+        25
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Infection and allergy incidence in ambulatory surgery patients using white petrolatum vs bacitracin ointment. A randomized controlled trial.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      972-7
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To assess the effect of white petrolatum vs bacitracin ointment on wound infection incidence, allergic contact dermatitis incidence, and healing characteristics.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Randomized, double-blind, prospective trial comparing white petrolatum with bacitracin ointment in postprocedure wound care.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      A general outpatient dermatology clinic and a tertiary referral advanced surgical procedure clinic at Walter Reed Army Medical Center, Washington, DC.
+     </abstracttext>
+     <abstracttext label="PATIENTS" nlmcategory="METHODS">
+      A total of 922 patients who had dermatologic surgery with a total of 1249 wounds.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      The incidence of infection and allergic contact dermatitis during a follow-up period of 4 weeks. Healing characteristics were secondary outcomes.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Of the 922 patients enrolled, 440 in the white petrolatum group and 444 in the bacitracin group were evaluable for clinical response. The 2 treatment groups had comparable baseline characteristics. Thirteen patients developed postprocedure infection (1.5%), 9 (2.0%) in the white petrolatum group vs 4 (0.9%) in the bacitracin group (95% confidence interval for difference, -0.4% to 2.7%; P=.37). Eight infections (1.8%) in the white petrolatum group were due to Staphylococcus aureus vs none in the bacitracin group (P=.004). No patient in the group using white petrolatum developed allergic contact dermatitis vs 4 patients (0.9%) in the group using bacitracin (P=.12). Additionally, there were no clinically significant differences in healing between the treatment groups on day 1 (P=.98), day 7 (P=.86), or day 28 (P=.28) after the procedure.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      White petrolatum is a safe, effective wound care ointment for ambulatory surgery. In comparison with bacitracin, white petrolatum possesses an equally low infection rate and minimal risk for induction of allergy.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Dermatology, Walter Reed Army Medical Center, Washington, DC, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Smack
+      </lastname>
+      <forename>
+       D P
+      </forename>
+      <initials>
+       DP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Harrington
+      </lastname>
+      <forename>
+       A C
+      </forename>
+      <initials>
+       AC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dunn
+      </lastname>
+      <forename>
+       C
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Howard
+      </lastname>
+      <forename>
+       R S
+      </forename>
+      <initials>
+       RS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Szkutnik
+      </lastname>
+      <forename>
+       A J
+      </forename>
+      <initials>
+       AJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Krivda
+      </lastname>
+      <forename>
+       S J
+      </forename>
+      <initials>
+       SJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Caldwell
+      </lastname>
+      <forename>
+       J B
+      </forename>
+      <initials>
+       JB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       James
+      </lastname>
+      <forename>
+       W D
+      </forename>
+      <initials>
+       WD
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Infective Agents, Local
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      1405-87-4
+     </registrynumber>
+     <nameofsubstance>
+      Bacitracin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      8009-03-8
+     </registrynumber>
+     <nameofsubstance>
+      Petrolatum
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Ambulatory Surgical Procedures
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Infective Agents, Local
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bacitracin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cost-Benefit Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dermatitis, Allergic Contact
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Incidence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Petrolatum
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Postoperative Care
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Skin Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      surgery
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Surgical Wound Infection
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Wound Healing
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1996
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      25
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1996
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1996
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     8805732
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

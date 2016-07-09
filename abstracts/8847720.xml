@@ -1,0 +1,354 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    8847720
+   </pmid>
+   <datecreated>
+    <year>
+     1996
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     22
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1996
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     22
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0027-8874
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       88
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        1996
+       </year>
+       <month>
+        Jan
+       </month>
+       <day>
+        3
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of the National Cancer Institute
+     </title>
+     <isoabbreviation>
+      J. Natl. Cancer Inst.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Screening for cutaneous melanoma by skin self-examination.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      17-23
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Although some evidence indicates that early detection protects against the development of lethal melanoma, no randomized clinical trials have been conducted to measure the efficacy of early detection (or screening) in preventing death from this disease. Since melanoma incidence in the United States is relatively rare, a randomized clinical trial to test the efficacy of screening would be extremely expensive.
+     </abstracttext>
+     <abstracttext label="PURPOSE" nlmcategory="OBJECTIVE">
+      As an alternative to a randomized clinical trial, we conducted a population-based, case-control study to investigate whether early detection through skin self-examination (SSE) is associated with a decreased risk of lethal melanoma (includes the presence of advanced disease with distant metastases in addition to death from melanoma).
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      SSE (conducting a careful, deliberate, and purposeful examination of the skin) was assessed in all subjects by use of a structured questionnaire and personal interviews. The major exposure variable, SSE, was defined following focus-group interviews with melanoma patients and healthy control subjects. The final study population consisted of 1199 Caucasian residents of the state of Connecticut enrolled from January 15, 1987, through May 15, 1989; 650 individuals were newly diagnosed with cutaneous melanoma, and the remaining 549 individuals were age- and sex-frequency matched control subjects from the general population. During the study interviews, nevi on the arms and backs of subjects were counted. In 5 years of follow-up (through March 1994), 110 lethal cases of melanoma were identified. The study design allowed separate estimation of the impact of SSE on reduced melanoma incidence (primary prevention) and survival among incident cases (secondary prevention). Odds ratios (ORs) were used to measure the associations between SSE and melanoma and between SSE and lethal melanoma.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      SSE, practiced by only 15% of all subjects, was associated with a reduced risk of melanoma incidence (adjusted OR = 0.66; 95% confidence interval [CI] = 0.44-0.99; comparing case patients with control subjects). The data indicated further that SSE may reduce the risk of advanced disease among melanoma patients (unadjusted risk ratio = 0.58; 95% CI = 0.31-1.11); however, longer follow-up is required to confirm this latter estimate. If both estimates are correct, they suggest, in combination, that SSE may reduce mortality from melanoma by 63% (adjusted OR = 0.37; 95% CI = 0.16-0.84; comparing lethal cases with general population controls).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS AND IMPLICATIONS" nlmcategory="CONCLUSIONS">
+      SSE may provide a useful and inexpensive screening method to reduce the incidence of melanoma. SSE may also reduce the development of advanced disease. The results of this study need to be replicated before strategies to increase the practice of SSE are further developed and promoted.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Memorial Sloan-Kettering Cancer Center, New York, NY 10021, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Berwick
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Begg
+      </lastname>
+      <forename>
+       C B
+      </forename>
+      <initials>
+       CB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Fine
+      </lastname>
+      <forename>
+       J A
+      </forename>
+      <initials>
+       JA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Roush
+      </lastname>
+      <forename>
+       G C
+      </forename>
+      <initials>
+       GC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Barnhill
+      </lastname>
+      <forename>
+       R L
+      </forename>
+      <initials>
+       RL
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       P01CA42101
+      </grantid>
+      <acronym>
+       CA
+      </acronym>
+      <agency>
+       NCI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     J Natl Cancer Inst
+    </medlineta>
+    <nlmuniqueid>
+     7503089
+    </nlmuniqueid>
+    <issnlinking>
+     0027-8874
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Natl Cancer Inst. 1996 Jan 3;88(1):3-5
+     </refsource>
+     <pmid version="1">
+      8847722
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Case-Control Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Confounding Factors (Epidemiology)
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Melanoma
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Multivariate Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Questionnaires
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Self-Examination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Skin
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Skin Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1996
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      3
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1996
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1996
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     8847720
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

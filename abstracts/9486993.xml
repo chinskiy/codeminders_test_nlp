@@ -1,0 +1,516 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    9486993
+   </pmid>
+   <datecreated>
+    <year>
+     1998
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     05
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1998
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     05
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0028-4793
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       338
+      </volume>
+      <issue>
+       10
+      </issue>
+      <pubdate>
+       <year>
+        1998
+       </year>
+       <month>
+        Mar
+       </month>
+       <day>
+        5
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     The effect of nisoldipine as compared with enalapril on cardiovascular outcomes in patients with non-insulin-dependent diabetes and hypertension.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      645-52
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      It has recently been reported that the use of calcium-channel blockers for hypertension may be associated with an increased risk of cardiovascular complications. Because this issue remains controversial, we studied the incidence of such complications in patients with non-insulin-dependent diabetes mellitus and hypertension who were randomly assigned to treatment with either the calcium-channel blocker nisoldipine or the angiotensin-converting-enzyme inhibitor enalapril as part of a larger study.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      The Appropriate Blood Pressure Control in Diabetes (ABCD) Trial is a prospective, randomized, blinded trial comparing the effects of moderate control of blood pressure (target diastolic pressure, 80 to 89 mm Hg) with those of intensive control of blood pressure (diastolic pressure, 75 mm Hg) on the incidence and progression of complications of diabetes. The study also compared nisoldipine with enalapril as a first-line antihypertensive agent in terms of the prevention and progression of complications of diabetes. In the current study, we analyzed data on a secondary end point (the incidence of myocardial infarction) in the subgroup of patients in the ABCD Trial who had hypertension.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Analysis of the 470 patients in the trial who had hypertension (base-line diastolic blood pressure, &gt; or = 90 mm Hg) showed similar control of blood pressure, blood glucose and lipid concentrations, and smoking behavior in the nisoldipine group (237 patients) and the enalapril group (233 patients) throughout five years of follow-up. Using a multiple logistic-regression model with adjustment for cardiac risk factors, we found that nisoldipine was associated with a higher incidence of fatal and nonfatal myocardial infarctions (a total of 24) than enalapril (total, 4) (risk ratio, 9.5; 95 percent confidence interval, 2.7 to 33.8).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      In this population of patients with diabetes and hypertension, we found a significantly higher incidence of fatal and nonfatal myocardial infarction among those assigned to therapy with the calcium-channel blocker nisoldipine than among those assigned to receive enalapril. Since our findings are based on a secondary end point, they will require confirmation.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Colorado Prevention Center, Division of General Internal Medicine, University of Colorado Health Sciences Center, Denver 80262, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Estacio
+      </lastname>
+      <forename>
+       R O
+      </forename>
+      <initials>
+       RO
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jeffers
+      </lastname>
+      <forename>
+       B W
+      </forename>
+      <initials>
+       BW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hiatt
+      </lastname>
+      <forename>
+       W R
+      </forename>
+      <initials>
+       WR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Biggerstaff
+      </lastname>
+      <forename>
+       S L
+      </forename>
+      <initials>
+       SL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gifford
+      </lastname>
+      <forename>
+       N
+      </forename>
+      <initials>
+       N
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schrier
+      </lastname>
+      <forename>
+       R W
+      </forename>
+      <initials>
+       RW
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       DK50298-02
+      </grantid>
+      <acronym>
+       DK
+      </acronym>
+      <agency>
+       NIDDK NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Angiotensin-Converting Enzyme Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Calcium Channel Blockers
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      63675-72-9
+     </registrynumber>
+     <nameofsubstance>
+      Nisoldipine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      75847-73-3
+     </registrynumber>
+     <nameofsubstance>
+      Enalapril
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 1998 Mar 5;338(10):679-81
+     </refsource>
+     <pmid version="1">
+      9486999
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 1998 Jul 9;339(2):126; author reply 127
+     </refsource>
+     <pmid version="1">
+      9669898
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 1998 Jul 9;339(2):126; author reply 127
+     </refsource>
+     <pmid version="1">
+      9669899
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 1998 Jul 9;339(2):126-7; author reply 127
+     </refsource>
+     <pmid version="1">
+      9669900
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 1998 Jul 9;339(2):127
+     </refsource>
+     <pmid version="1">
+      9669901
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2000 Dec 28;343(26):1969
+     </refsource>
+     <pmid version="1">
+      11186674
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Angiotensin-Converting Enzyme Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Calcium Channel Blockers
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cardiovascular Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetes Mellitus, Type 2
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      complications
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Enalapril
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertension
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Logistic Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Myocardial Infarction
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Nisoldipine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1998
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      5
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1998
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1998
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     9486993
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJM199803053381003
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

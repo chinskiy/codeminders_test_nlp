@@ -1,0 +1,523 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15030341
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     19
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     03
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0007-0963
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       150
+      </volume>
+      <issue>
+       3
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Mar
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The British journal of dermatology
+     </title>
+     <isoabbreviation>
+      Br. J. Dermatol.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     0.03% Tacrolimus ointment applied once or twice daily is more efficacious than 1% hydrocortisone acetate in children with moderate to severe atopic dermatitis: results of a randomized double-blind controlled trial.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      554-62
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Topical corticosteroids are the usual treatment for atopic dermatitis (AD) in children but can have side-effects.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      This study compared the efficacy and safety of 0.03% tacrolimus ointment applied once or twice daily over a 3-week period with the twice daily application of 1% hydrocortisone acetate (HA) ointment in children with moderate to severe AD.
+     </abstracttext>
+     <abstracttext label="PATIENTS AND METHODS" nlmcategory="METHODS">
+      Patients applied ointment daily to all affected body surface areas. The primary study endpoint was the percentage change in the modified Eczema Area and Severity Index (mEASI) between baseline and treatment end.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Six hundred and twenty-four patients, aged 2-15 years, applied 0.03% tacrolimus ointment once daily (n = 207), twice daily (n = 210) or 1% HA twice daily (n = 207). By the end of treatment, application of 0.03% tacrolimus ointment both once or twice daily resulted in significantly greater median percentage decreases in mEASI (66.7% and 76.7%, respectively) compared with 1% HA (47.6%; P &lt; 0.001). Furthermore, the median percentage decrease in mEASI was significantly greater for patients applying 0.03% tacrolimus twice daily compared with once daily (P = 0.007). Patients with severe AD benefited especially from twice daily application of 0.03% tacrolimus ointment compared with once daily application (P = 0.001). Transient mild to moderate skin burning occurred significantly more often in the 0.03% tacrolimus groups (P = 0.028) but resolved in most cases within 3-4 days. Laboratory parameters showed no clinically relevant changes.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      0.03% tacrolimus ointment applied once or twice daily is significantly more efficacious than 1% HA in treating moderate-severe AD in children. Twice daily application of 0.03% tacrolimus ointment results in the greatest improvement in mEASI, and is especially effective in patients with severe baseline disease.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Dermatology, Helsinki University Central Hospital, Helsinki, Finland. sakari.reitamo@hus.fi
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Reitamo
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Harper
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bos
+      </lastname>
+      <forename>
+       J D
+      </forename>
+      <initials>
+       JD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cambazard
+      </lastname>
+      <forename>
+       F
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bruijnzeel-Koomen
+      </lastname>
+      <forename>
+       C
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Valk
+      </lastname>
+      <forename>
+       P
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Smith
+      </lastname>
+      <forename>
+       C
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Moss
+      </lastname>
+      <forename>
+       C
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dobozy
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Palatsi
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       European Tacrolimus Ointment Group
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Br J Dermatol
+    </medlineta>
+    <nlmuniqueid>
+     0004041
+    </nlmuniqueid>
+    <issnlinking>
+     0007-0963
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Inflammatory Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Immunosuppressive Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Ointments
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      109581-93-3
+     </registrynumber>
+     <nameofsubstance>
+      Tacrolimus
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      50-23-7
+     </registrynumber>
+     <nameofsubstance>
+      Hydrocortisone
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      53187-58-9
+     </registrynumber>
+     <nameofsubstance>
+      hydrocortisone acetate
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Br J Dermatol. 2004 Dec;151(6):1281; author reply 1281-2
+     </refsource>
+     <pmid version="1">
+      15606537
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Administration, Topical
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Inflammatory Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Burns, Chemical
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dermatitis, Atopic
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Administration Schedule
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Eruptions
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hydrocortisone
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      analogs &amp; derivatives
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Immunosuppressive Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ointments
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Patient Satisfaction
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Severity of Illness Index
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tacrolimus
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     15030341
+    </articleid>
+    <articleid idtype="doi">
+     10.1046/j.1365-2133.2004.05782.x
+    </articleid>
+    <articleid idtype="pii">
+     BJD5782
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,460 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15846673
+   </pmid>
+   <datecreated>
+    <year>
+     2005
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     22
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     19
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Electronic">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2005
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Alpha-glucosidase inhibitors for type 2 diabetes mellitus.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD003639
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Alpha-glucosidase inhibitors such as acarbose or miglitol, have the potential to improve glycemic control in type 2 diabetes mellitus. The true value of these agents, especially in relation to diabetes related mortality and morbidity, has never been investigated in a systematic literature review and meta-analysis.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To assess the effects of alpha-glucosidase inhibitors s in patients with type 2 diabetes mellitus.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      We searched The Cochrane Library, MEDLINE, EMBASE, Current Contents, LILACS, databases of ongoing trials, reference lists of reviews on the topic of alpha-glucosidase inhibitors and we contacted experts and manufacturers for additional trials. Date of most recent search: December 2003 (Current Contents) and April 2003 (other databases).
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      Randomised controlled trials of at least 12 weeks duration comparing alpha-glucosidase inhibitor monotherapy in patients with type 2 diabetes with any other intervention and that included at least one of the following outcomes: mortality, morbidity, quality of life, glycemic control, lipids, insulin levels, body weight, adverse events.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      Two reviewers read all abstracts, assessed quality and extracted data independently. Discrepancies were resolved by consensus or by the judgement of a third reviewer. A statistician checked all extracted data entrance in the database. We attempted to contact all authors for data clarification.
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      We included 41 trials (8130 participants), 30 investigated acarbose, seven miglitol, one trial voglibose and three trials compared different alpha-glucosidase inhibitors. Study duration was 24 weeks in most cases and only two studies lasted amply longer than one year. We found only few data on mortality, morbidity and quality of life. Acarbose had a clear effect on glycemic control compared to placebo: glycated haemoglobin -0.8% (95% confidence interval -0.9 to -0.7), fasting blood glucose -1.1 mmol/L (95% confidence interval -1.4 to -0.9), post-load blood glucose -2.3 mmol/L (95% confidence interval -2.7 to -1.9). The effect on glycated haemoglobin by acarbose was not dose-dependent. We found a decreasing effect on post-load insulin and no clinically relevant effects on lipids or body weight. Adverse effects were mostly of gastro-intestinal origin and dose dependent. Compared to sulphonylurea, acarbose decreased fasting and post-load insulin levels by -24.8 pmol/L (95% confidence interval -43.3 to -6.3) and -133.2 pmol/L (95% confidence interval -184.5 to -81.8) respectively and acarbose caused more adverse effects.
+     </abstracttext>
+     <abstracttext label="AUTHORS' CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      It remains unclear whether alpha-glucosidase inhibitors influence mortality or morbidity in patients with type 2 diabetes. Conversely, they have a significant effect on glycemic control and insulin levels, but no statistically significant effect on lipids and body weight. These effects are less sure when alpha-glucosidase inhibitors are used for a longer duration. Acarbose dosages higher than 50 mg TID offer no additional effect on glycated hemoglobin but more adverse effects instead. Compared to sulphonylurea, alpha-glucosidase inhibitors lower fasting and post-load insulin levels and have an inferior profile regarding glycemic control and adverse effects.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of General Practice and Family Medicine, 229 HAG, University Medical Centre Nijmegen, P.O. Box 9101, Nijmegen, Netherlands, 6500 HB. f.vandelaar@hag.umcn.nl
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Van de Laar
+      </lastname>
+      <forename>
+       F A
+      </forename>
+      <initials>
+       FA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lucassen
+      </lastname>
+      <forename>
+       P L B J
+      </forename>
+      <initials>
+       PL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Akkermans
+      </lastname>
+      <forename>
+       R P
+      </forename>
+      <initials>
+       RP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Van de Lisdonk
+      </lastname>
+      <forename>
+       E H
+      </forename>
+      <initials>
+       EH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rutten
+      </lastname>
+      <forename>
+       G E H M
+      </forename>
+      <initials>
+       GE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Van Weel
+      </lastname>
+      <forename>
+       C
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2005
+     </year>
+     <month>
+      04
+     </month>
+     <day>
+      18
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Enzyme Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Hypoglycemic Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Imino Pyranoses
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      19130-96-2
+     </registrynumber>
+     <nameofsubstance>
+      1-Deoxynojirimycin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      3416-24-8
+     </registrynumber>
+     <nameofsubstance>
+      Glucosamine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      56180-94-0
+     </registrynumber>
+     <nameofsubstance>
+      Acarbose
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      6917-35-7
+     </registrynumber>
+     <nameofsubstance>
+      Inositol
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      72432-03-2
+     </registrynumber>
+     <nameofsubstance>
+      miglitol
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      83480-29-9
+     </registrynumber>
+     <nameofsubstance>
+      voglibose
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      EC 3.2.1.20
+     </registrynumber>
+     <nameofsubstance>
+      alpha-Glucosidases
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2005 Nov-Dec;143(3):66
+     </refsource>
+     <pmid version="1">
+      16262223
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      1-Deoxynojirimycin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      analogs &amp; derivatives
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Acarbose
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetes Mellitus, Type 2
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Enzyme Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Glucosamine
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      analogs &amp; derivatives
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypoglycemic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Imino Pyranoses
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Inositol
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      analogs &amp; derivatives
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      alpha-Glucosidases
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      antagonists &amp; inhibitors
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    89
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2005
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      23
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2005
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      23
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    epublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="doi">
+     10.1002/14651858.CD003639.pub2
+    </articleid>
+    <articleid idtype="pubmed">
+     15846673
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

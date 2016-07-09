@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    9183235
+   </pmid>
+   <datecreated>
+    <year>
+     1997
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     01
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1997
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     01
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0003-9926
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       157
+      </volume>
+      <issue>
+       11
+      </issue>
+      <pubdate>
+       <year>
+        1997
+       </year>
+       <month>
+        Jun
+       </month>
+       <day>
+        9
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Archives of internal medicine
+     </title>
+     <isoabbreviation>
+      Arch. Intern. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     The efficacy of aspirin in patients with atrial fibrillation. Analysis of pooled data from 3 randomized trials. The Atrial Fibrillation Investigators.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1237-40
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Atrial fibrillation (AF) is associated with an increased risk of stroke. Six randomized studies of the use of oral anticoagulation therapy have demonstrated that the relative risk of stroke is decreased by approximately 68%. Three of these studies also compared aspirin with placebo use in a double-blind design. We pooled individual patient data from these 3 studies.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To determine if there were subgroups of patients who were particularly responsive to aspirin use and to determine the efficacy of aspirin compared with placebo use in the broad spectrum of patients with AF.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      There were 1985 patient-years assigned to the aspirin and 1867 patient-years assigned to the placebo groups in the analysis. The daily dose of aspirin was 75 mg in the Atrial Fibrillation, Aspirin, Anticoagulation Study, 325 mg in the Stroke Prevention in Atrial Fibrillation 1 Study, and 300 mg in the European Atrial Fibrillation Trial. The European Atrial Fibrillation Trial was a secondary prevention trial, while the other 2 were primary prevention studies. The primary end point in this analysis was ischemic stroke.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      At the time of randomization, the patients' mean age was 70 years and the mean blood pressure was 145/83 mm Hg. Sixty-two percent of patients were male, 46% had a history of hypertension, 35% had a previous transient ischemic attack or stroke, and 19% had intermittent AF. Although aspirin use seemed particularly effective in younger patients and in those with hypertension in the Stroke Prevention in Atrial Fibrillation 1 Study, this was not the case in the other studies. No other subgroups particularly responsive to aspirin therapy were identified. When patients from all the studies were combined, the relative risk reduction with aspirin therapy was 21% (95% confidence interval, 0%-38%; P = .05).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      A subgroup of patients with AF that has a particularly large reduction in stroke incidence from aspirin therapy was not convincingly identified. The data from the combined analysis of these 3 randomized trials suggest a small effect of aspirin use in preventing stroke in patients with AF.
+     </abstracttext>
+    </abstract>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       NS R01-24224
+      </grantid>
+      <acronym>
+       NS
+      </acronym>
+      <agency>
+       NINDS NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Arch Intern Med
+    </medlineta>
+    <nlmuniqueid>
+     0372440
+    </nlmuniqueid>
+    <issnlinking>
+     0003-9926
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Platelet Aggregation Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      50-78-2
+     </registrynumber>
+     <nameofsubstance>
+      Aspirin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Age Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aspirin
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Atrial Fibrillation
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      complications
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cerebrovascular Disorders
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Incidence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Platelet Aggregation Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1997
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      9
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1997
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1997
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     9183235
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,357 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11306234
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     18
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     07
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0749-3797
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       20
+      </volume>
+      <issue>
+       3 Suppl
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Apr
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      American journal of preventive medicine
+     </title>
+     <isoabbreviation>
+      Am J Prev Med
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Screening for bacterial vaginosis in pregnancy.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      62-72
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Bacterial vaginosis (BV) is a strong independent risk factor for adverse pregnancy outcomes. BV is found in 9% to 23% of pregnant women. Symptoms include vaginal discharge, pruritus, or malodor, but often women with BV are asymptomatic.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To determine whether screening and treating pregnant women for BV reduces adverse pregnancy outcomes, as part of an assessment for the U.S. Preventive Services Task Force.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      Randomized clinical trials of BV treatment in pregnancy that measured pregnancy outcomes were identified from multiple searches in MEDLINE from 1966 to 1999, the Cochrane Controlled Trials Register and Library, and national experts.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION" nlmcategory="METHODS">
+      All randomized controlled trials of BV treatment in pregnancy that specifically measured pregnancy outcomes.
+     </abstracttext>
+     <abstracttext label="DATA EXTRACTION" nlmcategory="METHODS">
+      The following information was abstracted: study design and blinding, diagnostic methods, antibiotic interventions, timing of antibiotic treatment in pregnancy, criteria for treatment, comorbidities, demographic details, risk factors for preterm delivery such as previous preterm delivery, compliance, rates of spontaneous and total preterm delivery less than 37 weeks and less than 34 weeks, preterm premature rupture of membranes, low birth weight less than 2500 grams, spontaneous abortion, postpartum endometritis, and neonatal sepsis. For each study, we measured the effect of treatment by calculating the difference in the rate of a given pregnancy outcome in the control group minus the treatment group (the absolute risk reduction [ARR]). A stepwise procedure based on the profile likelihood was applied to assess heterogeneity, to pool studies when appropriate, and to calculate the mean and 90% confidence intervals (CIs) for the effect of treatment.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      Seven randomized controlled trials met inclusion criteria for the meta-analysis. We found no benefit to BV treatment in average-risk women for any pregnancy outcome. Results of studies of high-risk populations, women with previous preterm delivery, were statistically heterogeneous. They clustered into two groups; one showed no benefit (ARR=-0.08, 90% CI=-0.19 to 0.04), whereas the three homogeneous studies showed potential benefit of BV treatment (pooled ARR=0.22; 90% CI=0.13 to 0.31) for preterm delivery before 37 weeks. Four high-risk studies reported results for preterm delivery less than 34 weeks. The pooled estimate showed no benefit (ARR=0.04; 90% CI=-0.02 to 0.09), but variation was noted among individual studies. Two trials of high-risk women found an increase in preterm delivery less than 34 weeks in women who did not have BV but received BV treatment. Comparisons of patient populations, treatment regimens, and study designs did not explain the heterogeneity among studies.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      We found no benefit to routine BV screening and treatment. A subgroup of high-risk women may benefit from BV screening and treatment; however, there may be a subgroup for whom BV treatment could increase the occurrence of preterm delivery.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Obstetrics and Gynecology and Evidence-based Practice Center, Oregon Health Sciences University, Portland, Oregon 97201, USA. guisej@ohsu.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Guise
+      </lastname>
+      <forename>
+       J M
+      </forename>
+      <initials>
+       JM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Mahon
+      </lastname>
+      <forename>
+       S M
+      </forename>
+      <initials>
+       SM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Aickin
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Helfand
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Peipert
+      </lastname>
+      <forename>
+       J F
+      </forename>
+      <initials>
+       JF
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Westhoff
+      </lastname>
+      <forename>
+       C
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       290-97-0018
+      </grantid>
+      <agency>
+       PHS HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     Netherlands
+    </country>
+    <medlineta>
+     Am J Prev Med
+    </medlineta>
+    <nlmuniqueid>
+     8704773
+    </nlmuniqueid>
+    <issnlinking>
+     0749-3797
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant, Newborn
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Mass Screening
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Obstetric Labor, Premature
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pregnancy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pregnancy Complications, Infectious
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pregnancy Outcome
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Prenatal Diagnosis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vaginosis, Bacterial
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11306234
+    </articleid>
+    <articleid idtype="pii">
+     S0749379701002562
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

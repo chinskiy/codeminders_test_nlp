@@ -1,0 +1,439 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10218753
+   </pmid>
+   <datecreated>
+    <year>
+     1999
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     05
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1999
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     05
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     19
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0003-9926
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       159
+      </volume>
+      <issue>
+       7
+      </issue>
+      <pubdate>
+       <year>
+        1999
+       </year>
+       <month>
+        Apr
+       </month>
+       <day>
+        12
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Archives of internal medicine
+     </title>
+     <isoabbreviation>
+      Arch. Intern. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Effect of physician-delivered nutrition counseling training and an office-support program on saturated fat intake, weight, and serum lipid measurements in a hyperlipidemic population: Worcester Area Trial for Counseling in Hyperlipidemia (WATCH).
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      725-31
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To evaluate the effectiveness of a training program for physician-delivered nutrition counseling, alone and in combination with an office-support program, on dietary fat intake, weight, and blood low-density lipoprotein cholesterol levels in patients with hyperlipidemia.
+     </abstracttext>
+     <abstracttext label="PARTICIPANTS AND METHODS" nlmcategory="METHODS">
+      Forty-five primary care internists at the Fallon Community Health Plan, a central Massachusetts health maintenance organization, were randomized by site into 3 groups: (1) usual care; (2) physician nutrition counseling training; and (3) physician nutrition counseling training plus an office-support program. Eleven hundred sixty-two of their patients with blood total cholesterol levels in the highest 25th percentile, having previously scheduled physician visits, were recruited. Physicians in groups 2 and 3 attended a 3-hour training program on the use of brief patient-centered interactive counseling and the use of an office-support program that included in-office prompts, algorithms, and simple dietary assessment tools. Primary outcome measures included change at 1-year of follow-up in percentage of energy intake from saturated fat; weight; and blood low-density lipoprotein cholesterol levels.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Improvement was seen in all 3 primary outcome measures, but was limited to patients in group 3. Compared with group 1, patients in group 3 had average reductions of 1.1 percentage points in percent of energy from saturated fat (a 10.3% decrease) (P = .01); a reduction in weight of 2.3 kg (P&lt;.001); and a decrease of 0.10 mmol/L (3.8 mg/dL) in low-density lipoprotein cholesterol level (P = .10). Average time for the initial counseling intervention in group 3 was 8.2 minutes, 5.5 minutes more than in the control group.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Brief supported physician nutrition counseling can produce beneficial changes in diet, weight, and blood lipids.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Medicine, University of Massachusetts Medical School, Worcester 01655, USA. ira.ockene@ummed.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Ockene
+      </lastname>
+      <forename>
+       I S
+      </forename>
+      <initials>
+       IS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hebert
+      </lastname>
+      <forename>
+       J R
+      </forename>
+      <initials>
+       JR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ockene
+      </lastname>
+      <forename>
+       J K
+      </forename>
+      <initials>
+       JK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Saperia
+      </lastname>
+      <forename>
+       G M
+      </forename>
+      <initials>
+       GM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Stanek
+      </lastname>
+      <forename>
+       E
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Nicolosi
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Merriam
+      </lastname>
+      <forename>
+       P A
+      </forename>
+      <initials>
+       PA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hurley
+      </lastname>
+      <forename>
+       T G
+      </forename>
+      <initials>
+       TG
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       R01-HL44492
+      </grantid>
+      <acronym>
+       HL
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Arch Intern Med
+    </medlineta>
+    <nlmuniqueid>
+     0372440
+    </nlmuniqueid>
+    <issnlinking>
+     0003-9926
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Dietary Fats
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Lipids
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Body Weight
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Counseling
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dietary Fats
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Health Maintenance Organizations
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Hyperlipidemias
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      diet therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Internal Medicine
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lipids
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      Massachusetts
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Nutritional Sciences
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      education
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Patient Education as Topic
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Physicians
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Primary Health Care
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1999
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      28
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1999
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1999
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10218753
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

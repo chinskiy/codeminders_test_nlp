@@ -1,0 +1,441 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11902986
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     20
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     09
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2008
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     17
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0003-987X
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       138
+      </volume>
+      <issue>
+       3
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Mar
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Archives of dermatology
+     </title>
+     <isoabbreviation>
+      Arch Dermatol
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Long-term effectiveness of treatment with terbinafine vs itraconazole in onychomycosis: a 5-year blinded prospective follow-up study.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      353-7
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To examine long-term cure and relapse rates after treatment with continuous terbinafine and intermittent itraconazole in onychomycosis.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Long-term prospective follow-up study.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      Three centers in Iceland.
+     </abstracttext>
+     <abstracttext label="SUBJECTS" nlmcategory="METHODS">
+      The study population comprised 151 patients aged 18 to 75 years with a clinical and mycological diagnosis of dermatophyte toenail onychomycosis.
+     </abstracttext>
+     <abstracttext label="INTERVENTIONS" nlmcategory="METHODS">
+      In a double-blind, double-dummy study, patients were randomized to receive either terbinafine (250 mg/d) for 12 or 16 weeks or itraconazole (400 mg/d) for 1 week in every 4 for 12 or 16 weeks (first intervention). Patients who did not achieve clinical cure at month 18 or experienced relapse or reinfection were offered an additional course of terbinafine (second intervention).
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      The primary efficacy criterion was mycological cure, defined as negative results on microscopy and culture at the end of follow-up and no requirement of second intervention treatment. Secondary efficacy criteria included clinical cure without second intervention treatment and mycological and clinical relapse rates.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Median duration of follow-up was 54 months. At the end of the study, mycological cure without second intervention treatment was found in 34 (46%) of the 74 terbinafine-treated subjects and 10 (13%) of the 77 itraconazole-treated subjects (P&lt;.001). Mycological and clinical relapse rates were significantly higher in itraconazole vs terbinafine-treated patients (53% vs 23% and 48% vs 21%, respectively). Of the 72 patients who received subsequent terbinafine treatment, 63 (88%) achieved mycological cure and 55 (76%) achieved clinical cure.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      In the treatment of onychomycosis, continuous terbinafine provided superior long-term mycological and clinical efficacy and lower rates of mycological and clinical relapse compared with intermittent itraconazole.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Dermatology, University of Iceland, Reykjavik. bsig@isholf.is
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Sigurgeirsson
+      </lastname>
+      <forename>
+       Bárour
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Olafsson
+      </lastname>
+      <forename>
+       Jón H
+      </forename>
+      <initials>
+       JH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Steinsson
+      </lastname>
+      <forename>
+       Jón B
+      </forename>
+      <initials>
+       JB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Paul
+      </lastname>
+      <forename>
+       Carle
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Billstein
+      </lastname>
+      <forename>
+       Stephan
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Evans
+      </lastname>
+      <forename>
+       E Glyn V
+      </forename>
+      <initials>
+       EG
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Arch Dermatol
+    </medlineta>
+    <nlmuniqueid>
+     0372433
+    </nlmuniqueid>
+    <issnlinking>
+     0003-987X
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antifungal Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Naphthalenes
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      84625-61-6
+     </registrynumber>
+     <nameofsubstance>
+      Itraconazole
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      91161-71-6
+     </registrynumber>
+     <nameofsubstance>
+      terbinafine
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antifungal Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Follow-Up Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Foot Dermatoses
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      microbiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Itraconazole
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Longitudinal Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Naphthalenes
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Onychomycosis
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      microbiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Recurrence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Retreatment
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tinea
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Trichophyton
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      isolation &amp; purification
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11902986
+    </articleid>
+    <articleid idtype="pii">
+     dst00169
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

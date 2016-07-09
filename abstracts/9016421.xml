@@ -1,0 +1,400 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    9016421
+   </pmid>
+   <datecreated>
+    <year>
+     1997
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     04
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1997
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     04
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     24
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0884-8734
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       11
+      </volume>
+      <issue>
+       12
+      </issue>
+      <pubdate>
+       <year>
+        1996
+       </year>
+       <month>
+        Dec
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of general internal medicine
+     </title>
+     <isoabbreviation>
+      J Gen Intern Med
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Does treatment with L-thyroxine influence health status in middle-aged and older adults with subclinical hypothyroidism?
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      744-9
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To determine if health-related quality of life (HRQL) in patients of middle age and older with elevated thyroid-stimulating hormone (TSH) and normal total thyroid hormone levels-subclinical hypothyroidism-improves with L-thyroxine replacement therapy.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Randomized, double-blind, placebo-controlled trial.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      Outpatient clinic.
+     </abstracttext>
+     <abstracttext label="PATIENTS" nlmcategory="METHODS">
+      Thirty-seven patients with subclinical hypothyroidism, most with symptoms consistent with hypothyroidism, over 55 years of age.
+     </abstracttext>
+     <abstracttext label="INTERVENTIONS" nlmcategory="METHODS">
+      Placebo or L-thyroxine replacement therapy to achieve normal TSH level.
+     </abstracttext>
+     <abstracttext label="MEASUREMENTS AND MAIN RESULTS" nlmcategory="RESULTS">
+      Disease-specific and general HRQL, cognitive function, bone mineral density, lipid levels. The mean daily dose of L-thyroxine replacement in the active group was 68 +/- 21 micrograms. TSH decreased by 8.6 mIU/L (95% confidence interval [CI] 4.1 to 13.1) and T4 increased by 27.9 nmol/L (95% CI 14.8 to 41.2). There was a statistically significant improvement in a composite psychometric memory score in treated versus control patients; all other outcomes showed similar findings in the two groups. Although confidence intervals for most measures did not exclude an important improvement in HRQL with thyroid replacement, no measure of symptoms or HRQL either showed clinically important trends in favor of treatment, or approached conventional levels of statistical significance.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      In middle-aged and older patients with elevated TSH and normal T4, it may not be harmful to follow biochemical and clinical status even in the presence of nonspecific symptoms potentially associated with hypothyroidism.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Medicine, McMaster University, Hamilton, Ontario, Canada.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Jaeschke
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Guyatt
+      </lastname>
+      <forename>
+       G
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gerstein
+      </lastname>
+      <forename>
+       H
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Patterson
+      </lastname>
+      <forename>
+       C
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Molloy
+      </lastname>
+      <forename>
+       W
+      </forename>
+      <initials>
+       W
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cook
+      </lastname>
+      <forename>
+       D
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Harper
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Griffith
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Carbotte
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     J Gen Intern Med
+    </medlineta>
+    <nlmuniqueid>
+     8605834
+    </nlmuniqueid>
+    <issnlinking>
+     0884-8734
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      7488-70-2
+     </registrynumber>
+     <nameofsubstance>
+      Thyroxine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      9002-71-5
+     </registrynumber>
+     <nameofsubstance>
+      Thyrotropin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Gen Intern Med. 1996 Dec;11(12):771-3
+     </refsource>
+     <pmid version="1">
+      9016429
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypothyroidism
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      psychology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Quality of Life
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sickness Impact Profile
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Thyrotropin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Thyroxine
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1996
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1996
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1996
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     9016421
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

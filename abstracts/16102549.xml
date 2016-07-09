@@ -1,0 +1,343 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    16102549
+   </pmid>
+   <datecreated>
+    <year>
+     2005
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     16
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2006
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     06
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0010-7824
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       72
+      </volume>
+      <issue>
+       3
+      </issue>
+      <pubdate>
+       <year>
+        2005
+       </year>
+       <month>
+        Sep
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Contraception
+     </title>
+     <isoabbreviation>
+      Contraception
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Comparison of ethinylestradiol pharmacokinetics in three hormonal contraceptive formulations: the vaginal ring, the transdermal patch and an oral contraceptive.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      168-74
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      This open-label, randomized study compared the pharmacokinetics of ethinylestradiol (EE) from the contraceptive vaginal ring NuvaRing (15 microg EE/day), the transdermal patch (20 microg EE/day) and a combined oral contraceptive (COC) containing 30 microg EE. After 2-8 weeks of synchronization by COC treatment, subjects were randomized to 21 days of treatment with NuvaRing, patch or COC. Analysis of area under the EE concentration-versus-time curve (AUC) during 21 days of treatment showed that exposure to EE in the NuvaRing group was 3.4 times lower than in the patch group (p &lt; .05) and 2.1 times lower than in the pill group (p &lt; .05). Serum EE levels of subjects showed much lower variation with NuvaRing than with the patch or the COC. Thus, exposure to EE was significantly lower with NuvaRing than with the patch and pill methods, demonstrating that NuvaRing is a low-estrogen-dose contraceptive method that also results in low estrogen exposure.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Clinical Pharmacology and Kinetics, NV Organon, PO Box 20, 5340 BH Oss, The Netherlands.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       van den Heuvel
+      </lastname>
+      <forename>
+       Michiel Wilhelmus
+      </forename>
+      <initials>
+       MW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       van Bragt
+      </lastname>
+      <forename>
+       Antoinetta Jacoba Maria
+      </forename>
+      <initials>
+       AJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Alnabawy
+      </lastname>
+      <forename>
+       Ali Kafi Mohammed
+      </forename>
+      <initials>
+       AK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kaptein
+      </lastname>
+      <forename>
+       Marc Carel John
+      </forename>
+      <initials>
+       MC
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Contraception
+    </medlineta>
+    <nlmuniqueid>
+     0234361
+    </nlmuniqueid>
+    <issnlinking>
+     0010-7824
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Contraceptives, Oral, Hormonal
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      57-63-6
+     </registrynumber>
+     <nameofsubstance>
+      Ethinyl Estradiol
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Administration, Cutaneous
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Administration, Oral
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Area Under Curve
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Contraceptive Devices, Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Contraceptives, Oral, Hormonal
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      pharmacokinetics
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ethinyl Estradiol
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      pharmacokinetics
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="received">
+     <year>
+      2005
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      5
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="accepted">
+     <year>
+      2005
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      15
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2005
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      17
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2006
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      7
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2005
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      17
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     S0010-7824(05)00097-1
+    </articleid>
+    <articleid idtype="doi">
+     10.1016/j.contraception.2005.03.005
+    </articleid>
+    <articleid idtype="pubmed">
+     16102549
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,269 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    8902660
+   </pmid>
+   <datecreated>
+    <year>
+     1997
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     05
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1997
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     05
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0161-4754
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       19
+      </volume>
+      <issue>
+       8
+      </issue>
+      <pubdate>
+       <year>
+        1996
+       </year>
+       <month>
+        Oct
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of manipulative and physiological therapeutics
+     </title>
+     <isoabbreviation>
+      J Manipulative Physiol Ther
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     The effectiveness of chiropractic for treatment of low back pain: an update and attempt at statistical pooling.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      499-507
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To determine the effectiveness of chiropractic treatment for patients with low back pain by means of a systematic review of the literature.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      Randomized clinical trials (RCTs) on chiropractic were identified with a Medline and Embase search (1966-1995), by citation tracking, and by hand searching of the relevant chiropractic reference systems (CRAC and Index to Chiropractic Literature).
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION" nlmcategory="METHODS">
+      All RCTs on low back pain that involved chiropractors as therapists.
+     </abstracttext>
+     <abstracttext label="DATA EXTRACTION" nlmcategory="METHODS">
+      Methodological quality was assessed independently by two reviewers on 14 items covering internal validity, informativeness and study size. Data were extracted on: patients (initial referral, duration of complaints, radiation of pain); outcomes (four different types); and timing of follow-up (short-term, intermediate and long-term). Statistical pooling was intended, according to a preset analysis plan, to include subgroup analysis.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      Eight RCTs were identified. All RCTs had serious flaws in their design, execution and reporting. Because of the great variety of outcome measures and follow-up timing, there was insufficient data to enable statistical pooling of the RCTs. A narrative review, however, did not provide convincing evidence for the effectiveness of chiropractic for acute or chronic low back pain.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      There is certainly a need for correctly executed trials. In future research on the effectiveness of chiropractic, guidelines for uniform execution and reporting of RCTs should first be established to enable subsequent statistical pooling in systematic reviews of chiropractic trials.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Institute for Research in Extramural Medicine, Vrije Universiteit, Amsterdam, The Netherlands.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Assendelft
+      </lastname>
+      <forename>
+       W J
+      </forename>
+      <initials>
+       WJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Koes
+      </lastname>
+      <forename>
+       B W
+      </forename>
+      <initials>
+       BW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       van der Heijden
+      </lastname>
+      <forename>
+       G J
+      </forename>
+      <initials>
+       GJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bouter
+      </lastname>
+      <forename>
+       L M
+      </forename>
+      <initials>
+       LM
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     J Manipulative Physiol Ther
+    </medlineta>
+    <nlmuniqueid>
+     7807107
+    </nlmuniqueid>
+    <issnlinking>
+     0161-4754
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Chiropractic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Low Back Pain
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Manipulation, Orthopedic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1996
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1996
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1996
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     8902660
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,539 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10323823
+   </pmid>
+   <datecreated>
+    <year>
+     1999
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     24
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1999
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     24
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0959-8138
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       318
+      </volume>
+      <issue>
+       7194
+      </issue>
+      <pubdate>
+       <year>
+        1999
+       </year>
+       <month>
+        May
+       </month>
+       <day>
+        15
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      BMJ (Clinical research ed.)
+     </title>
+     <isoabbreviation>
+      BMJ
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Fortnightly review: management of hypertension in pregnancy.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1332-6
+     </medlinepgn>
+    </pagination>
+    <affiliation>
+     Departments of Medicine, and Obstetrics and Gynaecology, University of Toronto, Toronto, Canada. laura.magee@utoronto.ca
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Magee
+      </lastname>
+      <forename>
+       L A
+      </forename>
+      <initials>
+       LA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ornstein
+      </lastname>
+      <forename>
+       M P
+      </forename>
+      <initials>
+       MP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       von Dadelszen
+      </lastname>
+      <forename>
+       P
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     ENGLAND
+    </country>
+    <medlineta>
+     BMJ
+    </medlineta>
+    <nlmuniqueid>
+     8900488
+    </nlmuniqueid>
+    <issnlinking>
+     0959-535X
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antihypertensive Agents
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1992 Jan 25;339(8787):224-7
+     </refsource>
+     <pmid version="1">
+      1346182
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Obstet Gynecol. 1994 Sep;171(3):818-22
+     </refsource>
+     <pmid version="1">
+      8092235
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Obstet Gynaecol. 1992 Sep;99(9):727-30
+     </refsource>
+     <pmid version="1">
+      1420010
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Obstet Gynecol. 1990 Nov;163(5 Pt 1):1691-712
+     </refsource>
+     <pmid version="1">
+      2104525
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Obstet Gynecol. 1990 Dec;76(6):1070-5
+     </refsource>
+     <pmid version="1">
+      2234715
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1990 Sep 22;301(6752):587-9
+     </refsource>
+     <pmid version="1">
+      2242456
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Obstet Gynecol. 1990 Mar;162(3):788-92
+     </refsource>
+     <pmid version="1">
+      2316590
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Biofeedback Self Regul. 1989 Dec;14(4):309-18
+     </refsource>
+     <pmid version="1">
+      2631971
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Perinatol. 1989 Oct;6(4):437-41
+     </refsource>
+     <pmid version="1">
+      2789542
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Obstet Gynecol. 1993 Dec;169(6):1581-5
+     </refsource>
+     <pmid version="1">
+      8267066
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Eur J Obstet Gynecol Reprod Biol. 1993 Oct 29;51(3):175-80
+     </refsource>
+     <pmid version="1">
+      8288012
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Obstet Gynecol. 1993 Apr;168(4):1292-6
+     </refsource>
+     <pmid version="1">
+      8475977
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Perinat Med. 1993;21(1):69-75
+     </refsource>
+     <pmid version="1">
+      8487154
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Obstet Gynaecol Res. 1996 Feb;22(1):21-4
+     </refsource>
+     <pmid version="1">
+      8624887
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1996 Jul 25;335(4):257-65
+     </refsource>
+     <pmid version="1">
+      8657243
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Perinat Med. 1996;24(2):177-84
+     </refsource>
+     <pmid version="1">
+      8773944
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Obstet Gynaecol. 1997 Jun;104(6):689-96
+     </refsource>
+     <pmid version="1">
+      9197872
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Med J Aust. 1997 Jun 16;166(12):640-3
+     </refsource>
+     <pmid version="1">
+      9216585
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1997 Nov 1;350(9087):1267-71
+     </refsource>
+     <pmid version="1">
+      9357405
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      CMAJ. 1997 Nov 1;157(9):1245-54
+     </refsource>
+     <pmid version="1">
+      9361646
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Indian Heart J. 1992 Jan-Feb;44(1):39-41
+     </refsource>
+     <pmid version="1">
+      1398694
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Mal Coeur Vaiss. 1988 Jun;81 Spec No:137-40
+     </refsource>
+     <pmid version="1">
+      3142396
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Obstet Gynecol. 1988 Sep;159(3):650-4
+     </refsource>
+     <pmid version="1">
+      3421264
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Sci (Lond). 1986 Nov;71(5):589-94
+     </refsource>
+     <pmid version="1">
+      3769407
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Obstet Gynecol. 1985 Nov;66(5):634-8
+     </refsource>
+     <pmid version="1">
+      3903581
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Dis Child. 1984 Nov;59(11):1061-3
+     </refsource>
+     <pmid version="1">
+      6391390
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Obstet Gynaecol. 1982 Feb;89(2):128-31
+     </refsource>
+     <pmid version="1">
+      7039663
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Obstet Gynaecol. 1982 Dec;89(12):1031-4
+     </refsource>
+     <pmid version="1">
+      7171513
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Obstet Gynecol. 1995 Sep;173(3 Pt 1):872-8
+     </refsource>
+     <pmid version="1">
+      7573260
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int J Gynaecol Obstet. 1995 May;49(2):125-30
+     </refsource>
+     <pmid version="1">
+      7649315
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int J Clin Pharmacol Ther. 1995 Feb;33(2):119-23
+     </refsource>
+     <pmid version="1">
+      7757311
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 1999 Nov-Dec;131(3):61
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antihypertensive Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Chronic Disease
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertension
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pregnancy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pregnancy Complications, Cardiovascular
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Puerperal Disorders
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapy
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    49
+   </numberofreferences>
+   <otherid source="NLM">
+    PMC1115719
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1999
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      14
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1999
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      14
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1999
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      14
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10323823
+    </articleid>
+    <articleid idtype="pmc">
+     PMC1115719
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

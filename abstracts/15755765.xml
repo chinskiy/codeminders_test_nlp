@@ -1,0 +1,677 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15755765
+   </pmid>
+   <datecreated>
+    <year>
+     2005
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     07
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     12
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     07
+    </day>
+   </daterevised>
+   <article pubmodel="Print-Electronic">
+    <journal>
+     <issn issntype="Electronic">
+      1533-4406
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       352
+      </volume>
+      <issue>
+       14
+      </issue>
+      <pubdate>
+       <year>
+        2005
+       </year>
+       <month>
+        Apr
+       </month>
+       <day>
+        7
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Intensive lipid lowering with atorvastatin in patients with stable coronary disease.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1425-35
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Previous trials have demonstrated that lowering low-density lipoprotein (LDL) cholesterol levels below currently recommended levels is beneficial in patients with acute coronary syndromes. We prospectively assessed the efficacy and safety of lowering LDL cholesterol levels below 100 mg per deciliter (2.6 mmol per liter) in patients with stable coronary heart disease (CHD).
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      A total of 10,001 patients with clinically evident CHD and LDL cholesterol levels of less than 130 mg per deciliter (3.4 mmol per liter) were randomly assigned to double-blind therapy and received either 10 mg or 80 mg of atorvastatin per day. Patients were followed for a median of 4.9 years. The primary end point was the occurrence of a first major cardiovascular event, defined as death from CHD, nonfatal non-procedure-related myocardial infarction, resuscitation after cardiac arrest, or fatal or nonfatal stroke.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The mean LDL cholesterol levels were 77 mg per deciliter (2.0 mmol per liter) during treatment with 80 mg of atorvastatin and 101 mg per deciliter (2.6 mmol per liter) during treatment with 10 mg of atorvastatin. The incidence of persistent elevations in liver aminotransferase levels was 0.2 percent in the group given 10 mg of atorvastatin and 1.2 percent in the group given 80 mg of atorvastatin (P&lt;0.001). A primary event occurred in 434 patients (8.7 percent) receiving 80 mg of atorvastatin, as compared with 548 patients (10.9 percent) receiving 10 mg of atorvastatin, representing an absolute reduction in the rate of major cardiovascular events of 2.2 percent and a 22 percent relative reduction in risk (hazard ratio, 0.78; 95 percent confidence interval, 0.69 to 0.89; P&lt;0.001). There was no difference between the two treatment groups in overall mortality.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Intensive lipid-lowering therapy with 80 mg of atorvastatin per day in patients with stable CHD provides significant clinical benefit beyond that afforded by treatment with 10 mg of atorvastatin per day. This occurred with a greater incidence of elevated aminotransferase levels.
+     </abstracttext>
+     <copyrightinformation>
+      Copyright 2005 Massachusetts Medical Society.
+     </copyrightinformation>
+    </abstract>
+    <affiliation>
+     State University of New York Health Science Center, Brooklyn, NY 11203, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       LaRosa
+      </lastname>
+      <forename>
+       John C
+      </forename>
+      <initials>
+       JC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Grundy
+      </lastname>
+      <forename>
+       Scott M
+      </forename>
+      <initials>
+       SM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Waters
+      </lastname>
+      <forename>
+       David D
+      </forename>
+      <initials>
+       DD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Shear
+      </lastname>
+      <forename>
+       Charles
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Barter
+      </lastname>
+      <forename>
+       Philip
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Fruchart
+      </lastname>
+      <forename>
+       Jean-Charles
+      </forename>
+      <initials>
+       JC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gotto
+      </lastname>
+      <forename>
+       Antonio M
+      </forename>
+      <initials>
+       AM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Greten
+      </lastname>
+      <forename>
+       Heiner
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kastelein
+      </lastname>
+      <forename>
+       John J P
+      </forename>
+      <initials>
+       JJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Shepherd
+      </lastname>
+      <forename>
+       James
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wenger
+      </lastname>
+      <forename>
+       Nanette K
+      </forename>
+      <initials>
+       NK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       Treating to New Targets (TNT) Investigators
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2005
+     </year>
+     <month>
+      03
+     </month>
+     <day>
+      08
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anticholesteremic Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cholesterol, LDL
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Heptanoic Acids
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Hydroxymethylglutaryl-CoA Reductase Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Pyrroles
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Triglycerides
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      110862-48-1
+     </registrynumber>
+     <nameofsubstance>
+      atorvastatin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      57-88-5
+     </registrynumber>
+     <nameofsubstance>
+      Cholesterol
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      EC 2.6.1.2
+     </registrynumber>
+     <nameofsubstance>
+      Alanine Transaminase
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2005 Sep-Oct;143(2):38
+     </refsource>
+     <pmid version="1">
+      16134912
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2005 Apr 7;352(14):1483-4
+     </refsource>
+     <pmid version="1">
+      15755764
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2005 Jul 7;353(1):93-6; author reply 93-6
+     </refsource>
+     <pmid version="1">
+      16000362
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2005 Jul 7;353(1):93-6; author reply 93-6
+     </refsource>
+     <pmid version="1">
+      16003832
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2005 Jul 7;353(1):93-6; author reply 93-6
+     </refsource>
+     <pmid version="1">
+      16003834
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2005 Jul 7;353(1):93-6; author reply 93-6
+     </refsource>
+     <pmid version="1">
+      16003833
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2006 Nov 30;355(22):2368; author reply 2370-1
+     </refsource>
+     <pmid version="1">
+      17135593
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Prev Cardiol. 2005 Summer;8(3):181-5
+     </refsource>
+     <pmid version="1">
+      16034223
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2005 Jul 7;353(1):93-6; author reply 93-6
+     </refsource>
+     <pmid version="1">
+      16003831
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Alanine Transaminase
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anticholesteremic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cardiovascular Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cholesterol
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cholesterol, LDL
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Coronary Disease
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dose-Response Relationship, Drug
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heptanoic Acids
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hydroxymethylglutaryl-CoA Reductase Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Incidence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pyrroles
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Triglycerides
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="aheadofprint">
+     <year>
+      2005
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      8
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2005
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2005
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     NEJMoa050461
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJMoa050461
+    </articleid>
+    <articleid idtype="pubmed">
+     15755765
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

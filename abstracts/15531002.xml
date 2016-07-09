@@ -1,0 +1,419 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15531002
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     08
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     24
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0149-2918
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       26
+      </volume>
+      <issue>
+       9
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Sep
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Clinical therapeutics
+     </title>
+     <isoabbreviation>
+      Clin Ther
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Association between congestive heart failure and hospitalization in patients with type 2 diabetes mellitus receiving treatment with insulin or pioglitazone: a retrospective data analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1400-10
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Thiazolidinediones (TZDs) are widely used oral antihyperglycemic drugs that facilitate insulin action and increase insulin-stimulated glucose metabolism, thereby decreasing insulin resistance. However, concerns have been raised regarding the association between TZD use and a heightened risk for congestive heart failure (CHF).
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      This study used claims data to conduct a retrospective examination of the CHF risk in patients with type 2 diabetes mellitus and to compare the association with CHF in those receiving the TZD pioglitazone and those receiving insulin.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Patients with type 2 diabetes aged &gt; or =18 years who had begun treatment with pioglitazone or insulin between January 1999 and December 2001 were identified using the PharMetrics Patient-Centric database. The sample was restricted to patients for whom there were &gt; or =12 months of data before the index date (date of the first prescription for pioglitazone or insulin) and &gt; or =3 months of follow-up data. Patients receiving a diagnosis of CHF before the index date were excluded. The propensity score for receiving pioglitazone was estimated using logistic regression based on available observed patient characteristics. Patients receiving insulin were matched in a 1:1 ratio with patients receiving pioglitazone based on a difference of no more than +/-0.01 in the estimated propensity score for receiving pioglitazone therapy. CHF risk was examined using the Cox proportional-hazards model.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      After exclusion of ineligible patients, 1668 matched pairs of patients receiving pioglitazone or insulin were identified (50.9% men, 49.1% women; mean [SE] age, 51.2 [0.2] years). The 2-year crude incidence rate of CHF was significantly lower in the pioglitazone group compared with the insulin group (primary/secondary diagnosis of CHF, 2.0% vs 4.0%, respectively; P &lt; 0.001; inpatient hospitalization for CHF, 0.7% vs 2.5%; P &lt; 0.001). The hazard ratio for pioglitazone versus insulin was 0.501 (95% CI, 0.331-0.758; P = 0.001) for a primary or secondary diagnosis of CHF in any setting and 0.263 (95% CI, 0.135-0.511; P &lt; 0.001) for any occurrence of an inpatient hospitalization for CHF.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      In this retrospective analysis of data from patients with type 2 diabetes, pioglitazone therapy was associated with significantly lower incidence rates of CHF and inpatient hospitalization compared with insulin therapy.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Takeda Pharmaceuticals North America, Inc., Lincolnshire, Illinois 60069, USA. rrajagopalan@takedapharm.com
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Rajagopalan
+      </lastname>
+      <forename>
+       Rukmini
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rosenson
+      </lastname>
+      <forename>
+       Robert S
+      </forename>
+      <initials>
+       RS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Fernandes
+      </lastname>
+      <forename>
+       Ancilla W
+      </forename>
+      <initials>
+       AW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Khan
+      </lastname>
+      <forename>
+       Mehmood
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Murray
+      </lastname>
+      <forename>
+       Frederick T
+      </forename>
+      <initials>
+       FT
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Clin Ther
+    </medlineta>
+    <nlmuniqueid>
+     7706726
+    </nlmuniqueid>
+    <issnlinking>
+     0149-2918
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Hypoglycemic Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      PPAR gamma
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Thiazolidinediones
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      11061-68-0
+     </registrynumber>
+     <nameofsubstance>
+      Insulin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      111025-46-8
+     </registrynumber>
+     <nameofsubstance>
+      pioglitazone
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cohort Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetes Mellitus, Type 2
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Therapy, Combination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heart Failure
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hospitalization
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypoglycemic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Insulin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      PPAR gamma
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      antagonists &amp; inhibitors
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Retrospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Thiazolidinediones
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="accepted">
+     <year>
+      2004
+     </year>
+     <month>
+      Jul
+     </month>
+     <day>
+      2
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     S0149-2918(04)80286-8
+    </articleid>
+    <articleid idtype="doi">
+     10.1016/j.clinthera.2004.09.016
+    </articleid>
+    <articleid idtype="pubmed">
+     15531002
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

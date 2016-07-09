@@ -1,0 +1,285 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    2801756
+   </pmid>
+   <datecreated>
+    <year>
+     1989
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     31
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1989
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     31
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     19
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0002-9629
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       298
+      </volume>
+      <issue>
+       3
+      </issue>
+      <pubdate>
+       <year>
+        1989
+       </year>
+       <month>
+        Sep
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The American journal of the medical sciences
+     </title>
+     <isoabbreviation>
+      Am. J. Med. Sci.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Hepatitis and hematemesis complicating nicotinic acid use.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      191-3
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Nicotinic acid has a proven efficacy in the treatment of hypercholesterolemia. Therapeutic use of this water-soluble B vitamin has resulted in a survival benefit among patients enrolled in the Coronary Drug Project. Conversely, nicotinic acid has been associated with a high side-effect profile when used at therapeutic doses. Nevertheless, there are no previously reported cases of hematemesis temporally associated with nicotinic acid use. The authors report the case of a previously healthy 20-year-old man who developed hematemesis and hepatitis 1 week after self-initiating the daily consumption of 6 g of nicotinic acid. Supportive therapy and discontinuing nicotinic acid resulted in rapid clinical improvement in this patient. The clinical circumstances suggest a possible causal relationship between nicotinic acid consumption and his presenting problems. The use of large doses of nicotinic acid may be rapidly complicated by hematemesis and hepatitis.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Medicine, Michigan State University, East Lansing 48824.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Ferenchick
+      </lastname>
+      <forename>
+       G
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rovner
+      </lastname>
+      <forename>
+       D
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Case Reports
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Am J Med Sci
+    </medlineta>
+    <nlmuniqueid>
+     0370506
+    </nlmuniqueid>
+    <issnlinking>
+     0002-9629
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      59-67-6
+     </registrynumber>
+     <nameofsubstance>
+      Niacin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Drug-Induced Liver Injury
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hematemesis
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      chemically induced
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Liver
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Liver Function Tests
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Niacin
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prothrombin Time
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Self Medication
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1989
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1989
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1989
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     2801756
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

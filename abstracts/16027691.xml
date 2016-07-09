@@ -1,0 +1,349 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    16027691
+   </pmid>
+   <datecreated>
+    <year>
+     2005
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     19
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     09
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0022-3476
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       147
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2005
+       </year>
+       <month>
+        Jul
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The Journal of pediatrics
+     </title>
+     <isoabbreviation>
+      J. Pediatr.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Bedsharing, roomsharing, and sudden infant death syndrome in Scotland: a case-control study.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      32-7
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To examine the hypothesis that bedsharing with an infant is associated with an increased risk of sudden infant death syndrome (SIDS).
+     </abstracttext>
+     <abstracttext label="STUDY DESIGN" nlmcategory="METHODS">
+      A 1:2, case:control study in Scotland UK, population 5.1 million, including 123 infants who died of SIDS between January 1, 1996 and May 31, 2000, and 263 controls. The main outcome measure was sharing a sleep surface during last sleep.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Sharing a sleep surface was associated with SIDS (multivariate OR 2.89, 95% CI 1.40, 5.97). The largest risk was associated with couch sharing (OR 66.9, 95% CI 2.8, 1597). Of 46 SIDS infants who bedshared during their last sleep, 40 (87%) were found in the parents' bed. Sharing a bed when &lt;11 weeks (OR 10.20, 95% CI 2.99, 34.8) was associated with a greater risk, P = .010, compared with sharing when older (OR 1.07, 95% CI 0.32, 3.56). The association remained if mother did not smoke (OR 8.01, 95% CI 1.20, 53.3) or the infant was breastfed (OR 13.10, 95% CI 1.29, 133).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Bedsharing is associated with an increased risk of SIDS for infants &lt;11 weeks of age. Sharing a couch for sleep should be strongly discouraged at any age.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Paediatric Epidemiology and Community Health (PEACH) Unit, Department of Child Health, University of Glasgow, Yorkhill, Scotland, UK. goda11@udcf.gla.ac.uk
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Tappin
+      </lastname>
+      <forename>
+       David
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ecob
+      </lastname>
+      <forename>
+       Russell
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Brooke
+      </lastname>
+      <forename>
+       Hazel
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     J Pediatr
+    </medlineta>
+    <nlmuniqueid>
+     0375410
+    </nlmuniqueid>
+    <issnlinking>
+     0022-3476
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Tobacco Smoke Pollution
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Pediatr. 2005 Jul;147(1):6-7
+     </refsource>
+     <pmid version="1">
+      16027684
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Pediatr. 2005 Jul;147(1):3A
+     </refsource>
+     <pmid version="1">
+      16027679
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Beds
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Breast Feeding
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Case-Control Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant Care
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant, Newborn
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Logistic Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Multivariate Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      Scotland
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sudden Infant Death
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tobacco Smoke Pollution
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2005
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2005
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     S0022347605000788
+    </articleid>
+    <articleid idtype="doi">
+     10.1016/j.jpeds.2005.01.035
+    </articleid>
+    <articleid idtype="pubmed">
+     16027691
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

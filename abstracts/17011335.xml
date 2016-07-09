@@ -1,0 +1,327 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    17011335
+   </pmid>
+   <datecreated>
+    <year>
+     2006
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     02
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     28
+    </day>
+   </datecompleted>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0022-3476
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       149
+      </volume>
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <year>
+        2006
+       </year>
+       <month>
+        Oct
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The Journal of pediatrics
+     </title>
+     <isoabbreviation>
+      J. Pediatr.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Hypothyroidism in a breast-fed preterm infant resulting from maternal topical iodine exposure.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      566-7
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Hypothyroidism developed in a preterm infant, whose initial screening thyroid function test results were normal, at 2 weeks of life. The infant's mother was packing her Caesarian incision with iodine soaked gauze, resulting in a markedly increased breast milk iodine concentration. Treatment with oral L-thyroxine normalized thyroid function tests.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Neonatology, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA 02215, USA. vsmith1@bidmc.harvard.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Smith
+      </lastname>
+      <forename>
+       Vincent C
+      </forename>
+      <initials>
+       VC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Svoren
+      </lastname>
+      <forename>
+       Britta M
+      </forename>
+      <initials>
+       BM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wolfsdorf
+      </lastname>
+      <forename>
+       Joseph I
+      </forename>
+      <initials>
+       JI
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Case Reports
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     J Pediatr
+    </medlineta>
+    <nlmuniqueid>
+     0375410
+    </nlmuniqueid>
+    <issnlinking>
+     0022-3476
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      7553-56-2
+     </registrynumber>
+     <nameofsubstance>
+      Iodine
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Administration, Topical
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Breast Feeding
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypothyroidism
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      chemically induced
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant, Newborn
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant, Premature, Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      chemically induced
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Iodine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      analysis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Milk, Human
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      chemistry
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Mothers
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="received">
+     <year>
+      2006
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      2
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="revised">
+     <year>
+      2006
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      18
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="accepted">
+     <year>
+      2006
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      14
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2006
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2006
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2006
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     S0022-3476(06)00700-1
+    </articleid>
+    <articleid idtype="doi">
+     10.1016/j.jpeds.2006.07.029
+    </articleid>
+    <articleid idtype="pubmed">
+     17011335
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

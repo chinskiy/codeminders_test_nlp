@@ -1,0 +1,625 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15829527
+   </pmid>
+   <datecreated>
+    <year>
+     2005
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     09
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     16
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print-Electronic">
+    <journal>
+     <issn issntype="Electronic">
+      1533-4406
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       352
+      </volume>
+      <issue>
+       23
+      </issue>
+      <pubdate>
+       <year>
+        2005
+       </year>
+       <month>
+        Jun
+       </month>
+       <day>
+        9
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Vitamin E and donepezil for the treatment of mild cognitive impairment.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      2379-88
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Mild cognitive impairment is a transitional state between the cognitive changes of normal aging and early Alzheimer's disease.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      In a double-blind study, we evaluated subjects with the amnestic subtype of mild cognitive impairment. Subjects were randomly assigned to receive 2000 IU of vitamin E daily, 10 mg of donepezil daily, or placebo for three years. The primary outcome was clinically possible or probable Alzheimer's disease; secondary outcomes were cognition and function.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      A total of 769 subjects were enrolled, and possible or probable Alzheimer's disease developed in 212. The overall rate of progression from mild cognitive impairment to Alzheimer's disease was 16 percent per year. As compared with the placebo group, there were no significant differences in the probability of progression to Alzheimer's disease in the vitamin E group (hazard ratio, 1.02; 95 percent confidence interval, 0.74 to 1.41; P=0.91) or the donepezil group (hazard ratio, 0.80; 95 percent confidence interval, 0.57 to 1.13; P=0.42) during the three years of treatment. Prespecified analyses of the treatment effects at 6-month intervals showed that as compared with the placebo group, the donepezil group had a reduced likelihood of progression to Alzheimer's disease during the first 12 months of the study (P=0.04), a finding supported by the secondary outcome measures. Among carriers of one or more apolipoprotein E epsilon4 alleles, the benefit of donepezil was evident throughout the three-year follow-up. There were no significant differences in the rate of progression to Alzheimer's disease between the vitamin E and placebo groups at any point, either among all patients or among apolipoprotein E epsilon4 carriers.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Vitamin E had no benefit in patients with mild cognitive impairment. Although donepezil therapy was associated with a lower rate of progression to Alzheimer's disease during the first 12 months of treatment, the rate of progression to Alzheimer's disease after three years was not lower among patients treated with donepezil than among those given placebo.
+     </abstracttext>
+     <copyrightinformation>
+      Copyright 2005 Massachusetts Medical Society.
+     </copyrightinformation>
+    </abstract>
+    <affiliation>
+     Mayo Clinic College of Medicine, Rochester, Minn, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Petersen
+      </lastname>
+      <forename>
+       Ronald C
+      </forename>
+      <initials>
+       RC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Thomas
+      </lastname>
+      <forename>
+       Ronald G
+      </forename>
+      <initials>
+       RG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Grundman
+      </lastname>
+      <forename>
+       Michael
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bennett
+      </lastname>
+      <forename>
+       David
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Doody
+      </lastname>
+      <forename>
+       Rachelle
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ferris
+      </lastname>
+      <forename>
+       Steven
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Galasko
+      </lastname>
+      <forename>
+       Douglas
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jin
+      </lastname>
+      <forename>
+       Shelia
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kaye
+      </lastname>
+      <forename>
+       Jeffrey
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Levey
+      </lastname>
+      <forename>
+       Allan
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pfeiffer
+      </lastname>
+      <forename>
+       Eric
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sano
+      </lastname>
+      <forename>
+       Mary
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       van Dyck
+      </lastname>
+      <forename>
+       Christopher H
+      </forename>
+      <initials>
+       CH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Thal
+      </lastname>
+      <forename>
+       Leon J
+      </forename>
+      <initials>
+       LJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       Alzheimer's Disease Cooperative Study Group
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       UO1 AG10483
+      </grantid>
+      <acronym>
+       AG
+      </acronym>
+      <agency>
+       NIA NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, N.I.H., Extramural
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2005
+     </year>
+     <month>
+      04
+     </month>
+     <day>
+      13
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Apolipoprotein E4
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Apolipoproteins E
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cholinesterase Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Indans
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Nootropic Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Piperidines
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      120011-70-3
+     </registrynumber>
+     <nameofsubstance>
+      donepezil
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      1406-18-4
+     </registrynumber>
+     <nameofsubstance>
+      Vitamin E
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Evid Based Ment Health. 2006 Feb;9(1):20
+     </refsource>
+     <pmid version="1">
+      16436560
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2005 Sep 1;353(9):951-2; author reply 951-2
+     </refsource>
+     <pmid version="1">
+      16135844
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2005 Jun 9;352(23):2439-41
+     </refsource>
+     <pmid version="1">
+      15829528
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Alzheimer Disease
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      genetics
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Apolipoprotein E4
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Apolipoproteins E
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      genetics
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cholinesterase Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cognition Disorders
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Disease Progression
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Indans
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Nootropic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Piperidines
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Proportional Hazards Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Failure
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vitamin E
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="aheadofprint">
+     <year>
+      2005
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      13
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2005
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      15
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      17
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2005
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      15
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     NEJMoa050151
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJMoa050151
+    </articleid>
+    <articleid idtype="pubmed">
+     15829527
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

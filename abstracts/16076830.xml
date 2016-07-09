@@ -1,0 +1,321 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    16076830
+   </pmid>
+   <datecreated>
+    <year>
+     2005
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     19
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     04
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     16
+    </day>
+   </daterevised>
+   <article pubmodel="Print-Electronic">
+    <journal>
+     <issn issntype="Print">
+      0002-9262
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       162
+      </volume>
+      <issue>
+       5
+      </issue>
+      <pubdate>
+       <year>
+        2005
+       </year>
+       <month>
+        Sep
+       </month>
+       <day>
+        1
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      American journal of epidemiology
+     </title>
+     <isoabbreviation>
+      Am. J. Epidemiol.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Duration of breastfeeding and risk of overweight: a meta-analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      397-403
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Observational studies suggest a longer duration of breastfeeding to be associated dose dependently with a decrease in risk of overweight in later life. The authors performed a comprehensive meta-analysis of the existing studies on duration of breastfeeding and risk of overweight. Studies were included that reported the odds ratio and 95% confidence interval (or the data to calculate them) of overweight associated with breastfeeding and that reported the duration of breastfeeding and used exclusively formula-fed subjects as the referent. Seventeen studies met the inclusion criteria. By meta-regression, the duration of breastfeeding was inversely associated with the risk of overweight (regression coefficient=0.94, 95% confidence interval (CI): 0.89, 0.98). Categorical analysis confirmed this dose-response association (&lt;1 month of breastfeeding: odds ratio (OR)=1.0, 95% CI: 0.65, 1.55; 1-3 months: OR=0.81, 95% CI: 0.74, 0.88; 4-6 months: OR=0.76, 95% CI: 0.67, 0.86; 7-9 months: OR=0.67, 95% CI: 0.55, 0.82; &gt;9 months: OR=0.68, 95% CI: 0.50, 0.91). One month of breastfeeding was associated with a 4% decrease in risk (OR=0.96/month of breastfeeding, 95% CI: 0.94, 0.98). The definitions of overweight and age had no influence. These findings strongly support a dose-dependent association between longer duration of breastfeeding and decrease in risk of overweight.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Clinic of Obstetrics, Division of Experimental Obstetrics, Charité-University Medicine, Berlin, Germany. thomas.harder@charite.de
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Harder
+      </lastname>
+      <forename>
+       Thomas
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bergmann
+      </lastname>
+      <forename>
+       Renate
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kallischnigg
+      </lastname>
+      <forename>
+       Gerd
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Plagemann
+      </lastname>
+      <forename>
+       Andreas
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2005
+     </year>
+     <month>
+      08
+     </month>
+     <day>
+      02
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Am J Epidemiol
+    </medlineta>
+    <nlmuniqueid>
+     7910653
+    </nlmuniqueid>
+    <issnlinking>
+     0002-9262
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Am J Epidemiol. 2006 May 1;163(9):870-2; author reply 872-3
+     </refsource>
+     <pmid version="1">
+      16554341
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Breast Feeding
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant, Newborn
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Obesity
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Regression Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Time Factors
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="aheadofprint">
+     <year>
+      2005
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      2
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2005
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      4
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2005
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      4
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     kwi222
+    </articleid>
+    <articleid idtype="doi">
+     10.1093/aje/kwi222
+    </articleid>
+    <articleid idtype="pubmed">
+     16076830
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

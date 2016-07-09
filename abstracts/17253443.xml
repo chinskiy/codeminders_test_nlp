@@ -1,0 +1,326 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    17253443
+   </pmid>
+   <datecreated>
+    <year>
+     2007
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     26
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2007
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     08
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     03
+    </day>
+   </daterevised>
+   <article pubmodel="Electronic">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2007
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Antidepressants for smoking cessation.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD000031
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      There are at least two theoretical reasons to believe antidepressants might help in smoking cessation. Nicotine withdrawal may produce depressive symptoms or precipitate a major depressive episode and antidepressants may relieve these. Nicotine may have antidepressant effects that maintain smoking, and antidepressants may substitute for this effect. Alternatively, some antidepressants may have a specific effect on neural pathways underlying nicotine addiction, (e.g. blocking nicotine receptors) independent of their antidepressant effects.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      The aim of this review is to assess the effect of antidepressant medications in aiding long-term smoking cessation. The medications include bupropion; doxepin; fluoxetine; imipramine; moclobemide; nortriptyline; paroxetine; sertraline, tryptophan and venlafaxine.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      We searched the Cochrane Tobacco Addiction Group trials register which includes trials indexed in MEDLINE, EMBASE, SciSearch and PsycINFO, and other reviews and meeting abstracts, in September 2006.
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      We considered randomized trials comparing antidepressant medications to placebo or an alternative pharmacotherapy for smoking cessation. We also included trials comparing different doses, using pharmacotherapy to prevent relapse or re-initiate smoking cessation or to help smokers reduce cigarette consumption. We excluded trials with less than six months follow up.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      We extracted data in duplicate on the type of study population, the nature of the pharmacotherapy, the outcome measures, method of randomization, and completeness of follow up. The main outcome measure was abstinence from smoking after at least six months follow up in patients smoking at baseline, expressed as an odds ratio (OR). We used the most rigorous definition of abstinence available in each trial, and biochemically validated rates if available. Where appropriate, we performed meta-analysis using a fixed-effect model.
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      Seventeen new trials were identified since the last update in 2004 bringing the total number of included trials to 53. There were 40 trials of bupropion and eight trials of nortriptyline. When used as the sole pharmacotherapy, bupropion (31 trials, odds ratio [OR] 1.94, 95% confidence interval [CI] 1.72 to 2.19) and nortriptyline (four trials, OR 2.34, 95% CI 1.61 to 3.41) both doubled the odds of cessation. There is insufficient evidence that adding bupropion or nortriptyline to nicotine replacement therapy provides an additional long-term benefit. Three trials of extended therapy with bupropion to prevent relapse after initial cessation did not find evidence of a significant long-term benefit. From the available data bupropion and nortriptyline appear to be equally effective and of similar efficacy to nicotine replacement therapy. Pooling three trials comparing bupropion to varenicline showed a lower odds of quitting with bupropion (OR 0.60, 95% CI 0.46 to 0.78). There is a risk of about 1 in 1000 of seizures associated with bupropion use. Concerns that bupropion may increase suicide risk are currently unproven. Nortriptyline has the potential for serious side-effects, but none have been seen in the few small trials for smoking cessation. There were six trials of selective serotonin reuptake inhibitors; four of fluoxetine, one of sertraline and one of paroxetine. None of these detected significant long-term effects, and there was no evidence of a significant benefit when results were pooled. There was one trial of the monoamine oxidase inhibitor moclobemide, and one of the atypical antidepressant venlafaxine. Neither of these detected a significant long-term benefit.
+     </abstracttext>
+     <abstracttext label="AUTHORS' CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The antidepressants bupropion and nortriptyline aid long-term smoking cessation but selective serotonin reuptake inhibitors (e.g. fluoxetine) do not. Evidence suggests that the mode of action of bupropion and nortriptyline is independent of their antidepressant effect and that they are of similar efficacy to nicotine replacement. Adverse events with both medications are rarely serious or lead to stopping medication.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     University of Vermont, Department of Psychiatry, 38 Fletcher Place, Burlington, Vermont 05401-1419, USA. john.hughes@uvm.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Hughes
+      </lastname>
+      <forename>
+       J R
+      </forename>
+      <initials>
+       JR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Stead
+      </lastname>
+      <forename>
+       L F
+      </forename>
+      <initials>
+       LF
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lancaster
+      </lastname>
+      <forename>
+       T
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2007
+     </year>
+     <month>
+      01
+     </month>
+     <day>
+      24
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Anxiety Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antidepressive Agents
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="UpdateOf">
+     <refsource>
+      Cochrane Database Syst Rev. 2004;(4):CD000031
+     </refsource>
+     <pmid version="1">
+      15494986
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Anxiety Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antidepressive Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Smoking
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Smoking Cessation
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      methods
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    186
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2007
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      27
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2007
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2007
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      27
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    epublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="doi">
+     10.1002/14651858.CD000031.pub3
+    </articleid>
+    <articleid idtype="pubmed">
+     17253443
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

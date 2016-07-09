@@ -1,0 +1,423 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    9315764
+   </pmid>
+   <datecreated>
+    <year>
+     1997
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     14
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1997
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     14
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       278
+      </volume>
+      <issue>
+       13
+      </issue>
+      <pubdate>
+       <year>
+        1997
+       </year>
+       <month>
+        Oct
+       </month>
+       <day>
+        1
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Antihypertensive treatment based on conventional or ambulatory blood pressure measurement. A randomized controlled trial. Ambulatory Blood Pressure Monitoring and Treatment of Hypertension Investigators.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1065-72
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Ambulatory blood pressure (ABP) monitoring is used increasingly in clinical practice, but how it affects treatment of blood pressure has not been determined.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To compare conventional blood pressure (CBP) measurement and ABP measurement in the management of hypertensive patients.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Multicenter, randomized, parallel-group trial.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      Family practices and outpatient clinics at regional and university hospitals.
+     </abstracttext>
+     <abstracttext label="PARTICIPANTS" nlmcategory="METHODS">
+      A total of 419 patients (&gt; or =18 years), whose untreated diastolic blood pressure (DBP) on CBP measurement averaged 95 mm Hg or higher, randomized to CBP or ABP arms.
+     </abstracttext>
+     <abstracttext label="INTERVENTIONS" nlmcategory="METHODS">
+      Antihypertensive drug treatment was adjusted in a stepwise fashion based on either the average daytime (from 10 AM to 8 PM) ambulatory DBP (n=213) or the average of 3 sitting DBP readings (n=206). If the DBP guiding treatment was above (&gt;89 mm Hg), at (80-89 mm Hg), or below (&lt;80 mm Hg) target, 1 physician blinded to the patients' randomization intensified antihypertensive treatment, left it unchanged, or reduced it, respectively.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      The CBP and ABP levels, intensity of drug treatment, electrocardiographic and echocardiographic left ventricular mass, symptoms reported by questionnaire, and cost.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      At the end of the study (median follow-up, 182 days; 5th to 95th percentile interval, 85-258 days), more ABP than CBP patients had stopped antihypertensive drug treatment (26.3% vs 7.3%; P&lt;.001), and fewer ABP patients had progressed to sustained multiple-drug treatment (27.2% vs 42.7%; P&lt;.001). The final CBP and 24-hour ABP averaged 144.1/89.9 mm Hg and 129.4/79.5 mm Hg in the ABP group and 140.3/89.6 mm Hg and 128.0/79.1 mm Hg in the CBP group. Left ventricular mass and reported symptoms were similar in the 2 groups. The potential savings in the ABP group in terms of less intensive drug treatment and fewer physician visits were offset by the costs of ABP monitoring.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Adjustment of antihypertensive treatment based on ABP monitoring instead of CBP measurement led to less intensive drug treatment with preservation of blood pressure control, general well-being, and inhibition of left ventricular enlargement but did not reduce the overall costs of antihypertensive treatment.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Hypertensie en Cardiovasculaire Revalidatie Eenheid, Departement voor Moleculair en Cardiovasculaire Onderzoek, Katholieke Universiteit Leuven, Belgium. jan.staessen@med.kuleuven.ac.be
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Staessen
+      </lastname>
+      <forename>
+       J A
+      </forename>
+      <initials>
+       JA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Byttebier
+      </lastname>
+      <forename>
+       G
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Buntinx
+      </lastname>
+      <forename>
+       F
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Celis
+      </lastname>
+      <forename>
+       H
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       O'Brien
+      </lastname>
+      <forename>
+       E T
+      </forename>
+      <initials>
+       ET
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Fagard
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antihypertensive Agents
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 1998 May-Jun;128(3):64
+     </refsource>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 1997 Oct 1;278(13):1110
+     </refsource>
+     <pmid version="1">
+      9315772
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 1998 Jan 21;279(3):196-7
+     </refsource>
+     <pmid version="1">
+      9438736
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antihypertensive Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      Belgium
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Pressure Determination
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Pressure Monitoring, Ambulatory
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cost-Benefit Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Family Practice
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hospitals, University
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertension
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertrophy, Left Ventricular
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Outpatient Clinics, Hospital
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Statistics, Nonparametric
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Survival Analysis
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1997
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      7
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1997
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      7
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1997
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      7
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     9315764
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

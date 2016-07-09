@@ -1,0 +1,427 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    17636776
+   </pmid>
+   <datecreated>
+    <year>
+     2007
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     19
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2007
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     18
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Electronic">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       3
+      </issue>
+      <pubdate>
+       <year>
+        2007
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Selective serotonin reuptake inhibitors (SSRIs) for depressive disorders in children and adolescents.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD004851
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Depressive disorders are common in young people and are associated with significant negative impacts. Selective serotonin reuptake inhibitors (SSRIs) are often used, however, evidence of their effectiveness in children and adolescents is not clear. Furthermore, there have been warnings against their use in this population due to concerns about increased risk of suicidal ideation and behaviour.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To determine the efficacy and adverse outcomes, including definitive suicidal behaviour and suicidal ideation, of SSRIs compared to placebo in the treatment of depressive disorders in children and adolescents.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      We searched the CCDAN Trials Register, MEDLINE, PSYCHINFO and CENTRAL. Reference lists were checked, letters were sent to key researchers and internet databases searched.
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      We included published and unpublished randomised controlled trials.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      Two or three review authors selected the trials, assessed the quality and extracted trial and outcome data. We used a fixed-effect meta-analysis. The relative risk was used to summarise dichotomous outcomes and the mean difference to summarise continuous measures.
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      Twelve trials were eligible for inclusion, with ten providing usable data. At 8-12 weeks, there was evidence that children and adolescents 'responded' to treatment with SSRIs (RR 1.28, 95% CI 1.17 to 1.41). There was also evidence of an increased risk of suicidal ideation and behaviour for those prescribed SSRIs (RR 1.80, 95% CI 1.19 to 2.72). Fluoxetine was the only SSRI where there was consistent evidence from three trials that it was effective in reducing depression symptoms in both children and adolescents (CDRS-R treatment effect -5.63, 95% CI -7.38 to -3.88), and 'response' to treatment (RR 1.86, 95% CI 1.49 to 2.32). Where rates of adverse events were reported, this was higher for those prescribed SSRIs.
+     </abstracttext>
+     <abstracttext label="AUTHORS' CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Caution is required to interpret the results. First, there were methodological issues, including high attrition, issues regarding measurement instruments and clinical usefulness of outcomes, often variously defined across trials. Second, patients seen in clinical practice are likely to be more unwell, and at greater risk of suicide, compared to those in the trials, and it is unclear how this group would respond to SSRIs. This needs to be considered, along with the evidence of an increased risk of suicide related outcomes in those treated with SSRIs. It is unclear what the effect of SSRIs is on suicide completion. While untreated depression is associated with the risk of completed suicide and impacts on functioning, it is unclear whether SSRIs would modify this risk in a clinically meaningful way.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     ORYGEN Research Centre, Department of Psychiatry, University of Melbourne, Locked Bag 10, 35 Poplar Road, Parkville, Melbourne, Victoria, Australia, 3054. shetrick@unimelb.edu.au
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Hetrick
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Merry
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McKenzie
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sindahl
+      </lastname>
+      <forename>
+       P
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Proctor
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2007
+     </year>
+     <month>
+      07
+     </month>
+     <day>
+      18
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antidepressive Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Serotonin Uptake Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      54910-89-3
+     </registrynumber>
+     <nameofsubstance>
+      Fluoxetine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      59729-33-8
+     </registrynumber>
+     <nameofsubstance>
+      Citalopram
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      61869-08-7
+     </registrynumber>
+     <nameofsubstance>
+      Paroxetine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      79617-96-2
+     </registrynumber>
+     <nameofsubstance>
+      Sertraline
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antidepressive Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Citalopram
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Depressive Disorder
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      psychology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fluoxetine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Paroxetine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Serotonin Uptake Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sertraline
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Suicide
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      psychology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    127
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2007
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2007
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2007
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    epublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="doi">
+     10.1002/14651858.CD004851.pub2
+    </articleid>
+    <articleid idtype="pubmed">
+     17636776
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

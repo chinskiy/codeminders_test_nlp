@@ -1,0 +1,389 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15026401
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     17
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     22
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1538-3598
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       291
+      </volume>
+      <issue>
+       11
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Mar
+       </month>
+       <day>
+        17
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Cardiovascular prognosis of "masked hypertension" detected by blood pressure self-measurement in elderly treated hypertensive patients.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1342-9
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Blood pressure (BP) measurement in clinicians' offices with a mercury sphygmomanometer has numerous drawbacks. In contrast, the use of home BP measurement improves measurement precision and reproducibility. However, data about its prognostic value are lacking.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To assess the prognostic value of home vs office BP measurement by general practitioners in a European population of elderly patients being treated for hypertension.
+     </abstracttext>
+     <abstracttext label="DESIGN, SETTING, AND PARTICIPANTS" nlmcategory="METHODS">
+      Office and home BP and cardiac risk factors were measured at baseline in a cohort of 4939 treated hypertensive patients (mean age, 70 [SD, 6.5] years; 48.9% men) who were recruited and followed up by their usual general practitioners without specific recommendations about their management. The cohort was then followed up for a mean of 3.2 (SD, 0.5) years. The thresholds defining uncontrolled hypertension were at least 140/90 mm Hg for office BP and 135/85 mm Hg for home BP.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      The primary end point was cardiovascular mortality. Secondary end points were total mortality and the combination of cardiovascular mortality, nonfatal myocardial infarction, nonfatal stroke, transient ischemic attack, hospitalization for angina or heart failure, percutaneous transluminal coronary angioplasty, or coronary artery bypass graft surgery.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      At the end of follow-up, clinical status was known for 99.9% of patients. At least 1 cardiovascular event had occurred in 324 (incidence, 22.2/1000 patient-years). For BP self-measurement at home, each 10-mm Hg increase in systolic BP increased the risk of a cardiovascular event by 17.2% (95% confidence interval [CI], 11.0%-23.8%) and each 5-mm Hg increase in diastolic BP increased that risk by 11.7% (95% CI, 5.7%-18.1%). Conversely, for the same increase in BP observed using office measurement, there was no significant increase in the risk of a cardiovascular event. In a multivariable model with patients having controlled hypertension (normal home and office BP) as the referent, the hazard ratio of cardiovascular events was 1.96 (95% CI, 1.27-3.02) in patients with uncontrolled hypertension (high BP with both measurement methods), 2.06 (95% CI, 1.22-3.47) in patients with normal office BP and elevated home BP, and 1.18 (95% CI, 0.67-2.10) in patients with elevated office BP and normal home BP.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Our findings suggest that home BP measurement has a better prognostic accuracy than office BP measurement. Blood pressure should systematically be measured at home in patients receiving treatment for hypertension.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Service d'Hypertension Artérielle, Hôpital Européen Georges Pompidou, Paris, France. guillaume.bobrie@hop.egp.ap-hop-paris.fr
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Bobrie
+      </lastname>
+      <forename>
+       Guillaume
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Chatellier
+      </lastname>
+      <forename>
+       Gilles
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Genes
+      </lastname>
+      <forename>
+       Nathalie
+      </forename>
+      <initials>
+       N
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Clerson
+      </lastname>
+      <forename>
+       Pierre
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Vaur
+      </lastname>
+      <forename>
+       Laurent
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Vaisse
+      </lastname>
+      <forename>
+       Bernard
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Menard
+      </lastname>
+      <forename>
+       Joël
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Mallion
+      </lastname>
+      <forename>
+       Jean-Michel
+      </forename>
+      <initials>
+       JM
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Blood Pressure Determination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cardiovascular Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cohort Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Family Practice
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertension
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Office Visits
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prognosis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Self Care
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sphygmomanometers
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      23
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     15026401
+    </articleid>
+    <articleid idtype="doi">
+     10.1001/jama.291.11.1342
+    </articleid>
+    <articleid idtype="pii">
+     291/11/1342
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

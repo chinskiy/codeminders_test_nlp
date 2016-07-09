@@ -1,0 +1,403 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10426254
+   </pmid>
+   <datecreated>
+    <year>
+     1999
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     11
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1999
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     11
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0306-5456
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       106
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        1999
+       </year>
+       <month>
+        Jan
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      British journal of obstetrics and gynaecology
+     </title>
+     <isoabbreviation>
+      Br J Obstet Gynaecol
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Screening for endometrial cancer in asymptomatic postmenopausal women with conventional and colour Doppler sonography.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      14-20
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To evaluate endometrial thickness and uterine arterial flow measurement as predictors of endometrial cancer.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Prospective study among a cohort of women invited to age-adjusted, population-based breast cancer screening by mammography.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      City of Turku, Finland.
+     </abstracttext>
+     <abstracttext label="POPULATION" nlmcategory="METHODS">
+      1074 postmenopausal women aged 57-61 years (mean 59 years).
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Conventional and colour Doppler sonography. Endometrial biopsy was taken when the endometrial thickness (double layer) was &gt; or = 4.0 mm, if the uterine artery pulsatility index was &lt; or = 1.0 or if there was a fluid accumulation in the endometrial cavity.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      Detection of endometrial cancer in endometrial biopsy. Record linkage with the files of the Finnish Cancer Registry three and a half years after the first ultrasound examination. Major statistical results are based on the analysis of variance and logistic regression models.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      An endometrial biopsy was taken from 291 women (27%). One woman had endometrial tuberculosis, three an endometrial polyp, 16 endometrial hyperplasia, three endometrial carcinoma (Stage Ib), and one had cervical carcinoma (Stage Ib). One woman was diagnosed as having endometrial cancer Stage Ib two and a half years after screening; she had refused further examination after a positive screen. A second endometrial cancer (Stage Ib) was diagnosed three years after a negative screening result.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Transvaginal sonography is confirmed to have a very high sensitivity for the detection of early endometrial carcinoma, but the specificity remains low. If endometrial cancer is to be detected at an early stage, further examinations should be carried out when the endometrial thickness is &gt; or = 4.0 mm, especially when the woman has risk factors such as obesity, late menopause or current use of hormonal replacement therapy. Doppler sonography does not improve the detection of premalignant and malignant endometrial lesions compared with normal ultrasound.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Obstetrics and Gynaecology, University of Turku, Finland.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Vuento
+      </lastname>
+      <forename>
+       M H
+      </forename>
+      <initials>
+       MH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pirhonen
+      </lastname>
+      <forename>
+       J P
+      </forename>
+      <initials>
+       JP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Mäkinen
+      </lastname>
+      <forename>
+       J I
+      </forename>
+      <initials>
+       JI
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tyrkkö
+      </lastname>
+      <forename>
+       J E
+      </forename>
+      <initials>
+       JE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Laippala
+      </lastname>
+      <forename>
+       P J
+      </forename>
+      <initials>
+       PJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Grönroos
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Salmi
+      </lastname>
+      <forename>
+       T A
+      </forename>
+      <initials>
+       TA
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Controlled Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     ENGLAND
+    </country>
+    <medlineta>
+     Br J Obstet Gynaecol
+    </medlineta>
+    <nlmuniqueid>
+     7503752
+    </nlmuniqueid>
+    <issnlinking>
+     0306-5456
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Br J Obstet Gynaecol. 1999 Jun;106(6):612-3
+     </refsource>
+     <pmid version="1">
+      10426629
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Br J Obstet Gynaecol. 1999 Nov;106(11):1229-30
+     </refsource>
+     <pmid version="1">
+      10549976
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Biopsy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Endometrial Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      ultrasonography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Estrogen Replacement Therapy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      Finland
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Mass Screening
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Postmenopause
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pulsatile Flow
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Ultrasonography, Doppler, Color
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Uterus
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood supply
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1999
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      30
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2000
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      4
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1999
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      30
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10426254
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

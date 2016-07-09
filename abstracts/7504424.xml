@@ -1,0 +1,506 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    7504424
+   </pmid>
+   <datecreated>
+    <year>
+     1994
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     03
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1994
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     03
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0003-4819
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       120
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        1994
+       </year>
+       <month>
+        Jan
+       </month>
+       <day>
+        1
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Annals of internal medicine
+     </title>
+     <isoabbreviation>
+      Ann. Intern. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Transmission of hepatitis A to patients with hemophilia by factor VIII concentrates treated with organic solvent and detergent to inactivate viruses. The Italian Collaborative Group.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1-7
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To determine whether an outbreak of hepatitis A virus (HAV) infection that occurred in 52 patients with hemophilia in Italy was acquired through infusion of contaminated factor VIII or through environmental enteric transmission.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      A case-control study and a molecular analysis of HAV sequences from implicated lots of factor VIII and from infected patients.
+     </abstracttext>
+     <abstracttext label="PATIENTS" nlmcategory="METHODS">
+      The first 29 patients with hemophilia and jaundice in whom hepatitis A developed were compared with one to three matched controls with hemophilia but no jaundice.
+     </abstracttext>
+     <abstracttext label="MEASUREMENTS" nlmcategory="METHODS">
+      Type of concentrate and batches infused, number of doses, contacts with persons who had jaundice or hepatitis A, travel abroad to countries reported to have a high attack rate for hepatitis A, and consumption of raw shellfish. Hepatitis A viral sequences sought by polymerase chain reaction in lots of factor VIII and in serial serum samples from two patients with hemophilia in whom hepatitis A developed. Amplification by polymerase chain reaction of cDNA transcribed with reverse transcriptase from matched sets of factor VIII and recipient serum samples. Determination of nucleotide sequence of amplified hepatitis A virus genome.
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      Case patients were neither more nor less likely than controls to have traveled to high-risk countries, consumed raw shellfish, or had contact with persons with jaundice. Case patients were more likely than controls to have received a factor VIII concentrate treated with a solvent-detergent mixture to inactivate viruses (odds ratio, infinity; 95% CI, 4.5 to infinity) and to have had larger infusions of the concentrate during the presumed HAV incubation period (odds ratio, 8.54; CI, 2.78 to 27.5). Hepatitis A viral sequences were found in 5 of 12 tested lots of factor VIII. Genomic sequences of HAV obtained for two matched sets of factor VIII and recipient serum samples were identical within each set but different for the two sets.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Hepatitis A was transmitted by a factor VIII concentrate treated by a virucidal method (solvent-detergent) that ineffectively inactivates nonenveloped viruses.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Angelo Bianchi Bonomi Hemophilia and Thrombosis Center, IRCCS Maggiore Hospital, Milan, Italy.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Mannucci
+      </lastname>
+      <forename>
+       P M
+      </forename>
+      <initials>
+       PM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gdovin
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gringeri
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Colombo
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Mele
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schinaia
+      </lastname>
+      <forename>
+       N
+      </forename>
+      <initials>
+       N
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ciavarella
+      </lastname>
+      <forename>
+       N
+      </forename>
+      <initials>
+       N
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Emerson
+      </lastname>
+      <forename>
+       S U
+      </forename>
+      <initials>
+       SU
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Purcell
+      </lastname>
+      <forename>
+       R H
+      </forename>
+      <initials>
+       RH
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       N01-AI-05069
+      </grantid>
+      <acronym>
+       AI
+      </acronym>
+      <agency>
+       NIAID NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Ann Intern Med
+    </medlineta>
+    <nlmuniqueid>
+     0372351
+    </nlmuniqueid>
+    <issnlinking>
+     0003-4819
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      DNA, Viral
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Detergents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Solvents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      9001-27-8
+     </registrynumber>
+     <nameofsubstance>
+      Factor VIII
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      EC 2.7.7.49
+     </registrynumber>
+     <nameofsubstance>
+      RNA-Directed DNA Polymerase
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Ann Intern Med. 1994 Jan 1;120(1):82-4
+     </refsource>
+     <pmid version="1">
+      8250462
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Animals
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Base Sequence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Case-Control Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      DNA, Viral
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      analysis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Detergents
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Drug Contamination
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Factor VIII
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hemophilia A
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hepatitis A
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      transmission
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hepatovirus
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      genetics
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Molecular Sequence Data
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Odds Ratio
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pan troglodytes
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Polymerase Chain Reaction
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      RNA-Directed DNA Polymerase
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Solvents
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1994
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1994
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1994
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     7504424
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,334 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11711507
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     16
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     07
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1524-4563
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       38
+      </volume>
+      <issue>
+       5
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Nov
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Hypertension
+     </title>
+     <isoabbreviation>
+      Hypertension
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Effects of alcohol reduction on blood pressure: a meta-analysis of randomized controlled trials.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1112-7
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Alcohol drinking has been associated with increased blood pressure in epidemiological studies. We conducted a meta-analysis of randomized controlled trials to assess the effects of alcohol reduction on blood pressure. We included 15 randomized control trials (total of 2234 participants) published before June 1999 in which alcohol reduction was the only intervention difference between active and control treatment groups. Using a standard protocol, information on sample size, participant characteristics, study design, intervention methods, duration, and treatment results was abstracted independently by 3 investigators. By means of a fixed-effects model, findings from individual trials were pooled after results for each trial were weighted by the inverse of its variance. Overall, alcohol reduction was associated with a significant reduction in mean (95% confidence interval) systolic and diastolic blood pressures of -3.31 mm Hg (-2.52 to -4.10 mm Hg) and -2.04 mm Hg (-1.49 to -2.58 mm Hg), respectively. A dose-response relationship was observed between mean percentage of alcohol reduction and mean blood pressure reduction. Effects of intervention were enhanced in those with higher baseline blood pressure. Our study suggests that alcohol reduction should be recommended as an important component of lifestyle modification for the prevention and treatment of hypertension among heavy drinkers.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Epidemiology, School of Public Health and Tropical Medicine, Tulane University, New Orleans, La, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Xin
+      </lastname>
+      <forename>
+       X
+      </forename>
+      <initials>
+       X
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       He
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Frontini
+      </lastname>
+      <forename>
+       M G
+      </forename>
+      <initials>
+       MG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ogden
+      </lastname>
+      <forename>
+       L G
+      </forename>
+      <initials>
+       LG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Motsamai
+      </lastname>
+      <forename>
+       O I
+      </forename>
+      <initials>
+       OI
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Whelton
+      </lastname>
+      <forename>
+       P K
+      </forename>
+      <initials>
+       PK
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       R01HL60300
+      </grantid>
+      <acronym>
+       HL
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Hypertension
+    </medlineta>
+    <nlmuniqueid>
+     7906255
+    </nlmuniqueid>
+    <issnlinking>
+     0194-911X
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Alcohol Drinking
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Pressure
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertension
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Publication Bias
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Regression Analysis
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      17
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      17
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11711507
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    9508226
+   </pmid>
+   <datecreated>
+    <year>
+     1998
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     24
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1998
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     24
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0003-9926
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       158
+      </volume>
+      <issue>
+       5
+      </issue>
+      <pubdate>
+       <year>
+        1998
+       </year>
+       <month>
+        Mar
+       </month>
+       <day>
+        9
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Archives of internal medicine
+     </title>
+     <isoabbreviation>
+      Arch. Intern. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Reference values for self-recorded blood pressure: a meta-analysis of summary data.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      481-8
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      The widespread clinical use of self-recorded blood pressure measurement is limited by the lack of generally accepted reference values. The purpose of this study was therefore to perform a meta-analysis of summary data in an attempt to determine an operational threshold for self-recorded blood pressures. STUDIES AND METHODS: Seventeen studies, including a total of 5422 subjects, were reviewed. Eight of these 17 studies included both normotensive and untreated hypertensive subjects, while the other 9 reports included normotensive subjects only. Within each study an operational cutoff point between normotension and hypertension was derived by means of the mean+2 SDs and the 95th percentiles of the self-recorded blood pressure in normotensive subjects. These 2 methods were contrasted with 2 other techniques that have been applied in the literature to calculate (1) the self-recorded pressures equivalent to a conventional pressure of 140 mm Hg systolic and 90 mm Hg diastolic by means of regression analysis and (2) the self-recorded blood pressures at the percentiles corresponding to a conventional pressure of 140/90 mm Hg. The latter 2 methods were applied in untreated subjects not selected on the basis of their blood pressure.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      With weighting for the number of subjects included in the various studies, the self-recorded blood pressure averaged 115/71 mm Hg in normotensive persons and 119/74 mm Hg in untreated subjects not selected on the basis of their blood pressure. The reference values for self-recorded blood pressures determined by the mean+2 SDs (137/89 mm Hg) or the 95th percentile (135/86 mm Hg) of the distribution in normotensive subjects were concordant within 2/3 mm Hg, whereas the cutoff points derived with the regression and percentile methods were considerably lower, ie, 125/79 and 129/84 mm Hg, respectively.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Until the relationship between self-recorded pressure and the incidence of cardiovascular morbidity and mortality is further clarified by prospective studies, a mean self-recorded blood pressure above 135 mm Hg systolic or 85 mm Hg diastolic may be considered hypertensive.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Molecular and Cardiovascular Research, University of Leuven, Belgium. Lutgarde.Thijs@med.kuleuven.ac.be
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Thijs
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Staessen
+      </lastname>
+      <forename>
+       J A
+      </forename>
+      <initials>
+       JA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Celis
+      </lastname>
+      <forename>
+       H
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       de Gaudemaris
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Imai
+      </lastname>
+      <forename>
+       Y
+      </forename>
+      <initials>
+       Y
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Julius
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Fagard
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Arch Intern Med
+    </medlineta>
+    <nlmuniqueid>
+     0372440
+    </nlmuniqueid>
+    <issnlinking>
+     0003-9926
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Arch Intern Med. 1999 Oct 25;159(19):2365-6
+     </refsource>
+     <pmid version="1">
+      10547179
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Arch Intern Med. 1998 Mar 9;158(5):425
+     </refsource>
+     <pmid version="1">
+      9508218
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Pressure Determination
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Blood Pressure Monitoring, Ambulatory
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diagnosis, Differential
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertension
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Reference Values
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Self Care
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1998
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      21
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1998
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1998
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     9508226
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

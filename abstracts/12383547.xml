@@ -1,0 +1,407 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12383547
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     17
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     07
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0029-7844
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       100
+      </volume>
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Oct
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Obstetrics and gynecology
+     </title>
+     <isoabbreviation>
+      Obstet Gynecol
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Douching in relation to bacterial vaginosis, lactobacilli, and facultative bacteria in the vagina.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      765
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To study how frequency, recentness, and reason for douching impact bacterial vaginosis-related vaginal microflora and the occurrence of cervical pathogens. Douching has been linked to bacterial vaginosis as well as to chlamydial cervicitis in some, but not all, studies.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      A total of 1200 women at high risk for sexually transmitted infections were enrolled from five clinical sites around the United States. Cross-sectional, structured interviews were conducted and vaginal swabs were self-obtained for Gram stain, culture, and DNA amplification tests for Neisseria gonorrhoeae and Chlamydia trachomatis.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Douching at least once per month was associated with an increased frequency of bacterial vaginosis. Those who douched recently (within 7 days) were at highest risk [odds ratio (OR) 2.1, 95% confidence interval (CI) 1.3, 3.1]. Douching for symptoms (OR 1.7, 95% CI 1.1, 2.6) and for hygiene (OR 1.3, 95% CI 1.0, 1.9) both related to bacterial vaginosis risk. The associations between douching and Gardnerella vaginalis, Mycoplasma hominis, and lack of hydrogen peroxide-producing lactobacilli were similar to those between douching and bacterial vaginosis. Gonococcal or chlamydial cervicitis was not associated with douching.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Douching for symptoms or hygiene, particularly frequent or recent douching, was associated with bacterial vaginosis and bacterial vaginosis-associated vaginal microflora, but not with gonococcal or chlamydial cervicitis.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Graduate School of Public Health, University of Pittsburgh, Pittsburgh, Pennsylvania 15261, USA. repro@pitt.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Ness
+      </lastname>
+      <forename>
+       Roberta B
+      </forename>
+      <initials>
+       RB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hillier
+      </lastname>
+      <forename>
+       Sharon L
+      </forename>
+      <initials>
+       SL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Richter
+      </lastname>
+      <forename>
+       Holly E
+      </forename>
+      <initials>
+       HE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Soper
+      </lastname>
+      <forename>
+       David E
+      </forename>
+      <initials>
+       DE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Stamm
+      </lastname>
+      <forename>
+       Carol
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McGregor
+      </lastname>
+      <forename>
+       James
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bass
+      </lastname>
+      <forename>
+       Debra C
+      </forename>
+      <initials>
+       DC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sweet
+      </lastname>
+      <forename>
+       Richard L
+      </forename>
+      <initials>
+       RL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rice
+      </lastname>
+      <forename>
+       Peter
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       AI44151-01
+      </grantid>
+      <acronym>
+       AI
+      </acronym>
+      <agency>
+       NIAID NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Obstet Gynecol
+    </medlineta>
+    <nlmuniqueid>
+     0401101
+    </nlmuniqueid>
+    <issnlinking>
+     0029-7844
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lactobacillus
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      isolation &amp; purification
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Logistic Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Therapeutic Irrigation
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Time Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      United States
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Uterine Cervicitis
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      microbiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vagina
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      microbiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vaginosis, Bacterial
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      microbiology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12383547
+    </articleid>
+    <articleid idtype="pii">
+     S0029784402021841
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

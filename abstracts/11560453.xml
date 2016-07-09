@@ -1,0 +1,421 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11560453
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     18
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     04
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0003-4819
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       135
+      </volume>
+      <issue>
+       6
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Sep
+       </month>
+       <day>
+        18
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Annals of internal medicine
+     </title>
+     <isoabbreviation>
+      Ann. Intern. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Diagnostic tests for renal artery stenosis in patients suspected of having renovascular hypertension: a meta-analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      401-11
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="PURPOSE" nlmcategory="OBJECTIVE">
+      To summarize and compare the validity of computed tomography angiography, magnetic resonance angiography, ultrasonography, captopril renal scintigraphy, and the captopril test for diagnosis of renal artery stenosis in patients suspected of having renovascular hypertension.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      For each diagnostic modality, published studies were identified by MEDLINE literature searches.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION" nlmcategory="METHODS">
+      Original studies were selected if they met the following criteria: 1) suspicion of renovascular hypertension was the indication for the test; 2) intra-arterial x-ray angiography was used as the gold standard; 3) a cutoff point for a positive test result was explicitly defined; and 4) absolute numbers of true-positive, false-negative, true-negative, and false-positive results were available or could be derived from the presented data.
+     </abstracttext>
+     <abstracttext label="DATA EXTRACTION" nlmcategory="METHODS">
+      A standard form was used to extract relevant data.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      Data on the accuracy of the different diagnostic methods were analyzed and compared by constructing summary receiver-operating characteristic (ROC) curves and by computing areas under the summary ROC curves.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Although accuracy varied greatly for all diagnostic modalities, summary ROC curves found that computed tomography angiography and gadolinium-enhanced, three-dimensional magnetic resonance angiography performed significantly better than the other diagnostic tests.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Computed tomography angiography and gadolinium-enhanced three-dimensional magnetic resonance angiography seem to be preferred in patients referred for evaluation of renovascular hypertension. However, because few studies of these tests have been published, further research is recommended.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Radiology, Box 5800, University Hospital of Maastricht, NL-6202 AZ Maastricht, the Netherlands.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Vasbinder
+      </lastname>
+      <forename>
+       G B
+      </forename>
+      <initials>
+       GB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Nelemans
+      </lastname>
+      <forename>
+       P J
+      </forename>
+      <initials>
+       PJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kessels
+      </lastname>
+      <forename>
+       A G
+      </forename>
+      <initials>
+       AG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kroon
+      </lastname>
+      <forename>
+       A A
+      </forename>
+      <initials>
+       AA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       de Leeuw
+      </lastname>
+      <forename>
+       P W
+      </forename>
+      <initials>
+       PW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       van Engelshoven
+      </lastname>
+      <forename>
+       J M
+      </forename>
+      <initials>
+       JM
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Ann Intern Med
+    </medlineta>
+    <nlmuniqueid>
+     0372351
+    </nlmuniqueid>
+    <issnlinking>
+     0003-4819
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Angiotensin-Converting Enzyme Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Radioisotopes
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      62571-86-2
+     </registrynumber>
+     <nameofsubstance>
+      Captopril
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      7440-54-2
+     </registrynumber>
+     <nameofsubstance>
+      Gadolinium
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2002 Mar-Apr;136(2):69
+     </refsource>
+     <pmid version="1">
+      11874294
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Angiotensin-Converting Enzyme Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnostic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Captopril
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnostic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Gadolinium
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnostic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertension, Renovascular
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Linear Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Magnetic Resonance Angiography
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      ROC Curve
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Radioisotopes
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnostic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Renal Artery Obstruction
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      radionuclide imaging
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      ultrasonography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Reproducibility of Results
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tomography, X-Ray Computed
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11560453
+    </articleid>
+    <articleid idtype="pii">
+     200109180-00009
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

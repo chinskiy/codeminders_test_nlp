@@ -1,0 +1,467 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    16274376
+   </pmid>
+   <datecreated>
+    <year>
+     2005
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     08
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2006
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     25
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2008
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     10
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0002-8614
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       53
+      </volume>
+      <issue>
+       11
+      </issue>
+      <pubdate>
+       <year>
+        2005
+       </year>
+       <month>
+        Nov
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of the American Geriatrics Society
+     </title>
+     <isoabbreviation>
+      J Am Geriatr Soc
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Cardiovascular risk factors predictive for survival and morbidity-free survival in the oldest-old Framingham Heart Study participants.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1944-50
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To examine whether midlife cardiovascular risk factors predict survival and survival free of major comorbidities to the age of 85.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Prospective community-based cohort study.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      Framingham Heart Study, Massachusetts.
+     </abstracttext>
+     <abstracttext label="PARTICIPANTS" nlmcategory="METHODS">
+      Two thousand five hundred thirty-one individuals (1,422 women) who attended at least two examinations between the ages of 40 and 50.
+     </abstracttext>
+     <abstracttext label="MEASUREMENTS" nlmcategory="METHODS">
+      Risk factors were classified at routine examinations performed between the ages of 40 and 50. Stepwise sex-adjusted logistic regression models predicting the outcomes of survival and survival free of morbidity to age 85 were selected from the following risk factors: systolic and diastolic blood pressure, total serum cholesterol, glucose intolerance, cigarette smoking, education, body mass index, physical activity index, pulse pressure, antihypertensive medication, and electrocardiographic left ventricular hypertrophy.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      More than one-third of the study sample survived to age 85, and 22% of the original study sample survived free of morbidity. Lower midlife blood pressure and total cholesterol levels, absence of glucose intolerance, nonsmoking status, higher educational attainment, and female sex predicted overall and morbidity-free survival. The predicted probability of survival to age 85 fell in the presence of accumulating risk factors: 37% for men with no risk factors to 2% with all five risk factors and 65% for women with no risk factors to 14% with all five risk factors.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Lower levels of key cardiovascular risk factors in middle age predicted overall survival and major morbidity-free survival to age 85. Recognizing and modifying these factors may delay, if not prevent, age-related morbidity and mortality.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Geriatrics, Boston Medical Center, School of Medicine, Boston University, Boston, Massachusetts 02118, USA. laterry@bu.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Terry
+      </lastname>
+      <forename>
+       Dellara F
+      </forename>
+      <initials>
+       DF
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pencina
+      </lastname>
+      <forename>
+       Michael J
+      </forename>
+      <initials>
+       MJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Vasan
+      </lastname>
+      <forename>
+       Ramachandran S
+      </forename>
+      <initials>
+       RS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Murabito
+      </lastname>
+      <forename>
+       Joanne M
+      </forename>
+      <initials>
+       JM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wolf
+      </lastname>
+      <forename>
+       Philip A
+      </forename>
+      <initials>
+       PA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hayes
+      </lastname>
+      <forename>
+       Margaret Kelly
+      </forename>
+      <initials>
+       MK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Levy
+      </lastname>
+      <forename>
+       Daniel
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       D'Agostino
+      </lastname>
+      <forename>
+       Ralph B
+      </forename>
+      <initials>
+       RB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Benjamin
+      </lastname>
+      <forename>
+       Emelia J
+      </forename>
+      <initials>
+       EJ
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       1 K08 AG022785
+      </grantid>
+      <acronym>
+       AG
+      </acronym>
+      <agency>
+       NIA NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       5R01-NS-17950
+      </grantid>
+      <acronym>
+       NS
+      </acronym>
+      <agency>
+       NINDS NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       K24-HL-04334
+      </grantid>
+      <acronym>
+       HL
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       N01-HC-25195
+      </grantid>
+      <acronym>
+       HC
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, N.I.H., Extramural
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     J Am Geriatr Soc
+    </medlineta>
+    <nlmuniqueid>
+     7503062
+    </nlmuniqueid>
+    <issnlinking>
+     0002-8614
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Academic Medical Centers
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      Boston
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cardiovascular Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      mortality
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Chronic Disease
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cohort Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Comorbidity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Disease-Free Survival
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Health Behavior
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Health Knowledge, Attitudes, Practice
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Longitudinal Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Survival Analysis
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2005
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2006
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2005
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     JGS465
+    </articleid>
+    <articleid idtype="doi">
+     10.1111/j.1532-5415.2005.00465.x
+    </articleid>
+    <articleid idtype="pubmed">
+     16274376
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

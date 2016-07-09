@@ -1,0 +1,332 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12490470
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     19
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     16
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2008
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0361-803X
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       180
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Jan
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      AJR. American journal of roentgenology
+     </title>
+     <isoabbreviation>
+      AJR Am J Roentgenol
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Accuracy of MR imaging of the knee in adolescents.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      17-9
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      A report in the orthopedics literature states that MR imaging for internal derangement of the knee has a lower accuracy in adolescents than in adults and may even provide spurious information that alters clinical management. This assertion has not been specifically addressed in the radiology literature. The purpose of our study was to determine the accuracy of MR imaging in adolescents with regard to injury of the cruciate ligaments and menisci.
+     </abstracttext>
+     <abstracttext label="MATERIALS AND METHODS" nlmcategory="METHODS">
+      A database search of our institution's records from January 1998 to July 2000 yielded 2140 MR examinations of the knee, all of which had been performed with a standard knee protocol on a 1.5-T magnet. Of these 2140 examinations, 156 included patients younger than 18 years. Fifty-nine of these patients underwent surgery, and the orthopedic surgeons' operative reports were used as the gold standard with which the MR imaging results were compared. Thirty-four boys and 25 girls who ranged in age from 11 to 17 years (mean age, 15 years) were examined. The clinical notes for the remaining 97 patients were evaluated for information about management and clinical improvement.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The sensitivity and specificity values for MR imaging of the menisci and cruciate ligaments in adolescents were as follows: medial meniscus, 92% sensitivity and 87% specificity; lateral meniscus, 93% sensitivity and 95% specificity; anterior cruciate ligament, 100% sensitivity and 100% specificity; and posterior cruciate ligament, 0% sensitivity and 100% specificity.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Our data suggest that MR imaging of the knee in adolescents is sensitive, specific, and accurate.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Radiology, Duke University Medical Center, Box 3808, Durham, NC 27710, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Major
+      </lastname>
+      <forename>
+       Nancy M
+      </forename>
+      <initials>
+       NM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Beard
+      </lastname>
+      <forename>
+       L Neal
+      </forename>
+      <initials>
+       LN
+      </initials>
+      <suffix>
+       Jr
+      </suffix>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Helms
+      </lastname>
+      <forename>
+       Clyde A
+      </forename>
+      <initials>
+       CA
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Comment
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     AJR Am J Roentgenol
+    </medlineta>
+    <nlmuniqueid>
+     7708173
+    </nlmuniqueid>
+    <issnlinking>
+     0361-803X
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentOn">
+     <refsource>
+      Am J Sports Med. 1998 Jan-Feb;26(1):2-6
+     </refsource>
+     <pmid version="1">
+      9474394
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anterior Cruciate Ligament
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      injuries
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Knee Injuries
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Knee Joint
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      pathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Magnetic Resonance Imaging
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Menisci, Tibial
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      injuries
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Posterior Cruciate Ligament
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      injuries
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Retrospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      17
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12490470
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

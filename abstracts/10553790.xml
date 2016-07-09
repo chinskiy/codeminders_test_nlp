@@ -1,0 +1,452 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10553790
+   </pmid>
+   <datecreated>
+    <year>
+     1999
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1999
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       282
+      </volume>
+      <issue>
+       17
+      </issue>
+      <pubdate>
+       <year>
+        1999
+       </year>
+       <month>
+        Nov
+       </month>
+       <day>
+        3
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Evaluation of prognostic criteria for determining hospice eligibility in patients with advanced lung, heart, or liver disease. SUPPORT Investigators. Study to Understand Prognoses and Preferences for Outcomes and Risks of Treatments.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1638-45
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Many individuals involved with care of the dying advocate expanding access to hospice care for persons with advanced lung, heart, or liver disease. However, to be eligible, these patients generally must have a prognosis for survival of less than 6 months.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To test the ability of currently available criteria to identify a population with a survival prognosis of 6 months or less among seriously ill hospitalized patients with 1 of 3 commonly fatal chronic diseases.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Validation study using data from the Study to Understand Prognoses and Preferences for Outcomes and Risks of Treatments (SUPPORT) phase 1 (June 1989-June 1991) and phase 2 (January 1992-January 1994), with a 6-month follow-up.
+     </abstracttext>
+     <abstracttext label="SETTING AND PATIENTS" nlmcategory="METHODS">
+      Consecutive sample of 2607 seriously ill patients from 5 US medical centers who were hospitalized with chronic obstructive pulmonary disease, congestive heart failure, or end-stage liver disease, and who survived to hospital discharge.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      Descriptive and operating characteristics of 5 general and 2 disease-specific clinical criteria for identifying patients with a survival prognosis of 6 months or less, and 3 sets of combination criteria (broad, intermediate, and narrow inclusion) aimed at providing low, medium, and high thresholds for hospice eligibility based on National Hospice Organization guidelines.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Seventy-five percent of the sample survived more than 6 months after hospital discharge; 44% expressed a preference for palliative care. Broad inclusion criteria identified 923 patients eligible for hospice care, of whom 70% survived longer than 6 months. Intermediate inclusion criteria identified 300 patients, of whom 65% survived longer than 6 months. Narrow inclusion criteria identified 19 patients, of whom 53% survived longer than 6 months. Sensitivities and specificities of the combination criteria were 41.7% and 66.7% (broad inclusion), 16.2% and 90.1 % (intermediate inclusion), and 1.4% and 99.5% (narrow inclusion), respectively.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      These data indicate that for seriously ill hospitalized patients with advanced chronic obstructive pulmonary disease, congestive heart failure, or end-stage liver disease, recommended clinical prediction criteria are not effective in identifying a population with a survival prognosis of 6 months or less.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Center to Improve Care of the Dying, George Washington University School of Medicine and Health Sciences, Department of Veterans Affairs, Washington, DC 20420, USA. ellen.fox@mail.va.gov
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Fox
+      </lastname>
+      <forename>
+       E
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Landrum-McNiff
+      </lastname>
+      <forename>
+       K
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Zhong
+      </lastname>
+      <forename>
+       Z
+      </forename>
+      <initials>
+       Z
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dawson
+      </lastname>
+      <forename>
+       N V
+      </forename>
+      <initials>
+       NV
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wu
+      </lastname>
+      <forename>
+       A W
+      </forename>
+      <initials>
+       AW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lynn
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    E
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2000 May 17;283(19):2527
+     </refsource>
+     <pmid version="1">
+      10815114
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 1999 Nov 3;282(17):1670-2
+     </refsource>
+     <pmid version="1">
+      10553796
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Eligibility Determination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Guidelines as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Health Services Accessibility
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heart Failure
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      classification
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hospices
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      standards
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      utilization
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Likelihood Functions
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Liver Failure
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      classification
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lung Diseases, Obstructive
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      classification
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Prognosis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Reproducibility of Results
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Severity of Illness Index
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Survival Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Terminally Ill
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Uncertainty
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="KIE">
+    65657
+   </otherid>
+   <keywordlist owner="KIE">
+    <keyword majortopicyn="N">
+     Death and Euthanasia
+    </keyword>
+    <keyword majortopicyn="N">
+     Empirical Approach
+    </keyword>
+    <keyword majortopicyn="N">
+     National Hospice Organization
+    </keyword>
+    <keyword majortopicyn="Y">
+     Study to Understand Prognoses and Preferences for Outcomes and Risks of Treatments (SUPPORT)
+    </keyword>
+   </keywordlist>
+   <generalnote owner="KIE">
+    KIE BoB Subject Heading: terminal care/hospices
+   </generalnote>
+   <generalnote owner="KIE">
+    For the SUPPORT Investigators
+   </generalnote>
+   <generalnote owner="KIE">
+    Full author name: Fox, Ellen
+   </generalnote>
+   <generalnote owner="KIE">
+    Full author name: Landrum-McNiff, Kristen
+   </generalnote>
+   <generalnote owner="KIE">
+    Full author name: Zhong, Zhenshao
+   </generalnote>
+   <generalnote owner="KIE">
+    Full author name: Dawson, Neal V
+   </generalnote>
+   <generalnote owner="KIE">
+    Full author name: Wu, Albert W
+   </generalnote>
+   <generalnote owner="KIE">
+    Full author name: Lynn, Joanne
+   </generalnote>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1999
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      30
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      14
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1999
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      30
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10553790
+    </articleid>
+    <articleid idtype="pii">
+     joc90676
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

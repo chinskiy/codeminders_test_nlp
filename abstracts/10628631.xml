@@ -1,0 +1,418 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10628631
+   </pmid>
+   <datecreated>
+    <year>
+     2000
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     27
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2000
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     27
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2008
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     21
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0090-3493
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       27
+      </volume>
+      <issue>
+       12
+      </issue>
+      <pubdate>
+       <year>
+        1999
+       </year>
+       <month>
+        Dec
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Critical care medicine
+     </title>
+     <isoabbreviation>
+      Crit. Care Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Risk factors for clinically important upper gastrointestinal bleeding in patients requiring mechanical ventilation. Canadian Critical Care Trials Group.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      2812-7
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To evaluate the incidence and risk factors for clinically important upper gastrointestinal bleeding in critically ill patients requiring mechanical ventilation.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      In duplicate, blinded adjudicators determined the presence of clinically important gastrointestinal bleeding using a priori criteria, evaluating relevant clinical, laboratory, and diagnostic data. Cox proportional hazards regression analyses were used to examine baseline and time-dependent risk factors for bleeding.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      Sixteen university-affiliated intensive care units (ICUs) in Canada.
+     </abstracttext>
+     <abstracttext label="PATIENTS" nlmcategory="METHODS">
+      A total of 1,077 critically ill ICU patients ventilated for at least 48 hrs.
+     </abstracttext>
+     <abstracttext label="INTERVENTIONS" nlmcategory="METHODS">
+      Patients were randomized to stress ulcer prophylaxis with intravenous ranitidine or nasogastric sucralfate; otherwise, management was at the discretion of the ICU team.
+     </abstracttext>
+     <abstracttext label="MEASUREMENTS AND MAIN RESULTS" nlmcategory="RESULTS">
+      Demographic data included patient characteristics, Acute Physiology and Chronic Health Evaluation II score, and multiple organ dysfunction (MOD) score. Each day in the ICU, physiologic measurements including MOD score, feeding, and other treatment variables were recorded. The significant risk factors for upper gastrointestinal bleeding in the univariable analyses were low platelet count, maximum serum creatinine, maximum MOD score, maximum pulmonary component of the MOD score, maximum hepatic component of the MOD score, maximum renal component of the MOD score, enteral nutrition, and stress ulcer prophylaxis with ranitidine. The only independent predictors of bleeding in the multivariable analysis were maximum serum creatinine (relative risk = 1.16 [95% confidence interval = 1.02-1.32]), enteral nutrition (relative risk = 0.30 [95% confidence interval = 0.13-0.67]), and ranitidine administration (relative risk = 0.39 [95% confidence interval = 0.17-0.83]).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      In critically ill ventilated patients, renal failure was independently associated with an increased risk of clinically important gastrointestinal bleeding, whereas enteral nutrition and stress ulcer prophylaxis with ranitidine conferred significantly lower bleeding rates.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Medicine, McMaster University, Hamilton, ON, Canada.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Cook
+      </lastname>
+      <forename>
+       D
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Heyland
+      </lastname>
+      <forename>
+       D
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Griffith
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cook
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Marshall
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pagliarello
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Crit Care Med
+    </medlineta>
+    <nlmuniqueid>
+     0355501
+    </nlmuniqueid>
+    <issnlinking>
+     0090-3493
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      54182-58-0
+     </registrynumber>
+     <nameofsubstance>
+      Sucralfate
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      66357-35-5
+     </registrynumber>
+     <nameofsubstance>
+      Ranitidine
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Crit Care Med. 1999 Dec;27(12):2846-7
+     </refsource>
+     <pmid version="1">
+      10628648
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      APACHE
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Enteral Nutrition
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Gastrointestinal Hemorrhage
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Incidence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Intensive Care Units
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Length of Stay
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Peptic Ulcer
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Proportional Hazards Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ranitidine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Respiration, Artificial
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Stress, Physiological
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      complications
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sucralfate
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      11
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2000
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      11
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      11
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10628631
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

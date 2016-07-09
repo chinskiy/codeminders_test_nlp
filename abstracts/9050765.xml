@@ -1,0 +1,293 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    9050765
+   </pmid>
+   <datecreated>
+    <year>
+     1997
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     23
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1997
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     23
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     03
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0736-8046
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       14
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <medlinedate>
+        1997 Jan-Feb
+       </medlinedate>
+      </pubdate>
+     </journalissue>
+     <title>
+      Pediatric dermatology
+     </title>
+     <isoabbreviation>
+      Pediatr Dermatol
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Lack of efficacy of 6-week treatment with oral terbinafine for tinea capitis due to Microsporum canis in children.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      46-8
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Twenty-two children aged 2 to 9 years with noninflammatory tinea capitis due to Microsporum canis were evaluated in an open clinical pilot study run from January 1994 to July 1995. Each child was given oral terbinafine according to body weight for 6 weeks. Mycologic evaluation was done at the end of treatment and after follow-up periods of 4 and 8 weeks. None of the patients achieved complete mycologic cure by the end of the treatment period. Four weeks later complete mycologic cure was established in nine patients, and on final evaluation in seven. The treatment was very well tolerated by all the children. No systemic adverse effects were noted. According to our data, a 6-week course of oral terbinafine is inadequate for tinea capitis due to M. canis in children. Further study is needed to determine the most appropriate duration of therapy.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     University Medical Centre Ljubljana, Department of Dermatology, Slovenia.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Dragos
+      </lastname>
+      <forename>
+       V
+      </forename>
+      <initials>
+       V
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lunder
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Pediatr Dermatol
+    </medlineta>
+    <nlmuniqueid>
+     8406799
+    </nlmuniqueid>
+    <issnlinking>
+     0736-8046
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antifungal Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Naphthalenes
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      91161-71-6
+     </registrynumber>
+     <nameofsubstance>
+      terbinafine
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Administration, Oral
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antifungal Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Administration Schedule
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Microsporum
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Naphthalenes
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tinea Capitis
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      microbiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1997
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1997
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1997
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     9050765
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

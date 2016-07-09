@@ -1,0 +1,625 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10030325
+   </pmid>
+   <datecreated>
+    <year>
+     1999
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     11
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1999
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     11
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0140-6736
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       353
+      </volume>
+      <issue>
+       9153
+      </issue>
+      <pubdate>
+       <year>
+        1999
+       </year>
+       <month>
+        Feb
+       </month>
+       <day>
+        20
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Lancet
+     </title>
+     <isoabbreviation>
+      Lancet
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Effect of angiotensin-converting-enzyme inhibition compared with conventional therapy on cardiovascular morbidity and mortality in hypertension: the Captopril Prevention Project (CAPPP) randomised trial.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      611-6
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Angiotensin-converting-enzyme (ACE) inhibitors have been used for more than a decade to treat high blood pressure, despite the lack of data from randomised intervention trials to show that such treatment affects cardiovascular morbidity and mortality. The Captopril Prevention Project (CAPPP) is a randomised intervention trial to compare the effects of ACE inhibition and conventional therapy on cardiovascular morbidity and mortality in patients with hypertension.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      CAPPP was a prospective, randomised, open trial with blinded endpoint evaluation. 10,985 patients were enrolled at 536 health centres in Sweden and Finland. Patients aged 25-66 years with a measured diastolic blood pressure of 100 mm Hg or more on two occasions were randomly assigned captopril or conventional antihypertensive treatment (diuretics, beta-blockers). Analysis was by intention-to-treat. The primary endpoint was a composite of fatal and non-fatal myocardial infarction, stroke, and other cardiovascular deaths.
+     </abstracttext>
+     <abstracttext label="FINDINGS" nlmcategory="RESULTS">
+      Of 5492 patients assigned captopril and 5493 assigned conventional therapy, 14 and 13, respectively, were lost to follow-up. Primary endpoint events occurred in 363 patients in the captopril group (11.1 per 1000 patient-years) and 335 in the conventional-treatment group (10.2 per 1000 patient-years; relative risk 1.05 [95% CI 0.90-1.22], p=0-52). Cardiovascular mortality was lower with captopril than with conventional treatment (76 vs 95 events; relative risk 0.77 [0.57-1-04], p=0.092), the rate of fatal and non-fatal myocardial infarction was similar (162 vs 161), but fatal and non-fatal stroke was more common with captopril (189 vs 148; 1.25 [1-01-1-55]. p=0.044).
+     </abstracttext>
+     <abstracttext label="INTERPRETATION" nlmcategory="CONCLUSIONS">
+      Captopril and conventional treatment did not differ in efficacy in preventing cardiovascular morbidity and mortality. The difference in stroke risk is probably due to the lower levels of blood pressure obtained initially in previously treated patients randomised to conventional therapy.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Public Health and Social Sciences, University of Uppsala, Sweden.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Hansson
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lindholm
+      </lastname>
+      <forename>
+       L H
+      </forename>
+      <initials>
+       LH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Niskanen
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lanke
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hedner
+      </lastname>
+      <forename>
+       T
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Niklason
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Luomanmäki
+      </lastname>
+      <forename>
+       K
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dahlöf
+      </lastname>
+      <forename>
+       B
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       de Faire
+      </lastname>
+      <forename>
+       U
+      </forename>
+      <initials>
+       U
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Mörlin
+      </lastname>
+      <forename>
+       C
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Karlberg
+      </lastname>
+      <forename>
+       B E
+      </forename>
+      <initials>
+       BE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wester
+      </lastname>
+      <forename>
+       P O
+      </forename>
+      <initials>
+       PO
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Björck
+      </lastname>
+      <forename>
+       J E
+      </forename>
+      <initials>
+       JE
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     ENGLAND
+    </country>
+    <medlineta>
+     Lancet
+    </medlineta>
+    <nlmuniqueid>
+     2985213R
+    </nlmuniqueid>
+    <issnlinking>
+     0140-6736
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Adrenergic beta-Antagonists
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Angiotensin-Converting Enzyme Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antihypertensive Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Diuretics
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      62571-86-2
+     </registrynumber>
+     <nameofsubstance>
+      Captopril
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2001 Dec 8;358(9297):1995-6
+     </refsource>
+     <pmid version="1">
+      11747948
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2000 Dec 2;356(9245):1929-30
+     </refsource>
+     <pmid version="1">
+      11130406
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2000 Dec 2;356(9245):1927; author reply 1928-9
+     </refsource>
+     <pmid version="1">
+      11130405
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2000 Feb 19;355(9204):652; author reply 653
+     </refsource>
+     <pmid version="1">
+      10697002
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 1999 Feb 20;353(9153):604-5
+     </refsource>
+     <pmid version="1">
+      10030320
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 1999 Jul-Aug;131(1):18
+     </refsource>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2000 Apr 1;355(9210):1181-2; author reply 1183-4
+     </refsource>
+     <pmid version="1">
+      10791398
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2000 Apr 1;355(9210):1183; author reply 1183-4
+     </refsource>
+     <pmid version="1">
+      10791401
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 1999 Jul 3;354(9172):73
+     </refsource>
+     <pmid version="1">
+      10406390
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adrenergic beta-Antagonists
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Angiotensin-Converting Enzyme Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antihypertensive Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Pressure
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Captopril
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cause of Death
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cerebrovascular Disorders
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Confidence Intervals
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diuretics
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Follow-Up Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heart Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertension
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Intervention Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Myocardial Infarction
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Survival Rate
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1999
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      3
+     </hour>
+     <minute>
+      4
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2000
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1999
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      3
+     </hour>
+     <minute>
+      4
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10030325
+    </articleid>
+    <articleid idtype="pii">
+     S0140673698050120
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

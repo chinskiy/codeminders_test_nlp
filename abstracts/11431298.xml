@@ -1,0 +1,518 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11431298
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     29
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     26
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0959-8138
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       322
+      </volume>
+      <issue>
+       7302
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Jun
+       </month>
+       <day>
+        30
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      BMJ (Clinical research ed.)
+     </title>
+     <isoabbreviation>
+      BMJ
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Randomised trial of cranberry-lingonberry juice and Lactobacillus GG drink for the prevention of urinary tract infections in women.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1571
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To determine whether recurrences of urinary tract infection can be prevented with cranberry-lingonberry juice or with Lactobacillus GG drink. Design: Open, randomised controlled 12 month follow up trial.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      Health centres for university students and staff of university hospital.
+     </abstracttext>
+     <abstracttext label="PARTICIPANTS" nlmcategory="METHODS">
+      150 women with urinary tract infection caused by Escherichia coli randomly allocated into three groups. Interventions: 50 ml of cranberry-lingonberry juice concentrate daily for six months or 100 ml of lactobacillus drink five days a week for one year, or no intervention. Main outcome measure: First recurrence of symptomatic urinary tract infection, defined as bacterial growth &gt;/=10(5 )colony forming units/ml in a clean voided midstream urine specimen.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The cumulative rate of first recurrence of urinary tract infection during the 12 month follow up differed significantly between the groups (P=0.048). At six months, eight (16%) women in the cranberry group, 19 (39%) in the lactobacillus group, and 18 (36%) in the control group had had at least one recurrence. This is a 20% reduction in absolute risk in the cranberry group compared with the control group (95% confidence interval 3% to 36%, P=0.023, number needed to treat=5, 95% confidence interval 3 to 34).
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Regular drinking of cranberry juice but not lactobacillus seems to reduce the recurrence of urinary tract infection.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Pediatrics, University of Oulu, Oulu, Fin-90220, Finland. terokontiokari@oulu.fi
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Kontiokari
+      </lastname>
+      <forename>
+       T
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sundqvist
+      </lastname>
+      <forename>
+       K
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Nuutinen
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pokka
+      </lastname>
+      <forename>
+       T
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Koskela
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Uhari
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     BMJ
+    </medlineta>
+    <nlmuniqueid>
+     8900488
+    </nlmuniqueid>
+    <issnlinking>
+     0959-535X
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Appl Environ Microbiol. 1994 Apr;60(4):1374-8
+     </refsource>
+     <pmid version="1">
+      16349244
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Pediatr. 1999 Dec;135(6):698-702
+     </refsource>
+     <pmid version="1">
+      10586171
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1999 Feb 24;281(8):736-8
+     </refsource>
+     <pmid version="1">
+      10052444
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1998 Oct 8;339(15):1085-6
+     </refsource>
+     <pmid version="1">
+      9767006
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Urol. 1998 Feb;159(2):559-62
+     </refsource>
+     <pmid version="1">
+      9649291
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Infect Dis. 1996 Jan;22(1):91-9
+     </refsource>
+     <pmid version="1">
+      8824972
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int J Food Microbiol. 1995 Apr;25(2):199-203
+     </refsource>
+     <pmid version="1">
+      7547151
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1994 Mar 9;271(10):751-4
+     </refsource>
+     <pmid version="1">
+      8093138
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1993 Sep 9;329(11):753-6
+     </refsource>
+     <pmid version="1">
+      8350884
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Ther. 1992 Jan-Feb;14(1):11-6
+     </refsource>
+     <pmid version="1">
+      1576619
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1991 May 30;324(22):1599
+     </refsource>
+     <pmid version="1">
+      1674106
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Microbios. 1988;55(224-225):173-81
+     </refsource>
+     <pmid version="1">
+      3063927
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Antimicrob Agents Chemother. 1989 Jan;33(1):92-8
+     </refsource>
+     <pmid version="1">
+      2653218
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Epidemiol. 1987 Oct;126(4):685-94
+     </refsource>
+     <pmid version="1">
+      3631058
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Infect Immun. 1985 Jan;47(1):84-9
+     </refsource>
+     <pmid version="1">
+      3917428
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Urol. 1984 May;131(5):1013-6
+     </refsource>
+     <pmid version="1">
+      6368872
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Mol Cell Biochem. 2001 Jan;216(1-2):1-7
+     </refsource>
+     <pmid version="1">
+      11216853
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Phytochemistry. 2000 May;54(2):173-81
+     </refsource>
+     <pmid version="1">
+      10872208
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Epidemiol. 2000 Nov;10(8):509-15
+     </refsource>
+     <pmid version="1">
+      11118930
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      BMJ. 2001 Oct 20;323(7318):936
+     </refsource>
+     <pmid version="1">
+      11668146
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Evid Based Nurs. 2002 Apr;5(2):43
+     </refsource>
+     <pmid version="1">
+      11995646
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Beverages
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Escherichia coli Infections
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Follow-Up Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Fruit
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Lactobacillus
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Recurrence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Urinary Tract Infections
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      microbiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC33514
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      30
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      30
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11431298
+    </articleid>
+    <articleid idtype="pmc">
+     PMC33514
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

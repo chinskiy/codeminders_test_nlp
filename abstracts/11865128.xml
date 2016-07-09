@@ -1,0 +1,394 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11865128
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     26
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     15
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0028-3878
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       58
+      </volume>
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Feb
+       </month>
+       <day>
+        26
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Neurology
+     </title>
+     <isoabbreviation>
+      Neurology
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Treatment of ADHD in children with tics: a randomized controlled trial.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      527-36
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      The treatment of children with attention deficit hyperactivity disorder (ADHD) and Tourette syndrome (TS) has been problematic because methylphenidate (MPH)--the most commonly used drug to treat ADHD--has been reported to worsen tics and because clonidine (CLON)--the most commonly prescribed alternative--has unproven efficacy.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      The authors conducted a multicenter, randomized, double-blind clinical trial in which 136 children with ADHD and a chronic tic disorder were randomly administered CLON alone, MPH alone, combined CLON + MPH, or placebo (2 x 2 factorial design). Each subject participated for 16 weeks (weeks 1-4 CLON/placebo dose titration, weeks 5-8 added MPH/placebo dose titration, weeks 9-16 maintenance therapy).
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Thirty-seven children were administered MPH alone, 34 were administered CLON alone, 33 were administered CLON + MPH, and 32 were administered placebo. For our primary outcome measure of ADHD (Conners Abbreviated Symptom Questionnaire--Teacher), significant improvement occurred for subjects assigned to CLON (p &lt; 0.002) and those assigned to MPH (p &lt; 0.003). Compared with placebo, the greatest benefit occurred with combined CLON + MPH (p &lt; 0.0001). CLON appeared to be most helpful for impulsivity and hyperactivity; MPH appeared to be most helpful for inattention. The proportion of individual subjects reporting a worsening of tics as an adverse effect was no higher in those treated with MPH (20%) than those being administered CLON alone (26%) or placebo (22%). Compared with placebo, measured tic severity lessened in all active treatment groups in the following order: CLON + MPH, CLON alone, MPH alone. Sedation was common with CLON treatment (28% reported moderate or severe sedation), but otherwise the drugs were tolerated well, including absence of any evident cardiac toxicity.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Methylphenidate and clonidine (particularly in combination) are effective for ADHD in children with comorbid tics. Prior recommendations to avoid methylphenidate in these children because of concerns of worsening tics are unsupported by this trial.
+     </abstracttext>
+    </abstract>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <collectivename>
+       Tourette's Syndrome Study Group
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       1R01NS33654
+      </grantid>
+      <acronym>
+       NS
+      </acronym>
+      <agency>
+       NINDS NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Neurology
+    </medlineta>
+    <nlmuniqueid>
+     0401060
+    </nlmuniqueid>
+    <issnlinking>
+     0028-3878
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Adrenergic alpha-Agonists
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Central Nervous System Stimulants
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      113-45-1
+     </registrynumber>
+     <nameofsubstance>
+      Methylphenidate
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      4205-90-7
+     </registrynumber>
+     <nameofsubstance>
+      Clonidine
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Evid Based Ment Health. 2002 Nov;5(4):122
+     </refsource>
+     <pmid version="1">
+      12440463
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2002 Sep-Oct;137(2):70
+     </refsource>
+     <pmid version="1">
+      12207448
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Neurology. 2002 Feb 26;58(4):513-4
+     </refsource>
+     <pmid version="1">
+      11865123
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adrenergic alpha-Agonists
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Attention Deficit Disorder with Hyperactivity
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Central Nervous System Stimulants
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Clonidine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Confidence Intervals
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Therapy, Combination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Methylphenidate
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Questionnaires
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tic Disorders
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11865128
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

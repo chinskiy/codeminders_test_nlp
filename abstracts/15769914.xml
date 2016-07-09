@@ -1,0 +1,616 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15769914
+   </pmid>
+   <datecreated>
+    <year>
+     2005
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     16
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     25
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0003-4967
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       64
+      </volume>
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <year>
+        2005
+       </year>
+       <month>
+        Apr
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Annals of the rheumatic diseases
+     </title>
+     <isoabbreviation>
+      Ann. Rheum. Dis.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Aerobic walking or strengthening exercise for osteoarthritis of the knee? A systematic review.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      544-8
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To compare the efficacy of aerobic walking and home based quadriceps strengthening exercises in patients with knee osteoarthritis.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      The Medline, Pubmed, EMBASE, CINAHL, and PEDro databases and the Cochrane controlled trials register were searched for randomised controlled trials (RCTs) of subjects with knee osteoarthritis comparing aerobic walking or home based quadriceps strengthening exercise with a non-exercise control group. Methodological quality of retrieved RCTs was assessed. Outcome data were abstracted for pain and self reported disability and the effect size calculated for each outcome. RCTs were grouped according to exercise mode and the data pooled using both fixed and random effects models.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      35 RCTs were identified, 13 of which met inclusion criteria and provided data suitable for further analysis. Pooled effect sizes for pain were 0.52 for aerobic walking and 0.39 for quadriceps strengthening. For self reported disability, pooled effect sizes were 0.46 for aerobic walking and 0.32 for quadriceps strengthening.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Both aerobic walking and home based quadriceps strengthening exercise reduce pain and disability from knee osteoarthritis but no difference between them was found on indirect comparison.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Academic Rheumatology, Nottingham City Hospital, Nottingham NG5 1PB, UK. edward.roddy@nottingham.ac.uk
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Roddy
+      </lastname>
+      <forename>
+       E
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Zhang
+      </lastname>
+      <forename>
+       W
+      </forename>
+      <initials>
+       W
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Doherty
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Ann Rheum Dis
+    </medlineta>
+    <nlmuniqueid>
+     0372355
+    </nlmuniqueid>
+    <issnlinking>
+     0003-4967
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Intern Med. 1992 Apr 1;116(7):529-34
+     </refsource>
+     <pmid version="1">
+      1543305
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Rheum Dis. 2003 Dec;62(12):1145-55
+     </refsource>
+     <pmid version="1">
+      14644851
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 1989 Nov;32(11):1396-405
+     </refsource>
+     <pmid version="1">
+      2818656
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int Rehabil Med. 1982;4(2):101-6
+     </refsource>
+     <pmid version="1">
+      7174213
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Care Res. 1993 Mar;6(1):11-6
+     </refsource>
+     <pmid version="1">
+      8443252
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Nurs Res. 1996 Mar-Apr;45(2):68-72
+     </refsource>
+     <pmid version="1">
+      8604366
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Control Clin Trials. 1996 Feb;17(1):1-12
+     </refsource>
+     <pmid version="1">
+      8721797
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Pharm Ther. 1996 Aug;21(4):261-82
+     </refsource>
+     <pmid version="1">
+      8933301
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1997 Jan 1;277(1):25-31
+     </refsource>
+     <pmid version="1">
+      8980206
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Med Sci Sports Exerc. 1997 Aug;29(8):977-85
+     </refsource>
+     <pmid version="1">
+      9268953
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Care Res. 1997 Feb;10(1):48-55
+     </refsource>
+     <pmid version="1">
+      9313390
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Care Res. 1998 Apr;11(2):94-101
+     </refsource>
+     <pmid version="1">
+      9668732
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Care Res. 1998 Aug;11(4):228-33
+     </refsource>
+     <pmid version="1">
+      9791321
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Phys Med Rehabil. 1998 Nov;79(11):1421-7
+     </refsource>
+     <pmid version="1">
+      9821904
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Rheumatol. 1998 Dec;25(12):2432-9
+     </refsource>
+     <pmid version="1">
+      9858441
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Stat Med. 1991 Nov;10(11):1665-77
+     </refsource>
+     <pmid version="1">
+      1792461
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Rheum Dis. 1999 Jan;58(1):15-9
+     </refsource>
+     <pmid version="1">
+      10343535
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 1999 Jul;42(7):1361-9
+     </refsource>
+     <pmid version="1">
+      10403263
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Phys Med Rehabil. 1999 Oct;80(10):1293-9
+     </refsource>
+     <pmid version="1">
+      10527090
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Intern Med. 2000 Feb 1;132(3):173-81
+     </refsource>
+     <pmid version="1">
+      10651597
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Am Geriatr Soc. 2000 Feb;48(2):131-8
+     </refsource>
+     <pmid version="1">
+      10682941
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Rheumatol. 2000 Aug;27(8):1947-54
+     </refsource>
+     <pmid version="1">
+      10955337
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Rheumatol. 2000 Sep;27(9):2215-21
+     </refsource>
+     <pmid version="1">
+      10990236
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Rheumatol. 2001 Jan;28(1):156-64
+     </refsource>
+     <pmid version="1">
+      11196518
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 2001 Jun;45(3):228-34
+     </refsource>
+     <pmid version="1">
+      11409662
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Rheumatol. 2001 Jul;28(7):1655-65
+     </refsource>
+     <pmid version="1">
+      11469475
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Intern Med. 2001 Oct 22;161(19):2309-16
+     </refsource>
+     <pmid version="1">
+      11606146
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Rheum Dis. 2001 Dec;60(12):1123-30
+     </refsource>
+     <pmid version="1">
+      11709454
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Strength Cond Res. 2001 Aug;15(3):337-40
+     </refsource>
+     <pmid version="1">
+      11710661
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Gerontol B Psychol Sci Soc Sci. 2002 Mar;57(2):P124-32
+     </refsource>
+     <pmid version="1">
+      11867660
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Phys Med Rehabil. 2002 Mar;83(3):308-16
+     </refsource>
+     <pmid version="1">
+      11887109
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Med Assoc Thai. 2002 Jan;85(1):33-40
+     </refsource>
+     <pmid version="1">
+      12075718
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Rheumatol. 2002 Aug;29(8):1737-45
+     </refsource>
+     <pmid version="1">
+      12180738
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Phys Med Rehabil. 2002 Sep;83(9):1187-95
+     </refsource>
+     <pmid version="1">
+      12235596
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 2002 Oct 5;325(7367):752
+     </refsource>
+     <pmid version="1">
+      12364304
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Rehabil. 2002 Nov;16(7):749-60
+     </refsource>
+     <pmid version="1">
+      12428824
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Am Geriatr Soc. 2003 Mar;51(3):387-92
+     </refsource>
+     <pmid version="1">
+      12588583
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Rheumatol. 2003 Jun;30(6):1311-7
+     </refsource>
+     <pmid version="1">
+      12784408
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2005 Nov-Dec;143(3):71
+     </refsource>
+     <pmid version="1">
+      16262228
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Disability Evaluation
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Exercise
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Exercise Therapy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Osteoarthritis, Knee
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      rehabilitation
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pain
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Walking
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    44
+   </numberofreferences>
+   <otherid source="NLM">
+    PMC1755453
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2005
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      17
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2005
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      17
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     64/4/544
+    </articleid>
+    <articleid idtype="doi">
+     10.1136/ard.2004.028746
+    </articleid>
+    <articleid idtype="pubmed">
+     15769914
+    </articleid>
+    <articleid idtype="pmc">
+     PMC1755453
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

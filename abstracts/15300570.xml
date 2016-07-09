@@ -1,0 +1,547 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15300570
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     09
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     14
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2005
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0016-5085
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       127
+      </volume>
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Aug
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Gastroenterology
+     </title>
+     <isoabbreviation>
+      Gastroenterology
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Ulcer formation with low-dose enteric-coated aspirin and the effect of COX-2 selective inhibition: a double-blind trial.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      395-402
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND &amp; AIMS" nlmcategory="OBJECTIVE">
+      We assessed the risk of ulcers with low-dose aspirin and the interaction of low-dose aspirin with a COX-2 selective inhibitor in a double-blind trial that compared placebo, low-dose aspirin, rofecoxib + low-dose aspirin, and ibuprofen.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Osteoarthritis patients &gt; or =50 years of age without ulcers or erosive esophagitis at baseline endoscopy were assigned randomly to placebo, enteric-coated aspirin 81 mg/day, rofecoxib 25 mg combined with aspirin 81 mg/day, or ibuprofen 800 mg 3 times a day. Repeat endoscopies were performed at 6 and 12 weeks.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The 12-week cumulative incidence of ulcers was placebo (N = 381) 5.8%, aspirin (N = 387) 7.3%, rofecoxib combined with aspirin (N = 377) 16.1%, and ibuprofen (N = 374) 17.1% (P &lt; 0.001 for rofecoxib combined with aspirin and for ibuprofen vs. each of placebo and aspirin). Over 12 weeks, mean increases in the number of erosions were placebo 0.17, aspirin 0.85 (P = 0.002 vs. placebo), rofecoxib combined with aspirin 1.67, and ibuprofen 1.91 (both P &lt; 0.001 vs. aspirin and placebo).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Low-dose aspirin alone did not significantly increase ulcer incidence. Addition of a cyclooxygenase-2 (COX-2) selective inhibitor to low-dose aspirin increased ulcer incidence, to a rate not significantly less than a nonselective nonsteroidal anti-inflammatory drug (NSAID) alone. Determining the relative impact of COX-2 selective inhibitors and nonselective NSAIDs on gastrointestinal mucosal injury in low-dose aspirin users will require further study.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     University of Southern California School of Medicine, Department of Medicine, Los Angeles 90033, USA. llaine@usc.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Laine
+      </lastname>
+      <forename>
+       Loren
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Maller
+      </lastname>
+      <forename>
+       Eric S
+      </forename>
+      <initials>
+       ES
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Yu
+      </lastname>
+      <forename>
+       Chang
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Quan
+      </lastname>
+      <forename>
+       Hui
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Simon
+      </lastname>
+      <forename>
+       Thomas
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Gastroenterology
+    </medlineta>
+    <nlmuniqueid>
+     0374630
+    </nlmuniqueid>
+    <issnlinking>
+     0016-5085
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Inflammatory Agents, Non-Steroidal
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cyclooxygenase 2 Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cyclooxygenase Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Isoenzymes
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Lactones
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Membrane Proteins
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Sulfones
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Tablets, Enteric-Coated
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      rofecoxib
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      15687-27-1
+     </registrynumber>
+     <nameofsubstance>
+      Ibuprofen
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      50-78-2
+     </registrynumber>
+     <nameofsubstance>
+      Aspirin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      EC 1.14.99.1
+     </registrynumber>
+     <nameofsubstance>
+      Cyclooxygenase 2
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      EC 1.14.99.1
+     </registrynumber>
+     <nameofsubstance>
+      PTGS2 protein, human
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      EC 1.14.99.1
+     </registrynumber>
+     <nameofsubstance>
+      Prostaglandin-Endoperoxide Synthases
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Gastroenterology. 2005 Mar;128(3):807; author reply 807--8
+     </refsource>
+     <pmid version="1">
+      15765433
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Inflammatory Agents, Non-Steroidal
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aspirin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cyclooxygenase 2
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cyclooxygenase 2 Inhibitors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cyclooxygenase Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Therapy, Combination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Gastric Mucosa
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ibuprofen
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Incidence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Isoenzymes
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      antagonists &amp; inhibitors
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lactones
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Membrane Proteins
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Osteoarthritis
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prostaglandin-Endoperoxide Synthases
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Stomach Ulcer
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      chemically induced
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sulfones
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tablets, Enteric-Coated
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      15
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     15300570
+    </articleid>
+    <articleid idtype="pii">
+     S0016508504008376
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

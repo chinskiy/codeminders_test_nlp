@@ -1,0 +1,505 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12821233
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     24
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     09
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0735-1097
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       41
+      </volume>
+      <issue>
+       12
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Jun
+       </month>
+       <day>
+        18
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of the American College of Cardiology
+     </title>
+     <isoabbreviation>
+      J. Am. Coll. Cardiol.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     A rapid protocol for the prevention of contrast-induced renal dysfunction: the RAPPID study.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      2114-8
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      This study was designed to test a rapid protocol of intravenous acetylcysteine for prevention of radiocontrast-induced nephropathy (RCIN).
+     </abstracttext>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Oral acetylcysteine (NAC) may provide better prophylaxis against RCIN than intravenous (i.v.) hydration alone. Current protocols preclude prophylaxis of same-day or emergency patients owing to the need for prolonged pretreatment.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We prospectively randomized 80 patients with stable renal dysfunction undergoing cardiac catheterization/intervention to a rapid protocol of i.v. NAC (150 mg/kg in 500 ml N/saline over 30 min immediately before contrast followed by 50 mg/kg in 500 ml N/saline over 4 h, n = 41, 67 +/- 10 years, 90% men) or i.v. hydration (1 ml/kg/h N/saline for 12 h pre- and post-contrast, n = 39, 71 +/- 8.8 years, 85% men).
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Radiocontrast-induced nephropathy occurred in 2 of the 41 patients in the NAC group (5%) and in 8 of the 39 patients in the hydration group (21%; p = 0.045; relative risk: 0.28; 95% confidence interval 0.08 to 0.98). In the NAC group, mean serum creatinine fell from 1.85 +/- 0.59 to 1.77 +/- 0.73 and 1.79 +/- 0.73 mg/dl 48 h and four days post-contrast (p = 0.02 and 0.023 vs. baseline, respectively). In the hydration group, serum creatinine increased from 1.75 +/- 0.41 to 1.81 +/- 0.6 48 h and 1.80 +/- 0.50 mg/dl four days post-contrast (p = 0.99 and 0.23, respectively). NAC infusion was ceased after the bolus in three patients (7%) due to flushing, itching, or a transient rash.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Administration of i.v. NAC should be considered in all patients at risk of RCIN before contrast exposure when time constraints preclude adequate oral prophylaxis, provided the patient is able to tolerate this degree of volume loading.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Cardiology, Charing Cross Hospital, Hammersmith Hospitals NHS Trust, London, United Kingdom. cbaker@hhnt.org
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Baker
+      </lastname>
+      <forename>
+       Christopher S R
+      </forename>
+      <initials>
+       CS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wragg
+      </lastname>
+      <forename>
+       Andrew
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kumar
+      </lastname>
+      <forename>
+       Sanjay
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       De Palma
+      </lastname>
+      <forename>
+       Rodney
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Baker
+      </lastname>
+      <forename>
+       Laurence R I
+      </forename>
+      <initials>
+       LR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Knight
+      </lastname>
+      <forename>
+       Charles J
+      </forename>
+      <initials>
+       CJ
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     J Am Coll Cardiol
+    </medlineta>
+    <nlmuniqueid>
+     8301365
+    </nlmuniqueid>
+    <issnlinking>
+     0735-1097
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Contrast Media
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Rehydration Solutions
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Triiodobenzoic Acids
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      60-27-5
+     </registrynumber>
+     <nameofsubstance>
+      Creatinine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      616-91-1
+     </registrynumber>
+     <nameofsubstance>
+      Acetylcysteine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      7647-14-5
+     </registrynumber>
+     <nameofsubstance>
+      Sodium Chloride
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      92339-11-2
+     </registrynumber>
+     <nameofsubstance>
+      iodixanol
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2004 Jan-Feb;140(1):16
+     </refsource>
+     <pmid version="1">
+      14711287
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Am Coll Cardiol. 2003 Dec 17;42(12):2169; author reply 2169-70
+     </refsource>
+     <pmid version="1">
+      14680748
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Am Coll Cardiol. 2003 Dec 17;42(12):2167; author reply 2167-9
+     </refsource>
+     <pmid version="1">
+      14680745
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Acetylcysteine
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Clinical Protocols
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Contrast Media
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Creatinine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Administration Schedule
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Therapy, Combination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heart Catheterization
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infusions, Intravenous
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Rehydration Solutions
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Renal Insufficiency
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      chemically induced
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sodium Chloride
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Time Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Triiodobenzoic Acids
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12821233
+    </articleid>
+    <articleid idtype="pii">
+     S073510970300487X
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

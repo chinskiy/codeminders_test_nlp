@@ -1,0 +1,769 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12435255
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     26
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       288
+      </volume>
+      <issue>
+       19
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Nov
+       </month>
+       <day>
+        20
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Effect of blood pressure lowering and antihypertensive drug class on progression of hypertensive kidney disease: results from the AASK trial.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      2421-31
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Hypertension is a leading cause of end-stage renal disease (ESRD) in the United States, with no known treatment to prevent progressive declines leading to ESRD.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To compare the effects of 2 levels of blood pressure (BP) control and 3 antihypertensive drug classes on glomerular filtration rate (GFR) decline in hypertension.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Randomized 3 x 2 factorial trial with enrollment from February 1995 to September 1998.
+     </abstracttext>
+     <abstracttext label="SETTING AND PARTICIPANTS" nlmcategory="METHODS">
+      A total of 1094 African Americans aged 18 to 70 years with hypertensive renal disease (GFR, 20-65 mL/min per 1.73 m(2)) were recruited from 21 clinical centers throughout the United States and followed up for 3 to 6.4 years.
+     </abstracttext>
+     <abstracttext label="INTERVENTIONS" nlmcategory="METHODS">
+      Participants were randomly assigned to 1 of 2 mean arterial pressure goals, 102 to 107 mm Hg (usual; n = 554) or 92 mm Hg or less (lower; n = 540), and to initial treatment with either a beta-blocker (metoprolol 50-200 mg/d; n = 441), an angiotensin-converting enzyme inhibitor (ramipril 2.5-10 mg/d; n = 436) or a dihydropyridine calcium channel blocker, (amlodipine 5-10 mg/d; n = 217). Open-label agents were added to achieve the assigned BP goals.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      Rate of change in GFR (GFR slope); clinical composite outcome of reduction in GFR by 50% or more (or &gt; or =25 mL/min per 1.73 m2) from baseline, ESRD, or death. Three primary treatment comparisons were specified: lower vs usual BP goal; ramipril vs metoprolol; and amlodipine vs metoprolol.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Achieved BP averaged (SD) 128/78 (12/8) mm Hg in the lower BP group and 141/85 (12/7) mm Hg in the usual BP group. The mean (SE) GFR slope from baseline through 4 years did not differ significantly between the lower BP group (-2.21 [0.17] mL/min per 1.73 m2 per year) and the usual BP group (-1.95 [0.17] mL/min per 1.73 m2 per year; P =.24), and the lower BP goal did not significantly reduce the rate of the clinical composite outcome (risk reduction for lower BP group = 2%; 95% confidence interval [CI], -22% to 21%; P =.85). None of the drug group comparisons showed consistent significant differences in the GFR slope. However, compared with the metoprolol and amlodipine groups, the ramipril group manifested risk reductions in the clinical composite outcome of 22% (95% CI, 1%-38%; P =.04) and 38% (95% CI, 14%-56%; P =.004), respectively. There was no significant difference in the clinical composite outcome between the amlodipine and metoprolol groups.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      No additional benefit of slowing progression of hypertensive nephrosclerosis was observed with the lower BP goal. Angiotensin-converting enzyme inhibitors appear to be more effective than beta-blockers or dihydropyridine calcium channel blockers in slowing GFR decline.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Case Western Reserve University, Department of Medicine, University Hospitals of Cleveland and the Louis Stokes Cleveland Department of Veterans Affairs Medical Center, Cleveland, OH 44106-5014, USA. jxw20@po.cwru.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Wright
+      </lastname>
+      <forename>
+       Jackson T
+      </forename>
+      <initials>
+       JT
+      </initials>
+      <suffix>
+       Jr
+      </suffix>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bakris
+      </lastname>
+      <forename>
+       George
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Greene
+      </lastname>
+      <forename>
+       Tom
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Agodoa
+      </lastname>
+      <forename>
+       Larry Y
+      </forename>
+      <initials>
+       LY
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Appel
+      </lastname>
+      <forename>
+       Lawrence J
+      </forename>
+      <initials>
+       LJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Charleston
+      </lastname>
+      <forename>
+       Jeanne
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cheek
+      </lastname>
+      <forename>
+       DeAnna
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Douglas-Baltimore
+      </lastname>
+      <forename>
+       Janice G
+      </forename>
+      <initials>
+       JG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gassman
+      </lastname>
+      <forename>
+       Jennifer
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Glassock
+      </lastname>
+      <forename>
+       Richard
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hebert
+      </lastname>
+      <forename>
+       Lee
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jamerson
+      </lastname>
+      <forename>
+       Kenneth
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lewis
+      </lastname>
+      <forename>
+       Julia
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Phillips
+      </lastname>
+      <forename>
+       Robert A
+      </forename>
+      <initials>
+       RA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Toto
+      </lastname>
+      <forename>
+       Robert D
+      </forename>
+      <initials>
+       RD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Middleton
+      </lastname>
+      <forename>
+       John P
+      </forename>
+      <initials>
+       JP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rostand
+      </lastname>
+      <forename>
+       Stephen G
+      </forename>
+      <initials>
+       SG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       African American Study of Kidney Disease and Hypertension Study Group
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       2P20 RR11104
+      </grantid>
+      <acronym>
+       RR
+      </acronym>
+      <agency>
+       NCRR NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       5M01 RR-00071
+      </grantid>
+      <acronym>
+       RR
+      </acronym>
+      <agency>
+       NCRR NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       DK 2818-02
+      </grantid>
+      <acronym>
+       DK
+      </acronym>
+      <agency>
+       NIDDK NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       M01 00032
+      </grantid>
+      <agency>
+       PHS HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       M01 RR-00080
+      </grantid>
+      <acronym>
+       RR
+      </acronym>
+      <agency>
+       NCRR NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       M01 RR00052
+      </grantid>
+      <acronym>
+       RR
+      </acronym>
+      <agency>
+       NCRR NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       M01 RR00827
+      </grantid>
+      <acronym>
+       RR
+      </acronym>
+      <agency>
+       NCRR NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       P20-RR11145
+      </grantid>
+      <acronym>
+       RR
+      </acronym>
+      <agency>
+       NCRR NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Adrenergic beta-Antagonists
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Angiotensin-Converting Enzyme Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antihypertensive Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Calcium Channel Blockers
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      37350-58-6
+     </registrynumber>
+     <nameofsubstance>
+      Metoprolol
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      87333-19-5
+     </registrynumber>
+     <nameofsubstance>
+      Ramipril
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      88150-42-9
+     </registrynumber>
+     <nameofsubstance>
+      Amlodipine
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2003 Mar 5;289(9):1102-3; author reply 1103
+     </refsource>
+     <pmid version="1">
+      12622571
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2003 Apr 23-30;289(16):2068; author reply 2069-70
+     </refsource>
+     <pmid version="1">
+      12709460
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2002 Nov 20;288(19):2466-7
+     </refsource>
+     <pmid version="1">
+      12435260
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="ErratumIn">
+     <refsource>
+      JAMA. 2006 Jun 21;295(23):2726
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adrenergic beta-Antagonists
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      African Americans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Amlodipine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Angiotensin-Converting Enzyme Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antihypertensive Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Pressure
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Calcium Channel Blockers
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Disease Progression
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Glomerular Filtration Rate
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertension
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Kidney Failure, Chronic
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Metoprolol
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Proportional Hazards Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Proteinuria
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ramipril
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12435255
+    </articleid>
+    <articleid idtype="pii">
+     joc20772
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

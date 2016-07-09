@@ -1,0 +1,415 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12728140
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     02
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     09
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1098-4275
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       111
+      </volume>
+      <issue>
+       5 Part 2
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        May
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Pediatrics
+     </title>
+     <isoabbreviation>
+      Pediatrics
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Sleep environment and the risk of sudden infant death syndrome in an urban population: the Chicago Infant Mortality Study.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1207-14
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To examine risk factors for sudden infant death syndrome (SIDS) with the goal of reducing SIDS mortality among blacks, which continues to affect this group at twice the rate of whites.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We analyzed data from a population-based case-control study of 260 SIDS deaths that occurred in Chicago between 1993 and 1996 and an equal number of matched living controls to determine the association between SIDS and factors in the sleep environment and other variables related to infant care.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The racial/ethnic composition of the study groups was 75.0% black; 13.1% Hispanic white; and 11.9% non-Hispanic white. Several factors related to the sleep environment during last sleep were associated with higher risk of SIDS: placement in the prone position (unadjusted odds ratio [OR]: 2.4; 95% confidence interval [CI]: 1.7-3.4), soft surface (OR: 5.1; 95% CI: 3.1-8.3), pillow use (OR: 2.5; 95% CI: 1.5-4.2), face and/or head covered with bedding (OR: 2.5; 95% CI: 1.3-4.6), bed sharing overall (OR: 2.7; 95% CI: 1.8-4.2), bed sharing with parent(s) alone (OR: 1.9; 95% CI: 1.2-3.1), and bed sharing in other combinations (OR: 5.4; 95% CI: 2.8-10.2). Pacifier use was associated with decreased risk (unadjusted OR: 0.3; 95% CI: 0.2-0.5), as was breastfeeding either ever (OR: 0.2; 95% CI: 0.1-0.3) or currently (OR: 0.2; 95% CI: 0.1-0.4). In a multivariate model, several factors remained significant: prone sleep position, soft surface, pillow use, bed sharing other than with parent(s) alone, and not using a pacifier.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      To lower further the SIDS rate among black and other racial/ethnic groups, prone sleeping, the use of soft bedding and pillows, and some types of bed sharing should be reduced.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Loyola University Chicago Stritch School of Medicine, Maywood, Illinois, USA. frh8e@virginia.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Hauck
+      </lastname>
+      <forename>
+       Fern R
+      </forename>
+      <initials>
+       FR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Herman
+      </lastname>
+      <forename>
+       Stanislaw M
+      </forename>
+      <initials>
+       SM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Donovan
+      </lastname>
+      <forename>
+       Mark
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Iyasu
+      </lastname>
+      <forename>
+       Solomon
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Merrick Moore
+      </lastname>
+      <forename>
+       Cathryn
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Donoghue
+      </lastname>
+      <forename>
+       Edmund
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kirschner
+      </lastname>
+      <forename>
+       Robert H
+      </forename>
+      <initials>
+       RH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Willinger
+      </lastname>
+      <forename>
+       Marian
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       N01-HD-3-3188
+      </grantid>
+      <acronym>
+       HD
+      </acronym>
+      <agency>
+       NICHD NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       U50/CCU300860-06
+      </grantid>
+      <acronym>
+       CC
+      </acronym>
+      <agency>
+       CDC HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Pediatrics
+    </medlineta>
+    <nlmuniqueid>
+     0376422
+    </nlmuniqueid>
+    <issnlinking>
+     0031-4005
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      African Continental Ancestry Group
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Analysis of Variance
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bedding and Linens
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Beds
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Case-Control Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      Chicago
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      European Continental Ancestry Group
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hispanic Americans
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant Mortality
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Logistic Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prone Position
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Sleep
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sudden Infant Death
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      ethnology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Urban Population
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12728140
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

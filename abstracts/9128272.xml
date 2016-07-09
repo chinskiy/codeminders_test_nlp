@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    9128272
+   </pmid>
+   <datecreated>
+    <year>
+     1997
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     15
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1997
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     15
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0002-9173
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       107
+      </volume>
+      <issue>
+       5
+      </issue>
+      <pubdate>
+       <year>
+        1997
+       </year>
+       <month>
+        May
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      American journal of clinical pathology
+     </title>
+     <isoabbreviation>
+      Am. J. Clin. Pathol.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     The diagnostic value of the neutrophil left shift in predicting inflammatory and infectious disease.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      582-91
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      The use of neutrophil left-shift parameters in the diagnosis of inflammatory and infective disease (ID) was evaluated. The level of C-reactive protein (CRP), currently the best quantitative parameter of inflammation, was used as the gold standard. Of 292 patients, 230 (79%) had a level of CRP of 1.0 mg/dL or greater and were classified as having inflammation, whereas 62 (21%) had normal levels. The neutrophil band count in each patient was determined by microscopic examination of 200 WBCs. The diagnostic value of the band count as an indicator for ID was evaluated in comparison to the WBC count, the neutrophil count, and the left-shift indicators of two automated hematologic analyzers, H*1 Technicon (Bayer Technicon Instruments, Tarrytown, NY) and Coulter MAX M (Coulter Electronics, Hialeah, Fla). When receiver operating characteristics were used, the band count was superior to the immature to total neutrophil count (I/T) ratio, the total WBC count, and the neutrophil count. The sensitivity and specificity in identifying ID at designated cutoff points were as follows: band count of 20% or greater of total WBC count (53% and 79%, respectively), I/T ratio of 0.25 or greater (59% and 63%), total WBC count of 9.6 x 10(6)/mL or greater (68% and 56%), and neutrophil count of 8.0 x 10(6)/mL or greater (60% and 58%). The performance of the H*1 Technicon left-shift flag was similar but slightly inferior to the band count (sensitivity, 44%; specificity, 79%), whereas the Coulter MAX M flags had a clearly higher sensitivity (79%) and lower specificity (53%). In addition, microscopic evaluation to determine the presence of reactive morphologic changes in neutrophils, such as toxic granules, Döhle bodies, and cytoplasmic vacuoles, had a high sensitivity (80%) but a low specificity (58%) in predicting ID. The diagnostic value of both microscopic and automated neutrophil left-shift parameters as indicators for ID is limited. Morphologic changes in neutrophils, however, either have a high specificity (band count) or a high sensitivity (toxic signs) in predicting ID and therefore may be a clinically useful tool.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Internal Medicine, University Hospital Zürich, Switzerland.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Seebach
+      </lastname>
+      <forename>
+       J D
+      </forename>
+      <initials>
+       JD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Morant
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rüegg
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Seifert
+      </lastname>
+      <forename>
+       B
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Fehr
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Am J Clin Pathol
+    </medlineta>
+    <nlmuniqueid>
+     0370470
+    </nlmuniqueid>
+    <issnlinking>
+     0002-9173
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      9007-41-4
+     </registrynumber>
+     <nameofsubstance>
+      C-Reactive Protein
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Am J Clin Pathol. 1998 Jan;109(1):114-5
+     </refsource>
+     <pmid version="1">
+      9426526
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Automation
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      C-Reactive Protein
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      analysis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Communicable Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Inflammation
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Leukocyte Count
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Leukocytosis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Neutrophils
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      classification
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      pathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Predictive Value of Tests
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      ROC Curve
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1997
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1997
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1997
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     9128272
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

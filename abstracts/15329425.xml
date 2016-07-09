@@ -1,0 +1,531 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15329425
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     26
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     31
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1533-4406
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       351
+      </volume>
+      <issue>
+       9
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Aug
+       </month>
+       <day>
+        26
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Maintenance fluconazole therapy for recurrent vulvovaginal candidiasis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      876-83
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      No safe and convenient regimen has proved to be effective for the management of recurrent vulvovaginal candidiasis.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      After inducing clinical remission with open-label fluconazole given in three 150-mg doses at 72-hour intervals, we randomly assigned 387 women with recurrent vulvovaginal candidiasis to receive treatment with fluconazole (150 mg) or placebo weekly for six months, followed by six months of observation without therapy. The primary outcome measure was the proportion of women in clinical remission at the end of the first six-month period. Secondary efficacy measures were the clinical outcome at 12 months, vaginal mycologic status, and time to recurrence on the basis of Kaplan-Meier analysis.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Weekly treatment with fluconazole was effective in preventing symptomatic vulvovaginal candidiasis. The proportions of women who remained disease-free at 6, 9, and 12 months in the fluconazole group were 90.8 percent, 73.2 percent, and 42.9 percent, as compared with 35.9 percent, 27.8 percent, and 21.9 percent, respectively, in the placebo group (P&lt; 0.001). The median time to clinical recurrence in the fluconazole group was 10.2 months, as compared with 4.0 months in the placebo group (P&lt;0.001). There was no evidence of fluconazole resistance in isolates of Candida albicans or of superinfection with C. glabrata. Fluconazole was discontinued in one patient because of headache.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Long-term weekly treatment with fluconazole can reduce the rate of recurrence of symptomatic vulvovaginal candidiasis. However, a long-term cure remains difficult to achieve.
+     </abstracttext>
+     <copyrightinformation>
+      Copyright 2004 Massachusetts Medical Society
+     </copyrightinformation>
+    </abstract>
+    <affiliation>
+     Division of Infectious Diseases, Wayne State University School of Medicine, Detroit, USA. jsobel@med.wayne.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Sobel
+      </lastname>
+      <forename>
+       Jack D
+      </forename>
+      <initials>
+       JD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wiesenfeld
+      </lastname>
+      <forename>
+       Harold C
+      </forename>
+      <initials>
+       HC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Martens
+      </lastname>
+      <forename>
+       Mark
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Danna
+      </lastname>
+      <forename>
+       Penny
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hooton
+      </lastname>
+      <forename>
+       Thomas M
+      </forename>
+      <initials>
+       TM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rompalo
+      </lastname>
+      <forename>
+       Anne
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sperling
+      </lastname>
+      <forename>
+       Malcolm
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Livengood
+      </lastname>
+      <forename>
+       Charles
+      </forename>
+      <initials>
+       C
+      </initials>
+      <suffix>
+       3rd
+      </suffix>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Horowitz
+      </lastname>
+      <forename>
+       Benson
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Von Thron
+      </lastname>
+      <forename>
+       James
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Edwards
+      </lastname>
+      <forename>
+       Libby
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Panzer
+      </lastname>
+      <forename>
+       Helene
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Chu
+      </lastname>
+      <forename>
+       Teng-Chiao
+      </forename>
+      <initials>
+       TC
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antifungal Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      86386-73-4
+     </registrynumber>
+     <nameofsubstance>
+      Fluconazole
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2004 Dec 9;351(24):2554-6; author reply 2554-6
+     </refsource>
+     <pmid version="1">
+      15590964
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2004 Aug 26;351(9):851-2
+     </refsource>
+     <pmid version="1">
+      15329419
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Evid Based Nurs. 2005 Apr;8(2):49
+     </refsource>
+     <pmid version="1">
+      15830422
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2004 Dec 9;351(24):2554-6; author reply 2554-6
+     </refsource>
+     <pmid version="1">
+      15599956
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Administration, Oral
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antifungal Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Candida albicans
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      isolation &amp; purification
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Candida glabrata
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      isolation &amp; purification
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Candidiasis, Vulvovaginal
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Administration Schedule
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Resistance, Fungal
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fluconazole
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Logistic Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Recurrence
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Remission Induction
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Time Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vagina
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      microbiology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      27
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      27
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     15329425
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJMoa033114
+    </articleid>
+    <articleid idtype="pii">
+     351/9/876
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

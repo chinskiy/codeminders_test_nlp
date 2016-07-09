@@ -1,0 +1,350 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11782843
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     09
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     13
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0003-9993
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       83
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Jan
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Archives of physical medicine and rehabilitation
+     </title>
+     <isoabbreviation>
+      Arch Phys Med Rehabil
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Antimicrobial prophylaxis for urinary tract infection in persons with spinal cord dysfunction.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      129-38
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To assess the benefits and harms of antimicrobial prophylaxis to prevent urinary tract infections (UTIs) in persons with neurogenic bladders caused by spinal cord dysfunction.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      A broad search strategy with no language restriction was conducted of MEDLINE (1966-January 1998), EMBASE (1974-January 1998), and CINAHL (1982-July 1998) using the general search terms urinary tract, urinary tract infections, bacteriuria, paraplegia, quadriplegia, spinal cord injuries, multiple sclerosis, neurogenic bladder, and neuropathic bladder. Additional articles were identified by experts and by reviewing reference lists of articles obtained from searches.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION" nlmcategory="METHODS">
+      Criteria included human studies of adults and adolescents who had neurogenic bladder due to spinal cord dysfunction; the studies had to address antimicrobial prophylaxis of UTI and include bacteriuria or UTI as an outcome. We excluded any study that was clearly not a controlled trial or that only included children under the age of 13 years. Two reviewers independently abstracted data, and disagreements were resolved by consensus.
+     </abstracttext>
+     <abstracttext label="DATA EXTRACTION" nlmcategory="METHODS">
+      Two reviewers independently abstracted data, and disagreements were resolved by consensus. Studies were graded by 1 project investigator according to quality criteria developed by Jadad and Schulz.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      The sizes of the effect of antimicrobial prophylaxis on weekly infection rates from 15 trials that met the inclusion criteria were pooled by using a random effects model. Antimicrobial prophylaxis did not significantly decrease symptomatic infections. Prophylaxis was associated with a reduction in asymptomatic bacteriuria among acute patients (&lt;90d after spinal cord injury; P &lt;.05); 1 patient would require 3.7 weeks of treatment on average to prevent 1 asymptomatic infection. For nonacute patients, the reduction approached statistical significance (P =.06). Prophylaxis resulted in an approximately twofold increase in antimicrobial-resistant bacteria.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The regular use of antimicrobial prophylaxis for most patients who have neurogenic bladder caused by spinal cord dysfunction is not supported. A clinically important effect, however, has not been excluded. Future research should focus on randomized trials in those patients who have recurrent UTIs that limit their daily functioning and well-being.
+     </abstracttext>
+     <copyrightinformation>
+      Copyright 2002 by the American Congress of Rehabilitation Medicine and the American Academy of Physical Medicine and Rehabilitation
+     </copyrightinformation>
+    </abstract>
+    <affiliation>
+     Southern California Evidence-Based Practice Center, Santa Monica, CA, USA. Sally_Morton@rand.org
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Morton
+      </lastname>
+      <forename>
+       Sally C
+      </forename>
+      <initials>
+       SC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Shekelle
+      </lastname>
+      <forename>
+       Paul G
+      </forename>
+      <initials>
+       PG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Adams
+      </lastname>
+      <forename>
+       John L
+      </forename>
+      <initials>
+       JL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bennett
+      </lastname>
+      <forename>
+       Carol
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dobkin
+      </lastname>
+      <forename>
+       Bruce H
+      </forename>
+      <initials>
+       BH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Montgomerie
+      </lastname>
+      <forename>
+       John
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Vickrey
+      </lastname>
+      <forename>
+       Barbara G
+      </forename>
+      <initials>
+       BG
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Arch Phys Med Rehabil
+    </medlineta>
+    <nlmuniqueid>
+     2985158R
+    </nlmuniqueid>
+    <issnlinking>
+     0003-9993
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Urol. 2003 Jun;169(6):2425
+     </refsource>
+     <pmid version="1">
+      14558545
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Antibiotic Prophylaxis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bacteriuria
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Spinal Cord Injuries
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      complications
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Urinary Bladder, Neurogenic
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Urinary Tract Infections
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      14
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11782843
+    </articleid>
+    <articleid idtype="pii">
+     S0003999302196766
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

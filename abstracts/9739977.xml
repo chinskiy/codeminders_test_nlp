@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    9739977
+   </pmid>
+   <datecreated>
+    <year>
+     1998
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     23
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1998
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     23
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       280
+      </volume>
+      <issue>
+       10
+      </issue>
+      <pubdate>
+       <year>
+        1998
+       </year>
+       <month>
+        Sep
+       </month>
+       <day>
+        9
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Exercise echocardiography or exercise SPECT imaging? A meta-analysis of diagnostic test performance.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      913-20
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Cardiac imaging has advanced rapidly, providing clinicians with several choices for evaluating patients with suspected coronary artery disease, but few studies compare modalities directly.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To review the contemporary literature and to compare the diagnostic performance of exercise echocardiography (ECHO) and exercise single-photon emission computed tomography (SPECT) imaging in the diagnosis of coronary artery disease.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      Studies published between January 1990 and October 1997 identified from MEDLINE search; bibliographies of reviews and original articles; and suggestions from experts in each area.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION" nlmcategory="METHODS">
+      Articles were included if they discussed exercise ECHO and/or exercise SPECT imaging with thallous chloride TI 201 (thallium) or technetium Tc 99m sestamibi for detection and/or evaluation of coronary artery disease, if data on coronary angiography were presented as the reference test, and if the absolute numbers of true-positive, false-negative, true-negative, and false-positive observations were available or derivable from the data presented. Studies performed exclusively in patients after myocardial infarction, after percutaneous transluminal coronary angioplasty, after coronary artery bypass grafting, or with recent unstable coronary syndromes were excluded.
+     </abstracttext>
+     <abstracttext label="DATA EXTRACTION" nlmcategory="METHODS">
+      Clinical variables, technical factors, and test performance were independently extracted by 2 reviewers on a standardized spreadsheet. Discrepancies were resolved by consensus.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Forty-four articles met inclusion criteria. In pooled data weighted by the sample size of each study, exercise ECHO had a sensitivity of 85% (95% confidence interval [CI], 83%-87%) with a specificity of 77% (95% CI, 74%-80%). Exercise SPECT yielded a similar sensitivity of 87% (95% CI, 86%-88%) but a lower specificity of 64% (95% CI, 60%-68%). In a summary receiver operating characteristic model comparing exercise ECHO performance to exercise SPECT, exercise ECHO was associated with significantly better discriminatory power (parameter estimate, 1.18; 95% CI, 0.71-1.65), when adjusted for age, publication year, and a setting including known coronary artery disease for SPECT studies. In models comparing the discriminatory abilities of exercise ECHO and exercise SPECT vs exercise testing without imaging, both ECHO and SPECT performed significantly better than exercise testing. The incremental improvement in performance was greater for ECHO (3.43; 95% CI, 2.74-4.11) than for SPECT (1.49; 95% CI, 0.91-2.08).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Exercise ECHO and exercise SPECT have similar sensitivities for the detection of coronary artery disease, but exercise ECHO has better specificity and, therefore, higher overall discriminatory capabilities as used in contemporary practice.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Cardiology Division, University of California, Medical Center, San Francisco 94143-0214, USA. Fleischm@cardio.ucsf.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Fleischmann
+      </lastname>
+      <forename>
+       K E
+      </forename>
+      <initials>
+       KE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hunink
+      </lastname>
+      <forename>
+       M G
+      </forename>
+      <initials>
+       MG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kuntz
+      </lastname>
+      <forename>
+       K M
+      </forename>
+      <initials>
+       KM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Douglas
+      </lastname>
+      <forename>
+       P S
+      </forename>
+      <initials>
+       PS
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       1K08HL02964-01
+      </grantid>
+      <acronym>
+       HL
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 1999 Nov 3;282(17):1622; author reply 1622-3
+     </refsource>
+     <pmid version="1">
+      10553784
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 1999 Nov 3;282(17):1621; author reply 1622-3
+     </refsource>
+     <pmid version="1">
+      10553782
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 1999 Mar-Apr;130(2):45
+     </refsource>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 1999 Nov 3;282(17):1621-2; author reply 1622-3
+     </refsource>
+     <pmid version="1">
+      10553783
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Coronary Disease
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      radionuclide imaging
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      ultrasonography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Echocardiography
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Exercise Test
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Multivariate Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      ROC Curve
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Regression Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Tomography, Emission-Computed, Single-Photon
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1998
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      2
+     </hour>
+     <minute>
+      2
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      14
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1998
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      2
+     </hour>
+     <minute>
+      2
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     9739977
+    </articleid>
+    <articleid idtype="pii">
+     jcc80007
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

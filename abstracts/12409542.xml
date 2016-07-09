@@ -1,0 +1,434 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12409542
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     31
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     08
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1533-4406
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       347
+      </volume>
+      <issue>
+       18
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Oct
+       </month>
+       <day>
+        31
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Sex-based differences in the effect of digoxin for the treatment of heart failure.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1403-11
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      The Digitalis Investigation Group trial reported that treatment with digoxin did not decrease overall mortality among patients with heart failure and depressed left ventricular systolic function, although it did reduce hospitalizations slightly. Even though the epidemiologic features, causes, and prognosis of heart failure vary between men and women, sex-based differences in the effect of digoxin were not evaluated.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We conducted a post hoc subgroup analysis to assess whether there were sex-based differences in the effect of digoxin therapy among the 6800 patients in the Digitalis Investigation Group study. The presence of an interaction between sex and digoxin therapy with respect to the primary end point of death from any cause was evaluated with the use of Mantel-Haenszel tests of heterogeneity and a multivariable Cox proportional-hazards model, adjusted for demographic and clinical variables.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      There was an absolute difference of 5.8 percent (95 percent confidence interval, 0.5 to 11.1) between men and women in the effect of digoxin on the rate of death from any cause (P=0.034 for the interaction). Specifically, women who were randomly assigned to digoxin had a higher rate of death than women who were randomly assigned to placebo (33.1 percent vs. 28.9 percent; absolute difference, 4.2 percent, 95 percent confidence interval, -0.5 to 8.8). In contrast, the rate of death was similar among men randomly assigned to digoxin and men randomly assigned to placebo (35.2 percent vs. 36.9 percent; absolute difference, -1.6 percent; 95 percent confidence interval, -4.2 to 1.0). In the multivariable analysis, digoxin was associated with a significantly higher risk of death among women (adjusted hazard ratio for the comparison with placebo, 1.23; 95 percent confidence interval, 1.02 to 1.47), but it had no significant effect among men (adjusted hazard ratio, 0.93; 95 percent confidence interval, 0.85 to 1.02; P=0.014 for the interaction).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The effect of digoxin therapy differs between men and women. Digoxin therapy is associated with an increased risk of death from any cause among women, but not men, with heart failure and depressed left ventricular systolic function.
+     </abstracttext>
+     <copyrightinformation>
+      Copyright 2002 Massachusetts Medical Society
+     </copyrightinformation>
+    </abstract>
+    <affiliation>
+     Section of Cardiovascular Medicine, Department of Internal Medicine, Yale-New Haven Hospital, New Haven, Conn, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Rathore
+      </lastname>
+      <forename>
+       Saif S
+      </forename>
+      <initials>
+       SS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wang
+      </lastname>
+      <forename>
+       Yongfei
+      </forename>
+      <initials>
+       Y
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Krumholz
+      </lastname>
+      <forename>
+       Harlan M
+      </forename>
+      <initials>
+       HM
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cardiotonic Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      20830-75-5
+     </registrynumber>
+     <nameofsubstance>
+      Digoxin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Evid Based Nurs. 2003 Jul;6(3):80
+     </refsource>
+     <pmid version="1">
+      12882193
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2002 Oct 31;347(18):1394-5
+     </refsource>
+     <pmid version="1">
+      12409540
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2003 Feb 13;348(7):661-3; author reply 661-3
+     </refsource>
+     <pmid version="1">
+      12587575
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2003 Feb 13;348(7):661-3; author reply 661-3
+     </refsource>
+     <pmid version="1">
+      12587574
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Fam Pract. 2003 Feb;52(2):106, 111
+     </refsource>
+     <pmid version="1">
+      12585985
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2003 Feb 13;348(7):661-3; author reply 661-3
+     </refsource>
+     <pmid version="1">
+      12584380
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cardiotonic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cardiovascular Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Digoxin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heart Failure
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hospitalization
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Multivariate Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Proportional Hazards Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sex Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Survival Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ventricular Dysfunction, Left
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12409542
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJMoa021266
+    </articleid>
+    <articleid idtype="pii">
+     347/18/1403
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,496 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10048679
+   </pmid>
+   <datecreated>
+    <year>
+     1999
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     06
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1999
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     06
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0891-3668
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       18
+      </volume>
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        1999
+       </year>
+       <month>
+        Feb
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The Pediatric infectious disease journal
+     </title>
+     <isoabbreviation>
+      Pediatr. Infect. Dis. J.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Etiology and treatment of community-acquired pneumonia in ambulatory children.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      98-104
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To determine the etiology of community-acquired pneumonia in ambulatory children and to compare responses to treatment with azithromycin, amoxicillin-clavulanate or erythromycin estolate.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Ambulatory patients with pneumonia were identified at the Children's Medical Center of Dallas, TX. Children age 6 months to 16 years with radiographic and clinical evidence of pneumonia were enrolled and randomized to receive either azithromycin suspension for 5 days or a 10-day course of amoxicillin-clavulanate for those &lt;5 years or erythromycin estolate suspension for those &gt; or = 5 years. Blood culture was obtained in all patients and we obtained nasopharyngeal and pharyngeal swabs for culture and polymerase chain reaction (PCR) testing for Chlamydia pneumoniae and Mycoplasma pneumoniae and nasopharyngeal swabs for viral direct fluorescent antibody and culture. Acute and convalescent serum specimens were tested for antibodies to C. pneumoniae, M. pneumoniae and Streptococcus pneumoniae. Patients were evaluated 10 to 37 days later when repeat specimens for serology, PCR and culture were obtained. For comparative purposes healthy children attending the well-child clinic had nasopharyngeal and pharyngeal swabs obtained for PCR and culture for C. pneumoniae and M. pneumoniae.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Between February, 1996, and December, 1997, we enrolled 174 patients, 168 of whom fulfilled protocol criteria for evaluation. There were 55% males and 63% were &lt;5 years of age. All blood cultures were sterile and there was no correlation between the white blood cell and differential counts and etiology of pneumonia. Etiologic agents were identified in 73 (43%) of 168 patients. Infection was attributed to M. pneumoniae in 7% (12 of 168), C. pneumoniae in 6% (10 of 168), S. pneumoniae in 27% (35 of 129) and viruses in 20% (31 of 157). None of the swab specimens from 75 healthy control children was positive for C. pneumoniae or M. pneumoniae. Clinical response to therapy was similar for the three antibiotic regimens evaluated, including those with infection attributed to bacterial agents.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Although a possible microbial etiology was identified in 43% of the evaluable patients, clinical findings and results of blood cultures, chest radiographs and white blood cell and differential counts did not distinguish patients with a defined etiology from those without a known cause for pneumonia. There were no differences in the clinical responses of patients to the antimicrobial regimens studied.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Pediatrics, University of Texas Southwestern Medical Center, Dallas, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Wubbel
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Muniz
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ahmed
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Trujillo
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Carubelli
+      </lastname>
+      <forename>
+       C
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McCoig
+      </lastname>
+      <forename>
+       C
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Abramo
+      </lastname>
+      <forename>
+       T
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Leinonen
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McCracken
+      </lastname>
+      <forename>
+       G H
+      </forename>
+      <initials>
+       GH
+      </initials>
+      <suffix>
+       Jr
+      </suffix>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Pediatr Infect Dis J
+    </medlineta>
+    <nlmuniqueid>
+     8701858
+    </nlmuniqueid>
+    <issnlinking>
+     0891-3668
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Bacterial Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antibodies, Bacterial
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antibodies, Viral
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      114-07-8
+     </registrynumber>
+     <nameofsubstance>
+      Erythromycin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      74469-00-4
+     </registrynumber>
+     <nameofsubstance>
+      Amoxicillin-Potassium Clavulanate Combination
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      83905-01-5
+     </registrynumber>
+     <nameofsubstance>
+      Azithromycin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Amoxicillin-Potassium Clavulanate Combination
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Bacterial Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antibodies, Bacterial
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antibodies, Viral
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Azithromycin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Community-Acquired Infections
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      microbiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Therapy, Combination
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Erythromycin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Nasopharynx
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      microbiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Outpatient Clinics, Hospital
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pneumonia, Bacterial
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      microbiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pneumonia, Viral
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      virology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1999
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      27
+     </day>
+     <hour>
+      3
+     </hour>
+     <minute>
+      15
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1999
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      27
+     </day>
+     <hour>
+      3
+     </hour>
+     <minute>
+      15
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10048679
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

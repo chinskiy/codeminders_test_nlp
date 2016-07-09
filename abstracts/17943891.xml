@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    17943891
+   </pmid>
+   <datecreated>
+    <year>
+     2007
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     18
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2008
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     17
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     03
+    </day>
+   </daterevised>
+   <article pubmodel="Electronic">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <year>
+        2007
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Amniotomy for shortening spontaneous labour.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD006167
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Intentional artificial rupture of the amniotic membranes during labour, sometimes called amniotomy or 'breaking of the waters', is one of the most commonly performed procedures in modern obstetric and midwifery practice. The primary aim of amniotomy is to speed up contractions and, therefore, shorten the length of labour. However, there are concerns regarding unintended adverse effects on the woman and baby.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To determine the effectiveness and safety of amniotomy alone for (1) routinely shortening all labours that start spontaneously, and (2) shortening labours that have started spontaneously, but have become prolonged.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (30 March 2007).
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      Randomised controlled trials comparing amniotomy alone versus intention to preserve the membranes. We excluded quasi-randomised trials.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      Two authors assessed identified studies for inclusion. Both authors extracted data. Primary analysis was by intention to treat.
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      We have included 14 studies in this review, involving 4893 women. There was no evidence of any statistical difference in length of first stage of labour (weighted mean difference -20.43 minutes, 95% confidence interval (CI) -95.93 to 55.06), maternal satisfaction with childbirth experience (standardised mean difference 0.27, 95% CI -0.49 to 1.04) or low Apgar score less than seven at five minutes (RR 0.55, 95% CI 0.29 to 1.05). Amniotomy was associated with an increased risk of delivery by caesarean section compared to women in the control group, although the difference was not statistically significant (RR 1.26, 95% CI 0.98 to 1.62). There was no consistency between papers regarding the timing of amniotomy during labour in terms of cervical dilatation.
+     </abstracttext>
+     <abstracttext label="AUTHORS' CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      On the basis of the findings of this review, we cannot recommend that amniotomy should be introduced routinely as part of standard labour management and care. We do recommend that the evidence presented in this review should be made available to women offered an amniotomy and may be useful as a foundation for discussion and any resulting decisions made between women and their caregivers.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     University of Liverpool, Department of Public Health, School of Population, Community and Behavioural Sciences, Whelan Building, Quadrangle, Liverpool, UK, L69 3GB. rsmyth@liverpool.ac.uk
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Smyth
+      </lastname>
+      <forename>
+       R M D
+      </forename>
+      <initials>
+       RM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Alldred
+      </lastname>
+      <forename>
+       S K
+      </forename>
+      <initials>
+       SK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Markham
+      </lastname>
+      <forename>
+       C
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2007
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      17
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Obstet Gynecol. 2008 Jan;111(1):204-5
+     </refsource>
+     <pmid version="1">
+      18165411
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Amnion
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      surgery
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Labor Stage, First
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      physiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Labor, Induced
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pregnancy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Time Factors
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    55
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2007
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2008
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2007
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    epublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="doi">
+     10.1002/14651858.CD006167.pub2
+    </articleid>
+    <articleid idtype="pubmed">
+     17943891
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

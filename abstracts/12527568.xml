@@ -1,0 +1,318 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12527568
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     15
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     04
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2008
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     21
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0012-3692
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       123
+      </volume>
+      <issue>
+       1 Suppl
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Jan
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Chest
+     </title>
+     <isoabbreviation>
+      Chest
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     The solitary pulmonary nodule.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      89S-96S
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      More than 150,00 patients a year present to their physicians with the diagnostic dilemma of a solitary pulmonary nodule (SPN) found either on chest radiography or chest CT. A thoughtful and timely workup of this finding is essential if lung cancer is to be recognized early and the chance for cure optimized. Based on the literature to date, recommendations are made for appropriate imaging modalities and diagnostic testing, as well as indications for obtaining preoperative tissue diagnosis for the patient with an SPN.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Section of Thoracic Surgery, University of Michigan, 2120 Taubman Center, 1500 E Medical Center Drive, Ann Arbor, MI 48109, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Tan
+      </lastname>
+      <forename>
+       Bethany B
+      </forename>
+      <initials>
+       BB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Flaherty
+      </lastname>
+      <forename>
+       Kevin R
+      </forename>
+      <initials>
+       KR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kazerooni
+      </lastname>
+      <forename>
+       Ella A
+      </forename>
+      <initials>
+       EA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Iannettoni
+      </lastname>
+      <forename>
+       Mark D
+      </forename>
+      <initials>
+       MD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       American College of Chest Physicians
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Guideline
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Practice Guideline
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Chest
+    </medlineta>
+    <nlmuniqueid>
+     0231335
+    </nlmuniqueid>
+    <issnlinking>
+     0012-3692
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Biopsy, Needle
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bronchoscopy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Carcinoma, Non-Small-Cell Lung
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      surgery
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diagnosis, Differential
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lung Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      surgery
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Magnetic Resonance Imaging
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Radiography, Thoracic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Solitary Pulmonary Nodule
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      surgery
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Thoracic Surgical Procedures
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tomography, Emission-Computed
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tomography, X-Ray Computed
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12527568
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

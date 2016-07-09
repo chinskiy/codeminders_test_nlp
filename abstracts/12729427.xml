@@ -1,0 +1,411 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12729427
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     05
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     19
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2008
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     21
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1539-3704
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       138
+      </volume>
+      <issue>
+       9
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        May
+       </month>
+       <day>
+        6
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Annals of internal medicine
+     </title>
+     <isoabbreviation>
+      Ann. Intern. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Cost-effectiveness of alternative management strategies for patients with solitary pulmonary nodules.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      724-35
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Positron emission tomography (PET) with 18-fluorodeoxyglucose (FDG) is a potentially useful but expensive test to diagnose solitary pulmonary nodules.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To evaluate the cost-effectiveness of strategies for pulmonary nodule diagnosis and to specifically compare strategies that did and did not include FDG-PET.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Decision model.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      Accuracy and complications of diagnostic tests were estimated by using meta-analysis and literature review. Modeled survival was based on data from a large tumor registry. Cost estimates were derived from Medicare reimbursement and other sources.
+     </abstracttext>
+     <abstracttext label="TARGET POPULATION" nlmcategory="METHODS">
+      All adult patients with a new, noncalcified pulmonary nodule seen on chest radiograph.
+     </abstracttext>
+     <abstracttext label="TIME HORIZON" nlmcategory="METHODS">
+      Patient lifetime.
+     </abstracttext>
+     <abstracttext label="PERSPECTIVE" nlmcategory="CONCLUSIONS">
+      Societal.
+     </abstracttext>
+     <abstracttext label="INTERVENTION" nlmcategory="METHODS">
+      40 clinically plausible combinations of 5 diagnostic interventions, including computed tomography, FDG-PET, transthoracic needle biopsy, surgery, and watchful waiting.
+     </abstracttext>
+     <abstracttext label="OUTCOME MEASURES" nlmcategory="METHODS">
+      Costs, quality-adjusted life-years (QALYs), and incremental cost-effectiveness ratios.
+     </abstracttext>
+     <abstracttext label="RESULTS OF BASE-CASE ANALYSIS" nlmcategory="RESULTS">
+      The cost-effectiveness of strategies depended critically on the pretest probability of malignancy. For patients with low pretest probability (26%), strategies that used FDG-PET selectively when computed tomography results were possibly malignant cost as little as 20 000 dollars per QALY gained. For patients with high pretest probability (79%), strategies that used FDG-PET selectively when computed tomography results were benign cost as little as 16 000 dollars per QALY gained. For patients with intermediate pretest probability (55%), FDG-PET strategies cost more than 220 000 dollars per QALY gained because they were more costly but only marginally more effective than computed tomography-based strategies.
+     </abstracttext>
+     <abstracttext label="RESULTS OF SENSITIVITY ANALYSIS" nlmcategory="RESULTS">
+      The choice of strategy also depended on the risk for surgical complications, the probability of nondiagnostic needle biopsy, the sensitivity of computed tomography, and patient preferences for time spent in watchful waiting. In probabilistic sensitivity analysis, FDG-PET strategies were cost saving or cost less than 100 000 dollars per QALY gained in 76.7%, 24.4%, and 99.9% of computer simulations for patients with low, intermediate, and high pretest probability, respectively.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      FDG-PET should be used selectively when pretest probability and computed tomography findings are discordant or in patients with intermediate pretest probability who are at high risk for surgical complications. In most other circumstances, computed tomography-based strategies result in similar quality-adjusted life-years and lower costs.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Pulmonary Section, Veterans Affairs Palo Alto Health Care System, 3801 Miranda Avenue, Palo Alto, California 94304, USA. gould@stanford.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Gould
+      </lastname>
+      <forename>
+       Michael K
+      </forename>
+      <initials>
+       MK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sanders
+      </lastname>
+      <forename>
+       Gillian D
+      </forename>
+      <initials>
+       GD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Barnett
+      </lastname>
+      <forename>
+       Paul G
+      </forename>
+      <initials>
+       PG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rydzak
+      </lastname>
+      <forename>
+       Chara E
+      </forename>
+      <initials>
+       CE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Maclean
+      </lastname>
+      <forename>
+       Courtney C
+      </forename>
+      <initials>
+       CC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McClellan
+      </lastname>
+      <forename>
+       Mark B
+      </forename>
+      <initials>
+       MB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Owens
+      </lastname>
+      <forename>
+       Douglas K
+      </forename>
+      <initials>
+       DK
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, Non-P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Ann Intern Med
+    </medlineta>
+    <nlmuniqueid>
+     0372351
+    </nlmuniqueid>
+    <issnlinking>
+     0003-4819
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Radiopharmaceuticals
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      63503-12-8
+     </registrynumber>
+     <nameofsubstance>
+      Fluorodeoxyglucose F18
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Algorithms
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Biopsy, Needle
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cost-Benefit Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Decision Support Techniques
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fluorodeoxyglucose F18
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnostic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Probability
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Quality-Adjusted Life Years
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Radiopharmaceuticals
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnostic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Solitary Pulmonary Nodule
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      surgery
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tomography, Emission-Computed
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      economics
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tomography, X-Ray Computed
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      6
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      6
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12729427
+    </articleid>
+    <articleid idtype="pii">
+     200305060-00009
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

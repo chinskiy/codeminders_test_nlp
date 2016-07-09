@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    2221647
+   </pmid>
+   <datecreated>
+    <year>
+     1990
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1990
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0003-4819
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       113
+      </volume>
+      <issue>
+       9
+      </issue>
+      <pubdate>
+       <year>
+        1990
+       </year>
+       <month>
+        Nov
+       </month>
+       <day>
+        1
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Annals of internal medicine
+     </title>
+     <isoabbreviation>
+      Ann. Intern. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Clinical prediction rule for pulmonary infiltrates.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      664-70
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To derive and validate a clinical rule for predicting pneumonic infiltrates in adult patients with acute respiratory illness.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Prevalence studies in three settings.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      Emergency departments of the University of Illinois Hospital at Chicago, the University of Nebraska Medical Center at Omaha, and the Medical College of Virginia at Richmond.
+     </abstracttext>
+     <abstracttext label="PATIENTS" nlmcategory="METHODS">
+      Symptoms, signs, comorbidity data, and chest roentgenogram results were recorded for 1134 patients from Illinois (the derivation set), 150 patients from Nebraska, and 152 patients from Virginia (the validation sets). All patients presented to the emergency department and had a chest roentgenogram to evaluate fever or respiratory complaints.
+     </abstracttext>
+     <abstracttext label="MEASUREMENTS AND MAIN RESULTS" nlmcategory="RESULTS">
+      Within the training set, temperature greater than 37.8 degrees C, pulse greater than 100 beats/min, rales, decreased breath sounds, and the absence of asthma were identified as significant predictors of radiographically proved pneumonia in a stepwise logistic regression model (P = 0.001). The logistic rule discriminated patients with and without pneumonia in the training set with a receiver operating characteristic (ROC) area of 0.82. In the validation sets, the rule discriminated pneumonia and nonpneumonia with ROC areas of 0.82 and 0.76 after adjusting for differences in disease prevalence (P greater than 0.2 compared with the training set). The predicted probability of having pneumonia for patients with different clinical findings corresponded closely with the incidence of pneumonia among patients with such findings in the three settings.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Among adults presenting with acute respiratory illness, a prediction rule based on clinical findings accurately discriminated patients with and without radiographic pneumonia, and was used in two other samples of patients without significant decrement in discriminatory ability. This rule can be used by physicians to develop more effective strategies for detecting pneumonia and for helping to determine the need for radiologic study among patients with acute respiratory disease.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Medicine, University of Illinois, Chicago 60680.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Heckerling
+      </lastname>
+      <forename>
+       P S
+      </forename>
+      <initials>
+       PS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tape
+      </lastname>
+      <forename>
+       T G
+      </forename>
+      <initials>
+       TG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wigton
+      </lastname>
+      <forename>
+       R S
+      </forename>
+      <initials>
+       RS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hissong
+      </lastname>
+      <forename>
+       K K
+      </forename>
+      <initials>
+       KK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Leikin
+      </lastname>
+      <forename>
+       J B
+      </forename>
+      <initials>
+       JB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ornato
+      </lastname>
+      <forename>
+       J P
+      </forename>
+      <initials>
+       JP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cameron
+      </lastname>
+      <forename>
+       J L
+      </forename>
+      <initials>
+       JL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Racht
+      </lastname>
+      <forename>
+       E M
+      </forename>
+      <initials>
+       EM
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Ann Intern Med
+    </medlineta>
+    <nlmuniqueid>
+     0372351
+    </nlmuniqueid>
+    <issnlinking>
+     0003-4819
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Ann Intern Med. 1990 Nov 1;113(9):646-7
+     </refsource>
+     <pmid version="1">
+      2221644
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Ann Intern Med. 1991 Mar 1;114(5):428-9
+     </refsource>
+     <pmid version="1">
+      1992887
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Acute Disease
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lung
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      metabolism
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pneumonia
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prognosis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      ROC Curve
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Regression Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Respiratory Tract Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      metabolism
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      radiography
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1990
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1990
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1990
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     2221647
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

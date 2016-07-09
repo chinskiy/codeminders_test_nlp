@@ -1,0 +1,360 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10796591
+   </pmid>
+   <datecreated>
+    <year>
+     2000
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     06
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2000
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     06
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     23
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Short course antibiotics for acute otitis media.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD001095
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Otitis media is a common pediatric problem, for which antibiotics are frequently prescribed.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To determine the effectiveness of a short course of antibiotics (less than seven days) in comparison to a longer course (seven days or greater) for the treatment of acute otitis media in children.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      The medical literature was searched for randomized controlled studies of the treatment of ear infections in children with antibiotics published from January 1966 to July 1997. Search last updated March 1998.
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      Studies were included if they met the following criteria: subjects one month to 18 years of age, clinical diagnosis of ear infection, no previous antimicrobial therapy and randomization to treatment with less than seven days versus seven days or more of antibiotics.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      Data on treatment outcomes were extracted from individual studies, and combined in the form of a summary odds ratio. A summary odds ratio (OR) equivalent to one indicated that the treatment failure rate following less than seven days of antibiotic treatment was similar to the failure rate following seven days or more of antibiotic.
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      The summary OR for treatment outcomes at eight to 19 days in 1,524 children treated with short-acting antibiotics for five days versus eight to 10 days was 1.52, 95% CI: 1.17-1.98, but by 20 to 30 days outcomes between treatment groups (n=2,115) were comparable (OR=1.22, 95% CI:0.98-1.54). The absolute difference in treatment failure (Random effects model RD=2.9%, 95%CI:-0.3% to 6.1%) at 20 to 30 days suggests that at minimum 17 children would need to be treated with the long course of short-acting antibiotics to avoid one treatment failure. Similarity in outcomes was observed for up to three months following therapy (OR=1.16,95% CI=0.9-1.5). Comparable outcomes were shown between treatment with ceftriaxone or azithromycin, and more than seven days of other antibiotics.
+     </abstracttext>
+     <abstracttext label="REVIEWER'S CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      This review suggests that five days of short-acting antibiotic is effective treatment for uncomplicated ear infections in children.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Community Health Sciences, Faculty of Medicine, University of Manitoba, 750 Bannatyne Avenue, Winnipeg, Manitoba, Canada, R3E 0W3. moffatt@bldghsc.1an1.umanitoba.ca
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Kozyrskyj
+      </lastname>
+      <forename>
+       A L
+      </forename>
+      <initials>
+       AL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hildes-Ripstein
+      </lastname>
+      <forename>
+       G E
+      </forename>
+      <initials>
+       GE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Longstaffe
+      </lastname>
+      <forename>
+       S E
+      </forename>
+      <initials>
+       SE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wincott
+      </lastname>
+      <forename>
+       J L
+      </forename>
+      <initials>
+       JL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sitar
+      </lastname>
+      <forename>
+       D S
+      </forename>
+      <initials>
+       DS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Klassen
+      </lastname>
+      <forename>
+       T P
+      </forename>
+      <initials>
+       TP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Moffatt
+      </lastname>
+      <forename>
+       M E
+      </forename>
+      <initials>
+       ME
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     ENGLAND
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Bacterial Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      83905-01-5
+     </registrynumber>
+     <nameofsubstance>
+      Azithromycin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="UpdateIn">
+     <refsource>
+      Cochrane Database Syst Rev. 2010;(9):CD001095
+     </refsource>
+     <pmid version="1">
+      20824827
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Acute Disease
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Age Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Bacterial Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Azithromycin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Administration Schedule
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Otitis Media
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    32
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2000
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      8
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10796591
+    </articleid>
+    <articleid idtype="pii">
+     CD001095
+    </articleid>
+    <articleid idtype="doi">
+     10.1002/14651858.CD001095
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

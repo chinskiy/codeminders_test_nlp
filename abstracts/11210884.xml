@@ -1,0 +1,448 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11210884
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     08
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     22
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0023-852X
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       111
+      </volume>
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Feb
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The Laryngoscope
+     </title>
+     <isoabbreviation>
+      Laryngoscope
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     The role of topical antibiotic prophylaxis in patients undergoing contaminated head and neck surgery with flap reconstruction.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      329-35
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVES/HYPOTHESIS" nlmcategory="OBJECTIVE">
+      Patients undergoing contaminated head and neck surgery with flap reconstruction have wound infection rates of 20% to 25% with parenteral antibiotic prophylaxis. Studies suggest that perioperative antimicrobial mouthwash reduces oropharyngeal flora and may prevent wound infections. We hypothesized that the addition of topical antibiotics to a parenteral prophylactic regimen would reduce the incidence of wound infection in these high-risk patients.
+     </abstracttext>
+     <abstracttext label="STUDY DESIGN" nlmcategory="METHODS">
+      We performed a randomized, prospective clinical trial.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Patients received either 1) parenteral piperacillin/tazobactam (3.375 g every 6 hours for 48 h) or 2) parenteral piperacillin/tazobactam plus topical piperacillin/tazobactam administered as a mouthwash immediately before surgery and once a day for 2 days postoperatively, with piperacillin/tazobactam added to the intraoperative irrigation solution. The wounds of all patients were evaluated daily using predefined objective criteria.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Sixty-two patients met inclusion criteria and were enrolled in the study. The overall wound infection rate was 8.1% (95% confidence interval [CI], 2.7%-17.8%). Two of 31 patients (6.4%) who received parenteral antibiotics alone developed a wound infection compared with 3 of 31 patients (9.7%) randomly assigned to receive topical plus parenteral antibiotics. This difference was not statistically significant (P = &gt;.05). Infection rate was not associated with flap type (rotational vs. free tissue transfer), mandibular reconstruction, age, gender, tumor site, stage, surgical duration, or blood loss.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      These results suggest that piperacillin/tazobactam is a highly effective antibiotic for prevention of wound infection in patients undergoing flap reconstruction following contaminated head and neck surgery. However, the addition of topical piperacillin/tazobactam does not appear to enhance the prophylactic benefit of parenteral antibiotics alone.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Otolaryngology, University of Pittsburgh School of Medicine, University of Pittsburgh Cancer Institute, Pennsylvania 15213, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Simons
+      </lastname>
+      <forename>
+       J P
+      </forename>
+      <initials>
+       JP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Johnson
+      </lastname>
+      <forename>
+       J T
+      </forename>
+      <initials>
+       JT
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Yu
+      </lastname>
+      <forename>
+       V L
+      </forename>
+      <initials>
+       VL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Vickers
+      </lastname>
+      <forename>
+       R M
+      </forename>
+      <initials>
+       RM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gooding
+      </lastname>
+      <forename>
+       W E
+      </forename>
+      <initials>
+       WE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Myers
+      </lastname>
+      <forename>
+       E N
+      </forename>
+      <initials>
+       EN
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pou
+      </lastname>
+      <forename>
+       A M
+      </forename>
+      <initials>
+       AM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wagner
+      </lastname>
+      <forename>
+       R L
+      </forename>
+      <initials>
+       RL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Grandis
+      </lastname>
+      <forename>
+       J R
+      </forename>
+      <initials>
+       JR
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Laryngoscope
+    </medlineta>
+    <nlmuniqueid>
+     8607378
+    </nlmuniqueid>
+    <issnlinking>
+     0023-852X
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Mouthwashes
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      61477-96-1
+     </registrynumber>
+     <nameofsubstance>
+      Piperacillin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      87-53-6
+     </registrynumber>
+     <nameofsubstance>
+      Penicillanic Acid
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      93528-38-2
+     </registrynumber>
+     <nameofsubstance>
+      tazobactam
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Administration, Topical
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Antibiotic Prophylaxis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infusions, Intravenous
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Mouthwashes
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Otorhinolaryngologic Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      surgery
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Penicillanic Acid
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      analogs &amp; derivatives
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Piperacillin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Surgical Flaps
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Surgical Wound Infection
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Therapeutic Irrigation
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      12
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      12
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11210884
+    </articleid>
+    <articleid idtype="doi">
+     10.1097/00005537-200102000-00026
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

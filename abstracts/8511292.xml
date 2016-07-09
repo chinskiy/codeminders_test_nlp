@@ -1,0 +1,265 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    8511292
+   </pmid>
+   <datecreated>
+    <year>
+     1993
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     13
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1993
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     13
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0033-8419
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       188
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        1993
+       </year>
+       <month>
+        Jul
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Radiology
+     </title>
+     <isoabbreviation>
+      Radiology
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Metaanalysis of the relative nephrotoxicity of high- and low-osmolality iodinated contrast media.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      171-8
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      To determine whether low-osmolality contrast media (LOCM) are less nephrotoxic than high-osmolality contrast media (HOCM), the authors searched MEDLINE and EMBASE databases and other sources to find randomized trials with data collected on changes in glomerular filtration rate or serum creatinine (SCr) level with LOCM and HOCM. Forty-five trials were found. Data were unavailable from 14 trials. When the P values from the other 31 trials were pooled, an overall P value of .02 was found. Among 24 trials with available data, the mean change in SCr was 0.2-6.2 mumol/L less with LOCM than HOCM. Among 25 trials with available data, the pooled odds of a rise in SCr level of more than 44 mumol/L with LOCM was 0.61 (95% confidence interval [CI], 0.48-0.77) times that after HOCM. For patients with existing renal failure, this odds ratio was 0.5 (CI, 0.36-0.68), while it was 0.75 (CI, 0.52-1.1) in patients without prior renal failure. Greater changes in SCr level occurred only in those with existing renal failure and were less common with LOCM (odds ratio, 0.44; CI, 0.26-0.73). Use of LOCM may be beneficial in patients with existing renal failure.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Division of Nephrology, Health Sciences Centre, St John's Newfoundland, Canada.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Barrett
+      </lastname>
+      <forename>
+       B J
+      </forename>
+      <initials>
+       BJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Carlisle
+      </lastname>
+      <forename>
+       E J
+      </forename>
+      <initials>
+       EJ
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Radiology
+    </medlineta>
+    <nlmuniqueid>
+     0401260
+    </nlmuniqueid>
+    <issnlinking>
+     0033-8419
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Contrast Media
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      7553-56-2
+     </registrynumber>
+     <nameofsubstance>
+      Iodine
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Contrast Media
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Iodine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      diagnostic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Osmolar Concentration
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Renal Insufficiency
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      chemically induced
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1993
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1993
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1993
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     8511292
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

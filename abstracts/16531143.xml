@@ -1,0 +1,360 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    16531143
+   </pmid>
+   <datecreated>
+    <year>
+     2006
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     13
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2006
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     04
+    </day>
+   </datecompleted>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0002-9610
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       191
+      </volume>
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <year>
+        2006
+       </year>
+       <month>
+        Apr
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      American journal of surgery
+     </title>
+     <isoabbreviation>
+      Am. J. Surg.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Classifying patients suspected of appendicitis with regard to likelihood.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      497-502
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      We sought to develop a clinical predictive model for acute appendicitis and contrast it with current clinical practice.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      A prospective observational study of patients presenting with signs or symptoms consistent with acute appendicitis. Random-partition modeling was used to develop an appendicitis likelihood model (ALM).
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Four hundred thirty-nine patients were enrolled, 101 with appendicitis, and 338 with other diagnoses. The ALM classified patients as "low likelihood" if they had a white blood cell count &lt;9,500 and either no right lower-quadrant tenderness or a neutrophil count &lt;54%. Patients were classified as "high likelihood" if they had a white blood cell count &gt;13,000 with rebound tenderness or both voluntary guarding and neutrophil count &gt;82%. The ALM outperformed actual clinical practice with regard to "missed" appendicitis, negative laparotomies, and total number of imaging studies.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      The ALM may permit more judicious use of advanced radiographic imaging with lower nontherapeutic laparotomy rates.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Emergency Medicine, New York Methodist Hospital, Brooklyn, NY 11215, USA. rhbirkhahn@pol.net
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Birkhahn
+      </lastname>
+      <forename>
+       Robert H
+      </forename>
+      <initials>
+       RH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Briggs
+      </lastname>
+      <forename>
+       Matthew
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Datillo
+      </lastname>
+      <forename>
+       Paris A
+      </forename>
+      <initials>
+       PA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Van Deusen
+      </lastname>
+      <forename>
+       Shawn K
+      </forename>
+      <initials>
+       SK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gaeta
+      </lastname>
+      <forename>
+       Theodore J
+      </forename>
+      <initials>
+       TJ
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Am J Surg
+    </medlineta>
+    <nlmuniqueid>
+     0370473
+    </nlmuniqueid>
+    <issnlinking>
+     0002-9610
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Appendicitis
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diagnosis, Differential
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Leukocyte Count
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Likelihood Functions
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Predictive Value of Tests
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="received">
+     <year>
+      2005
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      2
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="revised">
+     <year>
+      2005
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      30
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="accepted">
+     <year>
+      2005
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      15
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2006
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      15
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2006
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2006
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      15
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     S0002-9610(05)00741-5
+    </articleid>
+    <articleid idtype="doi">
+     10.1016/j.amjsurg.2005.08.031
+    </articleid>
+    <articleid idtype="pubmed">
+     16531143
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

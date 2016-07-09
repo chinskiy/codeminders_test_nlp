@@ -1,0 +1,425 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10591338
+   </pmid>
+   <datecreated>
+    <year>
+     1999
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     14
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1999
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     14
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       282
+      </volume>
+      <issue>
+       22
+      </issue>
+      <pubdate>
+       <year>
+        1999
+       </year>
+       <month>
+        Dec
+       </month>
+       <day>
+        8
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Continuing screening mammography in women aged 70 to 79 years: impact on life expectancy and cost-effectiveness.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      2156-63
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Mammography is recommended and is cost-effective for women aged 50 to 69 years, but the value of continuing screening mammography after age 69 years is not known. In particular, older women with low bone mineral density (BMD) have a lower risk of breast cancer and may benefit less from continued screening.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To compare life expectancy and cost-effectiveness of screening mammography in elderly women based on 3 screening strategies.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Decision analysis and cost-effectiveness analysis using a Markov model.
+     </abstracttext>
+     <abstracttext label="PATIENTS" nlmcategory="METHODS">
+      General population of women aged 65 years or older.
+     </abstracttext>
+     <abstracttext label="INTERVENTIONS" nlmcategory="METHODS">
+      The analysis compared 3 strategies: (1) Undergoing biennial mammography from age 65 to 69 years; (2) undergoing biennial mammography from age 65 to 69 years, measurement of distal radial BMD at age 65 years, discontinuing screening at age 69 years in women in the lowest BMD quartile for age, and continuing biennial mammography to age 79 years in those in the top 3 quartiles of distal radius BMD; and (3) undergoing biennial mammography from age 65 to 79 years.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      Deaths due to breast cancer averted, life expectancy, and incremental cost-effectiveness ratios.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Compared with discontinuing mammography screening at age 69 years, measuring BMD at age 65 years in 10000 women and continuing mammography to age 79 years only in women with BMD in the top 3 quartiles would prevent 9.4 deaths and add, on average, 2.1 days to life expectancy at an incremental cost of $66773 per year of life saved. Continuing mammography to age 79 years in all 10000 elderly women would prevent 1.4 additional breast cancer deaths and add only 7.2 hours to life expectancy at an incremental cost of $117689 per year of life saved compared with only continuing mammography to age 79 years in women with BMD in the top 3 quartiles.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      This analysis suggests that continuing mammography screening after age 69 years results in a small gain in life expectancy and is moderately cost-effective in those with high BMD and more costly in those with low BMD. Women's preferences for a small gain in life expectancy and the potential harms of screening mammography should play an important role when elderly women are deciding about screening.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Epidemiology and Biostatistics, Department of Veterans Affairs, University of California, San Francisco 94121, USA. kerliko@itsa.ucsf.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Kerlikowske
+      </lastname>
+      <forename>
+       K
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Salzmann
+      </lastname>
+      <forename>
+       P
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Phillips
+      </lastname>
+      <forename>
+       K A
+      </forename>
+      <initials>
+       KA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cauley
+      </lastname>
+      <forename>
+       J A
+      </forename>
+      <initials>
+       JA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cummings
+      </lastname>
+      <forename>
+       S R
+      </forename>
+      <initials>
+       SR
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       1 U01 CA 63740
+      </grantid>
+      <acronym>
+       CA
+      </acronym>
+      <agency>
+       NCI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       P50 CA58207
+      </grantid>
+      <acronym>
+       CA
+      </acronym>
+      <agency>
+       NCI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2000 Jun 28;283(24):3202-3; author reply 3204
+     </refsource>
+     <pmid version="1">
+      10866863
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2000 Jun 28;283(24):3203; author reply 3204
+     </refsource>
+     <pmid version="1">
+      10866864
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2000 Jun 28;283(24):3203; author reply 3204
+     </refsource>
+     <pmid version="1">
+      10866865
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bone Density
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Breast Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Carcinoma in Situ
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Carcinoma, Ductal, Breast
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cost-Benefit Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Decision Support Techniques
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Life Expectancy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Mammography
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Markov Chains
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Quality-Adjusted Life Years
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1999
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      11
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      14
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1999
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      11
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10591338
+    </articleid>
+    <articleid idtype="pii">
+     jsc90092
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,581 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11588078
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     05
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     01
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0959-8138
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       323
+      </volume>
+      <issue>
+       7316
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Oct
+       </month>
+       <day>
+        6
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      BMJ (Clinical research ed.)
+     </title>
+     <isoabbreviation>
+      BMJ
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Efficacy of progesterone and progestogens in management of premenstrual syndrome: systematic review.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      776-80
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To evaluate the efficacy of progesterone and progestogens in the management of premenstrual syndrome.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Systematic review of published randomised, placebo controlled trials. Studies reviewed: 10 trials of progesterone therapy (531 women) and four trials of progestogen therapy (378 women).
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      Proportion of women whose symptoms showed improvement with progesterone preparations (suppositories and oral micronised). Proportion of women whose symptoms showed improvement with progestogens. Secondary analysis of efficacy of progesterone and progestogens in managing physical and behavioural symptoms.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Overall standardised mean difference for all trials that assessed efficacy of progesterone (by both routes of administration) was -0.028 (95% confidence interval -0.017 to -0.040). The odds ratio was 1.05 (1.03 to 1.08) in favour of progesterone, indicating no clinically important difference between progesterone and placebo. For progestogens the overall standardised mean was -0.036 (-0.014 to -0.060), which corresponds to an odds ratio of 1.07 (1.03 to 1.11) showing a statistically, but not clinically, significant improvement for women taking progestogens.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      The evidence from these meta-analyses does not support the use of progesterone or progestogens in the management of premenstrual syndrome.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Academic Department of Obstetrics and Gynaecology, Keele University and North Staffordshire Hospital, Stoke-on-Trent ST4 6QG.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Wyatt
+      </lastname>
+      <forename>
+       K
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dimmock
+      </lastname>
+      <forename>
+       P
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jones
+      </lastname>
+      <forename>
+       P
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Obhrai
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       O'Brien
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     BMJ
+    </medlineta>
+    <nlmuniqueid>
+     8900488
+    </nlmuniqueid>
+    <issnlinking>
+     0959-535X
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Progestins
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      57-83-0
+     </registrynumber>
+     <nameofsubstance>
+      Progesterone
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Womens Health Gend Based Med. 1999 Oct;8(8):1043-52
+     </refsource>
+     <pmid version="1">
+      10565662
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Obstet Gynecol. 1997 Nov;90(5):709-14
+     </refsource>
+     <pmid version="1">
+      9351749
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 2000 Sep 30;356(9236):1131-6
+     </refsource>
+     <pmid version="1">
+      11030291
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int J Gynaecol Obstet. 1991 Mar;34(3):243-8
+     </refsource>
+     <pmid version="1">
+      1673942
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Behav Med. 1991 Oct;14(5):469-89
+     </refsource>
+     <pmid version="1">
+      1744910
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1990 Jul 18;264(3):349-53
+     </refsource>
+     <pmid version="1">
+      2194047
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Eur J Obstet Gynecol Reprod Biol. 1990 Jan-Feb;34(1-2):119-28
+     </refsource>
+     <pmid version="1">
+      2303145
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Affect Disord. 1986 Nov-Dec;11(3):199-205
+     </refsource>
+     <pmid version="1">
+      2951407
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Scand J Prim Health Care. 1988 Sep;6(3):179-83
+     </refsource>
+     <pmid version="1">
+      3065875
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Psychiatry. 1988 Aug;153:232-5
+     </refsource>
+     <pmid version="1">
+      3076492
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Obstet Gynecol. 1987 Jun;30(2):465-77
+     </refsource>
+     <pmid version="1">
+      3301142
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Obstet Gynecol. 1986 Mar;154(3):573-81
+     </refsource>
+     <pmid version="1">
+      3513587
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Psychiatry. 1979 Sep;135:209-15
+     </refsource>
+     <pmid version="1">
+      385093
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Psychosom Res. 1985;29(5):489-93
+     </refsource>
+     <pmid version="1">
+      3906106
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br Med J (Clin Res Ed). 1985 Jun 1;290(6482):1617-21
+     </refsource>
+     <pmid version="1">
+      3924191
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Acta Obstet Gynecol Scand. 1985;64(5):393-7
+     </refsource>
+     <pmid version="1">
+      4061059
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Acta Obstet Gynecol Scand. 1972;51(1):77-80
+     </refsource>
+     <pmid version="1">
+      5065620
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Reprod Med. 1984 Oct;29(10):705-11
+     </refsource>
+     <pmid version="1">
+      6542591
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Psychosom Med. 1983 Dec;45(6):503-7
+     </refsource>
+     <pmid version="1">
+      6686333
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Practitioner. 1980 Aug;224(1346):852-5
+     </refsource>
+     <pmid version="1">
+      7001428
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Maturitas. 1995 Apr;21(3):251-7
+     </refsource>
+     <pmid version="1">
+      7616875
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Psychoneuroendocrinology. 1995;20(3):259-67
+     </refsource>
+     <pmid version="1">
+      7777654
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1995 Jul 5;274(1):51-7
+     </refsource>
+     <pmid version="1">
+      7791258
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Psychol Bull. 1995 Jan;117(1):167-78
+     </refsource>
+     <pmid version="1">
+      7870860
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Assist Reprod Genet. 1995 Mar;12(3):205-9
+     </refsource>
+     <pmid version="1">
+      8520187
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Gen Pract. 1995 Nov;45(400):589-93
+     </refsource>
+     <pmid version="1">
+      8554838
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Control Clin Trials. 1996 Feb;17(1):1-12
+     </refsource>
+     <pmid version="1">
+      8721797
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Psychosom Obstet Gynaecol. 1996 Mar;17(1):29-38
+     </refsource>
+     <pmid version="1">
+      8860884
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1997 Sep 13;315(7109):629-34
+     </refsource>
+     <pmid version="1">
+      9310563
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Evid Based Ment Health. 2002 May;5(2):56
+     </refsource>
+     <pmid version="1">
+      12026905
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Fam Pract. 2002 Feb;51(2):109
+     </refsource>
+     <pmid version="1">
+      11978203
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Odds Ratio
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Premenstrual Syndrome
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Progesterone
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Progestins
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC57352
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      6
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      6
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11588078
+    </articleid>
+    <articleid idtype="pmc">
+     PMC57352
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,291 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    2642673
+   </pmid>
+   <datecreated>
+    <year>
+     1989
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     09
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1989
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     09
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0196-0644
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       18
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        1989
+       </year>
+       <month>
+        Jan
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Annals of emergency medicine
+     </title>
+     <isoabbreviation>
+      Ann Emerg Med
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Decision rules and clinical prediction of pneumonia: evaluation of low-yield criteria.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      13-20
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Prediction rules have been recommended for guiding the ordering of diagnostic tests. Such rules can be used to define low-yield criteria (LYC) for the purpose of identifying patients with an extremely low probability of disease and hence discouraging test ordering by the physician on patients meeting LYC. In this study, community hospital emergency department populations of adults (n = 255) and children (n = 78) were evaluated prospectively for the presence of predictive clinical parameters and the physician's estimate of pneumonia prior to obtaining a chest film. We developed LYC and analyzed published LYC for obtaining chest films on patients considered at risk for pneumonia by means of logistic regression, receiver operating characteristics curve, and negative predictive value analyses. We were unable to derive or validate clinically useful LYC to improve on the seasoned clinician's probability estimate of pneumonia. We discuss the inherent limitations in the development and application of LYC that must be understood by those who seek to limit the ordering of chest films by the application of guidelines developed from decision rules.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Emergency Medicine, University of Cincinnati, College of Medicine, Ohio 45267-0769.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Singal
+      </lastname>
+      <forename>
+       B M
+      </forename>
+      <initials>
+       BM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hedges
+      </lastname>
+      <forename>
+       J R
+      </forename>
+      <initials>
+       JR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Radack
+      </lastname>
+      <forename>
+       K L
+      </forename>
+      <initials>
+       KL
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Ann Emerg Med
+    </medlineta>
+    <nlmuniqueid>
+     8002646
+    </nlmuniqueid>
+    <issnlinking>
+     0196-0644
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Decision Support Techniques
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Health Services Misuse
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Medical History Taking
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Physical Examination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pneumonia
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      radiography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Predictive Value of Tests
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1989
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1989
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1989
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     2642673
+    </articleid>
+    <articleid idtype="pii">
+     S0196-0644(89)80304-X
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

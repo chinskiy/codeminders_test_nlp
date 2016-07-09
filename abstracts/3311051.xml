@@ -1,0 +1,393 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    3311051
+   </pmid>
+   <datecreated>
+    <year>
+     1987
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     04
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1987
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     04
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0004-3591
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       30
+      </volume>
+      <issue>
+       9
+      </issue>
+      <pubdate>
+       <year>
+        1987
+       </year>
+       <month>
+        Sep
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Arthritis and rheumatism
+     </title>
+     <isoabbreviation>
+      Arthritis Rheum.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Randomized, double-blind, placebo-controlled study of the treatment of the painful shoulder.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1040-5
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      The effect of triamcinolone subacromial bursa injection versus naproxen therapy was compared in a randomized, double-blind, placebo-controlled study of 100 patients who had painful shoulders. Outcome was compared using degree of active abduction, pain, limitation of function, and a clinical index that combined equally weighted measures of all of these. In a time-adjusted analysis, triamcinolone was superior to placebo in all clinical variables. Naproxen was superior to placebo in all variables except pain. Triamcinolone was superior to naproxen in the relief of pain (P = 0.04) and the clinical index (P = 0.04). Multiple linear regression analysis showed that naproxen and triamcinolone treatment accounted for only 16% of the variation in outcome, compared with 44% accounted for by the clinical index prior to treatment. Thus, patients with a poor pretreatment clinical index (those with the most room for improvement) were least likely to improve. We conclude that both triamcinolone (P = 0.00005) and naproxen (P = 0.02) are superior to placebo in the treatment of the painful shoulder.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Medicine, University of California, San Francisco.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Petri
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dobrow
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Neiman
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Whiting-O'Keefe
+      </lastname>
+      <forename>
+       Q
+      </forename>
+      <initials>
+       Q
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Seaman
+      </lastname>
+      <forename>
+       W E
+      </forename>
+      <initials>
+       WE
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Arthritis Rheum
+    </medlineta>
+    <nlmuniqueid>
+     0370605
+    </nlmuniqueid>
+    <issnlinking>
+     0004-3591
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Placebos
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      124-94-7
+     </registrynumber>
+     <nameofsubstance>
+      Triamcinolone
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      137-58-6
+     </registrynumber>
+     <nameofsubstance>
+      Lidocaine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      22204-53-1
+     </registrynumber>
+     <nameofsubstance>
+      Naproxen
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bursa, Synovial
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bursitis
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Clinical Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Therapy, Combination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Injections
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lidocaine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Naproxen
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pain
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Placebos
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Random Allocation
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Shoulder Joint
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tendinopathy
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Triamcinolone
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1987
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1987
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1987
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     3311051
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

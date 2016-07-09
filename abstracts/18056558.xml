@@ -1,0 +1,470 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    18056558
+   </pmid>
+   <datecreated>
+    <year>
+     2007
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     06
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2008
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     17
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     22
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1538-3628
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       161
+      </volume>
+      <issue>
+       12
+      </issue>
+      <pubdate>
+       <year>
+        2007
+       </year>
+       <month>
+        Dec
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Archives of pediatrics &amp; adolescent medicine
+     </title>
+     <isoabbreviation>
+      Arch Pediatr Adolesc Med
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Effect of honey, dextromethorphan, and no treatment on nocturnal cough and sleep quality for coughing children and their parents.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1140-6
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To compare the effects of a single nocturnal dose of buckwheat honey or honey-flavored dextromethorphan (DM) with no treatment on nocturnal cough and sleep difficulty associated with childhood upper respiratory tract infections.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      A survey was administered to parents on 2 consecutive days, first on the day of presentation when no medication had been given the prior evening and then the next day when honey, honey-flavored DM, or no treatment had been given prior to bedtime according to a partially double-blinded randomization scheme.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      A single, outpatient, general pediatric practice.
+     </abstracttext>
+     <abstracttext label="PARTICIPANTS" nlmcategory="METHODS">
+      One hundred five children aged 2 to 18 years with upper respiratory tract infections, nocturnal symptoms, and illness duration of 7 days or less.
+     </abstracttext>
+     <abstracttext label="INTERVENTION" nlmcategory="METHODS">
+      A single dose of buckwheat honey, honey-flavored DM, or no treatment administered 30 minutes prior to bedtime.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      Cough frequency, cough severity, bothersome nature of cough, and child and parent sleep quality.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Significant differences in symptom improvement were detected between treatment groups, with honey consistently scoring the best and no treatment scoring the worst. In paired comparisons, honey was significantly superior to no treatment for cough frequency and the combined score, but DM was not better than no treatment for any outcome. Comparison of honey with DM revealed no significant differences.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      In a comparison of honey, DM, and no treatment, parents rated honey most favorably for symptomatic relief of their child's nocturnal cough and sleep difficulty due to upper respiratory tract infection. Honey may be a preferable treatment for the cough and sleep difficulty associated with childhood upper respiratory tract infection.
+     </abstracttext>
+     <abstracttext label="TRIAL REGISTRATION" nlmcategory="BACKGROUND">
+      clinicaltrials.gov Identifier: NCT00127686.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Pediatrics, College of Medicine, Pennsylvania State University, Hershey, PA 17033-0850, USA. ipaul@psu.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Paul
+      </lastname>
+      <forename>
+       Ian M
+      </forename>
+      <initials>
+       IM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Beiler
+      </lastname>
+      <forename>
+       Jessica
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McMonagle
+      </lastname>
+      <forename>
+       Amyee
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Shaffer
+      </lastname>
+      <forename>
+       Michele L
+      </forename>
+      <initials>
+       ML
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Duda
+      </lastname>
+      <forename>
+       Laura
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Berlin
+      </lastname>
+      <forename>
+       Cheston M
+      </forename>
+      <initials>
+       CM
+      </initials>
+      <suffix>
+       Jr
+      </suffix>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <databanklist completeyn="Y">
+     <databank>
+      <databankname>
+       ClinicalTrials.gov
+      </databankname>
+      <accessionnumberlist>
+       <accessionnumber>
+        NCT00127686
+       </accessionnumber>
+      </accessionnumberlist>
+     </databank>
+    </databanklist>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, Non-P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Arch Pediatr Adolesc Med
+    </medlineta>
+    <nlmuniqueid>
+     9422751
+    </nlmuniqueid>
+    <issnlinking>
+     1072-4710
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antitussive Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      125-71-3
+     </registrynumber>
+     <nameofsubstance>
+      Dextromethorphan
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Evid Based Med. 2008 Aug;13(4):106
+     </refsource>
+     <pmid version="1">
+      18667665
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Arch Dis Child Educ Pract Ed. 2009 Jun;94(3):96
+     </refsource>
+     <pmid version="1">
+      19460903
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Pediatr. 2008 May;152(5):739-40
+     </refsource>
+     <pmid version="1">
+      18410789
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Arch Pediatr Adolesc Med. 2007 Dec;161(12):1149-53
+     </refsource>
+     <pmid version="1">
+      18056559
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antitussive Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pharmacology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child Welfare
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cough
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dextromethorphan
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pharmacology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Health Surveys
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Honey
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Parents
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Respiratory Tract Infections
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      complications
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sleep
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      physiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sleep Disorders
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2007
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      7
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2008
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2007
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      7
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     161/12/1140
+    </articleid>
+    <articleid idtype="doi">
+     10.1001/archpedi.161.12.1140
+    </articleid>
+    <articleid idtype="pubmed">
+     18056558
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,538 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11298538
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     12
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     24
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0007-0963
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       144
+      </volume>
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Apr
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The British journal of dermatology
+     </title>
+     <isoabbreviation>
+      Br. J. Dermatol.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     SDZ ASM 981: an emerging safe and effective treatment for atopic dermatitis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      788-94
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      SDZ ASM 981 is a selective inhibitor of the production of pro-inflammatory cytokines from T cells and mast cells in vitro. It is the first ascomycin macrolactam derivative under development for the treatment of inflammatory skin diseases.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      This study was designed to determine the safety and efficacy of SDZ ASM 981 cream at concentrations of 0.05%, 0.2%, 0.6% and 1.0% in the treatment of patients with atopic dermatitis and to select the concentration to be used in phase III studies.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      This was a double-blind, randomized, parallel-group, multicentre dose-finding study. A total of 260 patients were randomly assigned to treatment with SDZ ASM 981 cream at concentrations of 0.05%, 0.2%, 0.6%, or 1.0%, matching vehicle cream, or the internal control 0.1% betamethasone-17-valerate cream (BMV). Treatment was given twice daily for up to 3 weeks.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      A clear dose-response relationship for SDZ ASM 981 was evident, with 0.2%, 0.6% and 1.0% SDZ ASM 981 creams all being significantly more effective than vehicle (P = 0.041, 0.001 and 0.008, respectively) in terms of baseline to end-point changes in the Eczema Area Severity Index (EASI) and pruritus score. The 1.0% cream was the most effective SDZ ASM 981 concentration. BMV was more effective than the SDZ ASM 981 creams tested in this study. It appears that the efficacy plateau was not reached with the SDZ ASM 981 creams within 3 weeks treatment. SDZ ASM 981 was well tolerated. Burning or a feeling of warmth were the only adverse events reported more frequently in the 0.6% and 1.0% SDZ ASM 981 treatment groups than in the vehicle treatment group (42.9%, 48.9% and 34.9%, respectively). Few systemic adverse events were reported during the study (headache was the most frequent systemic event reported by 15 of 252 patients) and none was considered to be related to treatment. The local tolerability profile of the 1.0% cream was similar to that of the lower concentrations.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      1.0% SDZ ASM 981 cream, which was shown to be safe, well tolerated and the most effective concentration in this study, was selected as the concentration to be further developed in phase III studies.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Dermatology, University of Muenster, Germany. luger@uni-muenster.de
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Luger
+      </lastname>
+      <forename>
+       T
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Van Leent
+      </lastname>
+      <forename>
+       E J
+      </forename>
+      <initials>
+       EJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Graeber
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hedgecock
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Thurston
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kandra
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Berth-Jones
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bjerke
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Christophers
+      </lastname>
+      <forename>
+       E
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Knop
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Knulst
+      </lastname>
+      <forename>
+       A C
+      </forename>
+      <initials>
+       AC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Morren
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Morris
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Reitamo
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Roed-Petersen
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schoepf
+      </lastname>
+      <forename>
+       E
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Thestrup-Pedersen
+      </lastname>
+      <forename>
+       K
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Van Der Valk
+      </lastname>
+      <forename>
+       P G
+      </forename>
+      <initials>
+       PG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bos
+      </lastname>
+      <forename>
+       J D
+      </forename>
+      <initials>
+       JD
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Br J Dermatol
+    </medlineta>
+    <nlmuniqueid>
+     0004041
+    </nlmuniqueid>
+    <issnlinking>
+     0007-0963
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Dermatologic Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      pimecrolimus
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      109581-93-3
+     </registrynumber>
+     <nameofsubstance>
+      Tacrolimus
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dermatitis, Atopic
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dermatologic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dose-Response Relationship, Drug
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Severity of Illness Index
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tacrolimus
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      analogs &amp; derivatives
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      12
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      12
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11298538
+    </articleid>
+    <articleid idtype="pii">
+     4134
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

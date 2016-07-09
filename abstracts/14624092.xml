@@ -1,0 +1,304 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    14624092
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     19
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     13
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     09
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1528-1159
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       28
+      </volume>
+      <issue>
+       22
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Nov
+       </month>
+       <day>
+        15
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Spine
+     </title>
+     <isoabbreviation>
+      Spine
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Systematic review of antidepressants in the treatment of chronic low back pain.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      2540-5
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Three previous reviews have reached conflicting conclusions regarding the efficacy of antidepressants for patients with back pain.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To systematically review the efficacy of antidepressants for the treatment of patients with back pain and to determine whether there is evidence that outcomes vary between classes of antidepressants.
+     </abstracttext>
+     <abstracttext label="MATERIALS AND METHODS" nlmcategory="METHODS">
+      Best evidence synthesis of randomized, placebo-controlled trials of oral antidepressive agents in patients with back pain. Studies were identified by searching MEDLINE, PsycINFO, and the Cochrane Controlled Trials Registry. Two independent reviewers performed data extraction and assessed included studies with a 22-point methodologic quality assessment scale. Effect sizes were calculated if sufficient data were available.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Twenty-two trials of antidepressants for the treatment of back pain were identified, of which seven studies of chronic low back pain met inclusion criteria. Among studies using antidepressants that inhibit norepinephrine reuptake (tricyclic or tetracyclic antidepressants), four of five found significant improvement in at least one relevant outcome measure. Assessment of these agents' impact on functional measures produced mixed results. No benefit in pain relief or functional status was found in three studies of antidepressants that do not inhibit norepinephrine reuptake.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Based on a small number of studies, tricyclic and tetracyclic antidepressants appear to produce moderate symptom reductions for patients with chronic low back pain. This benefit appears to be independent of depression status. SSRIs do not appear to be beneficial for patients with chronic low back pain. There is conflicting evidence whether antidepressants improve functional status of patients with chronic low back pain.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Medicine, University of Washington, Seattle, WA, USA. staiger@u.washington.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Staiger
+      </lastname>
+      <forename>
+       Thomas O
+      </forename>
+      <initials>
+       TO
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gaster
+      </lastname>
+      <forename>
+       Barak
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sullivan
+      </lastname>
+      <forename>
+       Mark D
+      </forename>
+      <initials>
+       MD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Deyo
+      </lastname>
+      <forename>
+       Richard A
+      </forename>
+      <initials>
+       RA
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Spine (Phila Pa 1976)
+    </medlineta>
+    <nlmuniqueid>
+     7610646
+    </nlmuniqueid>
+    <issnlinking>
+     0362-2436
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antidepressive Agents
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2004 Jul-Aug;141(1):13
+     </refsource>
+     <pmid version="1">
+      15230561
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antidepressive Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      classification
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Chronic Disease
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Low Back Pain
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    47
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      14
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     14624092
+    </articleid>
+    <articleid idtype="doi">
+     10.1097/01.BRS.0000092372.73527.BA
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

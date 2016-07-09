@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10796686
+   </pmid>
+   <datecreated>
+    <year>
+     2000
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     06
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2000
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     06
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     24
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Interventions for helping patients to follow prescriptions for medications.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD000011
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+     </abstracttext>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Efforts to assist patients with adherence to prescribed, self-administered medications might improve the benefits and efficiency of health care.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To update an ongoing review summarising the results of randomised controlled trials (RCTs) of interventions to help patients follow prescriptions for medications, focusing on trials that measured both adherence and clinical outcomes.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      Computerised searches to July 1998 in MEDLINE, CINAHL, The Cochrane Library, International Pharmaceutical Abstracts (IPA), PsychInfo, Sociofile, and HSTAR; bibliographies in articles on patient adherence; articles in the reviewers' personal collections; and contact with authors.
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      Articles were selected if they reported an unconfounded RCT of an intervention to improve adherence with prescribed medications, measuring both medication adherence and treatment outcome, with at least 80% follow-up of each group studied and, for long-term treatments, at least six months follow-up for studies with positive initial findings.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      Information on study design features, interventions and controls, and findings were extracted by one reviewer (PM) and a research assistant and confirmed by two of the other reviewers. The studies were too disparate to warrant meta-analysis.
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      For short-term treatments, one study, of counselling and written information, showed an effect on adherence and clinical outcome. Ten of 19 interventions for long-term treatments reported in 17 RCTs were associated with improvements in adherence, but only nine interventions led to improvements in treatment outcomes. Almost all of the interventions that were effective for long-term care were complex, including combinations of more convenient care, information, counselling, reminders, self-monitoring, reinforcement, family therapy, and other forms of additional supervision or attention. Even the most effective interventions did not lead to large improvements in adherence and treatment outcomes. Two studies showed that telling patients about adverse effects of treatment did not affect their adherence.
+     </abstracttext>
+     <abstracttext label="REVIEWER'S CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The full benefits of medications cannot be realised at currently achievable levels of adherence. Current methods of improving adherence for chronic health problems are mostly complex and not very effective. More studies of innovative approaches to assist patients to follow medication prescriptions are needed.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Clinical Epidemiology and Biostatistics, McMaster University Medical Centre, HSC Room 2C10b, 1200 Main St West, Hamilton, Ontario, Canada, L8N 3Z5. bhaynes@fhs.csu.mcmaster.ca
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Haynes
+      </lastname>
+      <forename>
+       R B
+      </forename>
+      <initials>
+       RB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Montague
+      </lastname>
+      <forename>
+       P
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Oliver
+      </lastname>
+      <forename>
+       T
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McKibbon
+      </lastname>
+      <forename>
+       K A
+      </forename>
+      <initials>
+       KA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Brouwers
+      </lastname>
+      <forename>
+       M C
+      </forename>
+      <initials>
+       MC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kanani
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     ENGLAND
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="UpdateIn">
+     <refsource>
+      Cochrane Database Syst Rev. 2002;(2):CD000011
+     </refsource>
+     <pmid version="1">
+      12076376
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Drug Prescriptions
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Patient Compliance
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Patient Education as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Self Administration
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    20
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2000
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      8
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10796686
+    </articleid>
+    <articleid idtype="pii">
+     CD000011
+    </articleid>
+    <articleid idtype="doi">
+     10.1002/14651858.CD000011
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

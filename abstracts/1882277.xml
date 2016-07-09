@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    1882277
+   </pmid>
+   <datecreated>
+    <year>
+     1991
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     03
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1991
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     03
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2005
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     16
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0038-4348
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       84
+      </volume>
+      <issue>
+       8
+      </issue>
+      <pubdate>
+       <year>
+        1991
+       </year>
+       <month>
+        Aug
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Southern medical journal
+     </title>
+     <isoabbreviation>
+      South. Med. J.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Oral contraceptive drug interactions: important considerations.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      997-1002
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Interactions with oral contraceptives (OCs) occur with drugs commonly used to treat epilepsy, tuberculosis, and depression. Most women are more likely to use antibiotics, analgesics, and antihistamines, which have also been shown to interact with OCs. The mechanisms behind these interactions may be hepatic microsomal enzyme induction or inhibition, interference with the enterohepatic circulation of steroid metabolites, interference with absorption, competition between two drugs for the same metabolizing enzyme, or induction of an opposite physiologic effect. Rifampin was the first drug reported to interfere with the efficacy of OCs. The anticonvulsants and certain antibiotics, namely ampicillin and tetracycline, also decrease the efficacy of OCs. Oral contraceptives also interfere with the metabolism of other drugs. Plasma concentrations of theophylline, diazepam, and certain other benzodiazepines are increased by OC steroids. Because OCs interact with a wide variety of prescription and over-the-counter medications, a thorough drug history should be taken in all patients taking OCs.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Northeast Louisiana University School of Pharmacy, Monroe 71209-0470.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Fazio
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     South Med J
+    </medlineta>
+    <nlmuniqueid>
+     0404522
+    </nlmuniqueid>
+    <issnlinking>
+     0038-4348
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Bacterial Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Contraceptives, Oral
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      13292-46-1
+     </registrynumber>
+     <nameofsubstance>
+      Rifampin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      South Med J. 1992 Feb;85(2):221
+     </refsource>
+     <pmid version="1">
+      1738897
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Bacterial Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pharmacology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Contraceptives, Oral
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pharmacokinetics
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      pharmacology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Interactions
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Drug Therapy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Rifampin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pharmacology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    66
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1991
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1991
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1991
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     1882277
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

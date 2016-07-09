@@ -1,0 +1,369 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    9036306
+   </pmid>
+   <datecreated>
+    <year>
+     1997
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     25
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1997
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     25
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0028-4793
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       336
+      </volume>
+      <issue>
+       8
+      </issue>
+      <pubdate>
+       <year>
+        1997
+       </year>
+       <month>
+        Feb
+       </month>
+       <day>
+        20
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     The effect of digoxin on mortality and morbidity in patients with heart failure. The Digitalis Investigation Group.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      525-33
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      The role of cardiac glycosides in treating patients with chronic heart failure and normal sinus rhythm remains controversial. We studied the effect of digoxin on mortality and hospitalization in a randomized, double-blind clinical trial.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      In the main trial, patients with a left ventricular ejection fraction of 0.45 or less were randomly assigned to digoxin (3397 patients) or placebo (3403 patients) in addition to diuretics and angiotensin-converting-enzyme inhibitors (median dose of digoxin, 0.25 mg per day; average follow-up, 37 months). In an ancillary trial of patients with ejection fractions greater than 0.45, 492 patients were randomly assigned to digoxin and 496 to placebo.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      In the main trial, mortality was unaffected. There were 1181 deaths (34.8 percent) with digoxin and 1194 deaths (35.1 percent) with placebo (risk ratio when digoxin was compared with placebo, 0.99; 95 percent confidence interval, 0.91 to 1.07; P=0.80). In the digoxin group, there was a trend toward a decrease in the risk of death attributed to worsening heart failure (risk ratio, 0.88; 95 percent confidence interval, 0.77 to 1.01; P=0.06). There were 6 percent fewer hospitalizations overall in that group than in the placebo group, and fewer patients were hospitalized for worsening heart failure (26.8 percent vs. 34.7 percent; risk ratio, 0.72; 95 percent confidence interval, 0.66 to 0.79; P&lt;0.001). In the ancillary trial, the findings regarding the primary combined outcome of death or hospitalization due to worsening heart failure were consistent with the results of the main trial.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Digoxin did not reduce overall mortality, but it reduced the rate of hospitalization both overall and for worsening heart failure. These findings define more precisely the role of digoxin in the management of chronic heart failure.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Mount Sinai Medical Center, New York, NY 10029-6574, USA.
+    </affiliation>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cardiotonic Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      20830-75-5
+     </registrynumber>
+     <nameofsubstance>
+      Digoxin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 1997 Feb 20;336(8):575-6
+     </refsource>
+     <pmid version="1">
+      9023096
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 1997 Jul 10;337(2):129; author reply 130-1
+     </refsource>
+     <pmid version="1">
+      9221337
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 1997 Jul 10;337(2):129; author reply 130-1
+     </refsource>
+     <pmid version="1">
+      9221338
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 1997 Jul 10;337(2):129-30; author reply 130-1
+     </refsource>
+     <pmid version="1">
+      9221339
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 1997 Jul 10;337(2):130; author reply 130-1
+     </refsource>
+     <pmid version="1">
+      9221340
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 1997 Sep-Oct;127(2):34
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Arrhythmias, Cardiac
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cardiotonic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cardiovascular Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Digoxin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heart Failure
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hospitalization
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Stroke Volume
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1997
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      20
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1997
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1997
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     9036306
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJM199702203360801
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

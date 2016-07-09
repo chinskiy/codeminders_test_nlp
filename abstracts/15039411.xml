@@ -1,0 +1,538 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15039411
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     24
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     26
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     19
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1538-3598
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       291
+      </volume>
+      <issue>
+       12
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Mar
+       </month>
+       <day>
+        24
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Effect of hysterectomy vs medical treatment on health-related quality of life and sexual functioning: the medicine or surgery (Ms) randomized trial.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1447-55
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Although a quarter of US women undergo elective hysterectomy before menopause, controlled trials that evaluate the benefits and harms are lacking.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To compare the effect of hysterectomy vs expanded medical treatment on health-related quality of life.
+     </abstracttext>
+     <abstracttext label="DESIGN, SETTING, AND PARTICIPANTS" nlmcategory="METHODS">
+      A multicenter, randomized controlled trial (August 1997-December 2000) of 63 premenopausal women, aged 30 to 50 years, with abnormal uterine bleeding for a median of 4 years who were dissatisfied with medical treatments, including medroxyprogesterone acetate. The participants, who were patients at gynecology clinics and affiliated practices of 4 US academic medical centers, were followed up for 2 years.
+     </abstracttext>
+     <abstracttext label="INTERVENTIONS" nlmcategory="METHODS">
+      Participants were randomly assigned to undergo hysterectomy or expanded medical treatment with estrogen and/or progesterone and/or a prostaglandin synthetase inhibitor. The hysterectomy route and medical regimen were determined by the participating gynecologist.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      The primary outcome was mental health measured by the Mental Component Summary (MCS) of the 36-Item Short-Form Health Survey (SF-36). Secondary outcomes included physical health measured by the Physical Component Summary (PCS), symptom resolution and satisfaction, body image, and sexual functioning, as well as other aspects of mental health and general health perceptions.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      At 6 months, women in the hysterectomy group had greater improvement in MCS scores than women in the medicine group (8 vs 2, P =.04). They also had greater improvement in symptom resolution (75 vs 29, P&lt;.001), symptom satisfaction (44 vs 7, P&lt;.001), interference with sex (41 vs 22, P =.003), sexual desire (21 vs 3, P =.01), health distress (33 vs 13, P =.009), sleep problems (13 vs 1, P =.03), overall health (12 vs 2, P =.006), and satisfaction with health (31 vs 14, P =.01). By the end of the study, 17 (53%) of the women in the medicine group had requested and received hysterectomy, and these women reported improvements in quality-of-life outcomes during the 2 years that were similar to those reported by women randomized to the hysterectomy group. Women who continued medical treatment also reported some improvements (P&lt;.001 for within-group change in many outcomes), with the result that most differences between randomized groups at the end of the study were no longer statistically significant in the intention-to-treat analysis.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Among women with abnormal uterine bleeding and dissatisfaction with medroxyprogesterone, hysterectomy was superior to expanded medical treatment for improving health-related quality-of-life after 6 months. With longer follow-up, half the women randomized to medicine elected to undergo hysterectomy, with similar and lasting quality-of-life improvements; those who continued medical treatment also reported some improvements.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Obstetrics, Gynecology, and Reproductive Sciences, University of California, San Francisco, CA 94143-0856, USA. kuppermannm@obgyn.ucsf.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Kuppermann
+      </lastname>
+      <forename>
+       Miriam
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Varner
+      </lastname>
+      <forename>
+       R Edward
+      </forename>
+      <initials>
+       RE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Summitt
+      </lastname>
+      <forename>
+       Robert L
+      </forename>
+      <initials>
+       RL
+      </initials>
+      <suffix>
+       Jr
+      </suffix>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Learman
+      </lastname>
+      <forename>
+       Lee A
+      </forename>
+      <initials>
+       LA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ireland
+      </lastname>
+      <forename>
+       Christine
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Vittinghoff
+      </lastname>
+      <forename>
+       Eric
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Stewart
+      </lastname>
+      <forename>
+       Anita L
+      </forename>
+      <initials>
+       AL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lin
+      </lastname>
+      <forename>
+       Feng
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Richter
+      </lastname>
+      <forename>
+       Holly E
+      </forename>
+      <initials>
+       HE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Showstack
+      </lastname>
+      <forename>
+       Jonathan
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hulley
+      </lastname>
+      <forename>
+       Stephen B
+      </forename>
+      <initials>
+       SB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Washington
+      </lastname>
+      <forename>
+       A Eugene
+      </forename>
+      <initials>
+       AE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       Ms Research Group
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       UO1 HS09478
+      </grantid>
+      <acronym>
+       HS
+      </acronym>
+      <agency>
+       AHRQ HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cyclooxygenase Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Estrogens
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Hormones
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      57-83-0
+     </registrynumber>
+     <nameofsubstance>
+      Progesterone
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      71-58-9
+     </registrynumber>
+     <nameofsubstance>
+      Medroxyprogesterone Acetate
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2004 Mar 24;291(12):1503-4
+     </refsource>
+     <pmid version="1">
+      15039418
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cyclooxygenase Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Estrogens
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hormones
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Hysterectomy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Medroxyprogesterone Acetate
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Patient Satisfaction
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Premenopause
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Progesterone
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Quality of Life
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sexual Behavior
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sickness Impact Profile
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Uterine Hemorrhage
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      surgery
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      27
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     15039411
+    </articleid>
+    <articleid idtype="doi">
+     10.1001/jama.291.12.1447
+    </articleid>
+    <articleid idtype="pii">
+     291/12/1447
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

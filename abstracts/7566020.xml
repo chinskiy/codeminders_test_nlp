@@ -1,0 +1,472 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    7566020
+   </pmid>
+   <datecreated>
+    <year>
+     1995
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     21
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1995
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     21
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     24
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0028-4793
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       333
+      </volume>
+      <issue>
+       20
+      </issue>
+      <pubdate>
+       <year>
+        1995
+       </year>
+       <month>
+        Nov
+       </month>
+       <day>
+        16
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Prevention of coronary heart disease with pravastatin in men with hypercholesterolemia. West of Scotland Coronary Prevention Study Group.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1301-7
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Lowering the blood cholesterol level may reduce the risk of coronary heart disease. This double-blind study was designed to determine whether the administration of pravastatin to men with hypercholesterolemia and no history of myocardial infarction reduced the combined incidence of nonfatal myocardial infarction and death from coronary heart disease.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We randomly assigned 6595 men, 45 to 64 years of age, with a mean (+/- SD) plasma cholesterol level of 272 +/- 23 mg per deciliter (7.0 +/- 0.6 mmol per liter) to receive pravastatin (40 mg each evening) or placebo. The average follow-up period was 4.9 years. Medical records, electrocardiographic recordings, and the national death registry were used to determine the clinical end points.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Pravastatin lowered plasma cholesterol levels by 20 percent and low-density-lipoprotein cholesterol levels by 26 percent, whereas there was no change with placebo. There were 248 definite coronary events (specified as nonfatal myocardial infarction or death from coronary heart disease) in the placebo group, and 174 in the pravastatin group (relative reduction in risk with pravastatin, 31 percent; 95 percent confidence interval, 17 to 43 percent; P &lt; 0.001). There were similar reductions in the risk of definite nonfatal myocardial infarctions (31 percent reduction, P &lt; 0.001), death from coronary heart disease (definite cases alone: 28 percent reduction, P = 0.13; definite plus suspected cases: 33 percent reduction, P = 0.042), and death from all cardiovascular causes (32 percent reduction, P = 0.033). There was no excess of deaths from noncardiovascular causes in the pravastatin group. We observed a 22 percent reduction in the risk of death from any cause in the pravastatin group (95 percent confidence interval, 0 to 40 percent; P = 0.051).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Treatment with pravastatin significantly reduced the incidence of myocardial infarction and death from cardiovascular causes without adversely affecting the risk of death from noncardiovascular causes in men with moderate hypercholesterolemia and no history of myocardial infarction.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Pathological Biochemistry, University of Glasgow, Scotland.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Shepherd
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cobbe
+      </lastname>
+      <forename>
+       S M
+      </forename>
+      <initials>
+       SM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ford
+      </lastname>
+      <forename>
+       I
+      </forename>
+      <initials>
+       I
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Isles
+      </lastname>
+      <forename>
+       C G
+      </forename>
+      <initials>
+       CG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lorimer
+      </lastname>
+      <forename>
+       A R
+      </forename>
+      <initials>
+       AR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       MacFarlane
+      </lastname>
+      <forename>
+       P W
+      </forename>
+      <initials>
+       PW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McKillop
+      </lastname>
+      <forename>
+       J H
+      </forename>
+      <initials>
+       JH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Packard
+      </lastname>
+      <forename>
+       C J
+      </forename>
+      <initials>
+       CJ
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anticholesteremic Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cholesterol, LDL
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      57-88-5
+     </registrynumber>
+     <nameofsubstance>
+      Cholesterol
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      81093-37-0
+     </registrynumber>
+     <nameofsubstance>
+      Pravastatin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 1996 Mar-Apr;124(1):40
+     </refsource>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 1995 Nov 16;333(20):1350-1
+     </refsource>
+     <pmid version="1">
+      7566029
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 1996 May 16;334(20):1334; author reply 1335
+     </refsource>
+     <pmid version="1">
+      8609958
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 1996 May 16;334(20):1333-4; author reply 1334-5
+     </refsource>
+     <pmid version="1">
+      8609957
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 1996 May 16;334(20):1333; author reply 1334-5
+     </refsource>
+     <pmid version="1">
+      8609956
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anticholesteremic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cholesterol
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cholesterol, LDL
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Coronary Disease
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypercholesterolemia
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Incidence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Myocardial Infarction
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pravastatin
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Survival Analysis
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1995
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      16
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1995
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1995
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     7566020
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJM199511163332001
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

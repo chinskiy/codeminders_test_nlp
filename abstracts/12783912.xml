@@ -1,0 +1,634 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12783912
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     04
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     12
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       289
+      </volume>
+      <issue>
+       21
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Jun
+       </month>
+       <day>
+        4
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Effects of rofecoxib or naproxen vs placebo on Alzheimer disease progression: a randomized controlled trial.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      2819-26
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Laboratory evidence that inflammatory mechanisms contribute to neuronal injury in Alzheimer disease (AD), along with epidemiological evidence, suggests that nonsteroidal anti-inflammatory drugs (NSAIDs) may favorably influence the course of the disease.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To determine whether treatment with a selective cyclooxygenase (COX) -2 inhibitor (rofecoxib) or a traditional nonselective NSAID (naproxen) slows cognitive decline in patients with mild-to-moderate AD.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Multicenter, randomized, double-blind, placebo-controlled, parallel group trial, with 1-year exposure to study medications.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      Forty ambulatory treatment centers affiliated with the Alzheimer's Disease Cooperative Study consortium.
+     </abstracttext>
+     <abstracttext label="PARTICIPANTS" nlmcategory="METHODS">
+      Participants with mild-to-moderate AD (Mini-Mental State Examination score of 13-26) were recruited from December 1999 to November 2000 using clinic populations, referrals from community physicians, and local advertising. Stable use of cholinesterase inhibitors, estrogen, low-dose aspirin, and vitamin E was allowed. Participants with inflammatory diseases that might respond to the study medications were excluded. Of 474 participants screened, 351 were enrolled.
+     </abstracttext>
+     <abstracttext label="INTERVENTIONS" nlmcategory="METHODS">
+      Once-daily rofecoxib, 25 mg, or twice-daily naproxen sodium, 220 mg, or placebo.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      The primary outcome measure was the 1-year change in the Alzheimer Disease Assessment Scale-Cognitive (ADAS-Cog) subscale score. Secondary outcome measures included the Clinical Dementia Rating scale sum-of-boxes, the Neuropsychiatric Inventory, the Quality of Life-AD, and the time to attainment of significant end points (4-point decline from baseline ADAS-Cog score, 1-step worsening on the global Clinical Dementia Rating scale, 15-point decline on the ADCS activities of daily living inventory, institutionalization, or death).
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The 1-year mean (SD) change in ADAS-Cog scores in participants treated with naproxen (5.8 [8.0]) or rofecoxib (7.6 [7.7]) was not significantly different from the change in participants treated with placebo (5.7 [8.2]). Results of secondary analyses showed no consistent benefit of either treatment. Fatigue, dizziness, and hypertension were more commonly reported in the active drug groups, and more serious adverse events were found in the active treatment group than in the placebo group.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      The results of this study indicate that rofecoxib or low-dose naproxen does not slow cognitive decline in patients with mild-to-moderate AD.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Neurology, Georgetown University Medical Center, Washington, DC 20057, USA. psa@georgetown.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Aisen
+      </lastname>
+      <forename>
+       Paul S
+      </forename>
+      <initials>
+       PS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schafer
+      </lastname>
+      <forename>
+       Kimberly A
+      </forename>
+      <initials>
+       KA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Grundman
+      </lastname>
+      <forename>
+       Michael
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pfeiffer
+      </lastname>
+      <forename>
+       Eric
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sano
+      </lastname>
+      <forename>
+       Mary
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Davis
+      </lastname>
+      <forename>
+       Kenneth L
+      </forename>
+      <initials>
+       KL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Farlow
+      </lastname>
+      <forename>
+       Martin R
+      </forename>
+      <initials>
+       MR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jin
+      </lastname>
+      <forename>
+       Shelia
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Thomas
+      </lastname>
+      <forename>
+       Ronald G
+      </forename>
+      <initials>
+       RG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Thal
+      </lastname>
+      <forename>
+       Leon J
+      </forename>
+      <initials>
+       LJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       Alzheimer's Disease Cooperative Study
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       5 M01-RR13297
+      </grantid>
+      <acronym>
+       RR
+      </acronym>
+      <agency>
+       NCRR NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       U01-AG10483
+      </grantid>
+      <acronym>
+       AG
+      </acronym>
+      <agency>
+       NIA NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Inflammatory Agents, Non-Steroidal
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cyclooxygenase 2 Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cyclooxygenase Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Isoenzymes
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Lactones
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Membrane Proteins
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Sulfones
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      rofecoxib
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      22204-53-1
+     </registrynumber>
+     <nameofsubstance>
+      Naproxen
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      EC 1.14.99.1
+     </registrynumber>
+     <nameofsubstance>
+      Cyclooxygenase 2
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      EC 1.14.99.1
+     </registrynumber>
+     <nameofsubstance>
+      PTGS2 protein, human
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      EC 1.14.99.1
+     </registrynumber>
+     <nameofsubstance>
+      Prostaglandin-Endoperoxide Synthases
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2003 Jun 4;289(21):2865-7
+     </refsource>
+     <pmid version="1">
+      12783919
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Evid Based Ment Health. 2003 Nov;6(4):110
+     </refsource>
+     <pmid version="1">
+      14585783
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Activities of Daily Living
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Alzheimer Disease
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Inflammatory Agents, Non-Steroidal
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cyclooxygenase 2
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cyclooxygenase 2 Inhibitors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cyclooxygenase Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Disease Progression
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Isoenzymes
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      antagonists &amp; inhibitors
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lactones
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Membrane Proteins
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Naproxen
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Neuropsychological Tests
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Proportional Hazards Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prostaglandin-Endoperoxide Synthases
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Regression Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sulfones
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12783912
+    </articleid>
+    <articleid idtype="doi">
+     10.1001/jama.289.21.2819
+    </articleid>
+    <articleid idtype="pii">
+     289/21/2819
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

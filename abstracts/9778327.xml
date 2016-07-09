@@ -1,0 +1,391 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    9778327
+   </pmid>
+   <datecreated>
+    <year>
+     1998
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     05
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1998
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     05
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0009-7322
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       98
+      </volume>
+      <issue>
+       16
+      </issue>
+      <pubdate>
+       <year>
+        1998
+       </year>
+       <month>
+        Oct
+       </month>
+       <day>
+        20
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Circulation
+     </title>
+     <isoabbreviation>
+      Circulation
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Use of a prognostic treadmill score in identifying diagnostic coronary disease subgroups.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1622-30
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Exercise testing is useful in the assessment of symptomatic patients for diagnosis of significant or extensive coronary disease and to predict their future risk of cardiac events. The Duke treadmill score (DTS) is a composite index that was designed to provide survival estimates based on results from the exercise test, including ST-segment depression, chest pain, and exercise duration. However, its usefulness for providing diagnostic estimates has yet to be determined.
+     </abstracttext>
+     <abstracttext label="METHODS AND RESULTS" nlmcategory="RESULTS">
+      A logistic regression model was used to predict significant (&gt;/=75% stenosis) and severe (3-vessel or left main) coronary artery disease, and a Cox regression analysis was used to predict cardiac survival. After adjustment for baseline clinical risk, the DTS was effectively diagnostic for significant (P&lt;0.0001) and severe (P&lt;0.0001) coronary artery disease. For low-risk patients (score &gt;/=+5), 60% had no coronary stenosis &gt;/=75% and 16% had single-vessel &gt;/=75% stenosis. By comparison, 74% of high-risk patients (score &lt;-11) had 3-vessel or left main coronary disease. Five-year mortality was 3%, 10%, and 35% for low-, moderate-, and high-risk DTS groups (P&lt;0.0001).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The composite DTS provides accurate diagnostic and prognostic information for the evaluation of symptomatic patients evaluated for clinically suspected ischemic heart disease.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Center for Cardiovascular Epidemiology, Division of Cardiology, Emory University, Atlanta, GA, USA. 1shaw@cces.emory.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Shaw
+      </lastname>
+      <forename>
+       L J
+      </forename>
+      <initials>
+       LJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Peterson
+      </lastname>
+      <forename>
+       E D
+      </forename>
+      <initials>
+       ED
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Shaw
+      </lastname>
+      <forename>
+       L K
+      </forename>
+      <initials>
+       LK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kesler
+      </lastname>
+      <forename>
+       K L
+      </forename>
+      <initials>
+       KL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       DeLong
+      </lastname>
+      <forename>
+       E R
+      </forename>
+      <initials>
+       ER
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Harrell
+      </lastname>
+      <forename>
+       F E
+      </forename>
+      <initials>
+       FE
+      </initials>
+      <suffix>
+       Jr
+      </suffix>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Muhlbaier
+      </lastname>
+      <forename>
+       L H
+      </forename>
+      <initials>
+       LH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Mark
+      </lastname>
+      <forename>
+       D B
+      </forename>
+      <initials>
+       DB
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       HS-06503
+      </grantid>
+      <acronym>
+       HS
+      </acronym>
+      <agency>
+       AHRQ HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Controlled Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Circulation
+    </medlineta>
+    <nlmuniqueid>
+     0147763
+    </nlmuniqueid>
+    <issnlinking>
+     0009-7322
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Coronary Disease
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Exercise Test
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Logistic Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Predictive Value of Tests
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prognosis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      ROC Curve
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Regression Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Survival Rate
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1998
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      2
+     </hour>
+     <minute>
+      3
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1998
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      2
+     </hour>
+     <minute>
+      3
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     9778327
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

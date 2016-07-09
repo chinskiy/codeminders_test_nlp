@@ -1,0 +1,443 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11735756
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     12
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     28
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       286
+      </volume>
+      <issue>
+       22
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Dec
+       </month>
+       <day>
+        12
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Identification and fracture outcomes of undiagnosed low bone mineral density in postmenopausal women: results from the National Osteoporosis Risk Assessment.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      2815-22
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Large segments of the population at risk for osteoporosis and fracture have not been evaluated, and the usefulness of peripheral measurements for short-term prediction of fracture risk is uncertain.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To describe the occurrence of low bone mineral density (BMD) in postmenopausal women, its risk factors, and fracture incidence during short-term follow-up.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      The National Osteoporosis Risk Assessment, a longitudinal observational study initiated September 1997 to March 1999, with approximately 12 months of subsequent follow-up.
+     </abstracttext>
+     <abstracttext label="SETTING AND PARTICIPANTS" nlmcategory="METHODS">
+      A total of 200 160 ambulatory postmenopausal women aged 50 years or older with no previous osteoporosis diagnosis, derived from 4236 primary care practices in 34 states.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      Baseline BMD T scores, obtained from peripheral bone densitometry performed at the heel, finger, or forearm; risk factors for low BMD, derived from questionnaire responses; and clinical fracture rates at 12-month follow-up.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Using World Health Organization criteria, 39.6% had osteopenia (T score of -1 to -2.49) and 7.2% had osteoporosis (T score &lt;/=-2.5). Age, personal or family history of fracture, Asian or Hispanic heritage, smoking, and cortisone use were associated with significantly increased likelihood of osteoporosis; higher body mass index, African American heritage, estrogen or diuretic use, exercise, and alcohol consumption significantly decreased the likelihood. Among the 163 979 participants with follow-up information, osteoporosis was associated with a fracture rate approximately 4 times that of normal BMD (rate ratio, 4.03; 95% confidence interval [CI], 3.59-4.53) and osteopenia was associated with a 1.8-fold higher rate (95% CI, 1.49-2.18).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Almost half of this population had previously undetected low BMD, including 7% with osteoporosis. Peripheral BMD results were highly predictive of fracture risk. Given the economic and social costs of osteoporotic fractures, strategies to identify and manage osteoporosis in the primary care setting need to be established and implemented.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Toni Stabile Osteoporosis Center, Columbia Presbyterian Medical Center, 180 Fort Washington Ave, New York, NY 10032-3784, USA. es27@columbia.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Siris
+      </lastname>
+      <forename>
+       E S
+      </forename>
+      <initials>
+       ES
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Miller
+      </lastname>
+      <forename>
+       P D
+      </forename>
+      <initials>
+       PD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Barrett-Connor
+      </lastname>
+      <forename>
+       E
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Faulkner
+      </lastname>
+      <forename>
+       K G
+      </forename>
+      <initials>
+       KG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wehren
+      </lastname>
+      <forename>
+       L E
+      </forename>
+      <initials>
+       LE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Abbott
+      </lastname>
+      <forename>
+       T A
+      </forename>
+      <initials>
+       TA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Berger
+      </lastname>
+      <forename>
+       M L
+      </forename>
+      <initials>
+       ML
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Santora
+      </lastname>
+      <forename>
+       A C
+      </forename>
+      <initials>
+       AC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sherwood
+      </lastname>
+      <forename>
+       L M
+      </forename>
+      <initials>
+       LM
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2002 Mar 6;287(9):1109-10
+     </refsource>
+     <pmid version="1">
+      11879096
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2001 Dec 12;286(22):2865-6
+     </refsource>
+     <pmid version="1">
+      11735763
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2002 Mar 6;287(9):1109; author reply 1110
+     </refsource>
+     <pmid version="1">
+      11879095
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Absorptiometry, Photon
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Bone Density
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bone Diseases, Metabolic
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fractures, Bone
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Longitudinal Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Osteoporosis, Postmenopausal
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Postmenopause
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Proportional Hazards Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Assessment
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ultrasonography
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      United States
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      12
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      12
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11735756
+    </articleid>
+    <articleid idtype="pii">
+     joc10548
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

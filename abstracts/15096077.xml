@@ -1,0 +1,373 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15096077
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     20
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     20
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0160-6689
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       65
+      </volume>
+      <issue>
+       3
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Mar
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The Journal of clinical psychiatry
+     </title>
+     <isoabbreviation>
+      J Clin Psychiatry
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Long-term treatment outcomes of depression with associated anxiety: efficacy of continuation treatment with fluoxetine.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      373-8
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Severity of anxiety does not appear to influence the antidepressant response to fluoxetine during acute treatment of major depressive disorder (MDD). We report a retrospective pooled analysis of 2 studies to assess the effect of associated anxiety on the efficacy of fluoxetine in the continuation treatment phase of MDD.
+     </abstracttext>
+     <abstracttext label="METHOD" nlmcategory="METHODS">
+      Patients whose MDD remitted (study 1) or responded (study 2) after approximately 12 to 13 weeks of open-label treatment with fluoxetine 20 mg daily were randomly assigned in double-blind fashion to placebo, continued treatment with fluoxetine 20 mg daily, or, in study 2 only, treatment with enteric-coated fluoxetine 90 mg once weekly, for at least 25 weeks. Both studies included male and female outpatients who met criteria for MDD as assessed by DSM-III-R (study 1) or DSM-IV (study 2). Patients were categorized into high anxiety (&gt; or = 7) or low anxiety (&lt; 7) subgroups based on baseline Hamilton Rating Scale for Depression (HAM-D) anxiety/somatization subfactor scores. Subgroups were compared by therapy for time from randomization to relapse and change in efficacy scores.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      No significant differences in time to relapse were observed between anxiety subgroups in either active treatment group. However, in patients switched to placebo for continuation treatment, the high anxiety subgroup had a significantly higher risk of relapse than those with low anxiety (risk ratio = 1.63, p =.013). Significant differences between anxiety groups were seen in change in HAM-D anxiety/somatization subfactor scores in the fluoxetine 20 mg and placebo treatment groups, and in change in HAM-D-17 scores in the placebo treatment group (p &lt;.05).
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Although high baseline anxiety does not appear to impact the benefit of continuation therapy with fluoxetine, it does appear to predict increased risk of relapse in individuals who do not remain on antidepressant therapy for the duration of continuation treatment.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Lilly Research Laboratories, Eli Lilly and Company, Indianapolis, IN, USA. joliat@lilly.com
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Joliat
+      </lastname>
+      <forename>
+       Melissa J
+      </forename>
+      <initials>
+       MJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schmidt
+      </lastname>
+      <forename>
+       Mark E
+      </forename>
+      <initials>
+       ME
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Fava
+      </lastname>
+      <forename>
+       Maurizio
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Zhang
+      </lastname>
+      <forename>
+       Shuyu
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Michelson
+      </lastname>
+      <forename>
+       David
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Trapp
+      </lastname>
+      <forename>
+       Nancy J
+      </forename>
+      <initials>
+       NJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Miner
+      </lastname>
+      <forename>
+       Cherri M
+      </forename>
+      <initials>
+       CM
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     J Clin Psychiatry
+    </medlineta>
+    <nlmuniqueid>
+     7801243
+    </nlmuniqueid>
+    <issnlinking>
+     0160-6689
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Serotonin Uptake Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      54910-89-3
+     </registrynumber>
+     <nameofsubstance>
+      Fluoxetine
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anxiety
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      complications
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Depressive Disorder, Major
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diagnostic and Statistical Manual of Mental Disorders
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fluoxetine
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Questionnaires
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Serotonin Uptake Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Time Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     15096077
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,335 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12137717
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     24
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     24
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       3
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Cow's milk protein avoidance and development of childhood wheeze in children with a family history of atopy.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD003795
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      In infants with a family history of atopy, food allergen avoidance has been advocated as means of preventing the development of atopic disease when breast-feeding is not possible or supplemental feeding is needed. Most infant formulas are based on cow's milk protein. Alternative choices include soya based and hydrolysed cows milk formulas.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To estimate the effect of dietary avoidance of cow's milk protein on the development of asthma or wheeze in children.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      The Cochrane database was searched for eligible trials until February 2002. The full text papers of all abstracts identified as RCTs were obtained and reviewed independently by two reviewers.
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      Randomised controlled trials involving children with a family history of atopy in at least one first degree relative were considered if feeding with cow's milk based standard formula was compared to dietary avoidance of cow's milk protein using soya or other hypoallergenic formula during the initial four months of life or longer.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      Two reviewers extracted data independently. A priori defined subgroups were the types of hypoallergenic artificial feed and dietary restrictions on mother and/or child's diet.
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      Six trials used hydrolysed formula for at least 4 months in addition to dietary restrictions and in some cases dust-mite reduction measures. The risk of infants experiencing asthma or wheeze during the first year of life was reduced compared to standard cow's milk based formula (Relative Risk =0.40, 95% Confidence Intervals 0.19, 0.85). Feeding soya-based formula as opposed to standard cow's milk formula did not reduce the risk of having asthma or wheeze at any age.
+     </abstracttext>
+     <abstracttext label="REVIEWER'S CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Breast-milk should remain the feed of choice for all babies. In infants with at least one first degree relative with atopy, hydrolysed formula for a minimum of 4 months combined with dietary restrictions and environment measures may reduce the risk of developing asthma or wheeze in the first year of life. There is insufficient evidence to suggest that soya-based milk formula has any benefit.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Physiological Medicine, St George's Hospital Medical School, Level 0, Jenner Wing, Cranmer Terrace, London, UK, SW17 0RE. fram@sghms.ac.uk
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Ram
+      </lastname>
+      <forename>
+       F S
+      </forename>
+      <initials>
+       FS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ducharme
+      </lastname>
+      <forename>
+       F M
+      </forename>
+      <initials>
+       FM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Scarlett
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Milk Proteins
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Evid Based Nurs. 2003 Apr;6(2):43
+     </refsource>
+     <pmid version="1">
+      12710418
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="UpdateIn">
+     <refsource>
+      Cochrane Database Syst Rev. 2007;(2):CD003795
+     </refsource>
+     <pmid version="1">
+      17636737
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Asthma
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Family
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant Food
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant, Newborn
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Milk Hypersensitivity
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      immunology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Milk Proteins
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Respiratory Sounds
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    64
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      6
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12137717
+    </articleid>
+    <articleid idtype="pii">
+     CD003795
+    </articleid>
+    <articleid idtype="doi">
+     10.1002/14651858.CD003795
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

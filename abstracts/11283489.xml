@@ -1,0 +1,356 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11283489
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     03
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     14
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0194-5998
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       124
+      </volume>
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Apr
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery
+     </title>
+     <isoabbreviation>
+      Otolaryngol Head Neck Surg
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Meta-analysis of tympanostomy tube sequelae.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      374-80
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To estimate the incidence of tympanostomy tube sequelae based on systematic review of published case series and randomized studies.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      English-language MEDLINE search from 1966 through April 1999 with manual reference search of proceedings, articles, reports, and guidelines.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION" nlmcategory="METHODS">
+      Cohort studies with otitis media as the primary indication for tube placement.
+     </abstracttext>
+     <abstracttext label="DATA EXTRACTION" nlmcategory="METHODS">
+      Two reviewers independently extracted data from 134 articles.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      Transient otorrhea occurred in 16% of patients in the postoperative period and later in 26%; recurrent otorrhea occurred in 7.4% of patients and chronic otorrhea in 3.8%. Sequelae of indwelling tubes included obstruction (7% of ears), granulation tissue (5%), premature extrusion (3.9%), and medial displacement (0.5%). Sequelae after tube extrusion included tympanosclerosis (32%), focal atrophy (25%), retraction pocket (3.1%), cholesteatoma (0.7%), and perforation (2.2% with short-term tubes, 16.6% with long-term tubes). Meta-analysis showed that long-term tubes increased the relative risk of perforation by 3.5 (95% CI, 1.5 to 7.1) and cholesteatoma by 2.6 (95% CI, 1.5 to 4.4). Similarly, intubation increased the relative risk of tympanosclerosis by 3.5 (95% CI, 2.6 to 4.9) and focal atrophy by 1.7 (95% CI, 1.1 to 2.7) over nonintubated control ears (baseline tympanosclerosis and atrophy rates of 10% and 14%, respectively).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Sequelae of tympanostomy tubes are common but are generally transient (otorrhea) or cosmetic (tympanosclerosis, focal atrophy). Nonetheless, the high incidence suggests a need for ongoing otologic surveillance of all patients with indwelling tubes and for a reasonable time period after tube extrusion. Long-term tubes should be used on a selective and individualized basis.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Otolaryngology, SUNY Health Science Center at Brooklyn, Brooklyn, New York, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Kay
+      </lastname>
+      <forename>
+       D J
+      </forename>
+      <initials>
+       DJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Nelson
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rosenfeld
+      </lastname>
+      <forename>
+       R M
+      </forename>
+      <initials>
+       RM
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Otolaryngol Head Neck Surg
+    </medlineta>
+    <nlmuniqueid>
+     8508176
+    </nlmuniqueid>
+    <issnlinking>
+     0194-5998
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Otolaryngol Head Neck Surg. 2003 Dec;129(6):759; author reply 759-60
+     </refsource>
+     <pmid version="1">
+      14663448
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Atrophy
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cholesteatoma, Middle Ear
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Chronic Disease
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Incidence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Ear Ventilation
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Otitis Media with Effusion
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      surgery
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Postoperative Period
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prevalence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Retrospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sclerosis
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tympanic Membrane
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tympanic Membrane Perforation
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      23
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11283489
+    </articleid>
+    <articleid idtype="pii">
+     S0194599801508633
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

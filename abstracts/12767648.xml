@@ -1,0 +1,471 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12767648
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     27
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     10
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0735-1097
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       41
+      </volume>
+      <issue>
+       10
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        May
+       </month>
+       <day>
+        21
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of the American College of Cardiology
+     </title>
+     <isoabbreviation>
+      J. Am. Coll. Cardiol.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Randomized trial of rate-control versus rhythm-control in persistent atrial fibrillation: the Strategies of Treatment of Atrial Fibrillation (STAF) study.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1690-6
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      This study was designed to compare two treatment strategies in patients with atrial fibrillation(AF): rhythm-control (restoration and maintenance of sinus rhythm) and rate-control (pharmacologic or invasive rate-control and anticoagulation).
+     </abstracttext>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Atrial fibrillation is the most common arrhythmia. It is unclear whether a strategy of rhythm- or rate-control is better in terms of mortality, morbidity, and quality of life.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      The Strategies of Treatment of Atrial Fibrillation (STAF) multicenter pilot trial randomized 200 patients (100 per group) with persistent AF to rhythm- or rate-control. The combined primary end point was a combination of death, cardiopulmonary resuscitation, cerebrovascular event, and systemic embolism.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      After 19.6 +/- 8.9 months (range 0 to 36 months) there was no difference in the primary end point between rhythm-control (9/100; 5.54%/year) and rate-control (10/100; 6.09%/year; p = 0.99). The percentage of patients in sinus rhythm in the rhythm-control group after up to four cardioversions during the follow-up period (rate-control group) was 23% (0%) at 36 months. Eighteen primary end points occurred in atrial fibrillation; only one occurred in sinus rhythm (p = 0.049).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The STAF pilot study showed no differences between the two treatment strategies in all end points except hospitalizations. These data suggest that there was no benefit in attempting rhythm-control in these patients with a high risk of arrhythmia recurrence. It remains unclear whether the results in the rhythm-control group would have been better if sinus rhythm had been maintained in a higher proportion of patients, as all but one end point occurred during AF.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Internal Medicine II, Klinikum Lippe-Detmold, Röntgenstrasse 18, D-32760 Detmold, Germany. Joerg.Carlson@Klinikum-Lippe.de
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Carlsson
+      </lastname>
+      <forename>
+       Jörg
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Miketic
+      </lastname>
+      <forename>
+       Sinisa
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Windeler
+      </lastname>
+      <forename>
+       Jürgen
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cuneo
+      </lastname>
+      <forename>
+       Alessandro
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Haun
+      </lastname>
+      <forename>
+       Sebastian
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Micus
+      </lastname>
+      <forename>
+       Stefan
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Walter
+      </lastname>
+      <forename>
+       Sabine
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tebbe
+      </lastname>
+      <forename>
+       Ulrich
+      </forename>
+      <initials>
+       U
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       STAF Investigators
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     J Am Coll Cardiol
+    </medlineta>
+    <nlmuniqueid>
+     8301365
+    </nlmuniqueid>
+    <issnlinking>
+     0735-1097
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Arrhythmia Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anticoagulants
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      3930-20-9
+     </registrynumber>
+     <nameofsubstance>
+      Sotalol
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Am Coll Cardiol. 2003 May 21;41(10):1703-6
+     </refsource>
+     <pmid version="1">
+      12767650
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Arrhythmia Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anticoagulants
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Atrial Fibrillation
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Atrioventricular Node
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      surgery
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Catheter Ablation
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Defibrillators, Implantable
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Disease-Free Survival
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Electric Countershock
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heart Rate
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pilot Projects
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Quality of Life
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sotalol
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      11
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12767648
+    </articleid>
+    <articleid idtype="pii">
+     S0735109703003322
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

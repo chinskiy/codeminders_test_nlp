@@ -1,0 +1,422 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    20091541
+   </pmid>
+   <datecreated>
+    <year>
+     2010
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     21
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2010
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     16
+    </day>
+   </datecompleted>
+   <article pubmodel="Electronic">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2010
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Symptomatic treatment of the cough in whooping cough.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD003257
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      The worldwide incidence of whooping cough (pertussis) has been estimated at 48.5 million cases and nearly 295,000 deaths per year. In low-income countries, the case-fatality rate among infants may be as high as 4%. Much of the morbidity of whooping cough in children and adults is due to the effects of the paroxysmal cough. Cough treatments proposed include corticosteroids, beta 2-adrenergic agonists, pertussis-specific immunoglobulin, antihistamines and possibly leukotriene receptor antagonists (LTRAs).
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To assess the effectiveness and safety of interventions to reduce the severity of paroxysmal cough in whooping cough in children and adults.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2009, issue 1), which contains the Cochrane Acute Respiratory Infections Group's Specialised Register and the Database of Abstracts of Reviews of Effects (DARE); MEDLINE (1950 to March 2009); EMBASE (1980 to March 2009); AMED (1985 to March 2009); CINAHL (1982 to March 2009) and LILACS (March 2009).
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      Randomised controlled trials (RCTs) and quasi-RCTs of any intervention (excluding antibiotics and vaccines) to suppress the cough in whooping cough.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      Two review authors (SB, MT) independently selected trials, extracted data and assessed the quality of each trial. The primary outcome was frequency of paroxysms of coughing. Secondary outcomes were frequency of vomiting, frequency of whoop, frequency of cyanosis (turning blue), development of serious complications, mortality from any cause, side effects due to medication, admission to hospital and duration of hospital stay.
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      Ten trials were included of varying sample sizes (N = 9 to 135) from high-income countries. Study quality was generally poor. Included studies did not show a statistically significant benefit for any of the interventions. Diphenhydramine did not change coughing episodes; the mean difference of coughing spells per 24 hours was 1.9 (95% confidence interval (CI) - 4.7 to 8.5). One study on pertussis immunoglobulin reported a possible mean reduction of -3.1 whoops per 24 hours (95% CI -6.2 to 0.02) but no change in hospital stay (-0.7 days) (95% CI -3.8 to 2.4). Dexamethasone did not show a clear decrease in length of hospital stay (-3.5 days) (95% CI -15.3 to 8.4) and salbutamol showed no change in coughing paroxysms per 24 hours (-0.22) (95% CI -4.13 to 3.69).
+     </abstracttext>
+     <abstracttext label="AUTHORS' CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Insufficient evidence exists to draw conclusions about the effects of interventions for the cough in whooping cough.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     School of Medicine, Clinical School, University of Tasmania, Private Bag 29, Hobart, Tasmania, Australia, 7000.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Bettiol
+      </lastname>
+      <forename>
+       Silvana
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Thompson
+      </lastname>
+      <forename>
+       Matthew J
+      </forename>
+      <initials>
+       MJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Roberts
+      </lastname>
+      <forename>
+       Nia Wyn
+      </forename>
+      <initials>
+       NW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Perera
+      </lastname>
+      <forename>
+       Rafael
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Heneghan
+      </lastname>
+      <forename>
+       Carl J
+      </forename>
+      <initials>
+       CJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Harnden
+      </lastname>
+      <forename>
+       Anthony
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2010
+     </year>
+     <month>
+      01
+     </month>
+     <day>
+      20
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Inflammatory Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Histamine H1 Antagonists
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Immunoglobulins
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      18559-94-9
+     </registrynumber>
+     <nameofsubstance>
+      Albuterol
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      50-02-2
+     </registrynumber>
+     <nameofsubstance>
+      Dexamethasone
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      58-73-1
+     </registrynumber>
+     <nameofsubstance>
+      Diphenhydramine
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="UpdateOf">
+     <refsource>
+      Cochrane Database Syst Rev. 2008;(4):CD003257
+     </refsource>
+     <pmid version="1">
+      18843643
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Albuterol
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Inflammatory Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cough
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dexamethasone
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diphenhydramine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Histamine H1 Antagonists
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Immunoglobulins
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Whooping Cough
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    57
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2010
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      22
+     </day>
+     <hour>
+      6
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2010
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      22
+     </day>
+     <hour>
+      6
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2010
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      17
+     </day>
+     <hour>
+      6
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    epublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="doi">
+     10.1002/14651858.CD003257.pub3
+    </articleid>
+    <articleid idtype="pubmed">
+     20091541
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

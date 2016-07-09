@@ -1,0 +1,321 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12899587
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     05
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     15
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1539-3704
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       139
+      </volume>
+      <issue>
+       3
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Aug
+       </month>
+       <day>
+        5
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Annals of internal medicine
+     </title>
+     <isoabbreviation>
+      Ann. Intern. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Diagnosis of adrenal insufficiency.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      194-204
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      The cosyntropin stimulation test is the initial endocrine evaluation of suspected primary or secondary adrenal insufficiency.
+     </abstracttext>
+     <abstracttext label="PURPOSE" nlmcategory="OBJECTIVE">
+      To critically review the utility of the cosyntropin stimulation test for evaluating adrenal insufficiency.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      The MEDLINE database was searched from 1966 to 2002 for all English-language papers related to the diagnosis of adrenal insufficiency.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION" nlmcategory="METHODS">
+      Studies with fewer than 5 persons with primary or secondary adrenal insufficiency or with fewer than 10 persons as normal controls were excluded. For secondary adrenal insufficiency, only studies that stratified participants by integrated tests of adrenal function were included.
+     </abstracttext>
+     <abstracttext label="DATA EXTRACTION" nlmcategory="METHODS">
+      Summary receiver-operating characteristic (ROC) curves were generated from all studies that provided sensitivity and specificity data for 250-microg and 1-microg cosyntropin tests; these curves were then compared by using area under the curve (AUC) methods. All estimated values are given with 95% CIs.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      At a specificity of 95%, sensitivities were 97%, 57%, and 61% for summary ROC curves in tests for primary adrenal insufficiency (250-microg cosyntropin test), secondary adrenal insufficiency (250-microg cosyntropin test), and secondary adrenal insufficiency (1-microg cosyntropin test), respectively. The area under the curve for primary adrenal insufficiency was significantly greater than the AUC for secondary adrenal insufficiency for the high-dose cosyntropin test (P &lt; 0.001), but AUCs for the 250-microg and 1-microg cosyntropin tests did not differ significantly (P &gt; 0.5) for secondary adrenal insufficiency. At a specificity of 95%, summary ROC analysis for the 250-microg cosyntropin test yielded a positive likelihood ratio of 11.5 (95% CI, 8.7 to 14.2) and a negative likelihood ratio of 0.45 (CI, 0.30 to 0.60) for the diagnosis of secondary adrenal insufficiency.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Cortisol response to cosyntropin varies considerably among healthy persons. The cosyntropin test performs well in patients with primary adrenal insufficiency, but the lower sensitivity in patients with secondary adrenal insufficiency necessitates use of tests involving stimulation of the hypothalamus if the pretest probability is sufficiently high. The operating characteristics of the 250-microg and 1-microg cosyntropin tests are similar.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Division of Endocrinology and Metabolism, New Mexico Veterans Administration Health Care System and University of New Mexico, Medical Service 111, 1501 San Pedro Boulevard SE, Albuquerque, New Mexico 87108, USA. rdorin@salud.unm.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Dorin
+      </lastname>
+      <forename>
+       Richard I
+      </forename>
+      <initials>
+       RI
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Qualls
+      </lastname>
+      <forename>
+       Clifford R
+      </forename>
+      <initials>
+       CR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Crapo
+      </lastname>
+      <forename>
+       Lawrence M
+      </forename>
+      <initials>
+       LM
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, Non-P.H.S.
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Ann Intern Med
+    </medlineta>
+    <nlmuniqueid>
+     0372351
+    </nlmuniqueid>
+    <issnlinking>
+     0003-4819
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      16960-16-0
+     </registrynumber>
+     <nameofsubstance>
+      Cosyntropin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Ann Intern Med. 2004 Feb 17;140(4):312-3; author reply 313-4
+     </refsource>
+     <pmid version="1">
+      14970166
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2004 Jan-Feb;140(1):18
+     </refsource>
+     <pmid version="1">
+      14711289
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="ErratumIn">
+     <refsource>
+      Ann Intern Med. 2004 Feb 17;140(4):315
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adrenal Insufficiency
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cosyntropin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      diagnostic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      ROC Curve
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    109
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      6
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      6
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12899587
+    </articleid>
+    <articleid idtype="pii">
+     200308050-00009
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

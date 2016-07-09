@@ -1,0 +1,365 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    6754120
+   </pmid>
+   <datecreated>
+    <year>
+     1983
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     07
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1983
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     07
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     26
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0042-9686
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       60
+      </volume>
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <year>
+        1982
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Bulletin of the World Health Organization
+     </title>
+     <isoabbreviation>
+      Bull. World Health Organ.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Efficacy of various durations of isoniazid preventive therapy for tuberculosis: five years of follow-up in the IUAT trial. International Union Against Tuberculosis Committee on Prophylaxis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      555-64
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      A total of 28 000 persons with fibrotic pulmonary lesions compatible with tuberculosis were followed for five years after receiving 12, 24, or 52 weeks of preventive treatment with isoniazid or placebo.Compared with placebo, 12 weeks of isoniazid eliminated less than one-third, and 24 weeks eliminated two-thirds of the tuberculosis risk. Where preventive treatment is not currently practised, adopting a 24-week regimen could decrease the incidence of tuberculosis in such populations by 65%.Hepatitis, the only serious side-effect encountered, occurred infrequently but was more common among isoniazid recipients (0.5%) than among placebo recipients (0.1%).Fifty-two weeks of isoniazid prevented the most tuberculosis, but 24 weeks prevented more tuberculosis cases per case of hepatitis caused. Where preventive treatment is currently practised for 52 weeks, adopting a 24-week regimen would decrease hepatitis by one-third and increase tuberculosis by 40%.
+     </abstracttext>
+    </abstract>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     SWITZERLAND
+    </country>
+    <medlineta>
+     Bull World Health Organ
+    </medlineta>
+    <nlmuniqueid>
+     7507052
+    </nlmuniqueid>
+    <issnlinking>
+     0042-9686
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      54-85-3
+     </registrynumber>
+     <nameofsubstance>
+      Isoniazid
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arzneimittelforschung. 1959 Nov;9:700-7
+     </refsource>
+     <pmid version="1">
+      14427077
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am Rev Respir Dis. 1965 Mar;91:345-50
+     </refsource>
+     <pmid version="1">
+      14264781
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am Rev Respir Dis. 1962 Dec;86:810-22
+     </refsource>
+     <pmid version="1">
+      14022524
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am Rev Respir Dis. 1962 Jul;86:8-15
+     </refsource>
+     <pmid version="1">
+      14454383
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am Rev Respir Dis. 1979 May;119(5):827-30
+     </refsource>
+     <pmid version="1">
+      453704
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Bull Int Union Tuberc. 1976;51(1):193-201
+     </refsource>
+     <pmid version="1">
+      801115
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Bull Int Union Tuberc. 1976;51(1):203-8
+     </refsource>
+     <pmid version="1">
+      1030282
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Bull Int Union Tuberc. 1974;49(1):302-5
+     </refsource>
+     <pmid version="1">
+      4467959
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am Rev Respir Dis. 1965 Nov;92(5):732-40
+     </refsource>
+     <pmid version="1">
+      5321147
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Bull World Health Organ. 1965;33(3):419-33
+     </refsource>
+     <pmid version="1">
+      5321762
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am Rev Respir Dis. 1967 Jun;95(6):935-43
+     </refsource>
+     <pmid version="1">
+      6026165
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Clinical Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug-Induced Liver Injury
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      Europe, Eastern
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Isoniazid
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Random Allocation
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Rural Population
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Time Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tuberculosis, Pulmonary
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC2536088
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1982
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1982
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1982
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     6754120
+    </articleid>
+    <articleid idtype="pmc">
+     PMC2536088
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

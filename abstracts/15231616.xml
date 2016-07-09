@@ -1,0 +1,612 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15231616
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     02
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     22
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1468-5833
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       329
+      </volume>
+      <issue>
+       7456
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Jul
+       </month>
+       <day>
+        3
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      BMJ (Clinical research ed.)
+     </title>
+     <isoabbreviation>
+      BMJ
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Systematic review of the incidence and consequences of uterine rupture in women with previous caesarean section.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      19-25
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To evaluate the incidence and consequences of uterine rupture in women who have had a delivery by caesarean section.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Systematic review.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      Medline, HealthSTAR, Cochrane Database of Systematic Reviews, Cochrane Controlled Trials Register, National Centre for Reviews and Dissemination, reference lists, and national experts. Studies in all languages were eligible if published in full.
+     </abstracttext>
+     <abstracttext label="REVIEW METHODS" nlmcategory="METHODS">
+      Methodological quality was evaluated for each study by using criteria from the United States Preventive Services Task Force and the National Health Service Centre for Reviews and Dissemination. Uterine rupture was categorised as asymptomatic or symptomatic.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      We reviewed 568 full text articles to identify 71 potentially eligible studies, 21 of which were rated at least fair in quality. Compared with elective repeat caesarean delivery, trial of labour increased the risk of uterine rupture by 2.7 (95% confidence interval 0.73 to 4.73) per 1000 cases. No maternal deaths were related to rupture. For women attempting vaginal delivery, the additional risk of perinatal death from rupture of a uterine scar was 1.4 (0 to 9.8) per 10,000 and the additional risk of hysterectomy was 3.4 (0 to 12.6) per 10 000. The rates of asymptomatic uterine rupture in trial of labour and elective repeat caesarean did not differ significantly.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Although the literature on uterine rupture is imprecise and inconsistent, existing studies indicate that 370 (213 to 1370) elective caesarean deliveries would need to be performed to prevent one symptomatic uterine rupture.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Obstetrics and Gynecology, Oregon Health &amp; Science University, UHN-50, 3181 SW Sam Jackson Park Road, Portland, OR 97239-3098, USA. guisej@ohsu.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Guise
+      </lastname>
+      <forename>
+       Jeanne-Marie
+      </forename>
+      <initials>
+       JM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McDonagh
+      </lastname>
+      <forename>
+       Marian S
+      </forename>
+      <initials>
+       MS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Osterweil
+      </lastname>
+      <forename>
+       Patricia
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Nygren
+      </lastname>
+      <forename>
+       Peggy
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Chan
+      </lastname>
+      <forename>
+       Benjamin K S
+      </forename>
+      <initials>
+       BK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Helfand
+      </lastname>
+      <forename>
+       Mark
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       1 K08 HS11338-01
+      </grantid>
+      <acronym>
+       HS
+      </acronym>
+      <agency>
+       AHRQ HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       290-97-0018
+      </grantid>
+      <agency>
+       PHS HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     BMJ
+    </medlineta>
+    <nlmuniqueid>
+     8900488
+    </nlmuniqueid>
+    <issnlinking>
+     0959-535X
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      50-56-6
+     </registrynumber>
+     <nameofsubstance>
+      Oxytocin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Obstet Gynecol. 2001 Jun;184(7):1478-84; discussion 1484-7
+     </refsource>
+     <pmid version="1">
+      11408871
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 2001 Jul 5;345(1):3-8
+     </refsource>
+     <pmid version="1">
+      11439945
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 2001 Jul 5;345(1):54-5
+     </refsource>
+     <pmid version="1">
+      11439949
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Obstet Gynecol. 2002 Feb;186(2):311-4
+     </refsource>
+     <pmid version="1">
+      11854656
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 2002 May 22-29;287(20):2684-90
+     </refsource>
+     <pmid version="1">
+      12020304
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Obstet Gynecol. 2002 Jun;99(6):967-8
+     </refsource>
+     <pmid version="1">
+      12052581
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Perinatol. 1992 Mar;9(2):80-3
+     </refsource>
+     <pmid version="1">
+      1590872
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Obstet Gynecol. 1990 Nov;76(5 Pt 1):750-4
+     </refsource>
+     <pmid version="1">
+      2216218
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Eur J Obstet Gynecol Reprod Biol. 1989 May;31(2):109-17
+     </refsource>
+     <pmid version="1">
+      2759320
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Obstet Gynecol. 1987 Nov;70(5):709-12
+     </refsource>
+     <pmid version="1">
+      3309751
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Obstet Gynecol. 1988 Mar;71(3 Pt 1):380-4
+     </refsource>
+     <pmid version="1">
+      3347423
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Obstet Gynecol. 1988 May;158(5):1079-84
+     </refsource>
+     <pmid version="1">
+      3369487
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Obstet Gynecol. 1987 Dec;157(6):1510-5
+     </refsource>
+     <pmid version="1">
+      3425654
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Obstet Gynecol. 1987 Nov;70(5):713-7
+     </refsource>
+     <pmid version="1">
+      3658277
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Obstet Gynecol. 1985 Feb 1;151(3):297-304
+     </refsource>
+     <pmid version="1">
+      3970097
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Obstet Gynecol. 1983 Jun 1;146(3):255-63
+     </refsource>
+     <pmid version="1">
+      6859134
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Obstet Gynecol. 1982 Nov 15;144(6):671-8
+     </refsource>
+     <pmid version="1">
+      7137251
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Obstet Gynecol. 1994 Jun;83(6):927-32
+     </refsource>
+     <pmid version="1">
+      8190433
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Obstet Gynecol. 1994 Jun;83(6):933-6
+     </refsource>
+     <pmid version="1">
+      8190434
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Obstet Gynecol. 1993 Oct;169(4):945-50
+     </refsource>
+     <pmid version="1">
+      8238154
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Obstet Gynecol. 1993 May;168(5):1358-63
+     </refsource>
+     <pmid version="1">
+      8498412
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1996 Sep 5;335(10):689-95
+     </refsource>
+     <pmid version="1">
+      8703167
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Obstet Gynecol. 1997 Aug;90(2):312-5
+     </refsource>
+     <pmid version="1">
+      9241315
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Perinatol. 1997 Mar;14(3):157-60
+     </refsource>
+     <pmid version="1">
+      9259919
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      BMJ. 2004 Aug 14;329(7462):403
+     </refsource>
+     <pmid version="1">
+      15310621
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cesarean Section
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cohort Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Incidence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Labor, Induced
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Morbidity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Oxytocin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pregnancy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Trial of Labor
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Uterine Rupture
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    30
+   </numberofreferences>
+   <otherid source="NLM">
+    PMC443444
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      23
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     15231616
+    </articleid>
+    <articleid idtype="doi">
+     10.1136/bmj.329.7456.19
+    </articleid>
+    <articleid idtype="pii">
+     329/7456/19
+    </articleid>
+    <articleid idtype="pmc">
+     PMC443444
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

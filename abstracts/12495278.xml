@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12495278
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     23
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     27
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      1121-8428
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       15
+      </volume>
+      <issue>
+       6
+      </issue>
+      <pubdate>
+       <medlinedate>
+        2002 Nov-Dec
+       </medlinedate>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of nephrology
+     </title>
+     <isoabbreviation>
+      J. Nephrol.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Factors affecting outcome after percutaneous renal artery stent insertion.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      649-54
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Renal artery stenosis is increasingly being treated with the percutaneous insertion of stents. Little data are available to help select patients most likely to derive benefit from the procedure.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Data were gathered on all patients treated with renal artery stent insertion at the Royal Melbourne Hospital prior to 1998, and who were followed-up for at least 6 months or until death. Multivariate regression analysis was used to identify factors associated with patient survival and renal survival (survival free of dialysis).
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Adequate data were available on 148 of 198 patients treated during this time (75%). A baseline creatinine over 0.15 mmol/L and age over 70 were strongly associated with worse patient survival (Likelihood ratio(LR) 9.96, p &lt; 0.0001 and 3.4, p = 0.001 respectively) and renal survival (LR 7.8, p &lt; 0.001 and 2.7, p &lt; 0.01 respectively). The presence of diabetes was also associated with worse overall survival (LR 2.2, p &lt; 0.05) but not renal survival, while the presence of another nephropathic disorder was associated with worse renal survival (LR 2.8, p &lt; 0.01) but not overall survival. The use of ACE inhibitors after the stenting procedure was associated with a significantly better renal survival (LR 0.46, p &lt; 0.05).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Patients with baseline renal impairment, older age, diabetes or another coexistent renal disease have poor outcomes after renal artery stent insertion. A relatively conservative approach to revascularisation may be preferable in these patient groups. The use of ACE inhibitors after stent insertion is associated with a reduced likelihood of death or dialysis.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Nephrology, The Royal Melbourne Hospital, Melbourne, Victoria, Australia. vlado.perkovic@mh.org.au
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Perkovi
+      </lastname>
+      <forename>
+       Vlado
+      </forename>
+      <initials>
+       V
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Thomson
+      </lastname>
+      <forename>
+       Ken R
+      </forename>
+      <initials>
+       KR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Becker
+      </lastname>
+      <forename>
+       Gavin J
+      </forename>
+      <initials>
+       GJ
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     Italy
+    </country>
+    <medlineta>
+     J Nephrol
+    </medlineta>
+    <nlmuniqueid>
+     9012268
+    </nlmuniqueid>
+    <issnlinking>
+     1121-8428
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Angiography
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Angioplasty, Balloon
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      Australia
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cohort Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Disease-Free Survival
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Follow-Up Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Kidney Function Tests
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Multivariate Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Probability
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Proportional Hazards Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Regression Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Renal Artery
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      radiography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Renal Artery Obstruction
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      radiography
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Severity of Illness Index
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Stents
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Survival Rate
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12495278
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

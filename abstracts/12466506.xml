@@ -1,0 +1,589 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12466506
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     05
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     11
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1533-4406
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       347
+      </volume>
+      <issue>
+       23
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Dec
+       </month>
+       <day>
+        5
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     A comparison of rate control and rhythm control in patients with atrial fibrillation.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1825-33
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      There are two approaches to the treatment of atrial fibrillation: one is cardioversion and treatment with antiarrhythmic drugs to maintain sinus rhythm, and the other is the use of rate-controlling drugs, allowing atrial fibrillation to persist. In both approaches, the use of anticoagulant drugs is recommended.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We conducted a randomized, multicenter comparison of these two treatment strategies in patients with atrial fibrillation and a high risk of stroke or death. The primary end point was overall mortality.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      A total of 4060 patients (mean [+/-SD] age, 69.7+/-9.0 years) were enrolled in the study; 70.8 percent had a history of hypertension, and 38.2 percent had coronary artery disease. Of the 3311 patients with echocardiograms, the left atrium was enlarged in 64.7 percent and left ventricular function was depressed in 26.0 percent. There were 356 deaths among the patients assigned to rhythm-control therapy and 310 deaths among those assigned to rate-control therapy (mortality at five years, 23.8 percent and 21.3 percent, respectively; hazard ratio, 1.15 [95 percent confidence interval, 0.99 to 1.34]; P=0.08). More patients in the rhythm-control group than in the rate-control group were hospitalized, and there were more adverse drug effects in the rhythm-control group as well. In both groups, the majority of strokes occurred after warfarin had been stopped or when the international normalized ratio was subtherapeutic.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Management of atrial fibrillation with the rhythm-control strategy offers no survival advantage over the rate-control strategy, and there are potential advantages, such as a lower risk of adverse drug effects, with the rate-control strategy. Anticoagulation should be continued in this group of high-risk patients.
+     </abstracttext>
+     <copyrightinformation>
+      Copyright 2002 Massachusetts Medical Society
+     </copyrightinformation>
+    </abstract>
+    <affiliation>
+     AFFIRM Clinical Trial Center, Axio Research, 2601 4th Ave., Ste. 200, Seattle, WA 98121, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Wyse
+      </lastname>
+      <forename>
+       D G
+      </forename>
+      <initials>
+       DG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Waldo
+      </lastname>
+      <forename>
+       A L
+      </forename>
+      <initials>
+       AL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       DiMarco
+      </lastname>
+      <forename>
+       J P
+      </forename>
+      <initials>
+       JP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Domanski
+      </lastname>
+      <forename>
+       M J
+      </forename>
+      <initials>
+       MJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rosenberg
+      </lastname>
+      <forename>
+       Y
+      </forename>
+      <initials>
+       Y
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schron
+      </lastname>
+      <forename>
+       E B
+      </forename>
+      <initials>
+       EB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kellen
+      </lastname>
+      <forename>
+       J C
+      </forename>
+      <initials>
+       JC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Greene
+      </lastname>
+      <forename>
+       H L
+      </forename>
+      <initials>
+       HL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Mickel
+      </lastname>
+      <forename>
+       M C
+      </forename>
+      <initials>
+       MC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dalquist
+      </lastname>
+      <forename>
+       J E
+      </forename>
+      <initials>
+       JE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Corley
+      </lastname>
+      <forename>
+       S D
+      </forename>
+      <initials>
+       SD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       Atrial Fibrillation Follow-up Investigation of Rhythm Management (AFFIRM) Investigators
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       N01-HC-55139
+      </grantid>
+      <acronym>
+       HC
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Adrenergic beta-Antagonists
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Arrhythmia Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Calcium Channel Blockers
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      1951-25-3
+     </registrynumber>
+     <nameofsubstance>
+      Amiodarone
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2003 Mar 27;348(13):1284-6; author reply 1284-6
+     </refsource>
+     <pmid version="1">
+      12661569
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Expert Opin Investig Drugs. 2003 Jul;12(7):1231-7
+     </refsource>
+     <pmid version="1">
+      12831357
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Med J Aust. 2003 May 19;178(10):480-1
+     </refsource>
+     <pmid version="1">
+      12741931
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Am Geriatr Soc. 2003 Dec;51(12):1806-7
+     </refsource>
+     <pmid version="1">
+      14687362
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2003 Mar 27;348(13):1284-6; author reply 1284-6
+     </refsource>
+     <pmid version="1">
+      12661567
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2002 Dec 5;347(23):1822-3
+     </refsource>
+     <pmid version="1">
+      12466505
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2002 Dec 5;347(23):1883-4
+     </refsource>
+     <pmid version="1">
+      12466514
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2003 Mar 27;348(13):1284-6; author reply 1284-6
+     </refsource>
+     <pmid version="1">
+      12660395
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2003 Mar 27;348(13):1284-6; author reply 1284-6
+     </refsource>
+     <pmid version="1">
+      12661568
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2003 Sep-Oct;139(2):36-7
+     </refsource>
+     <pmid version="1">
+      12954028
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adrenergic beta-Antagonists
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Amiodarone
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Arrhythmia Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Atrial Fibrillation
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Calcium Channel Blockers
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Catheter Ablation
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Combined Modality Therapy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cross-Over Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Electric Countershock
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heart Rate
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Stroke
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Survival Analysis
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      6
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      12
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      6
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12466506
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJMoa021328
+    </articleid>
+    <articleid idtype="pii">
+     347/23/1825
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

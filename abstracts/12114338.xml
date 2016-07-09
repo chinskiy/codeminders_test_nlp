@@ -1,0 +1,424 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12114338
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     12
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     30
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0012-3692
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       122
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Jul
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Chest
+     </title>
+     <isoabbreviation>
+      Chest
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     A 6-month, placebo-controlled study comparing lung function and health status changes in COPD patients treated with tiotropium or salmeterol.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      47-55
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Tiotropium, a once-daily anticholinergic, and salmeterol represent two inhaled, long-acting bronchodilators from different pharmacologic classes. A trial was designed to examine the efficacy and safety of both compounds with multiple outcome measures, including lung function, dyspnea, and health-related quality of life (HRQoL) in patients with COPD.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      A 6-month, randomized, placebo-controlled, double-blind, double-dummy, parallel-group study of tiotropium, 18 microg once daily via dry-powder inhaler, compared with salmeterol, 50 microg bid via metered-dose inhaler, was conducted in patients with COPD. Efficacy was assessed by 12-h monitoring of spirometry, transition dyspnea index (TDI), and the St. George's Respiratory Questionnaire (SGRQ).
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      A total of 623 patients participated (tiotropium, n= 209; salmeterol, n = 213; and placebo, n = 201). The groups were similar in age (mean, 65 years), gender (75% men), and baseline FEV(1) (mean, 1.08 +/- 0.37 L; percent predicted, 40 +/- 12% [+/- SD]). Compared with placebo treatment, the mean predose morning FEV(1) following 6 months of therapy increased significantly more for the tiotropium group (0.14 L) than the salmeterol group (0.09 L; p &lt; 0.01). The average FEV(1) (0 to 12 h) for tiotropium was statistically superior to salmeterol (difference, 0.08 L; p &lt; 0.001). Tiotropium improved TDI focal score by 1.02 U compared with placebo (p = 0.01), whereas there was no significant change in TDI focal score with salmeterol (0.24 U). Tiotropium was superior to salmeterol in improving TDI focal score (p &lt; 0.05). At 6 months, the mean improvement in SGRQ total score vs baseline was tiotropium, - 5.14 U (p &lt; 0.05 vs placebo); salmeterol, - 3.54 U (p = 0.4 vs placebo); and placebo, - 2.43 U. A statistically higher proportion of patients receiving tiotropium achieved at least a 4-U change in SGRQ score compared to patients receiving placebo. Both active drugs reduced the need for rescue albuterol (p &lt; 0.0001).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Tiotropium once daily produces superior bronchodilation, improvements in dyspnea, and proportion of patients achieving meaningful changes in HRQoL compared to twice-daily salmeterol in patients with COPD.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Division of Pulmonary Medicine, University of North Carolina, Chapel Hill, NC 27599-7020, USA. jdonohue@med.unc.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Donohue
+      </lastname>
+      <forename>
+       James F
+      </forename>
+      <initials>
+       JF
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       van Noord
+      </lastname>
+      <forename>
+       Jan A
+      </forename>
+      <initials>
+       JA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bateman
+      </lastname>
+      <forename>
+       Eric D
+      </forename>
+      <initials>
+       ED
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Langley
+      </lastname>
+      <forename>
+       Stephen J
+      </forename>
+      <initials>
+       SJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lee
+      </lastname>
+      <forename>
+       Angela
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Witek
+      </lastname>
+      <forename>
+       Theodore J
+      </forename>
+      <initials>
+       TJ
+      </initials>
+      <suffix>
+       Jr
+      </suffix>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kesten
+      </lastname>
+      <forename>
+       Steven
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Towse
+      </lastname>
+      <forename>
+       Lesley
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Chest
+    </medlineta>
+    <nlmuniqueid>
+     0231335
+    </nlmuniqueid>
+    <issnlinking>
+     0012-3692
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Bronchodilator Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Scopolamine Derivatives
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      136310-93-5
+     </registrynumber>
+     <nameofsubstance>
+      tiotropium
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      18559-94-9
+     </registrynumber>
+     <nameofsubstance>
+      Albuterol
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      89365-50-4
+     </registrynumber>
+     <nameofsubstance>
+      salmeterol
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Albuterol
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      analogs &amp; derivatives
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bronchodilator Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pulmonary Disease, Chronic Obstructive
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Quality of Life
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Respiratory Function Tests
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Scopolamine Derivatives
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Spirometry
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      31
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12114338
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

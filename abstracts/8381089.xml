@@ -1,0 +1,325 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    8381089
+   </pmid>
+   <datecreated>
+    <year>
+     1993
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     03
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1993
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     03
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0903-1936
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       6
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        1993
+       </year>
+       <month>
+        Jan
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The European respiratory journal : official journal of the European Society for Clinical Respiratory Physiology
+     </title>
+     <isoabbreviation>
+      Eur. Respir. J.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     The clinical efficacy of inhaled nedocromil sodium (Tilade) in the treatment of asthma.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      35-41
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Inhaled nedocromil sodium, an anti-inflammatory agent for the maintenance treatment of asthma, has been the subject of many clinical trials but only a proportion have been published. This paper provides an overview analysis of all known placebo-controlled, double-blind, randomized therapeutic trials. Both single centre and multicentre trials are included. A comparison has been made between the treatment effects of nedocromil sodium and placebo, using six efficacy variables (day and night asthma, cough, mean daily peak expiratory flow rate, inhaled bronchodilator use, clinic lung function (forced expiratory volume in one second) and global opinion of treatment efficacy. One hundred and twenty seven trial centres, involving 4,723 patients, have been included. The results demonstrate the efficacy of inhaled nedocromil sodium in a variety of patients with asthma. Optimal effects are evident in patients with moderate asthma, currently receiving treatment with inhaled and oral bronchodilators.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Medical Dept, Asia-Pacific Region, Fisions plc (Pharmaceutical Division), Loughborough, Leics, UK.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Edwards
+      </lastname>
+      <forename>
+       A M
+      </forename>
+      <initials>
+       AM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Stevens
+      </lastname>
+      <forename>
+       M T
+      </forename>
+      <initials>
+       MT
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     DENMARK
+    </country>
+    <medlineta>
+     Eur Respir J
+    </medlineta>
+    <nlmuniqueid>
+     8803460
+    </nlmuniqueid>
+    <issnlinking>
+     0903-1936
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Inflammatory Agents, Non-Steroidal
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Bronchodilator Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Quinolones
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      69049-73-6
+     </registrynumber>
+     <nameofsubstance>
+      Nedocromil
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Eur Respir J. 1993 Jan;6(1):5-6
+     </refsource>
+     <pmid version="1">
+      8381090
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Administration, Inhalation
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Inflammatory Agents, Non-Steroidal
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Asthma
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bronchodilator Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dose-Response Relationship, Drug
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Therapy, Combination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Nedocromil
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Quinolones
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    31
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1993
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1993
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1993
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     8381089
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,594 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11254817
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     20
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     19
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0040-6376
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       56
+      </volume>
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Apr
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Thorax
+     </title>
+     <isoabbreviation>
+      Thorax
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Bone mineral density in subjects with mild asthma randomised to treatment with inhaled corticosteroids or non-corticosteroid treatment for two years.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      272-8
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Inhaled corticosteroids are clearly beneficial for patients with asthma of moderate severity, but the risks and benefits of using them in patients with milder asthma are less clear. We have compared the change in bone mineral density over 2 years in adults with mild asthma randomised to receive an inhaled corticosteroid or non-corticosteroid treatment.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Subjects with mild asthma (mean forced expiratory volume in one second (FEV(1)) 86% predicted, mean age 35 years, taking beta agonists only) were randomised to receive inhaled budesonide, inhaled beclomethasone dipropionate, or non-corticosteroid treatment for 2 years in a prospective randomised open study in 19 centres in France, New Zealand, Spain, and the UK. The corticosteroid dose was adjusted according to a written self-management plan. The main outcome measure-change in bone mineral density after 6, 12, and 24 months-was measured "blind". Secondary outcomes included lung function, the relation between change in bone density and inhaled steroid dose and change in biochemical markers of bone metabolism.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Of 374 subjects randomised, 239 (64%) completed the study and were included in the analysis. The median daily doses of inhaled budesonide (n=87) and beclomethasone (n=74) were 389 microg and 499 microg, respectively. Subjects treated with an inhaled corticosteroid had better asthma control than those in the reference group (n=78). Change in bone mineral density did not differ between the three groups over the 2 years, nor did it correlate with changes in markers of bone metabolism. The mean change in bone mineral density over 2 years in the budesonide, beclomethasone dipropionate, and reference groups was 0.1%, -0.4%, and 0.4% for the lumbar spine and -0.9%, -0.9%, and -0.4% for neck of the femur. Mean daily dose of inhaled steroid was related to reduction in bone mineral density at the lumbar spine but not at the femoral neck.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      In subjects with mild asthma an inhaled corticosteroid provided better asthma control than alternative non-corticosteroid treatment with no difference in change in bone mineral density over 2 years. The relation between dose of inhaled corticosteroid and change in bone density at the lumbar spine may be due to a direct effect of inhaled corticosteroids on bone. Since inhaled steroid dose is also related inversely to lung function, an effect of asthma severity on bone density was also possible.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     City Hospital, Nottingham, UK. anne.tattersfield@nottingham.ac.uk
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Tattersfield
+      </lastname>
+      <forename>
+       A E
+      </forename>
+      <initials>
+       AE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Town
+      </lastname>
+      <forename>
+       G I
+      </forename>
+      <initials>
+       GI
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Johnell
+      </lastname>
+      <forename>
+       O
+      </forename>
+      <initials>
+       O
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Picado
+      </lastname>
+      <forename>
+       C
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Aubier
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Braillon
+      </lastname>
+      <forename>
+       P
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Karlström
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Thorax
+    </medlineta>
+    <nlmuniqueid>
+     0417353
+    </nlmuniqueid>
+    <issnlinking>
+     0040-6376
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Asthmatic Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Bronchodilator Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      104982-03-8
+     </registrynumber>
+     <nameofsubstance>
+      Osteocalcin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      4419-39-0
+     </registrynumber>
+     <nameofsubstance>
+      Beclomethasone
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      51333-22-3
+     </registrynumber>
+     <nameofsubstance>
+      Budesonide
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Bone Miner Res. 1994 Oct;9(10):1503-14
+     </refsource>
+     <pmid version="1">
+      7817795
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Thorax. 1990 Aug;45(8):573-8
+     </refsource>
+     <pmid version="1">
+      2205946
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am Rev Respir Dis. 1993 Oct;148(4 Pt 2):S1-26
+     </refsource>
+     <pmid version="1">
+      8214958
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Eur Respir J Suppl. 1993 Mar;16:5-40
+     </refsource>
+     <pmid version="1">
+      8499054
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1997 Nov 13;337(20):1405-11
+     </refsource>
+     <pmid version="1">
+      9358137
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Eur Respir J. 1998 May;11(5):1167-77
+     </refsource>
+     <pmid version="1">
+      9648973
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Eur Respir J. 1994 Apr;7(4):710-4
+     </refsource>
+     <pmid version="1">
+      8005253
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Respir Crit Care Med. 1999 Mar;159(3):838-44
+     </refsource>
+     <pmid version="1">
+      10051260
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Thorax. 1999 Mar;54(3):223-9
+     </refsource>
+     <pmid version="1">
+      10325897
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1999 Jun 24;340(25):1948-53
+     </refsource>
+     <pmid version="1">
+      10379018
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Eur Respir J. 1999 May;13(5):993-8
+     </refsource>
+     <pmid version="1">
+      10414395
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Eur Respir J. 1999 Jun;13(6):1267-75
+     </refsource>
+     <pmid version="1">
+      10445600
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Allergy Clin Immunol. 1999 Oct;104(4 Pt 1):769-74
+     </refsource>
+     <pmid version="1">
+      10518820
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Eur Respir J. 1999 Nov;14(5):1038-43
+     </refsource>
+     <pmid version="1">
+      10596687
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 2000 Apr 22;355(9213):1399-403
+     </refsource>
+     <pmid version="1">
+      10791523
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Thorax. 1992 Jun;47(6):404-7
+     </refsource>
+     <pmid version="1">
+      1496495
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1991 Aug 8;325(6):388-92
+     </refsource>
+     <pmid version="1">
+      2062329
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Thorax. 2002 Feb;57(2):186
+     </refsource>
+     <pmid version="1">
+      11828055
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Administration, Inhalation
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Asthmatic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Asthma
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Beclomethasone
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bone Density
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bronchodilator Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Budesonide
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Forced Expiratory Volume
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Osteocalcin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      metabolism
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Peak Expiratory Flow Rate
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Regression Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC1746016
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11254817
+    </articleid>
+    <articleid idtype="pmc">
+     PMC1746016
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

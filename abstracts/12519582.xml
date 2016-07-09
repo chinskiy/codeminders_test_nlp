@@ -1,0 +1,316 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12519582
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     09
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     21
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Cardioselective beta-blockers for reversible airway disease.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD002992
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Beta-blocker therapy has mortality benefit in patients with hypertension, heart failure and coronary artery disease, as well as during the perioperative period. These drugs have traditionally been considered contraindicated in patients with reversible airway disease.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To assess the effect of cardioselective beta-blockers in patients with asthma or COPD.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      A search of EMBASE, MEDLINE and CINAHL was performed up to May 2002 using the terms: asthma*, bronchial hyperreactivity*, respiratory sounds*, wheez*, obstructive lung disease* or obstructive airway disease*, and adrenergic antagonist*, sympatholytic* or adrenergic receptor block*.
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      Randomized, blinded, placebo-controlled trials of single dose or continued treatment of the effects of cardioselective beta-blockers in patients with reversible airway disease.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      Two independent reviewers extracted data from the selected articles, reconciling differences by consensus. Beta1-blockers were divided into those with or without intrinsic sympathomimetic activity (ISA). Interventions were: administration of single or continued beta1-blocker, and response to beta2-agonist given after the study drug.
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      Nineteen studies on single-dose treatment and 10 studies on continued treatment met the inclusion criteria. Single dose cardioselective beta-blocker produced a 7.46% (95% CI 5.59, 9.32) reduction in FEV1, but with a 4.63% (95% CI 2.47, 6.78) increase in FEV1 with beta2-agonist, compared to placebo. Treatment lasting 3 - 28 days produced no change in FEV1 (-0.42%; 95% CI -3.74, 2.91), symptoms or inhaler use, whilst maintaining a 8.74% (95% CI 1.96, 15.52) response to beta2-agonist. There was no significant change in FEV1 treatment effect for those patients with COPD: single doses -5.28% (95% CI -10.03, -0.54%), continued treatment 1.07% (CI -3.3, 5.44. With continued treatment there was no significant difference in FEV1 response for beta1-blockers without ISA compared to those with IS: -3.22% (96%CI -7.79, 1.36) compared to 2.72% (95% CI -2.12, 7.59). Those without ISA produced a 12.0% increase in FEV1 after beta2-agonist administration compared to placebo (95%CI 4.12,19.87) while beta1-blockers with ISA produced no change compared to placebo (-0.60% [95%CI -13.93, 12.73). These results were obtained in a small number od studies of few patients. The difference was not significant.
+     </abstracttext>
+     <abstracttext label="REVIEWER'S CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Cardioselective beta-blockers given in mild - moderate reversible airway disease or COPD, do not produce adverse respiratory effects in the short term. Given their demonstrated benefit in conditions such as heart failure, cardiac arrhythmias and hypertension, these agents should not be withheld from such patients, but long term safety (especially their impact during an acute exacerbation) still needs to be established.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Medicine, Stanford University, and Santa Clara Valley Medical Center, 2400 Moorpark Ave, Suite 118, San Jose, CA 95128, USA. shelley.salpeter@hhs.co.santa-clara.ca.us
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Salpeter
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ormiston
+      </lastname>
+      <forename>
+       T
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Salpeter
+      </lastname>
+      <forename>
+       E
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Adrenergic beta-Antagonists
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="UpdateOf">
+     <refsource>
+      Cochrane Database Syst Rev. 2002;(1):CD002992
+     </refsource>
+     <pmid version="1">
+      11869646
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adrenergic beta-Antagonists
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Asthma
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Forced Expiratory Volume
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pulmonary Disease, Chronic Obstructive
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    194
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      22
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12519582
+    </articleid>
+    <articleid idtype="doi">
+     10.1002/14651858.CD002992
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

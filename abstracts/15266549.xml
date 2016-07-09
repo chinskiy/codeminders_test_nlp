@@ -1,0 +1,336 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15266549
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     21
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     30
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     03
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       3
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Effect of longer-term modest salt reduction on blood pressure.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD004937
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Many randomised trials assessing the effect of salt reduction on blood pressure show reduction in blood pressure in individuals with high blood pressure. However, there is controversy about the magnitude and the clinical significance of the fall in blood pressure in individuals with normal blood pressure. Several meta-analyses of randomised salt reduction trials have been published in the last few years. However, most of these included trials of very short duration (e.g. 5 days) and included trials with salt loading followed by salt deprivation (e.g. from 20 to 1 g/day) over only a few days. These short-term experiments are not appropriate to inform public health policy which is for a modest reduction in salt intake over a prolonged period of time. A meta-analysis by Hooper et al is an important attempt to look at whether advice to achieve a long-term salt reduction (i.e. more than 6 months) in randomised trials causes a fall in blood pressure. However, most trials included in this meta-analysis achieved a small reduction in salt intake; on average, salt intake was reduced by 2 g/day. It is, therefore, not surprising that this analysis showed a small fall in blood pressure, and that a dose-response to salt reduction was not demonstrable.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To assess the effect of the currently recommended modest reduction in salt intake (WHO 2003; SACN 2003; Whelton 2002), on blood pressure in individuals with normal and elevated blood pressure. To assess whether the magnitude of the reduction in blood pressure is dependent on the magnitude of the reduction in salt intake.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      We searched MEDLINE, EMBASE, Cochrane library, CINAHL, and reference list of original and review articles.
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      We included randomised trials with a modest reduction in salt intake and a duration of 4 or more weeks.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      Data were extracted independently by two persons. Mean effect sizes were calculated using both fixed and random effect models using Review Manager 4.2.1 software. Weighted linear regression was used to examine the relationship between the change in urinary sodium and the change in blood pressure. We used funnel plots to detect publication and other biases in the meta-analysis.
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      Seventeen trials in individuals with elevated blood pressure (n=734) and 11 trials in individuals with normal blood pressure (n=2220) were included. In individuals with elevated blood pressure the median reduction in 24-h urinary sodium excretion was 78 mmol (4.6 g/day of salt), the mean reduction in systolic blood pressure was -4.97 mmHg (95%CI:-5.76 to -4.18), and the mean reduction in diastolic blood pressure was -2.74 mmHg (95% CI:-3.22 to -2.26). In individuals with normal blood pressure the median reduction in 24-h urinary sodium excretion was 74 mmol (4.4 g/day of salt), the mean reduction in systolic blood pressure was -2.03 mmHg (95% CI: -2.56 to -1.50) mmHg, and the mean reduction in diastolic blood pressure was -0.99 mmHg (-1.40 to -0.57). Weighted linear regression analyses showed a correlation between the reduction in urinary sodium and the reduction in blood pressure.
+     </abstracttext>
+     <abstracttext label="REVIEWERS' CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Our meta-analysis demonstrates that a modest reduction in salt intake for a duration of 4 or more weeks has a significant and, from a population viewpoint, important effect on blood pressure in both individuals with normal and elevated blood pressure. These results support other evidence suggesting that a modest and long-term reduction in population salt intake could reduce strokes, heart attacks, and heart failure. Furthermore, our meta-analysis demonstrates a correlation between the magnitude of salt reduction and the magnitude of blood pressure reduction. Within the daily intake range of 3 to 12 g/day, the lower the salt intake achieved, the lower the blood pressure.
+     </abstracttext>
+    </abstract>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       He
+      </lastname>
+      <forename>
+       F J
+      </forename>
+      <initials>
+       FJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       MacGregor
+      </lastname>
+      <forename>
+       G A
+      </forename>
+      <initials>
+       GA
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Lipids
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Sodium Chloride, Dietary
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      51-41-2
+     </registrynumber>
+     <nameofsubstance>
+      Norepinephrine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      52-39-1
+     </registrynumber>
+     <nameofsubstance>
+      Aldosterone
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      EC 3.4.23.15
+     </registrynumber>
+     <nameofsubstance>
+      Renin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aldosterone
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Pressure
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      physiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertension
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      diet therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lipids
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Norepinephrine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Renin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sodium Chloride, Dietary
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    173
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      22
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      22
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     15266549
+    </articleid>
+    <articleid idtype="doi">
+     10.1002/14651858.CD004937
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

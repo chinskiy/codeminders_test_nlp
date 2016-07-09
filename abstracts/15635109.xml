@@ -1,0 +1,622 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15635109
+   </pmid>
+   <datecreated>
+    <year>
+     2005
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     06
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     10
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1533-4406
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       352
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2005
+       </year>
+       <month>
+        Jan
+       </month>
+       <day>
+        6
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     C-reactive protein levels and outcomes after statin therapy.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      20-8
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Statins lower the levels of low-density lipoprotein (LDL) cholesterol and C-reactive protein (CRP). Whether this latter property affects clinical outcomes is unknown.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We evaluated relationships between the LDL cholesterol and CRP levels achieved after treatment with 80 mg of atorvastatin or 40 mg of pravastatin per day and the risk of recurrent myocardial infarction or death from coronary causes among 3745 patients with acute coronary syndromes.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Patients in whom statin therapy resulted in LDL cholesterol levels of less than 70 mg per deciliter (1.8 mmol per liter) had lower event rates than those with higher levels (2.7 vs. 4.0 events per 100 person-years, P=0.008). However, a virtually identical difference was observed between those who had CRP levels of less than 2 mg per liter after statin therapy and those who had higher levels (2.8 vs. 3.9 events per 100 person-years, P=0.006), an effect present at all levels of LDL cholesterol achieved. For patients with post-treatment LDL cholesterol levels of more than 70 mg per deciliter, the rates of recurrent events were 4.6 per 100 person-years among those with CRP levels of more than 2 mg per liter and 3.2 events per 100 person-years among those with CRP levels of less than 2 mg per liter; the respective rates among those with LDL cholesterol levels of less than 70 mg per deciliter were 3.1 and 2.4 events per 100 person-years (P&lt;0.001). Although atorvastatin was more likely than pravastatin to result in low levels of LDL cholesterol and CRP, meeting these targets was more important in determining the outcomes than was the specific choice of therapy. Patients who had LDL cholesterol levels of less than 70 mg per deciliter and CRP levels of less than 1 mg per liter after statin therapy had the lowest rate of recurrent events (1.9 per 100 person-years).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Patients who have low CRP levels after statin therapy have better clinical outcomes than those with higher CRP levels, regardless of the resultant level of LDL cholesterol. Strategies to lower cardiovascular risk with statins should include monitoring CRP as well as cholesterol.
+     </abstracttext>
+     <copyrightinformation>
+      Copyright 2005 Massachusetts Medical Society.
+     </copyrightinformation>
+    </abstract>
+    <affiliation>
+     Center for Cardiovascular Disease Prevention, Department of Medicine, Brigham and Women's Hospital and Harvard Medical School, Boston, MA 02215, USA. pridker@partners.org
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Ridker
+      </lastname>
+      <forename>
+       Paul M
+      </forename>
+      <initials>
+       PM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cannon
+      </lastname>
+      <forename>
+       Christopher P
+      </forename>
+      <initials>
+       CP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Morrow
+      </lastname>
+      <forename>
+       David
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rifai
+      </lastname>
+      <forename>
+       Nader
+      </forename>
+      <initials>
+       N
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rose
+      </lastname>
+      <forename>
+       Lynda M
+      </forename>
+      <initials>
+       LM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McCabe
+      </lastname>
+      <forename>
+       Carolyn H
+      </forename>
+      <initials>
+       CH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pfeffer
+      </lastname>
+      <forename>
+       Marc A
+      </forename>
+      <initials>
+       MA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Braunwald
+      </lastname>
+      <forename>
+       Eugene
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       Pravastatin or Atorvastatin Evaluation and Infection Therapy-Thrombolysis in Myocardial Infarction 22 (PROVE IT-TIMI 22) Investigators
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anticholesteremic Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Biological Markers
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cholesterol, LDL
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Fluoroquinolones
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Heptanoic Acids
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Hydroxymethylglutaryl-CoA Reductase Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Pyrroles
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      110862-48-1
+     </registrynumber>
+     <nameofsubstance>
+      atorvastatin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      112811-59-3
+     </registrynumber>
+     <nameofsubstance>
+      gatifloxacin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      81093-37-0
+     </registrynumber>
+     <nameofsubstance>
+      Pravastatin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      9007-41-4
+     </registrynumber>
+     <nameofsubstance>
+      C-Reactive Protein
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2005 Apr 14;352(15):1603-5; author reply 1603-5
+     </refsource>
+     <pmid version="1">
+      15829545
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2005 Apr 14;352(15):1603-5; author reply 1603-5
+     </refsource>
+     <pmid version="1">
+      15832450
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2005 Jan 6;352(1):73-5
+     </refsource>
+     <pmid version="1">
+      15635116
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Nat Clin Pract Cardiovasc Med. 2005 May;2(5):244-5
+     </refsource>
+     <pmid version="1">
+      16265507
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2005 Apr 14;352(15):1603-5; author reply 1603-5
+     </refsource>
+     <pmid version="1">
+      15832451
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anticholesteremic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pharmacology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Biological Markers
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      C-Reactive Protein
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      metabolism
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cholesterol, LDL
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Coronary Disease
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fluoroquinolones
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heptanoic Acids
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pharmacology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hydroxymethylglutaryl-CoA Reductase Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pharmacology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Incidence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Myocardial Infarction
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pravastatin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pharmacology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Proportional Hazards Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pyrroles
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pharmacology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Recurrence
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2005
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      7
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      11
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2005
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      7
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     352/1/20
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJMoa042378
+    </articleid>
+    <articleid idtype="pubmed">
+     15635109
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

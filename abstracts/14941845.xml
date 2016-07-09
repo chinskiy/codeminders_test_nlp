@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="OLDMEDLINE">
+   <pmid version="1">
+    14941845
+   </pmid>
+   <datecreated>
+    <year>
+     1952
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     01
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     15
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0035-9157
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       45
+      </volume>
+      <issue>
+       6
+      </issue>
+      <pubdate>
+       <year>
+        1952
+       </year>
+       <month>
+        Jun
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Proceedings of the Royal Society of Medicine
+     </title>
+     <isoabbreviation>
+      Proc. R. Soc. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     The pathology symptomatology and diagnosis of certain common disorders of the vestibular system.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      341-54
+     </medlinepgn>
+    </pagination>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       DIX
+      </lastname>
+      <forename>
+       M R
+      </forename>
+      <initials>
+       MR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       HALLPIKE
+      </lastname>
+      <forename>
+       C S
+      </forename>
+      <initials>
+       CS
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     Not Available
+    </country>
+    <medlineta>
+     Proc R Soc Med
+    </medlineta>
+    <nlmuniqueid>
+     7505890
+    </nlmuniqueid>
+    <issnlinking>
+     0035-9157
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    OM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Proc R Soc Med. 1950 Dec;43(12):1129-36
+     </refsource>
+     <pmid version="1">
+      14808218
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Acta Otolaryngol. 1951 Jun;39(2-3):151-9
+     </refsource>
+     <pmid version="1">
+      14868458
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <otherid source="CLML">
+    5222:27993:493
+   </otherid>
+   <otherid source="NLM">
+    PMC1987487
+   </otherid>
+   <keywordlist owner="NLM">
+    <keyword majortopicyn="Y">
+     VESTIBULAR APPARATUS/diseases
+    </keyword>
+   </keywordlist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1952
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1952
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1952
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     14941845
+    </articleid>
+    <articleid idtype="pmc">
+     PMC1987487
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

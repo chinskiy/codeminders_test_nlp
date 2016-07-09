@@ -1,0 +1,335 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    14530229
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     07
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     27
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2005
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     05
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1539-3704
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       139
+      </volume>
+      <issue>
+       7
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Oct
+       </month>
+       <day>
+        7
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Annals of internal medicine
+     </title>
+     <isoabbreviation>
+      Ann. Intern. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Evaluation of acute knee pain in primary care.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      575-88
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      The evaluation of acute knee pain often includes radiography of the knee.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To synthesize the literature to determine the role of radiologic procedures in evaluating common causes of acute knee pain: fractures, meniscal or ligamentous injuries, osteoarthritis, and pseudogout.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      MEDLINE search from 1966 to October 2002.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION" nlmcategory="METHODS">
+      We included all published, peer-reviewed studies of decision rules for fractures. We included studies that used arthroscopy as the gold standard for measuring the accuracy of the physical examination and magnetic resonance imaging (MRI) for meniscal and ligamentous knee damage. We included all studies on the use of radiographs in pseudogout.
+     </abstracttext>
+     <abstracttext label="DATA EXTRACTION" nlmcategory="METHODS">
+      We extracted all data in duplicate and abstracted physical examination and MRI results into 2 x 2 tables.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      Among the 5 decision rules for deciding when to use plain films in knee fractures, the Ottawa knee rules (injury due to trauma and age &gt;55 years, tenderness at the head of the fibula or the patella, inability to bear weight for 4 steps, or inability to flex the knee to 90 degrees) have the strongest supporting evidence. When the history suggests a potential meniscal or ligamentous injury, the physical examination is moderately sensitive (meniscus, 87%; anterior cruciate ligament, 74%; and posterior cruciate ligament, 81%) and specific (meniscus, 92%; anterior cruciate ligament, 95%; and posterior cruciate ligament, 95%). The Lachman test is more sensitive and specific for ligamentous tears than is the drawer sign. For meniscal tears, joint line tenderness is sensitive (75%) but not specific (27%), while the McMurray test is specific (97%) but not sensitive (52%). Compared with the physical examination, MRI is more sensitive for ligamentous and meniscal damage but less specific. When the differential diagnosis for acute knee pain includes an exacerbation of osteoarthritis, clinical features (age &gt;50 years, morning stiffness &lt;30 minutes, crepitus, or bony enlargement) are 89% sensitive and 88% specific for underlying chronic arthritis. Adding plain films improves sensitivity slightly but not specificity. Plain films for pseudogout are not sensitive or specific, according to limited-quality studies.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      We recommend the Ottawa knee rules to decide when to obtain plain films for suspected knee fracture. A careful physical examination should be sufficient to decide whether to refer patients with potential meniscal and ligament injuries, and we prefer clinical criteria rather than plain films for evaluating osteoarthritis. We do not recommend using plain films to diagnose pseudogout.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Uniformed Services University of the Health Sciences, Bethesda, Maryland, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Jackson
+      </lastname>
+      <forename>
+       Jeffrey L
+      </forename>
+      <initials>
+       JL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       O'Malley
+      </lastname>
+      <forename>
+       Patrick G
+      </forename>
+      <initials>
+       PG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kroenke
+      </lastname>
+      <forename>
+       Kurt
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Ann Intern Med
+    </medlineta>
+    <nlmuniqueid>
+     0372351
+    </nlmuniqueid>
+    <issnlinking>
+     0003-4819
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Arthralgia
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Arthrography
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      standards
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diagnosis, Differential
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fractures, Cartilage
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      radiography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Knee Injuries
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Knee Joint
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      radiography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ligaments, Articular
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      injuries
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Magnetic Resonance Imaging
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Menisci, Tibial
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      injuries
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Osteoarthritis
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Physical Examination
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      standards
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    217
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      8
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      8
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     14530229
+    </articleid>
+    <articleid idtype="pii">
+     139/7/575
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

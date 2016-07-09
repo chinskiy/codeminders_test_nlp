@@ -1,0 +1,340 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11493721
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     08
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     27
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      1460-2725
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       94
+      </volume>
+      <issue>
+       8
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Aug
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      QJM : monthly journal of the Association of Physicians
+     </title>
+     <isoabbreviation>
+      QJM
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Preconception care and the risk of congenital anomalies in the offspring of women with diabetes mellitus: a meta-analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      435-44
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Offspring of women with pregestational diabetes mellitus are at increased risk for congenital malformations, largely attributable to poor periconceptional glycaemic control. We assessed the effect of preconception care in reducing congenital malformations, in a meta-analysis of published studies of preconception care in women with diabetes mellitus. Articles were retrieved from Medline (1970 to June 2000) and Embase (1980 to June 2000), and data abstracted by two independent reviewers. The rates and relative risks (RR) for major and minor congenital malformations were pooled from all eligible studies using a random effects model, as were early first-trimester glycosylated haemoglobin values. In 14 cohort studies, major congenital malformations were assessed among 1192 offspring of mothers who had received preconception care, and 1459 offspring of women who had not. The pooled rate of major anomalies was lower among preconception care recipients (2.1%) than non-recipients (6.5%) (RR 0.36, 95%CI 0.22-0.59). In nine studies, the risk for major and minor anomalies was also lower among women who received preconception care (RR 0.32, 95%CI 0.17-0.59), as were the early first-trimester mean glycosylated haemoglobin values (pooled mean difference: 2.3%, 95%CI 2.1-2.4). Women who received preconception care were, on average, 1.8 years older than non-recipients, and fewer smoked (19.6% vs. 30.2%). Only one study described the routine use of periconception folic acid. Out-patient preconception care probably reduces the risk of major congenital anomalies among the offspring of women with pregestational diabetes mellitus. Because many women with diabetes neither plan their pregnancy nor achieve adequate glycaemic control before conception, strategies are needed to improve access to these programs, and to maximize those interventions associated with improved pregnancy outcome, such as smoking cessation and folic acid use.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Division of Obstetrical Medicine, Department of Medicine, Women's College Campus, Sunnybrook and Women's College Health Sciences Centre, Toronto, Ontario, Canada. rayjg@mcmaster.ca
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Ray
+      </lastname>
+      <forename>
+       J G
+      </forename>
+      <initials>
+       JG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       O'Brien
+      </lastname>
+      <forename>
+       T E
+      </forename>
+      <initials>
+       TE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Chan
+      </lastname>
+      <forename>
+       W S
+      </forename>
+      <initials>
+       WS
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     QJM
+    </medlineta>
+    <nlmuniqueid>
+     9438285
+    </nlmuniqueid>
+    <issnlinking>
+     1460-2393
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Hemoglobin A, Glycosylated
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      59-30-3
+     </registrynumber>
+     <nameofsubstance>
+      Folic Acid
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Confidence Intervals
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetes Mellitus, Type 1
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetes Mellitus, Type 2
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Folic Acid
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hemoglobin A, Glycosylated
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      analysis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Preconception Care
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pregnancy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pregnancy Trimester, First
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pregnancy in Diabetics
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Publication Bias
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Smoking Cessation
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11493721
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

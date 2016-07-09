@@ -1,0 +1,471 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11348605
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     11
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     28
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0002-9149
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       87
+      </volume>
+      <issue>
+       9
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        May
+       </month>
+       <day>
+        1
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The American journal of cardiology
+     </title>
+     <isoabbreviation>
+      Am. J. Cardiol.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Air Force/Texas Coronary Atherosclerosis Prevention Study (AFCAPS/TEXCAPS): additional perspectives on tolerability of long-term treatment with lovastatin.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1074-9
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      This study presents the long-term safety data from AFCAPS/TexCAPS, the first primary prevention trial to demonstrate that men and women with average levels of low-density lipoprotein cholesterol (LDL-C) and below average levels of high-density lipoprotein cholesterol (HDL-C) can significantly benefit from long-term treatment to lower LDL-C; lovastatin 20 to 40 mg/day reduced the risk of a first acute major coronary event (fatal or nonfatal myocardial infarction, unstable angina, or sudden death) by 37% (p = 0.00008). This double-blind randomized, placebo-controlled trial, in 6,605 generally healthy middle-aged and older men and women, had prespecified end point and cancer analyses. All analyses were intention-to-treat. Safety monitoring included history, physical examination, and laboratory studies (including hepatic transaminases and creatine phosphokinase [CPK]). All participants, even those who discontinued treatment, were contacted annually for vital status, cardiovascular events, and cancer history. After an average of 5.2 years of follow-up, there were 157 deaths (80 receiving lovastatin and 77 receiving placebo; relative risk [RR] 1.04; 95% confidence interval [CI] 0.76 to 1.42; p = 0.82); of which 115 were noncardiovascular (RR 1.21; CI 0.84 to 1.74; p = 0.31), and of these, 82 were due to cancer (RR 1.41; CI 0.91 to 2.19; p = 0.13). There were no significant differences between treatment groups in overall cancer rates, discontinuations for noncardiovascular adverse experiences, or clinically important elevations of hepatic transaminases or CPK. Among those who used cytochrome P450 isoform (CYP3A4) inhibitors, there were no treatment group differences in the frequency of clinically important muscle-related adverse events. Treatment with lovastatin 20 to 40 mg daily for primary prevention of coronary heart disease was well tolerated and reduced the risk of first acute coronary events without increasing the risk of either noncardiovascular mortality or cancer.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Wilford Hall Medical Center, Lackland Air Force Base, San Antonio, Texas, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Downs
+      </lastname>
+      <forename>
+       J R
+      </forename>
+      <initials>
+       JR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Clearfield
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tyroler
+      </lastname>
+      <forename>
+       H A
+      </forename>
+      <initials>
+       HA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Whitney
+      </lastname>
+      <forename>
+       E J
+      </forename>
+      <initials>
+       EJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kruyer
+      </lastname>
+      <forename>
+       W
+      </forename>
+      <initials>
+       W
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Langendorfer
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Zagrebelsky
+      </lastname>
+      <forename>
+       V
+      </forename>
+      <initials>
+       V
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Weis
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Shapiro
+      </lastname>
+      <forename>
+       D R
+      </forename>
+      <initials>
+       DR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Beere
+      </lastname>
+      <forename>
+       P A
+      </forename>
+      <initials>
+       PA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gotto
+      </lastname>
+      <forename>
+       A M
+      </forename>
+      <initials>
+       AM
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Am J Cardiol
+    </medlineta>
+    <nlmuniqueid>
+     0207277
+    </nlmuniqueid>
+    <issnlinking>
+     0002-9149
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anticholesteremic Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cholesterol, HDL
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cholesterol, LDL
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      75330-75-5
+     </registrynumber>
+     <nameofsubstance>
+      Lovastatin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Analysis of Variance
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anticholesteremic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cholesterol, HDL
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cholesterol, LDL
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Coronary Artery Disease
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diet, Fat-Restricted
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lovastatin
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Military Personnel
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Primary Prevention
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Proportional Hazards Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      Texas
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      12
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      29
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      12
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11348605
+    </articleid>
+    <articleid idtype="pii">
+     S0002-9149(01)01464-3
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

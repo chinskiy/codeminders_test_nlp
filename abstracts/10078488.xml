@@ -1,0 +1,445 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10078488
+   </pmid>
+   <datecreated>
+    <year>
+     1999
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     18
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1999
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     18
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       281
+      </volume>
+      <issue>
+       10
+      </issue>
+      <pubdate>
+       <year>
+        1999
+       </year>
+       <month>
+        Mar
+       </month>
+       <day>
+        10
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Association of dietary intake of fat and fatty acids with risk of breast cancer.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      914-20
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      High intakes of fat and specific fatty acids, including total, animal, saturated, polyunsaturated, and trans-unsaturated fats, have been postulated to increase breast cancer risk.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To determine whether intakes of fat and fatty acids are associated with breast cancer.
+     </abstracttext>
+     <abstracttext label="DESIGN AND SETTING" nlmcategory="METHODS">
+      Cohort study (Nurses' Health Study) conducted in the United States beginning in 1976.
+     </abstracttext>
+     <abstracttext label="PARTICIPANTS" nlmcategory="METHODS">
+      A total of 88795 women free of cancer in 1980 and followed up for 14 years.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURE" nlmcategory="METHODS">
+      Relative risk (RR) of invasive breast cancer for an incremental increase of fat intake, ascertained by food frequency questionnaire in 1980, 1984, 1986, and 1990.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      A total of 2956 women were diagnosed as having breast cancer. Compared with women obtaining 30.1% to 35% of energy from fat, women consuming 20% or less had a multivariate RR of breast cancer of 1.15 (95% confidence interval [CI], 0.73-1.80). In multivariate models, the RR (95% CI) for a 5%-of-energy increase was 0.97 (0.94-1.00) for total fat, 0.98 (0.96-1.01) for animal fat, 0.97 (0.93-1.02) for vegetable fat, 0.94 (0.88-1.01) for saturated fat, 0.91 (0.79-1.04) for polyunsaturated fat, and 0.94 (0.88-1.00) for monounsaturated fat. For a 1% increase in energy from trans-unsaturated fat, the values were 0.92 (0.86-0.98), and for a 0.1% increase in energy from omega-3 fat from fish, the values were 1.09 (1.03-1.16). In a model including fat, protein, and energy, the RR for a 5% increase in total fat, which can be interpreted as the risk of substituting this amount of fat for an equal amount of energy from carbohydrate, was 0.96 (95% CI, 0.93-0.99). In similar models, no significant association of risk was evident with any major types of fat.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      We found no evidence that lower intake of total fat or specific major types of fat was associated with a decreased risk of breast cancer.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Medicine, Harvard Medical School and Brigham and Women's Hospital, Boston, Mass 02115, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Holmes
+      </lastname>
+      <forename>
+       M D
+      </forename>
+      <initials>
+       MD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hunter
+      </lastname>
+      <forename>
+       D J
+      </forename>
+      <initials>
+       DJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Colditz
+      </lastname>
+      <forename>
+       G A
+      </forename>
+      <initials>
+       GA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Stampfer
+      </lastname>
+      <forename>
+       M J
+      </forename>
+      <initials>
+       MJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hankinson
+      </lastname>
+      <forename>
+       S E
+      </forename>
+      <initials>
+       SE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Speizer
+      </lastname>
+      <forename>
+       F E
+      </forename>
+      <initials>
+       FE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rosner
+      </lastname>
+      <forename>
+       B
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Willett
+      </lastname>
+      <forename>
+       W C
+      </forename>
+      <initials>
+       WC
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       CA40356
+      </grantid>
+      <acronym>
+       CA
+      </acronym>
+      <agency>
+       NCI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Dietary Fats
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Fatty Acids
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Fatty Acids, Unsaturated
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 1999 Oct 6;282(13):1223; author reply 1224
+     </refsource>
+     <pmid version="1">
+      10517416
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 1999 Oct 6;282(13):1223-4; author reply 1224
+     </refsource>
+     <pmid version="1">
+      10517417
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Breast Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Dietary Fats
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fatty Acids
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fatty Acids, Unsaturated
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Follow-Up Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Logistic Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Multivariate Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Nutrition Surveys
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1999
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      17
+     </day>
+     <hour>
+      3
+     </hour>
+     <minute>
+      5
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      14
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1999
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      17
+     </day>
+     <hour>
+      3
+     </hour>
+     <minute>
+      5
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10078488
+    </articleid>
+    <articleid idtype="pii">
+     joc81342
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

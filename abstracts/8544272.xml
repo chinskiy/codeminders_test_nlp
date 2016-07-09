@@ -1,0 +1,417 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    8544272
+   </pmid>
+   <datecreated>
+    <year>
+     1996
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     14
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1996
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     14
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     24
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       275
+      </volume>
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <medlinedate>
+        1996 Jan 24-31
+       </medlinedate>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Stress ulcer prophylaxis in critically ill patients. Resolving discordant meta-analyses.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      308-14
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="PURPOSE" nlmcategory="OBJECTIVE">
+      To resolve discrepancies in previous systematic overviews and provide estimates of the effect of stress ulcer prophylaxis on gastrointestinal bleeding, pneumonia, and mortality in critically ill patients.
+     </abstracttext>
+     <abstracttext label="DATA IDENTIFICATION" nlmcategory="METHODS">
+      Computerized search of published and unpublished research, bibliographies, pharmaceutical and personal files, and conference abstract reports.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION" nlmcategory="METHODS">
+      Independent review of 269 articles identified 63 relevant randomized trials for inclusion.
+     </abstracttext>
+     <abstracttext label="DATA ABSTRACTION" nlmcategory="METHODS">
+      We made independent, duplicate assessment of the methodologic quality, population, intervention, and outcomes of each trial.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The source of discrepancies between prior meta-analyses included incomplete identification of relevant studies, differential inclusion of non-English language and nonrandomized trials, different definitions of bleeding, provision of additional information through direct correspondence with authors, and different statistical methods. The current overview demonstrates that prophylaxis with histamine2-receptor antagonists decreases the incidence of overt gastrointestinal bleeding (odds ratio [OR], 0.58; 95% confidence interval [CI], 0.42 to 0.79) and clinically important bleeding (OR, 0.44; 95% CI, 0.22 to 0.88). There is a trend toward decreased overt bleeding when antacids are compared with no therapy (OR, 0.66; 95% CI, 0.37 to 1.17). Histamine2-receptor antagonists and antacids are associated with a trend toward lower clinically important bleeding rates than sucralfate is. There is a trend toward an increased risk of pneumonia associated with histamine2-receptor antagonists as compared with no prophylaxis (OR, 1.25; 95% CI, 0.78 to 2.00). Sucralfate is associated with a lower incidence of nosocomial pneumonia when compared with antacids (OR, 0.80; 95% CI, 0.56 to 1.15) and histamine2-receptor antagonists (OR, 0.77; 95% CI, 0.60 to 1.01). Sucralfate is also associated with a reduced mortality rate (OR, 0.73; 95% CI, 0.54 to 0.97) relative to antacids and to histamine2-receptor antagonists (OR, 0.83; 95% CI, 0.63 to 1.09).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Our results emphasize the need for registries to include all randomized trials and demonstrate the importance of explicit methodology for systematic reviews. There is strong evidence of reduced clinically important gastrointestinal bleeding with histamine2-receptor antagonists. Sucralfate may be as effective in reducing bleeding as gastric pH-altering drugs and is associated with lower rates of pneumonia and mortality. However, the data are insufficient to determine the net effect of sucralfate compared with no prophylaxis.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Medicine, McMaster University Faculty of Health Sciences, Hamilton, Ontario, Canada.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Cook
+      </lastname>
+      <forename>
+       D J
+      </forename>
+      <initials>
+       DJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Reeve
+      </lastname>
+      <forename>
+       B K
+      </forename>
+      <initials>
+       BK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Guyatt
+      </lastname>
+      <forename>
+       G H
+      </forename>
+      <initials>
+       GH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Heyland
+      </lastname>
+      <forename>
+       D K
+      </forename>
+      <initials>
+       DK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Griffith
+      </lastname>
+      <forename>
+       L E
+      </forename>
+      <initials>
+       LE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Buckingham
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tryba
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antacids
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Ulcer Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Histamine H2 Antagonists
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      54182-58-0
+     </registrynumber>
+     <nameofsubstance>
+      Sucralfate
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 1996 Jul-Aug;125(1):9
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antacids
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Ulcer Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Critical Care
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Critical Illness
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      mortality
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Gastrointestinal Hemorrhage
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      mortality
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Histamine H2 Antagonists
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Peptic Ulcer
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pneumonia
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Stress, Physiological
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sucralfate
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1996
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      24
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1996
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1996
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     8544272
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

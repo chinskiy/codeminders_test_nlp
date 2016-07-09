@@ -1,0 +1,303 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11113976
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     02
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     02
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2005
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     16
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0885-6230
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       15
+      </volume>
+      <issue>
+       11
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+       <month>
+        Nov
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      International journal of geriatric psychiatry
+     </title>
+     <isoabbreviation>
+      Int J Geriatr Psychiatry
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Are memory complaints predictive for dementia? A review of clinical and population-based studies.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      983-91
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To review studies that have reported on the prevalence of memory complaints and the relationship between memory complaints and impairment or decline (dementia) in elderly individuals.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES AND STUDY SELECTION" nlmcategory="METHODS">
+      All publications in the English language relating to memory complaints, memory impairment, cognitive disorder and dementia in MEDLINE, PSYCHLIT and EMBASE computerized databases, together with a search of relevant citations.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      The prevalence of memory complaints, defined as everyday memory problems, shows a large variation of approximately 25 - 50%. A high age, female gender and a low level of education are generally associated with a high prevalence of memory complaints. In community-based samples of elderly subjects an association has been found between memory complaints and memory impairment, after adjustment for depressive symptomatology. Memory complaints predict dementia after a follow-up of at least 2 years, in particular in those with mild cognitive impairment, defined as Mini Mental State Examination (MMSE) &gt; 23. Memory complaints in highly educated elderly subjects may be predictive of dementia even when there is no indication of cognitive impairment on short cognitive screen tests. The shift in methodology which is noticeable in the recently published major studies is discussed as a possible explanation for the established association between memory complaints and decline in memory (or dementia) in elderly subjects. Three methodological factors, in particular, are responsible for the results: community-based sampling, longitudinal design and the treatment of variables such as depression, cognitive impairment and level of education.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Memory complaints in elderly people should no longer be considered merely as an innocent age-related phenomenon or a symptom of depression. Instead, these complaints deserve to be taken seriously, at least as a possible early sign of dementia.
+     </abstracttext>
+     <copyrightinformation>
+      Copyright 2000 John Wiley &amp; Sons, Ltd.
+     </copyrightinformation>
+    </abstract>
+    <affiliation>
+     Institute for Research in Extramural Medicine (EMGO Institute), Vrije Universiteit, Amsterdam, The Netherlands. c.jonker@scw.vu.nl
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Jonker
+      </lastname>
+      <forename>
+       C
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Geerlings
+      </lastname>
+      <forename>
+       M I
+      </forename>
+      <initials>
+       MI
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schmand
+      </lastname>
+      <forename>
+       B
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     ENGLAND
+    </country>
+    <medlineta>
+     Int J Geriatr Psychiatry
+    </medlineta>
+    <nlmuniqueid>
+     8710629
+    </nlmuniqueid>
+    <issnlinking>
+     0885-6230
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Alzheimer Disease
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Amnesia
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Mental Status Schedule
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Neuropsychological Tests
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Population Surveillance
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    30
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11113976
+    </articleid>
+    <articleid idtype="pii">
+     10.1002/1099-1166(200011)15:11&lt;983::AID-GPS238&gt;3.0.CO;2-5
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

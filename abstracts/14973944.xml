@@ -1,0 +1,285 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    14973944
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     19
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     29
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Acupuncture for chronic asthma.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD000008
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Acupuncture has traditionally been used to treat asthma in China and is used increasingly for this purpose internationally.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      The objective of this review was to assess the effects of acupuncture for the treatment of asthma or asthma-like symptoms.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      We searched the Cochrane Airways Group trials register (searched August 2003), the Cochrane Complementary Medicine Field trials register, the Alternative Medicine Database (August 2003) and reference lists of articles. We also contacted trialists and researchers in the field of complementary and alternative medical research.
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      Randomised and possibly randomised trials using needle acupuncture or other forms of stimulation of acupuncture. Any form of control treatment was considered (no treatment in addition to conventional asthma treatment, sham or placebo interventions, active comparator interventions). Studies were included provided outcome was assessed at one week or more.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      At least two reviewers independently assessed trial quality. A reviewer experienced in acupuncture assessed the adequacy of the active and sham acupunctures used in the studies. Study authors were contacted for missing information.
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      Eleven studies met the inclusion criteria with 324 participants. Trial reporting was poor and trial quality was deemed inadequate to generalise findings. There was variation in the type of active and sham acupunctures, the outcomes measured and time-points presented. The points used in the sham arm of some studies are used for the treatment of asthma according to traditional Chinese medicine. Two studies used individualised treatment strategies and one study used a combination strategy of formula acupuncture with the addition of individualised points. No statistically significant or clinically relevant effects were found for acupuncture compared to sham acupuncture. Data from two small studies were pooled for lung function (post-treatment FEV1): Standardised Mean Difference 0.12, 95% confidence interval -0.31 to 0.55).
+     </abstracttext>
+     <abstracttext label="REVIEWER'S CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      There is not enough evidence to make recommendations about the value of acupuncture in asthma treatment. Further research needs to consider the complexities and different types of acupuncture.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Psychological Medicine, Imperial College London, Room 4.06, Paterson Centre, 20 South Wharf Road, London, UK, W2 1PD.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       McCarney
+      </lastname>
+      <forename>
+       R W
+      </forename>
+      <initials>
+       RW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Brinkhaus
+      </lastname>
+      <forename>
+       B
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lasserson
+      </lastname>
+      <forename>
+       T J
+      </forename>
+      <initials>
+       TJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Linde
+      </lastname>
+      <forename>
+       K
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="UpdateOf">
+     <refsource>
+      Cochrane Database Syst Rev. 2000;(2):CD000008
+     </refsource>
+     <pmid version="1">
+      10796465
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Acupuncture Therapy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Asthma
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Chronic Disease
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    46
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      30
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     14973944
+    </articleid>
+    <articleid idtype="doi">
+     10.1002/14651858.CD000008.pub2
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

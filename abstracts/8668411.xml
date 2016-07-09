@@ -1,0 +1,332 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    8668411
+   </pmid>
+   <datecreated>
+    <year>
+     1996
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     08
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1996
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     08
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     24
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0031-4005
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       98
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        1996
+       </year>
+       <month>
+        Jul
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Pediatrics
+     </title>
+     <isoabbreviation>
+      Pediatrics
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Efficacy of glucose-based oral rehydration therapy.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      45-51
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      This article reviews and synthesizes evidence in the published literature on the safety and efficacy of oral rehydration therapy (ORT) among young children with pediatric gastroenteritis in developed nations.
+     </abstracttext>
+     <abstracttext label="METHODOLOGY" nlmcategory="METHODS">
+      We searched the literature for randomized, controlled trials comparing the safety and efficacy of ORT with intravenous (IV) rehydration treatment and/or oral rehydration solutions (ORSs) of different sodium content. We combined the failure rates of each set of studies in statistical meta-analyses and conducted tests of homogeneity of treatment effect over all the studies and for subgroups of children defined by the trial type, the sodium content of the ORS, and the setting of care. We also conducted a multivariate logistic regression on the probability of failure to determine the relative importance of these factors, controlling for other characteristics of the trials. Other outcomes were also tabulated and discussed. These include the relative incidence of hypernatremia and hyponatremia induced by treatment; weight gain; the volume, frequency, and duration of diarrhea; for inpatient trials, the length of stay; and for outpatient trials, rates of hospitalization.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The evidence suggests that among pediatric patients with gastroenteritis in developed countries, failure of ORT, defined as the need to rehydrate children intravenously, is infrequent. We found a combined overall ORT failure rate of 3.6%. We found no statistically significant difference in failure rates by trial type or the sodium content of the ORS. However, we did find some supporting evidence for a lower failure rate among children treated in outpatient settings. In addition, compared with patients rehydrated intravenously, pediatric patients treated with ORT were not found to be at higher risk of iatrogenic hypernatremia or hyponatremia. The evidence from the literature fails to show a consistent trend in favor of either high- or low-sodium solutions for rehydration of pediatric patients.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      There seems to be a great potential for improving the medical treatment of children with acute gastroenteritis by the greater use of ORT.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Research Triangle Institute, Research Triangle Park, North Carolina 27709-2194, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Gavin
+      </lastname>
+      <forename>
+       N
+      </forename>
+      <initials>
+       N
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Merrick
+      </lastname>
+      <forename>
+       N
+      </forename>
+      <initials>
+       N
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Davidson
+      </lastname>
+      <forename>
+       B
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       282-90-0043
+      </grantid>
+      <agency>
+       PHS HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Pediatrics
+    </medlineta>
+    <nlmuniqueid>
+     0376422
+    </nlmuniqueid>
+    <issnlinking>
+     0031-4005
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Rehydration Solutions
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      50-99-7
+     </registrynumber>
+     <nameofsubstance>
+      Glucose
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Clinical Protocols
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Fluid Therapy
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Gastroenteritis
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Glucose
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Rehydration Solutions
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Failure
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1996
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1996
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1996
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     8668411
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

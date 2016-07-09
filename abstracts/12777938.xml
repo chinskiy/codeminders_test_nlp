@@ -1,0 +1,281 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12777938
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     02
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     11
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2008
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     02
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0263-6352
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       21
+      </volume>
+      <issue>
+       6
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Jun
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of hypertension
+     </title>
+     <isoabbreviation>
+      J. Hypertens.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     2003 European Society of Hypertension-European Society of Cardiology guidelines for the management of arterial hypertension.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1011-53
+     </medlinepgn>
+    </pagination>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <collectivename>
+       European Society of Hypertension-European Society of Cardiology Guidelines Committee
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Guideline
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Practice Guideline
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     J Hypertens
+    </medlineta>
+    <nlmuniqueid>
+     8306882
+    </nlmuniqueid>
+    <issnlinking>
+     0263-6352
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antihypertensive Agents
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Hypertens. 2003 Dec;21(12):2207-9
+     </refsource>
+     <pmid version="1">
+      14654733
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Hypertens. 2004 Mar;22(3):661-2
+     </refsource>
+     <pmid version="1">
+      15076174
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Hypertens. 2004 Apr;22(4):859-61; author reply 861
+     </refsource>
+     <pmid version="1">
+      15126929
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="ErratumIn">
+     <refsource>
+      J Hypertens. 2003 Nov;21(11):2203-4
+     </refsource>
+    </commentscorrections>
+    <commentscorrections reftype="ErratumIn">
+     <refsource>
+      J Hypertens. 2004 Feb;22(2):435
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antihypertensive Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Pressure Determination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      Europe
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertension
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Assessment
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Reduction Behavior
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      12
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12777938
+    </articleid>
+    <articleid idtype="doi">
+     10.1097/01.hjh.0000059051.65882.32
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

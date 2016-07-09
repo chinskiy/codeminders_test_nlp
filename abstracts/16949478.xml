@@ -1,0 +1,763 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    16949478
+   </pmid>
+   <datecreated>
+    <year>
+     2006
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     04
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2006
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     21
+    </day>
+   </datecompleted>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1558-3597
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       48
+      </volume>
+      <issue>
+       5
+      </issue>
+      <pubdate>
+       <year>
+        2006
+       </year>
+       <month>
+        Sep
+       </month>
+       <day>
+        5
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of the American College of Cardiology
+     </title>
+     <isoabbreviation>
+      J. Am. Coll. Cardiol.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     ACC/AHA/ESC 2006 guidelines for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American College of Cardiology/American Heart Association Task Force and the European Society of Cardiology Committee for Practice Guidelines (Writing Committee to Develop Guidelines for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death).
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      e247-346
+     </medlinepgn>
+    </pagination>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <collectivename>
+       European Heart Rhythm Association
+      </collectivename>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       Heart Rhythm Society
+      </collectivename>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Zipes
+      </lastname>
+      <forename>
+       Douglas P
+      </forename>
+      <initials>
+       DP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Camm
+      </lastname>
+      <forename>
+       A John
+      </forename>
+      <initials>
+       AJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Borggrefe
+      </lastname>
+      <forename>
+       Martin
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Buxton
+      </lastname>
+      <forename>
+       Alfred E
+      </forename>
+      <initials>
+       AE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Chaitman
+      </lastname>
+      <forename>
+       Bernard
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Fromer
+      </lastname>
+      <forename>
+       Martin
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gregoratos
+      </lastname>
+      <forename>
+       Gabriel
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Klein
+      </lastname>
+      <forename>
+       George
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Moss
+      </lastname>
+      <forename>
+       Arthur J
+      </forename>
+      <initials>
+       AJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Myerburg
+      </lastname>
+      <forename>
+       Robert J
+      </forename>
+      <initials>
+       RJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Priori
+      </lastname>
+      <forename>
+       Silvia G
+      </forename>
+      <initials>
+       SG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Quinones
+      </lastname>
+      <forename>
+       Miguel A
+      </forename>
+      <initials>
+       MA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Roden
+      </lastname>
+      <forename>
+       Dan M
+      </forename>
+      <initials>
+       DM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Silka
+      </lastname>
+      <forename>
+       Michael J
+      </forename>
+      <initials>
+       MJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tracy
+      </lastname>
+      <forename>
+       Cynthia
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Smith
+      </lastname>
+      <forename>
+       Sidney C
+      </forename>
+      <initials>
+       SC
+      </initials>
+      <suffix>
+       Jr
+      </suffix>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jacobs
+      </lastname>
+      <forename>
+       Alice K
+      </forename>
+      <initials>
+       AK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Adams
+      </lastname>
+      <forename>
+       Cynthia D
+      </forename>
+      <initials>
+       CD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Antman
+      </lastname>
+      <forename>
+       Elliott M
+      </forename>
+      <initials>
+       EM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Anderson
+      </lastname>
+      <forename>
+       Jeffrey L
+      </forename>
+      <initials>
+       JL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hunt
+      </lastname>
+      <forename>
+       Sharon A
+      </forename>
+      <initials>
+       SA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Halperin
+      </lastname>
+      <forename>
+       Jonathan L
+      </forename>
+      <initials>
+       JL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Nishimura
+      </lastname>
+      <forename>
+       Rick
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ornato
+      </lastname>
+      <forename>
+       Joseph P
+      </forename>
+      <initials>
+       JP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Page
+      </lastname>
+      <forename>
+       Richard L
+      </forename>
+      <initials>
+       RL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Riegel
+      </lastname>
+      <forename>
+       Barbara
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Priori
+      </lastname>
+      <forename>
+       Silvia G
+      </forename>
+      <initials>
+       SG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Blanc
+      </lastname>
+      <forename>
+       Jean-Jacques
+      </forename>
+      <initials>
+       JJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Budaj
+      </lastname>
+      <forename>
+       Andrzej
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Camm
+      </lastname>
+      <forename>
+       A John
+      </forename>
+      <initials>
+       AJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dean
+      </lastname>
+      <forename>
+       Veronica
+      </forename>
+      <initials>
+       V
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Deckers
+      </lastname>
+      <forename>
+       Jaap W
+      </forename>
+      <initials>
+       JW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Despres
+      </lastname>
+      <forename>
+       Catherine
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dickstein
+      </lastname>
+      <forename>
+       Kenneth
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lekakis
+      </lastname>
+      <forename>
+       John
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McGregor
+      </lastname>
+      <forename>
+       Keith
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Metra
+      </lastname>
+      <forename>
+       Marco
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Morais
+      </lastname>
+      <forename>
+       Joao
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Osterspey
+      </lastname>
+      <forename>
+       Ady
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tamargo
+      </lastname>
+      <forename>
+       Juan Luis
+      </forename>
+      <initials>
+       JL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Zamorano
+      </lastname>
+      <forename>
+       José Luis
+      </forename>
+      <initials>
+       JL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       American College of Cardiology
+      </collectivename>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       American Heart Association Task Force
+      </collectivename>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       European Society of Cardiology Committee for Practice Guidelines
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Practice Guideline
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     J Am Coll Cardiol
+    </medlineta>
+    <nlmuniqueid>
+     8301365
+    </nlmuniqueid>
+    <issnlinking>
+     0735-1097
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Arrhythmia Agents
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Arrhythmia Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cardiac Output, Low
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cardiomyopathies
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Catheter Ablation
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Death, Sudden, Cardiac
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Defibrillators, Implantable
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Electrocardiography
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heart Arrest
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heart Function Tests
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tachycardia, Ventricular
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ventricular Fibrillation
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2006
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2006
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      22
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2006
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     S0735-1097(06)01817-1
+    </articleid>
+    <articleid idtype="doi">
+     10.1016/j.jacc.2006.07.010
+    </articleid>
+    <articleid idtype="pubmed">
+     16949478
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

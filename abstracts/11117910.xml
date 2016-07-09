@@ -1,0 +1,380 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11117910
+   </pmid>
+   <datecreated>
+    <year>
+     2000
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     14
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2000
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     22
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2008
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     21
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0140-6736
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       356
+      </volume>
+      <issue>
+       9244
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+       <month>
+        Nov
+       </month>
+       <day>
+        25
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Lancet
+     </title>
+     <isoabbreviation>
+      Lancet
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Rhythm or rate control in atrial fibrillation--Pharmacological Intervention in Atrial Fibrillation (PIAF): a randomised trial.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1789-94
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Atrial fibrillation is the most commonly encountered sustained cardiac arrhythmia. Restoration and maintenance of sinus rhythm is believed by many physicians to be superior to rate control only. However, there are no prospective data that compare both therapeutic strategies.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      The Pharmacological Intervention in Atrial Fibrillation (PIAF) trial was a randomised trial in 252 patients with atrial fibrillation of between 7 days and 360 days duration, which compared rate (group A, 125 patients) with rhythm control (group B, 127 patients). In group A, diltiazem was used as first-line therapy and amiodarone was used in group B. The primary study endpoint was improvement in symptoms related to atrial fibrillation.
+     </abstracttext>
+     <abstracttext label="FINDINGS" nlmcategory="RESULTS">
+      Over the entire observation period of 1 year, a similar proportion of patients reported improvement in symptoms in both groups (76 responders at 12 months in group A vs 70 responders in group B, p=0.317). Amiodarone administration resulted in pharmacological restoration of sinus rhythm in 23% of patients. Walking distance in a 6 min walk test was better in group B compared with group A, but assessment of quality of life showed no differences between groups. The incidence of hospital admission was higher in group B (87 [69%] out of 127 vs 30 [24%] out of 125 in group A, p=0.001). Adverse drug effects more frequently led to a change in therapy in group B (31 [25%] patients compared with 17 [14%] in group A, p=0.036).
+     </abstracttext>
+     <abstracttext label="INTERPRETATION" nlmcategory="CONCLUSIONS">
+      With respect to symptomatic improvement in patients with atrial fibrillation, the therapeutic strategies of rate versus rhythm control yielded similar clinical results overall. However, exercise tolerance is better with rhythm control, although hospital admission is more frequent. These data may serve as a basis to select therapy in individual patients.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     JW Goethe University, Frankfurt, Germany. Hohnloser@em.uni-frankfurt.de
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Hohnloser
+      </lastname>
+      <forename>
+       S H
+      </forename>
+      <initials>
+       SH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kuck
+      </lastname>
+      <forename>
+       K H
+      </forename>
+      <initials>
+       KH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lilienthal
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Lancet
+    </medlineta>
+    <nlmuniqueid>
+     2985213R
+    </nlmuniqueid>
+    <issnlinking>
+     0140-6736
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Arrhythmia Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      1951-25-3
+     </registrynumber>
+     <nameofsubstance>
+      Amiodarone
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      42399-41-7
+     </registrynumber>
+     <nameofsubstance>
+      Diltiazem
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2001 Apr 7;357(9262):1127-8
+     </refsource>
+     <pmid version="1">
+      11303604
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP Journal Club 2001 Jul-Aug;135(1):14
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Amiodarone
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Arrhythmia Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Atrial Fibrillation
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diltiazem
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Electric Countershock
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Follow-Up Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heart Rate
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hospitalization
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Physical Exertion
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Quality of Life
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11117910
+    </articleid>
+    <articleid idtype="pii">
+     S014067360003230X
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

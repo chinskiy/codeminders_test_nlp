@@ -1,0 +1,418 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    14970960
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     18
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     08
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0003-9993
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       85
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Jan
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Archives of physical medicine and rehabilitation
+     </title>
+     <isoabbreviation>
+      Arch Phys Med Rehabil
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Trial of amitriptyline for relief of pain in amputees: results of a randomized controlled study.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1-6
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To evaluate whether amitriptyline is more effective than placebo in improving phantom limb pain or residual limb pain.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Randomized controlled trial of amitriptyline for 6 weeks.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      University hospital.
+     </abstracttext>
+     <abstracttext label="PARTICIPANTS" nlmcategory="METHODS">
+      Thirty-nine persons with amputation-related pain lasting more than 6 months.
+     </abstracttext>
+     <abstracttext label="INTERVENTION" nlmcategory="METHODS">
+      Six-week trial of amitriptyline (titrated up to 125 mg/d) or an active placebo (benztropine mesylate).
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      Analyses were conducted to examine whether there was a medication group effect on the primary outcomes (average pain intensity) and secondary outcome measures (disability, satisfaction with life, handicap).
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      No significant differences were found between the treatment groups in outcome variables when controlling for initial pain scores.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Our findings do not support the use of amitriptyline in the treatment of postamputation pain.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Rehabilitation Medicine, University of Washington, Seattle 98104, USA. lorenzo@u.washington.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Robinson
+      </lastname>
+      <forename>
+       Lawrence R
+      </forename>
+      <initials>
+       LR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Czerniecki
+      </lastname>
+      <forename>
+       Joseph M
+      </forename>
+      <initials>
+       JM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ehde
+      </lastname>
+      <forename>
+       Dawn M
+      </forename>
+      <initials>
+       DM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Edwards
+      </lastname>
+      <forename>
+       W Thomas
+      </forename>
+      <initials>
+       WT
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Judish
+      </lastname>
+      <forename>
+       David A
+      </forename>
+      <initials>
+       DA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Goldberg
+      </lastname>
+      <forename>
+       Myron L
+      </forename>
+      <initials>
+       ML
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Campbell
+      </lastname>
+      <forename>
+       Kellye M
+      </forename>
+      <initials>
+       KM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Smith
+      </lastname>
+      <forename>
+       Douglas G
+      </forename>
+      <initials>
+       DG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jensen
+      </lastname>
+      <forename>
+       Mark P
+      </forename>
+      <initials>
+       MP
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       1PO1 HD/NS33988
+      </grantid>
+      <acronym>
+       HD
+      </acronym>
+      <agency>
+       NICHD NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Arch Phys Med Rehabil
+    </medlineta>
+    <nlmuniqueid>
+     2985158R
+    </nlmuniqueid>
+    <issnlinking>
+     0003-9993
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Analgesics, Non-Narcotic
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      50-48-6
+     </registrynumber>
+     <nameofsubstance>
+      Amitriptyline
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Amitriptyline
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Amputees
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Analgesics, Non-Narcotic
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Phantom Limb
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Failure
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     14970960
+    </articleid>
+    <articleid idtype="pii">
+     S0003999303004763
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    16336480
+   </pmid>
+   <datecreated>
+    <year>
+     2005
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     12
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2006
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     18
+    </day>
+   </datecompleted>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      1526-2375
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       6
+      </volume>
+      <issue>
+       6
+      </issue>
+      <pubdate>
+       <medlinedate>
+        2005 Nov-Dec
+       </medlinedate>
+      </pubdate>
+     </journalissue>
+     <title>
+      Pain medicine (Malden, Mass.)
+     </title>
+     <isoabbreviation>
+      Pain Med
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Predicting aberrant behaviors in opioid-treated patients: preliminary validation of the Opioid Risk Tool.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      432-42
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To provide clinicians with a brief screening tool to predict accurately which individuals may develop aberrant behaviors when prescribed opioids for chronic pain.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      One hundred and eighty-five consecutive new patients treated in one pain clinic took the self-administered Opioid Risk Tool (ORT). The ORT measured the following risk factors associated in scientific literature with substance abuse: personal and family history of substance abuse; age; history of preadolescent sexual abuse; and certain psychological diseases. Patients received scores of 0-3 (low risk), 4-7 (moderate risk), or &gt;or= 8 (high risk), indicating the probability of their displaying opioid-related aberrant behaviors. All patients were monitored for aberrant behaviors for 12 months after their initial visits.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      For those patients with a risk category of low, 17 out of 18 (94.4%) did not display an aberrant behavior. For those patients with a risk category of high, 40 out of 44 (90.9%) did display an aberrant behavior. The authors used the c statistic to validate the ORT, because it simultaneously assesses sensitivity and specificity. The ORT displayed excellent discrimination for both the male (c = 0.82) and the female (c = 0.85) prognostic models.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      In a preliminary study, among patients prescribed opioids for chronic pain, the ORT exhibited a high degree of sensitivity and specificity for determining which individuals are at risk for opioid-related, aberrant behaviors. Further studies in a variety of pain and nonpain settings are needed to determine the ORT's universal applicability.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Lifetree Pain Clinic and Clinical Research, Salt Lake City, Utah 84106, USA. lynnw@lifetreepain.com
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Webster
+      </lastname>
+      <forename>
+       Lynn R
+      </forename>
+      <initials>
+       LR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Webster
+      </lastname>
+      <forename>
+       Rebecca M
+      </forename>
+      <initials>
+       RM
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Controlled Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Validation Studies
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Pain Med
+    </medlineta>
+    <nlmuniqueid>
+     100894201
+    </nlmuniqueid>
+    <issnlinking>
+     1526-2375
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Narcotics
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Medical History Taking
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Mental Disorders
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Narcotics
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Opioid-Related Disorders
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pain
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pilot Projects
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prognosis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Proportional Hazards Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Questionnaires
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Reproducibility of Results
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Assessment
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sex Distribution
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      Utah
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2005
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2006
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2005
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     PME72
+    </articleid>
+    <articleid idtype="doi">
+     10.1111/j.1526-4637.2005.00072.x
+    </articleid>
+    <articleid idtype="pubmed">
+     16336480
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

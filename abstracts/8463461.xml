@@ -1,0 +1,376 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    8463461
+   </pmid>
+   <datecreated>
+    <year>
+     1993
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     30
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1993
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     30
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2005
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     16
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0190-9622
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       28
+      </volume>
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <year>
+        1993
+       </year>
+       <month>
+        Apr
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of the American Academy of Dermatology
+     </title>
+     <isoabbreviation>
+      J. Am. Acad. Dermatol.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Long-term oral antibiotics for acne: is laboratory monitoring necessary?
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      595-602
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      The role of laboratory monitoring in patients receiving long-term oral antibiotics for acne vulgaris has not been clearly defined.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      The purpose of our study was (1) to evaluate the literature for objective evidence on the value of routine laboratory monitoring of the asymptomatic patient receiving oral antibiotics for acne and (2) to determine the utilization of laboratory monitoring of these patients by Connecticut dermatologists.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We surveyed Connecticut dermatologists by phone and inquired about the laboratory monitoring performed in patients receiving long-term oral tetracycline, minocycline, or erythromycin for acne.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Eight published studies reported a total of 777 patients who had laboratory monitoring at various frequencies while receiving oral antibiotics for acne. Only one adverse drug reaction (ADR) was detected in a patient in whom mild hyperbilirubinemia developed. Of the 75 Connecticut dermatologists who participated in our survey, 48 (64%) perform some laboratory monitoring; 29% do so routinely, and 35% under special circumstances.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Our literature review does not support routine laboratory monitoring in all patients who receive long-term oral antibiotics for acne; rarely does such screening detect an ADR and thus does not justify the cost of such testing. A relatively small proportion of Connecticut dermatologists check laboratory tests more frequently than appears necessary; in our opinion, laboratory monitoring should be limited to patients who may be at higher risk for an ADR.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Medicine, University of Connecticut Health Center, Farmington 06030.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Driscoll
+      </lastname>
+      <forename>
+       M S
+      </forename>
+      <initials>
+       MS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rothe
+      </lastname>
+      <forename>
+       M J
+      </forename>
+      <initials>
+       MJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Abrahamian
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Grant-Kels
+      </lastname>
+      <forename>
+       J M
+      </forename>
+      <initials>
+       JM
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     J Am Acad Dermatol
+    </medlineta>
+    <nlmuniqueid>
+     7907132
+    </nlmuniqueid>
+    <issnlinking>
+     0190-9622
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      10118-90-8
+     </registrynumber>
+     <nameofsubstance>
+      Minocycline
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      114-07-8
+     </registrynumber>
+     <nameofsubstance>
+      Erythromycin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      60-54-8
+     </registrynumber>
+     <nameofsubstance>
+      Tetracycline
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Acne Vulgaris
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dermatology
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Disease
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Drug Monitoring
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Erythromycin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Gastrointestinal Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      chemically induced
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hematopoietic System
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Kidney
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Liver
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Long-Term Care
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Minocycline
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tetracycline
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Time Factors
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    38
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1993
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1993
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1993
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     8463461
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

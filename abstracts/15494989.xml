@@ -1,0 +1,292 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15494989
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     20
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     23
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     03
+    </day>
+   </daterevised>
+   <article pubmodel="Electronic">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Physician advice for smoking cessation.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD000165
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Healthcare professionals frequently advise patients to improve their health by stopping smoking. Such advice may be brief, or part of more intensive interventions.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      The aims of this review were to assess the effectiveness of advice from physicians in promoting smoking cessation; to compare minimal interventions by physicians with more intensive interventions; to assess the effectiveness of various aids to advice in promoting smoking cessation and to determine the effect of anti-smoking advice on disease-specific and all-cause mortality.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      We searched the Cochrane Tobacco Addiction Group trials register and the Cochrane Central Register of Controlled Trials (CENTRAL). Date of the most recent searches: March 2004.
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      Randomized trials of smoking cessation advice from a medical practitioner in which abstinence was assessed at least six months after advice was first provided.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      We extracted data in duplicate on the setting in which advice was given, type of advice given (minimal or intensive), and whether aids to advice were used, the outcome measures, method of randomization and completeness of follow up. The main outcome measures were abstinence from smoking after at least six months follow up and mortality. We used the most rigorous definition of abstinence in each trial, and biochemically validated rates where available. Subjects lost to follow up were counted as smokers. Where possible, meta-analysis was performed using a Mantel-Haenszel fixed effect model.
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      We identified 39 trials, conducted between 1972 and 2003, including over 31,000 smokers. In some trials, subjects were at risk of specified diseases (chest disease, diabetes, ischaemic heart disease), but most were from unselected populations. The most common setting for delivery of advice was primary care. Other settings included hospital wards and outpatient clinics, and industrial clinics. Pooled data from 17 trials of brief advice versus no advice (or usual care) revealed a small but significant increase in the odds of quitting (odds ratio 1.74, 95% confidence interval 1.48 to 2.05). This equates to an absolute difference in the cessation rate of about 2.5%. There was insufficient evidence, from indirect comparisons, to establish a significant difference in the effectiveness of physician advice according to the intensity of the intervention, the amount of follow up provided, and whether or not various aids were used at the time of the consultation in addition to providing advice. Direct comparison of intensive versus minimal advice showed a small advantage of intensive advice (odds ratio 1.44, 95% confidence interval 1.24 to 1.67). Direct comparison also suggested a small benefit of follow-up visits. Only one study determined the effect of smoking advice on mortality. It found no statistically significant differences in death rates at 20 years follow up.
+     </abstracttext>
+     <abstracttext label="REVIEWERS' CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Simple advice has a small effect on cessation rates. Additional manoeuvres appear to have only a small effect, though more intensive interventions are marginally more effective than minimal interventions.
+     </abstracttext>
+    </abstract>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Lancaster
+      </lastname>
+      <forename>
+       T
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Stead
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2004
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      18
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="UpdateIn">
+     <refsource>
+      Cochrane Database Syst Rev. 2008;(2):CD000165
+     </refsource>
+     <pmid version="1">
+      18425860
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="UpdateOf">
+     <refsource>
+      Cochrane Database Syst Rev. 2001;(2):CD000165
+     </refsource>
+     <pmid version="1">
+      11405953
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Patient Education as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Physician's Practice Patterns
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Smoking
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Smoking Cessation
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    110
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    epublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="doi">
+     10.1002/14651858.CD000165.pub2
+    </articleid>
+    <articleid idtype="pubmed">
+     15494989
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

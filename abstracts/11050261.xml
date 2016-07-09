@@ -1,0 +1,441 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11050261
+   </pmid>
+   <datecreated>
+    <year>
+     2000
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     20
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2000
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     20
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0040-6376
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       55
+      </volume>
+      <issue>
+       11
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+       <month>
+        Nov
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Thorax
+     </title>
+     <isoabbreviation>
+      Thorax
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Herbal medicines for asthma: a systematic review.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      925-9
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Asthma is one of the most common chronic diseases in modern society and there is increasing evidence to suggest that its incidence and severity are increasing. There is a high prevalence of usage of complementary medicine for asthma. Herbal preparations have been cited as the third most popular complementary treatment modality by British asthma sufferers. This study was undertaken to determine if there is any evidence for the clinical efficacy of herbal preparations for the treatment of asthma symptoms.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Four independent literature searches were performed on Medline, Pubmed, Cochrane Library, and Embase. Only randomised clinical trials were included. There were no restrictions on the language of publication. The data were extracted in a standardised, predefined manner and assessed critically.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Seventeen randomised clinical trials were found, six of which concerned the use of traditional Chinese herbal medicine and eight described traditional Indian medicine, of which five investigated Tylophora indica. Three other randomised trials tested a Japanese Kampo medicine, marihuana, and dried ivy leaf extract. Nine of the 17 trials reported a clinically relevant improvement in lung function and/or symptom scores.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      No definitive evidence for any of the herbal preparations emerged. Considering the popularity of herbal medicine with asthma patients, there is urgent need for stringently designed clinically relevant randomised clinical trials for herbal preparations in the treatment of asthma.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Complementary Medicine, School of Postgraduate Medicine and Health Studies, University of Exeter, Exeter EX2 4NT, UK. A.Huntley@ex.ac.uk
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Huntley
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ernst
+      </lastname>
+      <forename>
+       E
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     ENGLAND
+    </country>
+    <medlineta>
+     Thorax
+    </medlineta>
+    <nlmuniqueid>
+     0417353
+    </nlmuniqueid>
+    <issnlinking>
+     0040-6376
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Drugs, Chinese Herbal
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Eur J Med Res. 1998 Nov 17;3(11):511-4
+     </refsource>
+     <pmid version="1">
+      9810030
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Zhongguo Zhong Xi Yi Jie He Za Zhi. 1996 Sep;16(9):529-32
+     </refsource>
+     <pmid version="1">
+      9772599
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Asthma. 1998;35(8):667-71
+     </refsource>
+     <pmid version="1">
+      9860087
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Asthma. 1999;36(1):1-65
+     </refsource>
+     <pmid version="1">
+      10077136
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Ethnopharmacol. 1999 Aug;66(2):205-10
+     </refsource>
+     <pmid version="1">
+      10433479
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Planta Med. 1991 Jun;57(3):203-7
+     </refsource>
+     <pmid version="1">
+      1654575
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Ethnopharmacol. 1988 Dec;24(2-3):303-9
+     </refsource>
+     <pmid version="1">
+      2473358
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Indian Med Assoc. 1978 Oct 1;71(7):172-6
+     </refsource>
+     <pmid version="1">
+      372448
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Indian J Med Res. 1979 Jun;69:981-9
+     </refsource>
+     <pmid version="1">
+      381193
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1973 May 10;288(19):985-9
+     </refsource>
+     <pmid version="1">
+      4696254
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1973 Aug 16;289(7):336-41
+     </refsource>
+     <pmid version="1">
+      4718513
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Assoc Physicians India. 1968 Jan;16(1):9-15
+     </refsource>
+     <pmid version="1">
+      4871733
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Allergy. 1972 Jul;30(7):407-12
+     </refsource>
+     <pmid version="1">
+      5047617
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Sci Am. 1969 Dec;221(6):17-25
+     </refsource>
+     <pmid version="1">
+      5388377
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Postgrad Med. 1983 Apr;29(2):89-95
+     </refsource>
+     <pmid version="1">
+      6355451
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann N Y Acad Sci. 1993 Jun 23;685:580-3
+     </refsource>
+     <pmid version="1">
+      8363267
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Control Clin Trials. 1996 Feb;17(1):1-12
+     </refsource>
+     <pmid version="1">
+      8721797
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Zhongguo Zhong Xi Yi Jie He Za Zhi. 1996 Apr;16(4):198-200
+     </refsource>
+     <pmid version="1">
+      9206238
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2001 May-Jun;134(3):96
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Asthma
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drugs, Chinese Herbal
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Forced Expiratory Volume
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      physiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Medicine, Kampo
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Phytotherapy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    26
+   </numberofreferences>
+   <otherid source="NLM">
+    PMC1745625
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11050261
+    </articleid>
+    <articleid idtype="pmc">
+     PMC1745625
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,429 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15159270
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     25
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     15
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0003-9926
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       164
+      </volume>
+      <issue>
+       10
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        May
+       </month>
+       <day>
+        24
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Archives of internal medicine
+     </title>
+     <isoabbreviation>
+      Arch. Intern. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Efficacy of extended-release niacin with lovastatin for hypercholesterolemia: assessing all reasonable doses with innovative surface graph analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1121-7
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Combination therapy to improve the total lipid profile may achieve greater coronary risk reductions than lowering low-density lipoprotein cholesterol (LDL-C) alone. A new extended-release niacin (niacin ER)/lovastatin tablet substantially lowers LDL-C, triglyceride, and lipoprotein(a) levels and raises high-density lipoprotein cholesterol (HDL-C) level. We evaluated these serum lipid responses to niacin ER/lovastatin at all clinically reasonable doses.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Men (n = 85) and women (n = 79) with type IIa or IIb primary hyperlipidemia after diet were randomized among 5 parallel treatment arms. Each arm had 5 sequential 4-week treatment periods: niacin ER (starting at 500 mg/d, increasing in 500-mg increments to 2500 mg/d); lovastatin (starting at 10 mg, increasing to 20 mg, then 40 mg/d); and 3 combinations arms, each with a constant lovastatin dose and escalating niacin ER doses.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      For primary comparisons, mean LDL-C level reductions from baseline were greater with niacin ER/lovastatin (1500/20 mg) than with lovastatin (20 mg) (35% vs 22%, P&lt;.001) and with niacin ER/lovastatin (2000/40 mg) than with lovastatin (40 mg) (46% vs 24%, P&lt;.001). Each 500-mg increase in niacin ER, on average, decreased LDL-C levels an additional 4% and increased HDL-C levels 8%. The maximum recommended dose (2000/40 mg/d) increased HDL-C levels 29% and decreased LDL-C levels 46%, triglyceride levels 38%, and lipoprotein(a) levels 14%. All lipid responses were dose dependent and generally additive. Graphs of the dose-response relationships as 3-dimensional surfaces documented the strength and consistency of these responses.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Niacin ER/lovastatin combination therapy substantially improves 4 major lipoprotein levels associated with atherosclerotic disease. Dose-response surfaces provide a practical guide for dose selection.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Lipid Research Clinic, Baylor College of Medicine and Methodist Hospital, 6560 Fannin Street, Suite 1150, Houston, TX 77030, USA. winsull@tcm
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Insull
+      </lastname>
+      <forename>
+       William
+      </forename>
+      <initials>
+       W
+      </initials>
+      <suffix>
+       Jr
+      </suffix>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McGovern
+      </lastname>
+      <forename>
+       Mark E
+      </forename>
+      <initials>
+       ME
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schrott
+      </lastname>
+      <forename>
+       Helmut
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Thompson
+      </lastname>
+      <forename>
+       Paul
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Crouse
+      </lastname>
+      <forename>
+       J Robin
+      </forename>
+      <initials>
+       JR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Zieve
+      </lastname>
+      <forename>
+       Franklin
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Corbelli
+      </lastname>
+      <forename>
+       John
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Arch Intern Med
+    </medlineta>
+    <nlmuniqueid>
+     0372440
+    </nlmuniqueid>
+    <issnlinking>
+     0003-9926
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Delayed-Action Preparations
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      59-67-6
+     </registrynumber>
+     <nameofsubstance>
+      Niacin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      75330-75-5
+     </registrynumber>
+     <nameofsubstance>
+      Lovastatin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Delayed-Action Preparations
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dose-Response Relationship, Drug
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Administration Schedule
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Therapy, Combination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Follow-Up Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypercholesterolemia
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lovastatin
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Niacin
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Probability
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Reference Values
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Assessment
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Severity of Illness Index
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     15159270
+    </articleid>
+    <articleid idtype="doi">
+     10.1001/archinte.164.10.1121
+    </articleid>
+    <articleid idtype="pii">
+     164/10/1121
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,552 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12069675
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     18
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     25
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       287
+      </volume>
+      <issue>
+       23
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Jun
+       </month>
+       <day>
+        19
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Vitamins for chronic disease prevention in adults: scientific review.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      3116-26
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Although vitamin deficiency is encountered infrequently in developed countries, inadequate intake of several vitamins is associated with chronic disease.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To review the clinically important vitamins with regard to their biological effects, food sources, deficiency syndromes, potential for toxicity, and relationship to chronic disease.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES AND STUDY SELECTION" nlmcategory="METHODS">
+      We searched MEDLINE for English-language articles about vitamins in relation to chronic diseases and their references published from 1966 through January 11, 2002.
+     </abstracttext>
+     <abstracttext label="DATA EXTRACTION" nlmcategory="METHODS">
+      We reviewed articles jointly for the most clinically important information, emphasizing randomized trials where available.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      Our review of 9 vitamins showed that elderly people, vegans, alcohol-dependent individuals, and patients with malabsorption are at higher risk of inadequate intake or absorption of several vitamins. Excessive doses of vitamin A during early pregnancy and fat-soluble vitamins taken anytime may result in adverse outcomes. Inadequate folate status is associated with neural tube defect and some cancers. Folate and vitamins B(6) and B(12) are required for homocysteine metabolism and are associated with coronary heart disease risk. Vitamin E and lycopene may decrease the risk of prostate cancer. Vitamin D is associated with decreased occurrence of fractures when taken with calcium.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Some groups of patients are at higher risk for vitamin deficiency and suboptimal vitamin status. Many physicians may be unaware of common food sources of vitamins or unsure which vitamins they should recommend for their patients. Vitamin excess is possible with supplementation, particularly for fat-soluble vitamins. Inadequate intake of several vitamins has been linked to chronic diseases, including coronary heart disease, cancer, and osteoporosis
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Division of General Medicine and Primary Care, Beth Israel Deaconess Medical Center and Channing Laboratory, Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA. kfairfie@caregroup.harvard.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Fairfield
+      </lastname>
+      <forename>
+       Kathleen M
+      </forename>
+      <initials>
+       KM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Fletcher
+      </lastname>
+      <forename>
+       Robert H
+      </forename>
+      <initials>
+       RH
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Vitamins
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      11103-57-4
+     </registrynumber>
+     <nameofsubstance>
+      Vitamin A
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      12001-79-5
+     </registrynumber>
+     <nameofsubstance>
+      Vitamin K
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      1406-16-2
+     </registrynumber>
+     <nameofsubstance>
+      Vitamin D
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      1406-18-4
+     </registrynumber>
+     <nameofsubstance>
+      Vitamin E
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      36-88-4
+     </registrynumber>
+     <nameofsubstance>
+      Carotenoids
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      50-81-7
+     </registrynumber>
+     <nameofsubstance>
+      Ascorbic Acid
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      59-30-3
+     </registrynumber>
+     <nameofsubstance>
+      Folic Acid
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      68-19-9
+     </registrynumber>
+     <nameofsubstance>
+      Vitamin B 12
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      8059-24-3
+     </registrynumber>
+     <nameofsubstance>
+      Vitamin B 6
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="ErratumIn">
+     <refsource>
+      JAMA 2002 Oct 9;288(14):1720
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ascorbic Acid
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Avitaminosis
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Coagulation
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Breast Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Carotenoids
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Chronic Disease
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Colorectal Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Coronary Disease
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Dietary Supplements
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Folic Acid
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fractures, Bone
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lung Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Neural Tube Defects
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prostatic Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vitamin A
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vitamin B 12
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vitamin B 6
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vitamin D
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vitamin E
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vitamin K
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vitamins
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pharmacology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    152
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12069675
+    </articleid>
+    <articleid idtype="pii">
+     jsr20000
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

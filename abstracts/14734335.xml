@@ -1,0 +1,317 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    14734335
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     21
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     11
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2005
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1539-3704
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       140
+      </volume>
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Jan
+       </month>
+       <day>
+        20
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Annals of internal medicine
+     </title>
+     <isoabbreviation>
+      Ann. Intern. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     The accuracy of the Ottawa knee rule to rule out knee fractures: a systematic review.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      121-4
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      The Ottawa knee rule is a clinical decision aid that helps rule out fractures and avoid unnecessary radiography.
+     </abstracttext>
+     <abstracttext label="PURPOSE" nlmcategory="OBJECTIVE">
+      To summarize evidence about the accuracy of the Ottawa knee rule.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      Relevant English- and non-English-language articles were identified from PreMEDLINE and MEDLINE (1966-2003), EMBASE (1980-2003), CINAHL (1982-2003), BIOSIS (1990-2003), the Cochrane Library (2002, Issue 3), the Science Citation Index database, reference lists of included studies, and experts.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION" nlmcategory="METHODS">
+      Articles were included if they reported enough information to determine the sensitivity and specificity of the Ottawa knee rule for detecting fractures confirmed either radiologically or in combination with follow-up.
+     </abstracttext>
+     <abstracttext label="DATA EXTRACTION" nlmcategory="METHODS">
+      Two reviewers independently extracted data on study samples, the ways that the Ottawa knee rule was used, and methodologic characteristics of studies.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      Of 11 identified studies, 6 involving 4249 adult patients were considered appropriate for pooled analysis. The pooled negative likelihood ratio was 0.05 (95% CI, 0.02 to 0.23), the pooled sensitivity was 98.5% (CI, 93.2% to 100%), and the pooled specificity was 48.6% (CI, 43.4% to 51.0%).
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      A negative result on an Ottawa knee rule test accurately excluded knee fractures after acute knee injury. However, because the rule is calibrated toward 100% sensitivity and actual fracture prevalences are usually low, large-scale, multicentered studies are still needed to establish the cost-effectiveness of routinely implementing the rule.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Horten Centre, Zurich University, Zurich, Switzerland. lucas.bachmann@evimed.ch
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Bachmann
+      </lastname>
+      <forename>
+       Lucas M
+      </forename>
+      <initials>
+       LM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Haberzeth
+      </lastname>
+      <forename>
+       Sophie
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Steurer
+      </lastname>
+      <forename>
+       Johann
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       ter Riet
+      </lastname>
+      <forename>
+       Gerben
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Ann Intern Med
+    </medlineta>
+    <nlmuniqueid>
+     0372351
+    </nlmuniqueid>
+    <issnlinking>
+     0003-4819
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Decision Support Techniques
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Emergency Service, Hospital
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fractures, Bone
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      radiography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Injury Severity Score
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Knee Injuries
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      radiography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Predictive Value of Tests
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Radiography
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      utilization
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    22
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      22
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      12
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      22
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     14734335
+    </articleid>
+    <articleid idtype="pii">
+     140/2/121
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

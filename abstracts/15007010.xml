@@ -1,0 +1,514 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15007010
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     23
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     08
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print-Electronic">
+    <journal>
+     <issn issntype="Electronic">
+      1524-4539
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       109
+      </volume>
+      <issue>
+       11
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Mar
+       </month>
+       <day>
+        23
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Circulation
+     </title>
+     <isoabbreviation>
+      Circulation
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Percutaneous coronary angioplasty compared with exercise training in patients with stable coronary artery disease: a randomized trial.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1371-8
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Regular exercise in patients with stable coronary artery disease has been shown to improve myocardial perfusion and to retard disease progression. We therefore conducted a randomized study to compare the effects of exercise training versus standard percutaneous coronary intervention (PCI) with stenting on clinical symptoms, angina-free exercise capacity, myocardial perfusion, cost-effectiveness, and frequency of a combined clinical end point (death of cardiac cause, stroke, CABG, angioplasty, acute myocardial infarction, and worsening angina with objective evidence resulting in hospitalization).
+     </abstracttext>
+     <abstracttext label="METHODS AND RESULTS" nlmcategory="RESULTS">
+      A total of 101 male patients aged &lt; or =70 years were recruited after routine coronary angiography and randomized to 12 months of exercise training (20 minutes of bicycle ergometry per day) or to PCI. Cost efficiency was calculated as the average expense (in US dollars) needed to improve the Canadian Cardiovascular Society class by 1 class. Exercise training was associated with a higher event-free survival (88% versus 70% in the PCI group, P=0.023) and increased maximal oxygen uptake (+16%, from 22.7+/-0.7 to 26.2+/-0.8 mL O2/kg, P&lt;0.001 versus baseline, P&lt;0.001 versus PCI group after 12 months). To gain 1 Canadian Cardiovascular Society class, 6956 dollars was spent in the PCI group versus 3429 dollars in the training group (P&lt;0.001).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Compared with PCI, a 12-month program of regular physical exercise in selected patients with stable coronary artery disease resulted in superior event-free survival and exercise capacity at lower costs, notably owing to reduced rehospitalizations and repeat revascularizations.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Universität Leipzig, Herzzentrum GmbH, Klinik für Innere Medizin/Kardiologie, Leipzig, Germany. hamr@medizin.uni-leipzig.de
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Hambrecht
+      </lastname>
+      <forename>
+       Rainer
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Walther
+      </lastname>
+      <forename>
+       Claudia
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Möbius-Winkler
+      </lastname>
+      <forename>
+       Sven
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gielen
+      </lastname>
+      <forename>
+       Stephan
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Linke
+      </lastname>
+      <forename>
+       Axel
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Conradi
+      </lastname>
+      <forename>
+       Katrin
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Erbs
+      </lastname>
+      <forename>
+       Sandra
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kluge
+      </lastname>
+      <forename>
+       Regine
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kendziorra
+      </lastname>
+      <forename>
+       Kai
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sabri
+      </lastname>
+      <forename>
+       Osama
+      </forename>
+      <initials>
+       O
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sick
+      </lastname>
+      <forename>
+       Peter
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schuler
+      </lastname>
+      <forename>
+       Gerhard
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2004
+     </year>
+     <month>
+      03
+     </month>
+     <day>
+      08
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Circulation
+    </medlineta>
+    <nlmuniqueid>
+     0147763
+    </nlmuniqueid>
+    <issnlinking>
+     0009-7322
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Organophosphorus Compounds
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Organotechnetium Compounds
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Radiopharmaceuticals
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      technetium Tc 99m 1,2-bis(bis(2-ethoxyethyl)phosphino)ethane
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Circulation. 2004 Aug 10;110(6):e65; author reply e65
+     </refsource>
+     <pmid version="1">
+      15302812
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2004 Nov-Dec;141(3):58
+     </refsource>
+     <pmid version="1">
+      15518442
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Angioplasty, Balloon, Coronary
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Coronary Disease
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      radionuclide imaging
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Disease-Free Survival
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Exercise Test
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Exercise Therapy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heart Catheterization
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hospitalization
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Organophosphorus Compounds
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnostic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Organotechnetium Compounds
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnostic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Oxygen Consumption
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Radiopharmaceuticals
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnostic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="aheadofprint">
+     <year>
+      2004
+     </year>
+     <month>
+      Mar
+     </month>
+     <day>
+      8
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     15007010
+    </articleid>
+    <articleid idtype="doi">
+     10.1161/01.CIR.0000121360.31954.1F
+    </articleid>
+    <articleid idtype="pii">
+     01.CIR.0000121360.31954.1F
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

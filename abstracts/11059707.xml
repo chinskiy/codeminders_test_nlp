@@ -1,0 +1,400 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11059707
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     06
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     31
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0196-0202
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       21
+      </volume>
+      <issue>
+       5
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+       <month>
+        Oct
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Ear and hearing
+     </title>
+     <isoabbreviation>
+      Ear Hear
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Identification of neonatal hearing impairment: evaluation of transient evoked otoacoustic emission, distortion product otoacoustic emission, and auditory brain stem response test performance.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      508-28
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      The purpose of this study was to compare the performance of transient evoked otoacoustic emissions (TEOAEs), distortion product otoacoustic emissions (DPOAEs), and auditory brain stem responses (ABRs) as tools for identification of neonatal hearing impairment.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      A total of 4911 infants including 4478 graduates of neonatal intensive care units, 353 well babies with one or more risk factors for hearing loss (Joint Committee on Infant Hearing, 1994) and 80 well babies without risk factor who did not pass one or more neonatal test were targeted as the potential subject pool on which test performance would be assessed. During the neonatal period, they were evaluated using TEOAEs in response to an 80 dB pSPL click, DPOAE responses to two stimulus conditions (L1 = L2 = 75 dB SPL and L1 = 65 dB SPL L2 = 50 dB SPL), and ABR elicited by a 30 dB nHL click. In an effort to describe test performance, these "at-risk" infants were asked to return for behavioral audiologic assessments, using visual reinforcement audiometry (VRA) at 8 to 12 mo corrected age, regardless of neonatal test results. Sixty-four percent of these subjects returned and reliable VRA data were obtained on 95.6% of these returnees. This approach is in contrast to previous studies in which, by necessity, efforts were made to follow only those infants who "failed" the neonatal screening tests. The accuracy of the neonatal measures in predicting hearing status at 8 to 12 mo corrected age was determined. Only those infants who provided reliable, monaural VRA test results were included in the analysis. Separate analyses were performed without regard to intercurrent events (i.e., events between the neonatal and VRA tests that could cause their results to disagree), and then after accounting for the possible influence of intercurrent events such as otitis media and late-onset or progressive hearing loss.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Low refer rates were achieved for the stopping criteria used in the present study, especially when a protocol similar to the one recommended in the National Institutes of Health (1993) Consensus Conference Report was followed. These analyses, however, do not completely describe test performance because they did not compare neonatal screening test results with a gold standard test of hearing. Test performance, as measured by the area under a relative operating characteristic curve, were similar for all three neonatal tests when neonatal test results were compared with VRA data obtained at 8 to 12 mo corrected age. However, ABRs were more successful at determining auditory status at 1 kHz, compared with the otoacoustic emission (OAE) tests. Performance was more similar across all three tests when they were used to identify hearing loss at 2 and 4 kHz. No test performed perfectly. Using either the two- or three-frequency pure-tone average (PTA), with a fixed false alarm rate of 20%, hit rates for the neonatal tests, in general, exceeded 80% when hearing impairment was defined as behavioral thresholds &gt; or =30 dB HL. All three tests performed similarly when a two-frequency (2 and 4 kHz) PTA was used as the gold standard; OAE test performance decreased when a three-frequency PTA (adding 1 kHz) was used as the gold standard definition. For both PTA and all three neonatal screening measures, however, hit rate increased as the magnitude of hearing loss increased.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Singly, all three neonatal hearing screening tests resulted in low refer rates, especially if referrals for follow-up were made only for the cases in which stopping criteria were not met in both ears. Following a protocol similar to that recommended in the National Institutes of Health (1993) Consensus Conference report resulted in refer rates that were less than 4%. TEOAEs at 80 dB pSPL, DPOAE at L1 = 65, L2 = 50 dB SPL and ABR at 30 dB nHL measured during the neonatal period, and as implemented in the current study, performed similarly at predicting behavioral hearing status at 8 to 12
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Multi-Center Consortium on Identification of Neonatal Hearing Impairment, Seattle, Washington, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Norton
+      </lastname>
+      <forename>
+       S J
+      </forename>
+      <initials>
+       SJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gorga
+      </lastname>
+      <forename>
+       M P
+      </forename>
+      <initials>
+       MP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Widen
+      </lastname>
+      <forename>
+       J E
+      </forename>
+      <initials>
+       JE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Folsom
+      </lastname>
+      <forename>
+       R C
+      </forename>
+      <initials>
+       RC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sininger
+      </lastname>
+      <forename>
+       Y
+      </forename>
+      <initials>
+       Y
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cone-Wesson
+      </lastname>
+      <forename>
+       B
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Vohr
+      </lastname>
+      <forename>
+       B R
+      </forename>
+      <initials>
+       BR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Mascher
+      </lastname>
+      <forename>
+       K
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Fletcher
+      </lastname>
+      <forename>
+       K
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       DC01958
+      </grantid>
+      <acronym>
+       DC
+      </acronym>
+      <agency>
+       NIDCD NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       R10-001958
+      </grantid>
+      <agency>
+       PHS HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Ear Hear
+    </medlineta>
+    <nlmuniqueid>
+     8005585
+    </nlmuniqueid>
+    <issnlinking>
+     0196-0202
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Acoustic Stimulation
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Audiometry, Pure-Tone
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cochlea
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      physiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Evoked Potentials, Auditory, Brain Stem
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      physiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hearing Disorders
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant, Newborn
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Neonatal Screening
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Otoacoustic Emissions, Spontaneous
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      physiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Photic Stimulation
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Reinforcement (Psychology)
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      4
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      2
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      4
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11059707
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

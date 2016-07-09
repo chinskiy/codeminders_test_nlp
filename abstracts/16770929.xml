@@ -1,0 +1,271 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    16770929
+   </pmid>
+   <datecreated>
+    <year>
+     2006
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     14
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2006
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     06
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0002-838X
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       73
+      </volume>
+      <issue>
+       11
+      </issue>
+      <pubdate>
+       <year>
+        2006
+       </year>
+       <month>
+        Jun
+       </month>
+       <day>
+        1
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      American family physician
+     </title>
+     <isoabbreviation>
+      Am Fam Physician
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Peripheral vascular disease: diagnosis and treatment.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1971-6
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Peripheral vascular disease is a manifestation of systemic atherosclerosis that leads to significant narrowing of arteries distal to the arch of the aorta. The most common symptom of peripheral vascular disease is intermittent claudication. At other times, peripheral vascular disease leads to acute or critical limb ischemia. Intermittent claudication manifests as pain in the muscles of the legs with exercise; it is experienced by 2 percent of persons older than 65 years. Physical findings include abnormal pedal pulses, femoral artery bruit, delayed venous filling time, cool skin, and abnormal skin color. Most patients present with subtle findings and lack classic symptoms, which makes the diagnosis difficult. The standard office-based test to determine the presence of peripheral vascular disease is calculation of the ankle-brachial index. Magnetic resonance arteriography, duplex scanning, and hemodynamic localization are noninvasive methods for lesion localization and may be helpful when symptoms or findings do not correlate with the ankle-brachial index. Contrast arteriography is used for definitive localization before intervention. Treatment is divided into lifestyle, medical, and surgical therapies. Lifestyle therapies focus on exercise, smoking cessation, and dietary modification. Medical therapy is directed at reducing platelet aggregation. In addition, patients with contributing disorders such as hypertension, diabetes, and hyperlipidemia need to have these conditions managed as aggressively as possible. Surgical therapies include stents, arterectomies, angioplasty, and bypass surgery.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Cox Family Practice Residency, Springfield, Missouri. USA. daniel.sontheimer@coxhealth.com
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Sontheimer
+      </lastname>
+      <forename>
+       Daniel L
+      </forename>
+      <initials>
+       DL
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Am Fam Physician
+    </medlineta>
+    <nlmuniqueid>
+     1272646
+    </nlmuniqueid>
+    <issnlinking>
+     0002-838X
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Am Fam Physician. 2007 Jan 15;75(2):168, 170
+     </refsource>
+     <pmid version="1">
+      17265570
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Constriction, Pathologic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diagnosis, Differential
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Intermittent Claudication
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Peripheral Vascular Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Physical Examination
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    30
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2006
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      15
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2006
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      11
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2006
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      15
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     16770929
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

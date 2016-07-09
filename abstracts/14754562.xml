@@ -1,0 +1,434 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    14754562
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     02
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     11
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      1366-5278
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       8
+      </volume>
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Feb
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Health technology assessment (Winchester, England)
+     </title>
+     <isoabbreviation>
+      Health Technol Assess
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Systematic review and modelling of the investigation of acute and chronic chest pain presenting in primary care.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      iii, 1-158
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To ascertain the value of a range of methods - including clinical features, resting and exercise electrocardiography, and rapid access chest pain clinics (RACPCs) - used in the diagnosis and early management of acute coronary syndrome (ACS), suspected acute myocardial infarction (MI), and exertional angina.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      MEDLINE, EMBASE, CINAHL, the Cochrane Library and electronic abstracts of recent cardiological conferences.
+     </abstracttext>
+     <abstracttext label="REVIEW METHODS" nlmcategory="METHODS">
+      Searches identified studies that considered patients with acute chest pain with data on the diagnostic value of clinical features or an electrocardiogram (ECG); patients with chronic chest pain with data on the diagnostic value of resting or exercise ECG or the effect of a RACPC. Likelihood ratios (LRs) were calculated for each study, and pooled LRs were generated with 95% confidence intervals. A Monte Carlo simulation was performed evaluating different assessment strategies for suspected ACS, and a discrete event simulation evaluated models for the assessment of suspected exertional angina.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      For acute chest pain, no clinical features in isolation were useful in ruling in or excluding an ACS, although the most helpful clinical features were pleuritic pain (LR+ 0.19) and pain on palpation (LR+ 0.23). ST elevation was the most effective ECG feature for determining MI (with LR+ 13.1) and a completely normal ECG was reasonably useful at ruling this out (LR+ 0.14). Results from 'black box' studies of clinical interpretation of ECGs found very high specificity, but low sensitivity. In the simulation exercise of management strategies for suspected ACS, the point of care testing with troponins was cost-effective. Pre-hospital thrombolysis on the basis of ambulance telemetry was more effective but more costly than if performed in hospital. In cases of chronic chest pain, resting ECG features were not found to be very useful (presence of Q-waves had LR+ 2.56). For an exercise ECG, ST depression performed only moderately well (LR+ 2.79 for a 1 mm cutoff), although this did improve for a 2 mm cutoff (LR+ 3.85). Other methods of interpreting the exercise ECG did not result in dramatic improvements in these results. Weak evidence was found to suggest that RACPCs may be associated with reduced admission to hospital of patients with non-cardiac pain, better recognition of ACS, earlier specialist assessment of exertional angina and earlier diagnosis of non-cardiac chest pain. In a simulation exercise of models of care for investigation of suspected exertional angina, RACPCs were predicted to result in earlier diagnosis of both confirmed coronary heart disease (CHD) and non-cardiac chest pain than models of care based around open access exercise tests or routine cardiology outpatients, but they were more expensive. The benefits of RACPCs disappeared if waiting times for further investigation (e.g. angiography) were long (6 months).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Where an ACS is suspected, emergency referral is justified. ECG interpretation in acute chest pain can be highly specific for diagnosing MI. Point of care testing with troponins is cost-effective in the triaging of patients with suspected ACS. Resting ECG and exercise ECG are of only limited value in the diagnosis of CHD. The potential advantages of RACPCs are lost if there are long waiting times for further investigation. Recommendations for further research include the following: determining the most appropriate model of care to ensure accurate triaging of patients with suspected ACS; establishing the cost-effectiveness of pre-hospital thrombolysis in rural areas; determining the relative cost-effectiveness of rapid access chest pain clinics compared with other innovative models of care; investigating how rapid access chest pain clinics should be managed; and establishing the long-term outcome of patients discharged from RACPCs.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Primary Care and General Practice, University of Birmingham, UK.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Mant
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McManus
+      </lastname>
+      <forename>
+       R J
+      </forename>
+      <initials>
+       RJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Oakes
+      </lastname>
+      <forename>
+       R A L
+      </forename>
+      <initials>
+       RA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Delaney
+      </lastname>
+      <forename>
+       B C
+      </forename>
+      <initials>
+       BC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Barton
+      </lastname>
+      <forename>
+       P M
+      </forename>
+      <initials>
+       PM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Deeks
+      </lastname>
+      <forename>
+       J J
+      </forename>
+      <initials>
+       JJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hammersley
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Davies
+      </lastname>
+      <forename>
+       R C
+      </forename>
+      <initials>
+       RC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Davies
+      </lastname>
+      <forename>
+       M K
+      </forename>
+      <initials>
+       MK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hobbs
+      </lastname>
+      <forename>
+       F D R
+      </forename>
+      <initials>
+       FD
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Health Technol Assess
+    </medlineta>
+    <nlmuniqueid>
+     9706284
+    </nlmuniqueid>
+    <issnlinking>
+     1366-5278
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Fibrinolytic Agents
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Acute Disease
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Biomedical Technology
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Chest Pain
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Coronary Disease
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diagnosis, Differential
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Electrocardiography
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Exercise Test
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fibrinolytic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Monte Carlo Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Myocardial Infarction
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Primary Health Care
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Reference Standards
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    244
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      12
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     14754562
+    </articleid>
+    <articleid idtype="pii">
+     97-12-01
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

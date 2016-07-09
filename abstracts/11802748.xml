@@ -1,0 +1,547 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11802748
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     22
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     12
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0003-9926
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       162
+      </volume>
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Jan
+       </month>
+       <day>
+        28
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Archives of internal medicine
+     </title>
+     <isoabbreviation>
+      Arch. Intern. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Clinical outcome and influencing factors of a new short-term quadruple therapy for Helicobacter pylori eradication: a randomized controlled trial (MACLOR study).
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      153-60
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Short-term therapies for eradicating Helicobacter pylori in selected patients might offer advantages in terms of costs, compliance, and adverse effects in contrast to standard 1-week triple therapy.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      To determine eradication success and influencing factors in a new short-term quadruple therapy, a total of 243 patients positive for H pylori were randomly assigned to 1 of 3 regimens according to age, smoking status, and diagnosis: a 5-day treatment with 3 antibiotics (amoxicillin, 1 g twice daily [bid]; clarithromycin, 250 mg bid; and metronidazole, 400 mg bid) and lansoprazole (30 mg bid [L5; reference treatment]) or ranitidine hydrochloride (300 mg bid [R5]), or the same 3-day antibiotic-lansoprazole combination (L3) with a 2-day pretreatment with lansoprazole.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      A total of 234 patients completed the study. On an intention-to-treat basis, overall eradication of H pylori was confirmed in 86.4%: 89.2% in the L5 group vs 81.2% in the L3 group vs 88.8% in the R5 group; differences were not significant. Multiple logistic regression analysis showed that younger age (&lt;55 years; P =.03), history of peptic ulcer disease (P =.04), smoking (P =.03), metronidazole resistance (P =.003), low ranitidine trough serum concentrations (P =.005), cytotoxin-associated gene A-negative strains in peptic ulcer disease (P =.04), and outer inflammatory protein A-positive strains (P =.02) were associated with eradication failure.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      This new quadruple H pylori eradication regimen is efficacious, safe, well tolerated, and cost saving, and may be a treatment option for patients older than 55 years with no history of peptic ulcer disease. Furthermore, strains that are sensitive to all antibiotics, cytotoxin-associated gene A-positive, and outer inflammatory protein A-negative could be suitable for short-term quadruple therapy. Patients with an unfavorable combination of characteristics should be treated for a minimum of 7 days.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Gastroenterology/Hepatology, University Hospital of Magdeburg, Leipziger Str 44, D-39120 Magdeburg, Germany. gerhard.treiber@medizin.uni-magdeburg.de
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Treiber
+      </lastname>
+      <forename>
+       Gerhard
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wittig
+      </lastname>
+      <forename>
+       Joachim
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ammon
+      </lastname>
+      <forename>
+       Susanne
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Walker
+      </lastname>
+      <forename>
+       Siegfried
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       van Doorn
+      </lastname>
+      <forename>
+       Leen-Jan
+      </forename>
+      <initials>
+       LJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Klotz
+      </lastname>
+      <forename>
+       Ulrich
+      </forename>
+      <initials>
+       U
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Arch Intern Med
+    </medlineta>
+    <nlmuniqueid>
+     0372440
+    </nlmuniqueid>
+    <issnlinking>
+     0003-9926
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      2-Pyridinylmethylsulfinylbenzimidazoles
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Bacterial Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Ulcer Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Enzyme Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Histamine H2 Antagonists
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      103577-45-3
+     </registrynumber>
+     <nameofsubstance>
+      lansoprazole
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      26787-78-0
+     </registrynumber>
+     <nameofsubstance>
+      Amoxicillin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      443-48-1
+     </registrynumber>
+     <nameofsubstance>
+      Metronidazole
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      66357-35-5
+     </registrynumber>
+     <nameofsubstance>
+      Ranitidine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      73590-58-6
+     </registrynumber>
+     <nameofsubstance>
+      Omeprazole
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      81103-11-9
+     </registrynumber>
+     <nameofsubstance>
+      Clarithromycin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      EC 3.6.1.10
+     </registrynumber>
+     <nameofsubstance>
+      H(+)-K(+)-Exchanging ATPase
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      2-Pyridinylmethylsulfinylbenzimidazoles
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Amoxicillin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Bacterial Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Ulcer Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Clarithromycin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Therapy, Combination
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Enzyme Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Gastritis
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      microbiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      H(+)-K(+)-Exchanging ATPase
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      antagonists &amp; inhibitors
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Helicobacter Infections
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Helicobacter pylori
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Histamine H2 Antagonists
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Metronidazole
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Omeprazole
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      analogs &amp; derivatives
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Peptic Ulcer
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      microbiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ranitidine
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Regression Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11802748
+    </articleid>
+    <articleid idtype="pii">
+     ioi10085
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

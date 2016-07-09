@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    7995318
+   </pmid>
+   <datecreated>
+    <year>
+     1995
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     13
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1995
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     13
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0031-6970
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       46
+      </volume>
+      <issue>
+       6
+      </issue>
+      <pubdate>
+       <year>
+        1994
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      European journal of clinical pharmacology
+     </title>
+     <isoabbreviation>
+      Eur. J. Clin. Pharmacol.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     The effectiveness of topically applied capsaicin. A meta-analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      517-22
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      To undertake a quantitative overview of trials of topical capsaicin for the treatment of diabetic neuropathy, osteoarthritis, post-herpetic neuralgia, and psoriasis. A systematic search of the literature using both computerized and manual methods for identifying clinical trials of capsaicin. The trials identified were abstracted for response data, which then were analysed using established meta-analytic methods for both fixed and random effects modelling. The odds ratio of the response rate of subjects receiving topical capsaicin relative to that of subjects on placebo was used as the main outcome measure. The difference in the response rate was used as the response variable under the random effects model. When dropouts were mentioned and unambiguous assignment could not be made, the analysis was made on the basis of intention to treat. Capsaicin cream give more pain relief to patients with diabetic neuropathy than placebo did. The odds ratio (OR) and corresponding 95% confidence interval (95% CI) in favour of capsaicin cream were OR = 2.74 (95% CI = 1.73, 4.32). Using a random effect model the rate difference (RD) in favour of capsaicin cream was RD = 0.25 (95% CI = 0.15, 0.35). Capsaicin cream was also better than placebo in providing pain relief in osteoarthritis: OR = 4.36 (95% CI = 2.77, 6.88) and RD = 0.29 (95% CI = 0.20, 0.37) and in psoriasis: OR = 2.80 (95% CI = 1.69, 4.62) and RD = 0.35 (95% CI = 0.14, 0.56). There was, however, evidence of heterogeneity in the individual RDs in psoriasis, and complete binding was difficulty because of the initial discomfort associated with topical capsaicin.(ABSTRACT TRUNCATED AT 250 WORDS)
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Pharmacoepidemiology Section, School of Pharmacy, The Queen's University of Belfast, UK.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Zhang
+      </lastname>
+      <forename>
+       W Y
+      </forename>
+      <initials>
+       WY
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Li Wan Po
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     GERMANY
+    </country>
+    <medlineta>
+     Eur J Clin Pharmacol
+    </medlineta>
+    <nlmuniqueid>
+     1256165
+    </nlmuniqueid>
+    <issnlinking>
+     0031-6970
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      404-86-4
+     </registrynumber>
+     <nameofsubstance>
+      Capsaicin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Administration, Topical
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Capsaicin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetic Neuropathies
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Osteoarthritis
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pain
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Psoriasis
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1994
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1994
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1994
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     7995318
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

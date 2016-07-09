@@ -1,0 +1,512 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10357690
+   </pmid>
+   <datecreated>
+    <year>
+     1999
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     28
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1999
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     28
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0003-4819
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       130
+      </volume>
+      <issue>
+       9
+      </issue>
+      <pubdate>
+       <year>
+        1999
+       </year>
+       <month>
+        May
+       </month>
+       <day>
+        4
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Annals of internal medicine
+     </title>
+     <isoabbreviation>
+      Ann. Intern. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Cost-effectiveness of alternative test strategies for the diagnosis of coronary artery disease.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      719-28
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      The appropriate roles for several diagnostic tests for coronary disease are uncertain.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To evaluate the cost-effectiveness of alternative approaches to diagnosis of coronary disease.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Meta-analysis of the accuracy of alternative diagnostic tests plus decision analysis to assess the health outcomes and costs of alternative diagnostic strategies for patients at intermediate pretest risk for coronary disease.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      Studies of test accuracy that met inclusion criteria; published information on treatment effectiveness and disease prevalence.
+     </abstracttext>
+     <abstracttext label="TARGET POPULATION" nlmcategory="METHODS">
+      Men and women 45, 55, and 65 years of age with a 25% to 75% pretest risk for coronary disease.
+     </abstracttext>
+     <abstracttext label="TIME HORIZON" nlmcategory="METHODS">
+      30 years.
+     </abstracttext>
+     <abstracttext label="PERSPECTIVE" nlmcategory="CONCLUSIONS">
+      Societal.
+     </abstracttext>
+     <abstracttext label="INTERVENTIONS" nlmcategory="METHODS">
+      Diagnostic strategies were initial angiography and initial testing with one of five noninvasive tests--exercise treadmill testing, planar thallium imaging, single-photon emission computed tomography (SPECT), stress echocardiography, and positron emission tomography (PET)--followed by coronary angiography if noninvasive test results were positive. Testing was followed by observation, medical treatment, or revascularization.
+     </abstracttext>
+     <abstracttext label="OUTCOME MEASURES" nlmcategory="METHODS">
+      Life-years, quality-adjusted life-years (QALYs), costs, and costs per QALY.
+     </abstracttext>
+     <abstracttext label="RESULTS OF BASE-CASE ANALYSIS" nlmcategory="RESULTS">
+      Life expectancy varied little with the initial diagnostic test; for a 55-year-old man, the best-performing test increased life expectancy by 7 more days than the worst-performing test. More sensitive tests increased QALYs more. Echocardiography improved health outcomes and reduced costs relative to stress testing and planar thallium imaging. The incremental cost-effectiveness ratio was $75,000/QALY for SPECT relative to echocardiography and was greater than $640,000 for PET relative to SPECT. Compared with SPECT, immediate angiography had an incremental cost-effectiveness ratio of $94,000/QALY.
+     </abstracttext>
+     <abstracttext label="RESULTS OF SENSITIVITY ANALYSIS" nlmcategory="RESULTS">
+      Qualitative findings varied little with age, sex, pretest probability of disease, or the test indeterminancy rate. Results varied most with sensitivity to severe coronary disease.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Echocardiography, SPECT, and immediate angiography are cost-effective alternatives to PET and other diagnostic approaches. Test selection should reflect local variation in test accuracy.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Veterans Affairs Palo Alto Health Care System, and Stanford University, California 94305-8006, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Garber
+      </lastname>
+      <forename>
+       A M
+      </forename>
+      <initials>
+       AM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Solomon
+      </lastname>
+      <forename>
+       N A
+      </forename>
+      <initials>
+       NA
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, Non-P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Ann Intern Med
+    </medlineta>
+    <nlmuniqueid>
+     0372351
+    </nlmuniqueid>
+    <issnlinking>
+     0003-4819
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cardiotonic Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Thallium Radioisotopes
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Vasodilator Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      109581-73-9
+     </registrynumber>
+     <nameofsubstance>
+      Technetium Tc 99m Sestamibi
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      34368-04-2
+     </registrynumber>
+     <nameofsubstance>
+      Dobutamine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      58-32-2
+     </registrynumber>
+     <nameofsubstance>
+      Dipyridamole
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Ann Intern Med. 1999 Dec 21;131(12):980
+     </refsource>
+     <pmid version="1">
+      10610656
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 1999 Sep-Oct;131(2):50
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cardiotonic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnostic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Coronary Angiography
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      economics
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Coronary Disease
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      radionuclide imaging
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      ultrasonography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cost-Benefit Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Decision Support Techniques
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dipyridamole
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnostic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dobutamine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnostic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Echocardiography
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Electrocardiography
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Exercise Test
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Health Care Costs
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Life Expectancy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Outcome Assessment (Health Care)
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Quality-Adjusted Life Years
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Radionuclide Imaging
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Technetium Tc 99m Sestamibi
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnostic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Thallium Radioisotopes
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnostic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tomography, Emission-Computed, Single-Photon
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      economics
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tomography, X-Ray Computed
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      economics
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vasodilator Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnostic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1999
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2000
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1999
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10357690
+    </articleid>
+    <articleid idtype="pii">
+     199905040-00003
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

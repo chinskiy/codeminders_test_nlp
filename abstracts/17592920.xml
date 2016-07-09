@@ -1,0 +1,283 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    17592920
+   </pmid>
+   <datecreated>
+    <year>
+     2007
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     26
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2007
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     19
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1555-2101
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       68
+      </volume>
+      <issue>
+       6
+      </issue>
+      <pubdate>
+       <year>
+        2007
+       </year>
+       <month>
+        Jun
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The Journal of clinical psychiatry
+     </title>
+     <isoabbreviation>
+      J Clin Psychiatry
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Acceleration and augmentation of antidepressants with lithium for depressive disorders: two meta-analyses of randomized, placebo-controlled trials.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      935-40
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      The delayed onset of therapeutic response and the high number of nonresponders to antidepressants remain major clinical problems in depressive disorders. Among the strategies to overcome both dilemmas, the additional treatment with lithium has been suggested as a viable method. The authors determined in 2 separate meta-analyses the efficacy of lithium in accelerating and in augmenting clinical response in patients with depression. STUDY SELECTION AND DATA SOURCES: Two meta-analyses of randomized, double-blind, placebo-controlled trials including subjects with unipolar or bipolar disorder, depressive phase, assessed the concomitant administration of lithium and antidepressant to accelerate or augment clinical response in the acute treatment phase of depression. Data were obtained from searching the following databases: MEDLINE (1966 to July 2006), EMBASE (1989 to July 2006), and The Cochrane Central Register of Controlled Trials (The Cochrane Library 2006, Issue 3). For the accelerating meta-analysis, subject headings including depressive disorder, bipolar disorder, antidepressive agents, and lithium and text words such as depress*, lithium, and antidepress* were used. For the augmentation meta-analysis, subject headings included depressive disorder, bipolar disorder, anti-depressive agents, lithium, drug therapy, and combination, and text words included augment*, refract*, and resistant. Outcomes investigated included response rates and depression scale rates.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      Five acceleration studies (231 participants) adding lithium to tricyclics and tetracyclics and 10 augmentation studies (269 participants) adding lithium to various antidepressants including selective serotonin reuptake inhibitors were incorporated. In the acceleration meta-analysis, a statistical trend in favor of lithium was found (standardized mean difference of -0.43, 95% CI = -0.93 to 0.07). In the augmentation meta-analysis, lithium was significantly more effective than placebo (odds ratio = 3.11, 95% CI = 1.80 to 5.37).
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      There is firm evidence for lithium as an effective augmentation strategy but only modest evidence for lithium to accelerate response to antidepressants in patients with depressive disorders.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Psychiatry and Psychotherapy, Charité University Medicine Berlin, Campus Charité Mitte, Berlin, Germany.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Crossley
+      </lastname>
+      <forename>
+       Nicolas Andres
+      </forename>
+      <initials>
+       NA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bauer
+      </lastname>
+      <forename>
+       Michael
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     J Clin Psychiatry
+    </medlineta>
+    <nlmuniqueid>
+     7801243
+    </nlmuniqueid>
+    <issnlinking>
+     0160-6689
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antidepressive Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      554-13-2
+     </registrynumber>
+     <nameofsubstance>
+      Lithium Carbonate
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antidepressive Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Depressive Disorder
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Interactions
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Therapy, Combination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lithium Carbonate
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2007
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      27
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2007
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2007
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      27
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     17592920
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,434 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12612275
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     03
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     02
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1098-4275
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       111
+      </volume>
+      <issue>
+       3
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Mar
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Pediatrics
+     </title>
+     <isoabbreviation>
+      Pediatrics
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Maternal gestational diabetes, birth weight, and adolescent obesity.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      e221-6
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      Obesity increases risk of many adverse outcomes, but its early origins are obscure. Gestational diabetes mellitus (GDM) reflects a metabolically altered fetal environment associated with high birth weight, itself associated with later obesity. Previous studies of GDM and offspring obesity, however, have been few and conflicting. The objectives of this study were to examine associations of birth weight and GDM with adolescent body mass index (BMI) and to determine the extent to which the effect of GDM is explained by its influence on birth weight or by maternal adiposity.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We conducted a survey of 7981 girls and 6900 boys, 9 to 14 years of age, who are participants in the Growing Up Today Study, a US nationwide study of diet, activity, and growth. In 1996, participants reported height, weight, diet, activity, and other variables by self-administered mailed questionnaire. We linked these data with information reported by their mothers, participants in the Nurses' Health Study II, including GDM, height, current weight, and child's birth weight. We excluded births &lt;34 weeks' gestation and mothers who had preexisting diabetes. We defined overweight as BMI (kg/m(2)) &gt;95th percentile, and at risk for overweight as 85th to 95th percentile, for age and gender from US national data.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Mean birth weight was 3.4 kg for girls and 3.6 kg for boys. Among the 465 subjects whose mothers had GDM, 17.1% were at risk for overweight and 9.7% were overweight in early adolescence. In the group without maternal diabetes, these estimates were 14.2% and 6.6%, respectively. In multiple logistic regression analysis, controlling for age, gender, and Tanner stage, the odds ratio for adolescent overweight for each 1-kg increment in birth weight was 1.4 (95% confidence interval: 1.2-1.6). Adjustment for physical activity, television watching, energy intake, breastfeeding duration, mother's BMI, and other maternal and family variables reduced the estimate to 1.3 (1.1-1.5). For offspring of mothers with GDM versus no diabetes, the odds ratio for adolescent overweight was 1.4 (1.1-2.0), which was unchanged after controlling for energy balance and socioeconomic factors. Adjustment for birth weight slightly attenuated the estimate (1.3; 0.9-1.9); adjustment for maternal BMI reduced the odds ratio to 1.2 (0.8-1.7).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Higher birth weight predicted increased risk of overweight in adolescence. Having been born to a mother with GDM was also associated with increased adolescent overweight. However, the effect of GDM on offspring obesity seemed only partially explained by its influence on birth weight, and adjustment for mother's own BMI attenuated the GDM associations. Our results only modestly support a causal role of altered maternal-fetal glucose metabolism in the genesis of obesity in the offspring. Alternatively, GDM may program risk for a postnatal insult leading to obesity, or it may merely be a risk marker, not in the causal pathway.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Ambulatory Care and Prevention, Harvard Medical School/Harvard Pilgrim Health Care, Boston, Massachusetts, USA. matthew_gillman@hms.harvard.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Gillman
+      </lastname>
+      <forename>
+       Matthew W
+      </forename>
+      <initials>
+       MW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rifas-Shiman
+      </lastname>
+      <forename>
+       Sheryl
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Berkey
+      </lastname>
+      <forename>
+       Catherine S
+      </forename>
+      <initials>
+       CS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Field
+      </lastname>
+      <forename>
+       Alison E
+      </forename>
+      <initials>
+       AE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Colditz
+      </lastname>
+      <forename>
+       Graham A
+      </forename>
+      <initials>
+       GA
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       DK 46200
+      </grantid>
+      <acronym>
+       DK
+      </acronym>
+      <agency>
+       NIDDK NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       K24 HL 68041
+      </grantid>
+      <acronym>
+       HL
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       R01 DK 46834
+      </grantid>
+      <acronym>
+       DK
+      </acronym>
+      <agency>
+       NIDDK NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Pediatrics
+    </medlineta>
+    <nlmuniqueid>
+     0376422
+    </nlmuniqueid>
+    <issnlinking>
+     0031-4005
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Blood Glucose
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Age Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Birth Weight
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Glucose
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      metabolism
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Body Mass Index
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetes, Gestational
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Embryonic and Fetal Development
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      physiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Logistic Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Maternal-Fetal Exchange
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Obesity
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Odds Ratio
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pregnancy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sex Factors
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      4
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      4
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12612275
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

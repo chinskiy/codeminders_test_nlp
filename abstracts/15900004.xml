@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15900004
+   </pmid>
+   <datecreated>
+    <year>
+     2005
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     18
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     23
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2008
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     21
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1538-3598
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       293
+      </volume>
+      <issue>
+       19
+      </issue>
+      <pubdate>
+       <year>
+        2005
+       </year>
+       <month>
+        May
+       </month>
+       <day>
+        18
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Risk of celiac disease autoimmunity and timing of gluten introduction in the diet of infants at increased risk of disease.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      2343-51
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      While gluten ingestion is responsible for the signs and symptoms of celiac disease, it is not known what factors are associated with initial appearance of the disease.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To examine whether the timing of gluten exposure in the infant diet was associated with the development of celiac disease autoimmunity (CDA).
+     </abstracttext>
+     <abstracttext label="DESIGN, SETTING, AND PATIENTS" nlmcategory="METHODS">
+      Prospective observational study conducted in Denver, Colo, from 1994-2004 of 1560 children at increased risk for celiac disease or type 1 diabetes, as defined by possession of either HLA-DR3 or DR4 alleles, or having a first-degree relative with type 1 diabetes. The mean follow-up was 4.8 years.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURE" nlmcategory="METHODS">
+      Risk of CDA defined as being positive for tissue transglutaminase (tTG) autoantibody on 2 or more consecutive visits or being positive for tTG once and having a positive small bowel biopsy for celiac disease, by timing of introduction of gluten-containing foods into the diet.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Fifty-one children developed CDA. Findings adjusted for HLA-DR3 status indicated that children exposed to foods containing wheat, barley, or rye (gluten-containing foods) in the first 3 months of life (3 [6%] CDA positive vs 40 [3%] CDA negative) had a 5-fold increased risk of CDA compared with children exposed to gluten-containing foods at 4 to 6 months (12 [23%] CDA positive vs 574 [38%] CDA negative) (hazard ratio [HR], 5.17; 95% confidence interval [CI], 1.44-18.57). Children not exposed to gluten until the seventh month or later (36 [71%] CDA positive vs 895 [59%] CDA negative) had a marginally increased risk of CDA compared with those exposed at 4 to 6 months (HR, 1.87; 95% CI, 0.97-3.60). After restricting our case group to only the 25 CDA-positive children who had biopsy-diagnosed celiac disease, initial exposure to wheat, barley, or rye in the first 3 months (3 [12%] CDA positive vs 40 [3%] CDA negative) or in the seventh month or later (19 [76%] CDA positive vs 912 [59%] CDA negative) significantly increased risk of CDA compared with exposure at 4 to 6 months (3 [12%] CDA positive vs 583 [38%] CDA negative) (HR, 22.97; 95% CI, 4.55-115.93; P = .001; and HR, 3.98; 95% CI, 1.18-13.46; P = .04, respectively).
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Timing of introduction of gluten into the infant diet is associated with the appearance of CDA in children at increased risk for the disease.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Preventive Medicine and Biometrics, University of Colorado at Denver and Health Sciences Center, Denver, CO 80262, USA. jill.norris@uchsc.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Norris
+      </lastname>
+      <forename>
+       Jill M
+      </forename>
+      <initials>
+       JM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Barriga
+      </lastname>
+      <forename>
+       Katherine
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hoffenberg
+      </lastname>
+      <forename>
+       Edward J
+      </forename>
+      <initials>
+       EJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Taki
+      </lastname>
+      <forename>
+       Iman
+      </forename>
+      <initials>
+       I
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Miao
+      </lastname>
+      <forename>
+       Dongmei
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Haas
+      </lastname>
+      <forename>
+       Joel E
+      </forename>
+      <initials>
+       JE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Emery
+      </lastname>
+      <forename>
+       Lisa M
+      </forename>
+      <initials>
+       LM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sokol
+      </lastname>
+      <forename>
+       Ronald J
+      </forename>
+      <initials>
+       RJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Erlich
+      </lastname>
+      <forename>
+       Henry A
+      </forename>
+      <initials>
+       HA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Eisenbarth
+      </lastname>
+      <forename>
+       George S
+      </forename>
+      <initials>
+       GS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rewers
+      </lastname>
+      <forename>
+       Marian
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       AI 50864
+      </grantid>
+      <acronym>
+       AI
+      </acronym>
+      <agency>
+       NIAID NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       DK32083
+      </grantid>
+      <acronym>
+       DK
+      </acronym>
+      <agency>
+       NIDDK NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       DK49654
+      </grantid>
+      <acronym>
+       DK
+      </acronym>
+      <agency>
+       NIDDK NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       DK50979
+      </grantid>
+      <acronym>
+       DK
+      </acronym>
+      <agency>
+       NIDDK NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       M01RR00069
+      </grantid>
+      <acronym>
+       RR
+      </acronym>
+      <agency>
+       NCRR NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       P30 DK 57516
+      </grantid>
+      <acronym>
+       DK
+      </acronym>
+      <agency>
+       NIDDK NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       R01-DK32493
+      </grantid>
+      <acronym>
+       DK
+      </acronym>
+      <agency>
+       NIDDK NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Autoantibodies
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      8002-80-0
+     </registrynumber>
+     <nameofsubstance>
+      Glutens
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      EC 2.3.2.13
+     </registrynumber>
+     <nameofsubstance>
+      Transglutaminases
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2005 May 18;293(19):2410-2
+     </refsource>
+     <pmid version="1">
+      15900013
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Autoantibodies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Autoimmunity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Biopsy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Celiac Disease
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      immunology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Cereals
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Diet
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Glutens
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Intestine, Small
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Time Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Transglutaminases
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      immunology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2005
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2005
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     293/19/2343
+    </articleid>
+    <articleid idtype="doi">
+     10.1001/jama.293.19.2343
+    </articleid>
+    <articleid idtype="pubmed">
+     15900004
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

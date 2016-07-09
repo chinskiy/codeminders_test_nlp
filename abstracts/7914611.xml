@@ -1,0 +1,348 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    7914611
+   </pmid>
+   <datecreated>
+    <year>
+     1994
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     15
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1994
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     15
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0140-6736
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       344
+      </volume>
+      <issue>
+       8921
+      </issue>
+      <pubdate>
+       <year>
+        1994
+       </year>
+       <month>
+        Aug
+       </month>
+       <day>
+        20
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Lancet
+     </title>
+     <isoabbreviation>
+      Lancet
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Randomised trial of low-dose amiodarone in severe congestive heart failure. Grupo de Estudio de la Sobrevida en la Insuficiencia Cardiaca en Argentina (GESICA)
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      493-8
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      In severe heart failure many deaths are sudden and are presumed to be due to ventricular arrhythmias. The GESICA trial evaluated the effect of low-dose amiodarone on two-year mortality in patients with severe heart failure. Our prospective multicentre trial included 516 patients on optimal standard treatment for heart failure. Patients were randomised to 300 mg/day amiodarone (260) or to standard treatment (256). Intention-to-treat analysis showed 87 deaths in the amiodarone group (33.5%) compared with 106 in the control group (41.4%) (risk reduction 28%; 95% CI 4%-45%; log rank test p = 0.024). There were reductions in both sudden death (risk reduction 27%; p = 0.16) and death due to progressive heart failure (risk reduction 23%; p = 0.16). Fewer patients in the amiodarone group died or were admitted to hospital due to worsening heart failure (119 versus 149 in the control group; risk reduction 31%; 95% CI 13-46%; p = 0.0024). The decrease in mortality and hospital admission was present in all subgroups examined and independent of the presence of non-sustained ventricular tachycardia. Side-effects were reported in 17 patients (6.1%); amiodarone was withdrawn in 12. Low-dose amiodarone proved to be an effective and reliable treatment, reducing mortality and hospital admission in patients with severe heart failure independently of the presence of complex ventricular arrhythmias.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     GESICA, Capital Federal, Argentina.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Doval
+      </lastname>
+      <forename>
+       H C
+      </forename>
+      <initials>
+       HC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Nul
+      </lastname>
+      <forename>
+       D R
+      </forename>
+      <initials>
+       DR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Grancelli
+      </lastname>
+      <forename>
+       H O
+      </forename>
+      <initials>
+       HO
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Perrone
+      </lastname>
+      <forename>
+       S V
+      </forename>
+      <initials>
+       SV
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bortman
+      </lastname>
+      <forename>
+       G R
+      </forename>
+      <initials>
+       GR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Curiel
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     ENGLAND
+    </country>
+    <medlineta>
+     Lancet
+    </medlineta>
+    <nlmuniqueid>
+     2985213R
+    </nlmuniqueid>
+    <issnlinking>
+     0140-6736
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      1951-25-3
+     </registrynumber>
+     <nameofsubstance>
+      Amiodarone
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 1995 Mar-Apr;122(2):33
+     </refsource>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 1994 Aug 20;344(8921):489-90
+     </refsource>
+     <pmid version="1">
+      7914608
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Amiodarone
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pharmacokinetics
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Death, Sudden, Cardiac
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heart Failure
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1994
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      20
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1994
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1994
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     7914611
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

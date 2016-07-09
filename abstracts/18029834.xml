@@ -1,0 +1,453 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    18029834
+   </pmid>
+   <datecreated>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     21
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     26
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2008
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     07
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1538-3598
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       298
+      </volume>
+      <issue>
+       19
+      </issue>
+      <pubdate>
+       <year>
+        2007
+       </year>
+       <month>
+        Nov
+       </month>
+       <day>
+        21
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Using pedometers to increase physical activity and improve health: a systematic review.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      2296-304
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Without detailed evidence of their effectiveness, pedometers have recently become popular as a tool for motivating physical activity.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To evaluate the association of pedometer use with physical activity and health outcomes among outpatient adults.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      English-language articles from MEDLINE, EMBASE, Sport Discus, PsychINFO, Cochrane Library, Thompson Scientific (formerly known as Thompson ISI), and ERIC (1966-2007); bibliographies of retrieved articles; and conference proceedings.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION" nlmcategory="METHODS">
+      Studies were eligible for inclusion if they reported an assessment of pedometer use among adult outpatients, reported a change in steps per day, and included more than 5 participants. DATA EXTRACTION AND DATA SYNTHESIS: Two investigators independently abstracted data about the intervention; participants; number of steps per day; and presence or absence of obesity, diabetes, hypertension, or hyperlipidemia. Data were pooled using random-effects calculations, and meta-regression was performed.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Our searches identified 2246 citations; 26 studies with a total of 2767 participants met inclusion criteria (8 randomized controlled trials [RCTs] and 18 observational studies). The participants' mean (SD) age was 49 (9) years and 85% were women. The mean intervention duration was 18 weeks. In the RCTs, pedometer users significantly increased their physical activity by 2491 steps per day more than control participants (95% confidence interval [CI], 1098-3885 steps per day, P &lt; .001). Among the observational studies, pedometer users significantly increased their physical activity by 2183 steps per day over baseline (95% CI, 1571-2796 steps per day, P &lt; .0001). Overall, pedometer users increased their physical activity by 26.9% over baseline. An important predictor of increased physical activity was having a step goal such as 10,000 steps per day (P = .001). When data from all studies were combined, pedometer users significantly decreased their body mass index by 0.38 (95% CI, 0.05-0.72; P = .03). This decrease was associated with older age (P = .001) and having a step goal (P = .04). Intervention participants significantly decreased their systolic blood pressure by 3.8 mm Hg (95% CI, 1.7-5.9 mm Hg, P &lt; .001). This decrease was associated with greater baseline systolic blood pressure (P = .009) and change in steps per day (P = .08).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The results suggest that the use of a pedometer is associated with significant increases in physical activity and significant decreases in body mass index and blood pressure. Whether these changes are durable over the long term is undetermined.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Center for Primary Care and Outcomes Research, Stanford University, Stanford, California, USA. dbravata@stanford.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Bravata
+      </lastname>
+      <forename>
+       Dena M
+      </forename>
+      <initials>
+       DM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Smith-Spangler
+      </lastname>
+      <forename>
+       Crystal
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sundaram
+      </lastname>
+      <forename>
+       Vandana
+      </forename>
+      <initials>
+       V
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gienger
+      </lastname>
+      <forename>
+       Allison L
+      </forename>
+      <initials>
+       AL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lin
+      </lastname>
+      <forename>
+       Nancy
+      </forename>
+      <initials>
+       N
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lewis
+      </lastname>
+      <forename>
+       Robyn
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Stave
+      </lastname>
+      <forename>
+       Christopher D
+      </forename>
+      <initials>
+       CD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Olkin
+      </lastname>
+      <forename>
+       Ingram
+      </forename>
+      <initials>
+       I
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sirard
+      </lastname>
+      <forename>
+       John R
+      </forename>
+      <initials>
+       JR
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       AG017253-06
+      </grantid>
+      <acronym>
+       AG
+      </acronym>
+      <agency>
+       NIA NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, N.I.H., Extramural
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, Non-P.H.S.
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Blood Glucose
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Lipids
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      11061-68-0
+     </registrynumber>
+     <nameofsubstance>
+      Insulin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Fam Pract. 2008 Feb;57(2):90-3
+     </refsource>
+     <pmid version="1">
+      18248728
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Evid Based Nurs. 2008 Jul;11(3):75
+     </refsource>
+     <pmid version="1">
+      18583487
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Evid Based Med. 2008 Jun;13(3):72
+     </refsource>
+     <pmid version="1">
+      18515619
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Biomechanics
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      instrumentation
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Glucose
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Pressure
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Body Mass Index
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Exercise
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Health Promotion
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Insulin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lipids
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Walking
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      physiology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    51
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2007
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      22
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2007
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      6
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2007
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      22
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     298/19/2296
+    </articleid>
+    <articleid idtype="doi">
+     10.1001/jama.298.19.2296
+    </articleid>
+    <articleid idtype="pubmed">
+     18029834
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

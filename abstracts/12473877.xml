@@ -1,0 +1,433 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12473877
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     10
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     18
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0263-6352
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       20
+      </volume>
+      <issue>
+       12
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Dec
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of hypertension
+     </title>
+     <isoabbreviation>
+      J. Hypertens.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Risk factors for non-haemorrhagic stroke in patients with coronary heart disease and the effect of lipid-modifying therapy with pravastatin.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      2513-7
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To determine the relative importance of recognised risk factors for non-haemorrhagic stroke, including serum cholesterol and the effect of cholesterol-lowering therapy, on the occurrence of non-haemorrhagic stroke in patients enrolled in the LIPID (Long-term Intervention with Pravastatin in Ischaemic Disease) study.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      The LIPID study was a placebo-controlled, double-blind trial of the efficacy on coronary heart disease mortality of pravastatin therapy over 6 years in 9014 patients with previous acute coronary syndromes and baseline total cholesterol of 4-7 mmol/l. Following identification of patients who had suffered non-haemorrhagic stroke, a pre-specified secondary end point, multivariate Cox regression was used to determine risk in the total population. Time-to-event analysis was used to determine the effect of pravastatin therapy on the rate of non-haemorrhagic stroke.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      There were 388 non-haemorrhagic strokes in 350 patients. Factors conferring risk of future non-haemorrhagic stroke were age, atrial fibrillation, prior stroke, diabetes, hypertension, systolic blood pressure, cigarette smoking, body mass index, male sex and creatinine clearance. Baseline lipids did not predict non-haemorrhagic stroke. Treatment with pravastatin reduced non-haemorrhagic stroke by 23% (P = 0.016) when considered alone, and 21% (P = 0.024) after adjustment for other risk factors.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The study confirmed the variety of risk factors for non-haemorrhagic stroke. From the risk predictors, a simple prognostic index was created for non-haemorrhagic stroke to identify a group of patients at high risk. Treatment with pravastatin resulted in significant additional benefit after allowance for risk factors.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Prince Charles Hospital, Brisbane, Australia. malcolm.west@mailbox.uq.edu.au
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       West
+      </lastname>
+      <forename>
+       Malcolm J
+      </forename>
+      <initials>
+       MJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       White
+      </lastname>
+      <forename>
+       Harvey D
+      </forename>
+      <initials>
+       HD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Simes
+      </lastname>
+      <forename>
+       R John
+      </forename>
+      <initials>
+       RJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kirby
+      </lastname>
+      <forename>
+       Adrienne
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Watson
+      </lastname>
+      <forename>
+       John D
+      </forename>
+      <initials>
+       JD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Anderson
+      </lastname>
+      <forename>
+       Neil E
+      </forename>
+      <initials>
+       NE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hankey
+      </lastname>
+      <forename>
+       Graeme J
+      </forename>
+      <initials>
+       GJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wonders
+      </lastname>
+      <forename>
+       Susan
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hunt
+      </lastname>
+      <forename>
+       David
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tonkin
+      </lastname>
+      <forename>
+       Andrew M
+      </forename>
+      <initials>
+       AM
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     J Hypertens
+    </medlineta>
+    <nlmuniqueid>
+     8306882
+    </nlmuniqueid>
+    <issnlinking>
+     0263-6352
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anticholesteremic Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      81093-37-0
+     </registrynumber>
+     <nameofsubstance>
+      Pravastatin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Hypertens. 2002 Dec;20(12):2359-62
+     </refsource>
+     <pmid version="1">
+      12473858
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anticholesteremic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Pressure
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Coronary Disease
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pravastatin
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prognosis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Stroke
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      11
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      11
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12473877
+    </articleid>
+    <articleid idtype="doi">
+     10.1097/01.hjh.0000042890.24999.00
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

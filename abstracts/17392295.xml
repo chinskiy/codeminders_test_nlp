@@ -1,0 +1,650 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    17392295
+   </pmid>
+   <datecreated>
+    <year>
+     2007
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     26
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2007
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     01
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     19
+    </day>
+   </daterevised>
+   <article pubmodel="Print-Electronic">
+    <journal>
+     <issn issntype="Electronic">
+      1533-4406
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       356
+      </volume>
+      <issue>
+       17
+      </issue>
+      <pubdate>
+       <year>
+        2007
+       </year>
+       <month>
+        Apr
+       </month>
+       <day>
+        26
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Effectiveness of adjunctive antidepressant treatment for bipolar depression.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1711-22
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Episodes of depression are the most frequent cause of disability among patients with bipolar disorder. The effectiveness and safety of standard antidepressant agents for depressive episodes associated with bipolar disorder (bipolar depression) have not been well studied. Our study was designed to determine whether adjunctive antidepressant therapy reduces symptoms of bipolar depression without increasing the risk of mania.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      In this double-blind, placebo-controlled study, we randomly assigned subjects with bipolar depression to receive up to 26 weeks of treatment with a mood stabilizer plus adjunctive antidepressant therapy or a mood stabilizer plus a matching placebo, under conditions generalizable to routine clinical care. A standardized clinical monitoring form adapted from the mood-disorder modules of the Structured Clinical Interview for the Diagnostic and Statistical Manual of Mental Disorders, fourth edition, was used at all follow-up visits. The primary outcome was the percentage of subjects in each treatment group meeting the criterion for a durable recovery (8 consecutive weeks of euthymia). Secondary effectiveness outcomes and rates of treatment-emergent affective switch (a switch to mania or hypomania early in the course of treatment) were also examined.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Forty-two of the 179 subjects (23.5%) receiving a mood stabilizer plus adjunctive antidepressant therapy had a durable recovery, as did 51 of the 187 subjects (27.3%) receiving a mood stabilizer plus a matching placebo (P=0.40). Modest nonsignificant trends favoring the group receiving a mood stabilizer plus placebo were observed across the secondary outcomes. Rates of treatment-emergent affective switch were similar in the two groups.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The use of adjunctive, standard antidepressant medication, as compared with the use of mood stabilizers, was not associated with increased efficacy or with increased risk of treatment-emergent affective switch. Longer-term outcome studies are needed to fully assess the benefits and risks of antidepressant therapy for bipolar disorder. (ClinicalTrials.gov number, NCT00012558 [ClinicalTrials.gov].).
+     </abstracttext>
+     <copyrightinformation>
+      Copyright 2007 Massachusetts Medical Society.
+     </copyrightinformation>
+    </abstract>
+    <affiliation>
+     Bipolar Clinic and Research Program, Massachusetts General Hospital, Harvard Medical School, Boston, MA 02114, USA. gsachs@partners.org
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Sachs
+      </lastname>
+      <forename>
+       Gary S
+      </forename>
+      <initials>
+       GS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Nierenberg
+      </lastname>
+      <forename>
+       Andrew A
+      </forename>
+      <initials>
+       AA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Calabrese
+      </lastname>
+      <forename>
+       Joseph R
+      </forename>
+      <initials>
+       JR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Marangell
+      </lastname>
+      <forename>
+       Lauren B
+      </forename>
+      <initials>
+       LB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wisniewski
+      </lastname>
+      <forename>
+       Stephen R
+      </forename>
+      <initials>
+       SR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gyulai
+      </lastname>
+      <forename>
+       Laszlo
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Friedman
+      </lastname>
+      <forename>
+       Edward S
+      </forename>
+      <initials>
+       ES
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bowden
+      </lastname>
+      <forename>
+       Charles L
+      </forename>
+      <initials>
+       CL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Fossey
+      </lastname>
+      <forename>
+       Mark D
+      </forename>
+      <initials>
+       MD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ostacher
+      </lastname>
+      <forename>
+       Michael J
+      </forename>
+      <initials>
+       MJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ketter
+      </lastname>
+      <forename>
+       Terence A
+      </forename>
+      <initials>
+       TA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Patel
+      </lastname>
+      <forename>
+       Jayendra
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hauser
+      </lastname>
+      <forename>
+       Peter
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rapport
+      </lastname>
+      <forename>
+       Daniel
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Martinez
+      </lastname>
+      <forename>
+       James M
+      </forename>
+      <initials>
+       JM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Allen
+      </lastname>
+      <forename>
+       Michael H
+      </forename>
+      <initials>
+       MH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Miklowitz
+      </lastname>
+      <forename>
+       David J
+      </forename>
+      <initials>
+       DJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Otto
+      </lastname>
+      <forename>
+       Michael W
+      </forename>
+      <initials>
+       MW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dennehy
+      </lastname>
+      <forename>
+       Ellen B
+      </forename>
+      <initials>
+       EB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Thase
+      </lastname>
+      <forename>
+       Michael E
+      </forename>
+      <initials>
+       ME
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <databanklist completeyn="Y">
+     <databank>
+      <databankname>
+       ClinicalTrials.gov
+      </databankname>
+      <accessionnumberlist>
+       <accessionnumber>
+        NCT00012558
+       </accessionnumber>
+      </accessionnumberlist>
+     </databank>
+    </databanklist>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       N01MH80001
+      </grantid>
+      <acronym>
+       MH
+      </acronym>
+      <agency>
+       NIMH NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, N.I.H., Extramural
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2007
+     </year>
+     <month>
+      03
+     </month>
+     <day>
+      28
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antidepressive Agents, Second-Generation
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antimanic Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      34841-39-9
+     </registrynumber>
+     <nameofsubstance>
+      Bupropion
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      61869-08-7
+     </registrynumber>
+     <nameofsubstance>
+      Paroxetine
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Fam Pract. 2007 Aug;56(8):616
+     </refsource>
+     <pmid version="1">
+      17674451
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2007 Aug 9;357(6):614; author reply 615-6
+     </refsource>
+     <pmid version="1">
+      17687139
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2007 Apr 26;356(17):1771-3
+     </refsource>
+     <pmid version="1">
+      17392296
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2007 Aug 9;357(6):615; author reply 615-6
+     </refsource>
+     <pmid version="1">
+      17691128
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Evid Based Ment Health. 2007 Nov;10(4):109
+     </refsource>
+     <pmid version="1">
+      17962655
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2007 Aug 9;357(6):614-5; author reply 615-6
+     </refsource>
+     <pmid version="1">
+      17691129
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antidepressive Agents, Second-Generation
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antimanic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bipolar Disorder
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bupropion
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Therapy, Combination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Paroxetine
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="aheadofprint">
+     <year>
+      2007
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      28
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2007
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      30
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2007
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      2
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2007
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      30
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     NEJMoa064135
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJMoa064135
+    </articleid>
+    <articleid idtype="pubmed">
+     17392295
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

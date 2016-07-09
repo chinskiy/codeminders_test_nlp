@@ -1,0 +1,526 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11136953
+   </pmid>
+   <datecreated>
+    <year>
+     2000
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     20
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     04
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0028-4793
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       344
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Jan
+       </month>
+       <day>
+        4
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Effects on blood pressure of reduced dietary sodium and the Dietary Approaches to Stop Hypertension (DASH) diet. DASH-Sodium Collaborative Research Group.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      3-10
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      The effect of dietary composition on blood pressure is a subject of public health importance. We studied the effect of different levels of dietary sodium, in conjunction with the Dietary Approaches to Stop Hypertension (DASH) diet, which is rich in vegetables, fruits, and low-fat dairy products, in persons with and in those without hypertension.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      A total of 412 participants were randomly assigned to eat either a control diet typical of intake in the United States or the DASH diet. Within the assigned diet, participants ate foods with high, intermediate, and low levels of sodium for 30 consecutive days each, in random order.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Reducing the sodium intake from the high to the intermediate level reduced the systolic blood pressure by 2.1 mm Hg (P&lt;0.001) during the control diet and by 1.3 mm Hg (P=0.03) during the DASH diet. Reducing the sodium intake from the intermediate to the low level caused additional reductions of 4.6 mm Hg during the control diet (P&lt;0.001) and 1.7 mm Hg during the DASH diet (P&lt;0.01). The effects of sodium were observed in participants with and in those without hypertension, blacks and those of other races, and women and men. The DASH diet was associated with a significantly lower systolic blood pressure at each sodium level; and the difference was greater with high sodium levels than with low ones. As compared with the control diet with a high sodium level, the DASH diet with a low sodium level led to a mean systolic blood pressure that was 7.1 mm Hg lower in participants without hypertension, and 11.5 mm Hg lower in participants with hypertension.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The reduction of sodium intake to levels below the current recommendation of 100 mmol per day and the DASH diet both lower blood pressure substantially, with greater effects in combination than singly. Long-term health benefits will depend on the ability of people to make long-lasting dietary changes and the increased availability of lower-sodium foods.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Medicine, Brigham and Women's Hospital and Harvard Medical School, Boston, USA. fsacks@hsph.harvard.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Sacks
+      </lastname>
+      <forename>
+       F M
+      </forename>
+      <initials>
+       FM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Svetkey
+      </lastname>
+      <forename>
+       L P
+      </forename>
+      <initials>
+       LP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Vollmer
+      </lastname>
+      <forename>
+       W M
+      </forename>
+      <initials>
+       WM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Appel
+      </lastname>
+      <forename>
+       L J
+      </forename>
+      <initials>
+       LJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bray
+      </lastname>
+      <forename>
+       G A
+      </forename>
+      <initials>
+       GA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Harsha
+      </lastname>
+      <forename>
+       D
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Obarzanek
+      </lastname>
+      <forename>
+       E
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Conlin
+      </lastname>
+      <forename>
+       P R
+      </forename>
+      <initials>
+       PR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Miller
+      </lastname>
+      <forename>
+       E R
+      </forename>
+      <initials>
+       ER
+      </initials>
+      <suffix>
+       3rd
+      </suffix>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Simons-Morton
+      </lastname>
+      <forename>
+       D G
+      </forename>
+      <initials>
+       DG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Karanja
+      </lastname>
+      <forename>
+       N
+      </forename>
+      <initials>
+       N
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lin
+      </lastname>
+      <forename>
+       P H
+      </forename>
+      <initials>
+       PH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       DASH-Sodium Collaborative Research Group
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="N">
+     <grant>
+      <grantid>
+       U01-HL57114
+      </grantid>
+      <acronym>
+       HL
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       U01-HL57173
+      </grantid>
+      <acronym>
+       HL
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       U01-HL57190
+      </grantid>
+      <acronym>
+       HL
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Sodium, Dietary
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2001 May 31;344(22):1716; author reply 1718-9
+     </refsource>
+     <pmid version="1">
+      11386274
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2001 May 31;344(22):1717-8; author reply 1718-9
+     </refsource>
+     <pmid version="1">
+      11386275
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2001 Jan 4;344(1):53-5
+     </refsource>
+     <pmid version="1">
+      11136961
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2001 May 31;344(22):1717; author reply 1718-9
+     </refsource>
+     <pmid version="1">
+      11386276
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2001 May 31;344(22):1716-7; author reply 1718-9
+     </refsource>
+     <pmid version="1">
+      11386273
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Pressure
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Continental Population Groups
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cross-Over Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diet
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Diet, Sodium-Restricted
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertension
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diet therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sex Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sodium, Dietary
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pharmacology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      4
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      14
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      4
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11136953
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJM200101043440101
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

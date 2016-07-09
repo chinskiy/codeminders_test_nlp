@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12809453
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     17
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     24
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1539-3704
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       138
+      </volume>
+      <issue>
+       12
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Jun
+       </month>
+       <day>
+        17
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Annals of internal medicine
+     </title>
+     <isoabbreviation>
+      Ann. Intern. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Long-term effects of inhaled corticosteroids on FEV1 in patients with chronic obstructive pulmonary disease. A meta-analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      969-73
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      There is no consensus on the effectiveness of inhaled corticosteroids for the treatment of chronic obstructive pulmonary disease (COPD).
+     </abstracttext>
+     <abstracttext label="PURPOSE" nlmcategory="OBJECTIVE">
+      To evaluate the long-term effects of inhaled corticosteroids on the rate of FEV1 decline in patients with COPD.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      MEDLINE, EMBASE, CISCOM, and AMED databases and the Cochrane Library (1966 to December 2002), reference lists from identified articles, and consultation with experts. Searches were not limited to the English language.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION" nlmcategory="METHODS">
+      Randomized, placebo-controlled trials that examined the rate of FEV1 decline as a primary outcome in patients with COPD.
+     </abstracttext>
+     <abstracttext label="DATA EXTRACTION" nlmcategory="METHODS">
+      Two reviewers independently extracted the data by using predetermined criteria.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      For the six studies that met the inclusion criteria, the summary estimate for the difference in FEV1 decline between the placebo and treatment groups was -5.0 +/- 3.2 mL/y (95% CI, -11.2 to 1.2 mL/y; P = 0.11).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The use of inhaled corticosteroids was not associated with the rate of FEV1 decline in 3571 patients followed for 24 to 54 months.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Division of Pulmonary, Critical Care, Allergy and Clinical Immunology, Medical University of South Carolina, 96 Jonathan Lucas Street, 812 CSB, Box 250623, Charleston, South Carolina 29425, USA. highlakb@musc.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Highland
+      </lastname>
+      <forename>
+       Kristin B
+      </forename>
+      <initials>
+       KB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Strange
+      </lastname>
+      <forename>
+       Charlie
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Heffner
+      </lastname>
+      <forename>
+       John E
+      </forename>
+      <initials>
+       JE
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Ann Intern Med
+    </medlineta>
+    <nlmuniqueid>
+     0372351
+    </nlmuniqueid>
+    <issnlinking>
+     0003-4819
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Adrenal Cortex Hormones
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Ann Intern Med. 2003 Jun 17;138(12):1001-2
+     </refsource>
+     <pmid version="1">
+      12809460
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Ann Intern Med. 2003 Nov 18;139(10):864; author reply 864-5
+     </refsource>
+     <pmid version="1">
+      14623628
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Ann Intern Med. 2003 Jun 17;138(12):I46
+     </refsource>
+     <pmid version="1">
+      12809478
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="ErratumIn">
+     <refsource>
+      Ann Intern Med. 2003 Nov 18;139(10):873
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Administration, Inhalation
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adrenal Cortex Hormones
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Forced Expiratory Volume
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pulmonary Disease, Chronic Obstructive
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Spirometry
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12809453
+    </articleid>
+    <articleid idtype="pii">
+     200306170-00008
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

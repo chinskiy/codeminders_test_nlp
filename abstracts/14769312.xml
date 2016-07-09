@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    14769312
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     10
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     01
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0002-9610
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       187
+      </volume>
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Feb
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      American journal of surgery
+     </title>
+     <isoabbreviation>
+      Am. J. Surg.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     A review of the literature on octylcyanoacrylate tissue adhesive.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      238-48
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Octylcyanoacrylate is a medical grade topical tissue adhesive that has been approved for closing surgical incisions and traumatic lacerations. We reviewed animal and human studies that evaluated its use for a variety of surgical indications and specialties. We also performed a meta-analysis of all clinical trials using octylcyanoacrylate.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      Animal and human studies published in peer-reviewed articles as well as published abstracts. A search of Medline was performed using the MESH terms: tissue adhesives, cyanoacrylates, and octylcyanoacrylate.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The current review and metanalysis demonstrate that octylcyanoacrylate can be used successfully in a wide variety of clinical and surgical settings for multiple types of wounds covering most of the surface of the human body. Prior knowledge of the limitations and technical aspects specific to wound closure with octylcyanoacrylate as well as appropriate wound selection and preparation will help ensure optimal results.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Emergency Medicine, Stony Brook Health Sciences Center, L3-058, Stony Brook University, Stony Brook, NY 11794-8350, USA. adam.singer@stonybrook.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Singer
+      </lastname>
+      <forename>
+       Adam J
+      </forename>
+      <initials>
+       AJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Thode
+      </lastname>
+      <forename>
+       Henry C
+      </forename>
+      <initials>
+       HC
+      </initials>
+      <suffix>
+       Jr
+      </suffix>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Am J Surg
+    </medlineta>
+    <nlmuniqueid>
+     0370473
+    </nlmuniqueid>
+    <issnlinking>
+     0002-9610
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cyanoacrylates
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Tissue Adhesives
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      octylcyanoacrylate
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Animals
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Clinical Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cyanoacrylates
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pharmacology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lacerations
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      surgery
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Skin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      surgery
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Surgical Procedures, Operative
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tissue Adhesives
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pharmacology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Wound Healing
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Wounds and Injuries
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      surgery
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    61
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      11
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      2
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="received">
+     <year>
+      2003
+     </year>
+     <month>
+      Feb
+     </month>
+     <day>
+      10
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="revised">
+     <year>
+      2003
+     </year>
+     <month>
+      Jun
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      11
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     14769312
+    </articleid>
+    <articleid idtype="doi">
+     10.1016/j.amjsurg.2003.11.017
+    </articleid>
+    <articleid idtype="pii">
+     S0002961003005105
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

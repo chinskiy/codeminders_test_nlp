@@ -1,0 +1,331 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    8308945
+   </pmid>
+   <datecreated>
+    <year>
+     1994
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     16
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1994
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     16
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0731-3810
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       32
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        1994
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of toxicology. Clinical toxicology
+     </title>
+     <isoabbreviation>
+      J. Toxicol. Clin. Toxicol.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Retrospective analysis of calls to poison control centers resulting from exposure to the insect repellent N,N-diethyl-m-toluamide (DEET) from 1985-1989.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1-16
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      This study analyzed 9,086 human exposures involving N,N-diethyl-m-toluamide--containing insect repellents that were reported to Poison Control Centers from 1985-1989. Nearly two-thirds of those exposed had no adverse effects or only experienced minor symptoms that resolved rapidly. Symptoms were more likely to occur after ocular or inhalation exposures and least likely to occur if the product was ingested. The only reported death occurred in a patient who suicidally ingested 8 oz of an insect repellent containing N,N-diethyl-m-toluamide. Five patients may have experienced a serious or potentially life-threatening effect but the poison center record did not provide unequivocal substantiation of the effect or clearly establish N,N-diethyl-m-toluamide as the causative agent. From the analysis of those patients calling Poison Control Centers, it appears the risk of serious medical effects with the labeled use of N,N-diethyl-m-toluamide-containing insect repellents is low in comparison with its reported annual use by about 30% of Americans. For patients contacting Poison Control Centers, the occurrence of adverse effects appears to be related to the route of exposure rather than age or gender of the patient or the concentration of N,N-diethyl-m-toluamide in the product.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     University of Utah, Salt Lake City.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Veltri
+      </lastname>
+      <forename>
+       J C
+      </forename>
+      <initials>
+       JC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Osimitz
+      </lastname>
+      <forename>
+       T G
+      </forename>
+      <initials>
+       TG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bradford
+      </lastname>
+      <forename>
+       D C
+      </forename>
+      <initials>
+       DC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Page
+      </lastname>
+      <forename>
+       B C
+      </forename>
+      <initials>
+       BC
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Case Reports
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     J Toxicol Clin Toxicol
+    </medlineta>
+    <nlmuniqueid>
+     8213460
+    </nlmuniqueid>
+    <issnlinking>
+     0731-3810
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      134-62-3
+     </registrynumber>
+     <nameofsubstance>
+      DEET
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      DEET
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      poisoning
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Administration Routes
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fatal Outcome
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant, Newborn
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Poison Control Centers
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Poisoning
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Retrospective Studies
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1994
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1994
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1994
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     8308945
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

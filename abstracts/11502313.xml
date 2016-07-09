@@ -1,0 +1,444 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11502313
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     14
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     06
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0140-6736
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       358
+      </volume>
+      <issue>
+       9279
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Aug
+       </month>
+       <day>
+        4
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Lancet
+     </title>
+     <isoabbreviation>
+      Lancet
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Cholesterol and all-cause mortality in elderly people from the Honolulu Heart Program: a cohort study.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      351-5
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      A generally held belief is that cholesterol concentrations should be kept low to lessen the risk of cardiovascular disease. However, studies of the relation between serum cholesterol and all-cause mortality in elderly people have shown contrasting results. To investigate these discrepancies, we did a longitudinal assessment of changes in both lipid and serum cholesterol concentrations over 20 years, and compared them with mortality.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Lipid and serum cholesterol concentrations were measured in 3572 Japanese/American men (aged 71-93 years) as part of the Honolulu Heart Program. We compared changes in these concentrations over 20 years with all-cause mortality using three different Cox proportional hazards models.
+     </abstracttext>
+     <abstracttext label="FINDINGS" nlmcategory="RESULTS">
+      Mean cholesterol fell significantly with increasing age. Age-adjusted mortality rates were 68.3, 48.9, 41.1, and 43.3 for the first to fourth quartiles of cholesterol concentrations, respectively. Relative risks for mortality were 0.72 (95% CI 0.60-0.87), 0.60 (0.49-0.74), and 0.65 (0.53-0.80), in the second, third, and fourth quartiles, respectively, with quartile 1 as reference. A Cox proportional hazard model assessed changes in cholesterol concentrations between examinations three and four. Only the group with low cholesterol concentration at both examinations had a significant association with mortality (risk ratio 1.64, 95% CI 1.13-2.36).
+     </abstracttext>
+     <abstracttext label="INTERPRETATION" nlmcategory="CONCLUSIONS">
+      We have been unable to explain our results. These data cast doubt on the scientific justification for lowering cholesterol to very low concentrations (&lt;4.65 mmol/L) in elderly people.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Clinical Epidemiology and Geriatrics Division, Department of Medicine, John A Bums School of Medicine, University of Hawaii at Manoa, 1356 Lusitana Street, 7th Floor, Honolulu, HI 96813-2427, USA. schatzi@hawaii.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Schatz
+      </lastname>
+      <forename>
+       I J
+      </forename>
+      <initials>
+       IJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Masaki
+      </lastname>
+      <forename>
+       K
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Yano
+      </lastname>
+      <forename>
+       K
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Chen
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rodriguez
+      </lastname>
+      <forename>
+       B L
+      </forename>
+      <initials>
+       BL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Curb
+      </lastname>
+      <forename>
+       J D
+      </forename>
+      <initials>
+       JD
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       N0I-AG-4-2149
+      </grantid>
+      <acronym>
+       AG
+      </acronym>
+      <agency>
+       NIA NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Lancet
+    </medlineta>
+    <nlmuniqueid>
+     2985213R
+    </nlmuniqueid>
+    <issnlinking>
+     0140-6736
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      57-88-5
+     </registrynumber>
+     <nameofsubstance>
+      Cholesterol
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2001 Dec 1;358(9296):1904; author reply 1906
+     </refsource>
+     <pmid version="1">
+      11741660
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2001 Dec 1;358(9296):1905; author reply 1906
+     </refsource>
+     <pmid version="1">
+      11741662
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2001 Dec 1;358(9296):1905-6
+     </refsource>
+     <pmid version="1">
+      11741661
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2001 Dec 1;358(9296):1904-5; author reply 1906
+     </refsource>
+     <pmid version="1">
+      11741659
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2001 Dec 1;358(9296):1906-7
+     </refsource>
+     <pmid version="1">
+      11741664
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2001 Dec 1;358(9296):1907
+     </refsource>
+     <pmid version="1">
+      11741665
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2001 Dec 1;358(9296):1903-4; author reply 1906
+     </refsource>
+     <pmid version="1">
+      11741657
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aging
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Asian Americans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cardiovascular Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      ethnology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cholesterol
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cohort Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Follow-Up Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      Hawaii
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Longitudinal Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Proportional Hazards Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Time Factors
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      15
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      8
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      15
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11502313
+    </articleid>
+    <articleid idtype="pii">
+     S0140-6736(01)05553-2
+    </articleid>
+    <articleid idtype="doi">
+     10.1016/S0140-6736(01)05553-2
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

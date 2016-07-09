@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    17253530
+   </pmid>
+   <datecreated>
+    <year>
+     2007
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     26
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2007
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     08
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     03
+    </day>
+   </daterevised>
+   <article pubmodel="Electronic">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2007
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Fetal movement counting for assessment of fetal wellbeing.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD004909
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Fetal movement counting is a method by which a woman quantifies the movements she feels to assess the condition of the baby. The purpose is to try to reduce perinatal mortality by alerting caregivers when the baby might have become compromised. This method may be used routinely, or only in women who are considered at increased risk of complications in the baby. Some clinicians believe that fetal movement counting is a good method as it allows the clinician to make appropriate interventions in good time. On the other hand, fetal movement counting may cause anxiety to women.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To assess outcomes of pregnancy where fetal movement counting was done routinely, selectively or was not done at all; and to compare different methods of fetal movement counting.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (30 September 2006), the Cochrane Central Register of Controlled Trials (The Cochrane Library) and the reference lists of relevant papers.
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      Randomised controlled trials. Trials were excluded where allocation concealment was inadequate and no measures were taken to prevent bias were excluded. The interventions included routine fetal movement counting, selective fetal movement counting, and studies comparing different fetal assessment methods.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      We assessed the methodological quality of included studies and extracted data from studies.
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      Four studies, involving 71,370 women, were included in this review; 68,654 in one cluster-randomised trial. All four trials compared formal fetal movement counting. Two trials compared different types of counting with each other; one with no formal instruction, and one with hormonal analysis. Women in the formal fetal movement counting group had significantly fewer visits to the hospital antenatally than those women randomised to hormone analysis (relative risk (RR) 0.26, 95% confidence interval (CI) 0.20 to 0.35), whereas there were fewer Apgar scores less than seven in five minutes for women randomised to hormone analysis (RR 1.72, 95% CI 1.01 to 2.93). There was a significantly higher compliance with the Cardiff 'count to ten' method than with the formal fetal movement counting method (RR 0.25, 95% CI 0.19 to 0.32).All other outcomes reported were non significant.
+     </abstracttext>
+     <abstracttext label="AUTHORS' CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      This review does not provide enough evidence to influence practice. In particular, no trials compared fetal movement counting with no fetal movement counting. Robust research is needed in this area.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Frere Maternity Hospital, Effective Care Research Group, Private Bag X9047, East London, South Africa, 5200. ecru@global.co.za
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Mangesi
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hofmeyr
+      </lastname>
+      <forename>
+       G J
+      </forename>
+      <initials>
+       GJ
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2007
+     </year>
+     <month>
+      01
+     </month>
+     <day>
+      24
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fetal Monitoring
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fetal Movement
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      physiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pregnancy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pregnancy Outcome
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    30
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2007
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      27
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2007
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2007
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      27
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    epublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="doi">
+     10.1002/14651858.CD004909.pub2
+    </articleid>
+    <articleid idtype="pubmed">
+     17253530
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

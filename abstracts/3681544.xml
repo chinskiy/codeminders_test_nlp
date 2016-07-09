@@ -1,0 +1,300 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    3681544
+   </pmid>
+   <datecreated>
+    <year>
+     1988
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     15
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1988
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     15
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0022-3476
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       111
+      </volume>
+      <issue>
+       6 Pt 1
+      </issue>
+      <pubdate>
+       <year>
+        1987
+       </year>
+       <month>
+        Dec
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The Journal of pediatrics
+     </title>
+     <isoabbreviation>
+      J. Pediatr.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Consequences of starting whole cow milk at 6 months of age.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      813-6
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Two groups of infants, one fed whole cow milk commencing at 6 months of age (n = 69) and the other continuing to receive iron-fortified infant formula (n = 98), were closely observed over their second 6 months of life. At 12 months of age, infants fed cow milk had significantly lower mean serum ferritin levels and mean corpuscular volume, higher free erythrocyte protoporphyrin values, and greater incidence of hemoglobin values less than 11 g/dl than did formula-fed infants. There were no significant differences in frequency of otitis media, wheezing episodes, nasal discharge or congestion, diaper dermatitis, constipation, guaiac-positive stools, or hospital admissions between the two groups. These data suggest that, to avoid iron deficiency, infants should continue to receive iron-fortified formula throughout the first year of life or a daily iron supplement if they are fed whole cow milk before their first birthday.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Pediatrics, State University of New York Health Science Center at Syracuse.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Tunnessen
+      </lastname>
+      <forename>
+       W W
+      </forename>
+      <initials>
+       WW
+      </initials>
+      <suffix>
+       Jr
+      </suffix>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Oski
+      </lastname>
+      <forename>
+       F A
+      </forename>
+      <initials>
+       FA
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     J Pediatr
+    </medlineta>
+    <nlmuniqueid>
+     0375410
+    </nlmuniqueid>
+    <issnlinking>
+     0022-3476
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Hemoglobins
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      7439-89-6
+     </registrynumber>
+     <nameofsubstance>
+      Iron
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      9007-73-2
+     </registrynumber>
+     <nameofsubstance>
+      Ferritins
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Animals
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Erythrocyte Indices
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ferritins
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hemoglobins
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      analysis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Infant Food
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Iron
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      deficiency
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Milk
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1987
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1987
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     3681544
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

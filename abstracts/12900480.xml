@@ -1,0 +1,402 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12900480
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     05
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     29
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0820-3946
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       169
+      </volume>
+      <issue>
+       3
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Aug
+       </month>
+       <day>
+        5
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne
+     </title>
+     <isoabbreviation>
+      CMAJ
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     DEET-based insect repellents: safety implications for children and pregnant and lactating women.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      209-12
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Reducing the risk of mosquito bites is currently the only way to reduce the risk of West Nile virus infection. Methods for avoiding mosquito bites include limiting the time spent outdoors at dawn and dusk, wearing protective clothing and using an insect repellent. Repellents containing DEET (N,N-diethyl-m-toluamide, also known as N,N-diethyl-3-methylbenzamide) are the most effective and most widely used. However, concerns have been raised over the risk of adverse toxic effects, especially in young children and pregnant and lactating women. In this article, we review the available evidence on the effectiveness and safety of DEET-based products. The evidence does not support increased risk in young children.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Division of Clinical Pharmacology and Toxicology, Hospital for Sick Children and University of Toronto, Toronto, Ont. gkoren@sickkids.ca
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Koren
+      </lastname>
+      <forename>
+       Gideon
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Matsui
+      </lastname>
+      <forename>
+       Doreen
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bailey
+      </lastname>
+      <forename>
+       Benoit
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     Canada
+    </country>
+    <medlineta>
+     CMAJ
+    </medlineta>
+    <nlmuniqueid>
+     9711805
+    </nlmuniqueid>
+    <issnlinking>
+     0820-3946
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Insect Repellents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      134-62-3
+     </registrynumber>
+     <nameofsubstance>
+      DEET
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Trop Med Hyg. 2001 Oct;65(4):285-9
+     </refsource>
+     <pmid version="1">
+      11693870
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 2002 Jul 4;347(1):13-8
+     </refsource>
+     <pmid version="1">
+      12097535
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int J Toxicol. 2002 Sep-Oct;21(5):341-52
+     </refsource>
+     <pmid version="1">
+      12396679
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      MMWR Morb Mortal Wkly Rep. 2002 Dec 20;51(50):1135-6
+     </refsource>
+     <pmid version="1">
+      12537289
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1961 Feb 9;264:289-91
+     </refsource>
+     <pmid version="1">
+      13709286
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Emerg Med. 1992 Mar;21(3):315-7
+     </refsource>
+     <pmid version="1">
+      1536495
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      MMWR Morb Mortal Wkly Rep. 1989 Oct 6;38(39):678-80
+     </refsource>
+     <pmid version="1">
+      2506420
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Pediatr. 1980 Sep;97(3):471-3
+     </refsource>
+     <pmid version="1">
+      7411313
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1988 Apr 15;259(15):2239-40
+     </refsource>
+     <pmid version="1">
+      3352115
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Pharm. 1987 Jun;6(6):496-8
+     </refsource>
+     <pmid version="1">
+      3690996
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Can Med Assoc J. 1985 Jan 15;132(2):155-6
+     </refsource>
+     <pmid version="1">
+      3965068
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      CMAJ. 2004 Jan 6;170(1):14; author reply 14
+     </refsource>
+     <pmid version="1">
+      14707186
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="ErratumIn">
+     <refsource>
+      CMAJ. 2003 Aug 19;169(4):283
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Animals
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Culicidae
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      DEET
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Insect Bites and Stings
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Insect Repellents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pregnancy
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC167123
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      6
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      30
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      6
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12900480
+    </articleid>
+    <articleid idtype="pmc">
+     PMC167123
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

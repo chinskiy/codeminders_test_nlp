@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11345826
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     10
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     31
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0002-9173
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       115
+      </volume>
+      <issue>
+       5
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        May
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      American journal of clinical pathology
+     </title>
+     <isoabbreviation>
+      Am. J. Clin. Pathol.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Manual differential cell counts help predict bacterial infection. A multivariate analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      644-9
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      We developed logistic regression models that combine information from the automated CBC and manual 100-cell differential counts to predict bacterial infection. The logistic models were fitted from a case group of 116 patients with proven bacterial infection and a control group of 930 presumably uninfected outpatients. A 4-variable, 15-parameter model, which includes automated absolute neutrophil, manual band, and manual immature granulocyte counts, performed best with a receiver operating characteristic (ROC) curve area of 89%. A more practical 2-variable model including automated absolute neutrophil and manual band counts performed almost as well with an ROC curve area of 86%. The automated neutrophil count-only model is less informative with an ROC curve area of 78%. The combined information from automated and manual differential cell counts more accurately predicts bacterial infection than automated counting alone. Despite these modest improvements, the high cost of manual differential cell counts dictates careful patient selection. The supplemental information gained from manual differential counts is most useful for patients with low to normal neutrophil counts (8,000/microL [8.0 x 10(9)/L] or less). Further studies are indicated to determine the characteristic patient populations deriving maximal benefit from this information.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Cascade Pathology Group, Legacy Portland Hospitals, Department of Pathology, Emanuel Hospital and Health Center, 2801 N Gantenbein Ave, Portland, OR 97221, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Wile
+      </lastname>
+      <forename>
+       M J
+      </forename>
+      <initials>
+       MJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Homer
+      </lastname>
+      <forename>
+       L D
+      </forename>
+      <initials>
+       LD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gaehler
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Phillips
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Millan
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Evaluation Studies
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Am J Clin Pathol
+    </medlineta>
+    <nlmuniqueid>
+     0370470
+    </nlmuniqueid>
+    <issnlinking>
+     0002-9173
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Am J Clin Pathol. 2001 Sep;116(3):445
+     </refsource>
+     <pmid version="1">
+      11554174
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Am J Clin Pathol. 2002 Mar;117(3):494-5
+     </refsource>
+     <pmid version="1">
+      11888092
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bacterial Infections
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hematology
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      instrumentation
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant, Newborn
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Leukocyte Count
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Logistic Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Multivariate Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Neutrophils
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      cytology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Predictive Value of Tests
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      ROC Curve
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      11
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      2
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      11
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11345826
+    </articleid>
+    <articleid idtype="doi">
+     10.1309/J905-CKYW-4G7P-KUK8
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

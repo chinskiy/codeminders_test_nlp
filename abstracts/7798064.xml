@@ -1,0 +1,368 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    7798064
+   </pmid>
+   <datecreated>
+    <year>
+     1995
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     03
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1995
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     03
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     24
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0094-3509
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       41
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        1995
+       </year>
+       <month>
+        Jul
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The Journal of family practice
+     </title>
+     <isoabbreviation>
+      J Fam Pract
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Prostate cancer screening: a decision analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      33-41
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      The issue of whether to screen men for prostate cancer is controversial. No randomized clinical trials have been completed to confirm the efficacy of screening for prostate cancer. We created a mathematical model of the clinical risks and benefits of screening for prostate cancer.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      A Markov decision-analytic model evaluated the outcomes of annually screening asymptomatic men for prostate cancer beginning at age 50 years. The screening and testing algorithm included the digital rectal examination, transrectal ultrasound, and prostate-specific antigen test. A sample of 10 male patients with no history of prostate disease were interviewed to assess their utilities (preferences) regarding the various adverse outcomes of prostate cancer treatment.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The model indicated that no screening was preferred to screening when patients' utilities were considered (24.14 vs 23.47 quality-adjusted life years expected). The optimal decision was sensitive to the utilities of impotence and urethral stricture, the most common adverse outcomes for patients under the age of 65 years. When adverse outcomes of treatment were ignored, screening was favored (24.86 vs 24.22 years of life expectancy.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      When quality-of-life preferences of men are considered, the annual screening of asymptomatic patients for prostate cancer is not recommended.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Family Medicine, University of Texas Medical Branch at Galveston, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Cantor
+      </lastname>
+      <forename>
+       S B
+      </forename>
+      <initials>
+       SB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Spann
+      </lastname>
+      <forename>
+       S J
+      </forename>
+      <initials>
+       SJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Volk
+      </lastname>
+      <forename>
+       R J
+      </forename>
+      <initials>
+       RJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cardenas
+      </lastname>
+      <forename>
+       M P
+      </forename>
+      <initials>
+       MP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Warren
+      </lastname>
+      <forename>
+       M M
+      </forename>
+      <initials>
+       MM
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       D32-PE16033
+      </grantid>
+      <acronym>
+       PE
+      </acronym>
+      <agency>
+       BHP HRSA HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     J Fam Pract
+    </medlineta>
+    <nlmuniqueid>
+     7502590
+    </nlmuniqueid>
+    <issnlinking>
+     0094-3509
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Fam Pract. 1995 Dec;41(6):536-7
+     </refsource>
+     <pmid version="1">
+      7500057
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Fam Pract. 1995 Aug;41(2):188-9
+     </refsource>
+     <pmid version="1">
+      7543557
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Decision Support Techniques
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Erectile Dysfunction
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Markov Chains
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Mass Screening
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prostatectomy
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prostatic Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Quality of Life
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Radiotherapy
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Urethral Stricture
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1995
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1995
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1995
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     7798064
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

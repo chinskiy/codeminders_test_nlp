@@ -1,0 +1,332 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    7668955
+   </pmid>
+   <datecreated>
+    <year>
+     1995
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     11
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1995
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     11
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0003-9993
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       76
+      </volume>
+      <issue>
+       9
+      </issue>
+      <pubdate>
+       <year>
+        1995
+       </year>
+       <month>
+        Sep
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Archives of physical medicine and rehabilitation
+     </title>
+     <isoabbreviation>
+      Arch Phys Med Rehabil
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Fall-related injuries in anticoagulated stroke patients during inpatient rehabilitation.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      840-3
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To compare the frequency and severity of fall-related injuries in anticoagulated patients undergoing rehabilitation after stroke to nonanticoagulated stroke patients undergoing rehabilitation.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Retrospective chart review.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      Free-standing rehabilitation hospital.
+     </abstracttext>
+     <abstracttext label="PATIENTS" nlmcategory="METHODS">
+      264 patients who sustained falls while undergoing intensive inpatient rehabilitation after stroke.
+     </abstracttext>
+     <abstracttext label="MEASUREMENTS" nlmcategory="METHODS">
+      Injuries, categorized as minor (abrasions and bruises) or major (intracranial hemorrhage, fracture, major bleeding).
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      A total of 400 falls in 264 patients undergoing inpatient stroke rehabilitation were reviewed. One hundred thirty-one falls were sustained by 93 patients receiving anticoagulation, whereas 269 falls were sustained by 175 patients not receiving anticoagulation. In both the anticoagulation group and the control (nonanticoagulated) group, approximately one in five falls resulted in minor injuries (abrasions or bruises). Three fractures occurred, but no major bleeding events or intracranial hemorrhage occurred in either group.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The risk for minor injury secondary to fall is comparable between the two groups, and the risk is low in this setting for hemorrhagic injuries in stroke patients falling while receiving anticoagulation.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Division of Physical Medicine and Rehabilitation, Harvard Medical School, Boston, MA, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Stein
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Viramontes
+      </lastname>
+      <forename>
+       B E
+      </forename>
+      <initials>
+       BE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kerrigan
+      </lastname>
+      <forename>
+       D C
+      </forename>
+      <initials>
+       DC
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Arch Phys Med Rehabil
+    </medlineta>
+    <nlmuniqueid>
+     2985158R
+    </nlmuniqueid>
+    <issnlinking>
+     0003-9993
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anticoagulants
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Accidental Falls
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anticoagulants
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cerebrovascular Disorders
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      rehabilitation
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Injury Severity Score
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Rehabilitation Centers
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Retrospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sex Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Wounds and Injuries
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      classification
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1995
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1995
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1995
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     7668955
+    </articleid>
+    <articleid idtype="pii">
+     S0003-9993(95)80549-4
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

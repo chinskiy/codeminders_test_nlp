@@ -1,0 +1,394 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11331055
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     01
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     31
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0002-9343
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       110
+      </volume>
+      <issue>
+       6
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Apr
+       </month>
+       <day>
+        15
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The American journal of medicine
+     </title>
+     <isoabbreviation>
+      Am. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Effects of hormone replacement therapy on clinical fractures and height loss: The Heart and Estrogen/Progestin Replacement Study (HERS).
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      442-50
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="PURPOSE" nlmcategory="OBJECTIVE">
+      To determine if estrogen plus progestin reduces the incidence of fractures or height loss in postmenopausal women with coronary disease.
+     </abstracttext>
+     <abstracttext label="SUBJECTS AND METHODS" nlmcategory="METHODS">
+      We enrolled 2,763 postmenopausal women with coronary disease and with an intact uterus into the Heart Estrogen/progestin Replacement Study, a randomized double-blind, placebo-controlled secondary prevention trial of cardiovascular disease. Radiographically documented clinical fractures were a prespecified secondary endpoint. Height loss was used as a surrogate for vertebral fractures. The average age of the women was 66.7 +/- 6.7 years, and fewer than 15% of the women had osteoporosis based on their bone density. Women were randomly assigned to either 0.625 mg of conjugated equine estrogens plus 2.5 mg of medroxyprogesterone acetate in 1 tablet daily (n = 1,380) or placebo (n = 1,383). Follow-up averaged 4.1 years; 82% of those assigned to hormone treatment were taking it at the end of 1 year, and 64% at the end of the study.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      During 10,554 person years of follow-up, 286 women experienced a fracture: 138 in the treatment group (26.3 per 1,000 person years) and 148 in the placebo group (28.0 per 1,000 person years); relative hazard, 0.94; 95% confidence interval 0.8 to 1.2, P = 0.61). These included 58 wrist fractures (1.01; 0.6 to 1.7); 27 hip fractures (1.09; 0.5 to 2.3); 32 spine fractures (0.69; 0.3 to 1.4), and 192 other fractures (0.91; 0.7 to 1.2). There was no difference in average height loss between the treatment and placebo groups or in the percent of women who lost more than 2 cm in height: 10.6% in the treatment group and 12.1% in the placebo group.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      There was no evidence of a reduction in the incidence of fractures or rate of height loss in older women not selected for osteoporosis. Randomized studies are needed to clarify the effect of hormone replacement therapy on fracture risk among women with and without osteoporosis.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Epidemiology (JAC), University of Pittsburgh, Pennsylvania 15261, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Cauley
+      </lastname>
+      <forename>
+       J A
+      </forename>
+      <initials>
+       JA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Black
+      </lastname>
+      <forename>
+       D M
+      </forename>
+      <initials>
+       DM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Barrett-Connor
+      </lastname>
+      <forename>
+       E
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Harris
+      </lastname>
+      <forename>
+       F
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Shields
+      </lastname>
+      <forename>
+       K
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Applegate
+      </lastname>
+      <forename>
+       W
+      </forename>
+      <initials>
+       W
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cummings
+      </lastname>
+      <forename>
+       S R
+      </forename>
+      <initials>
+       SR
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Am J Med
+    </medlineta>
+    <nlmuniqueid>
+     0267200
+    </nlmuniqueid>
+    <issnlinking>
+     0002-9343
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Progesterone Congeners
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      520-85-4
+     </registrynumber>
+     <nameofsubstance>
+      Medroxyprogesterone
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Am J Med. 2001 Dec 15;111(9):735-6
+     </refsource>
+     <pmid version="1">
+      11747857
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Body Height
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bone Density
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Estrogen Replacement Therapy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fractures, Bone
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Incidence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Life Style
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Medroxyprogesterone
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Postmenopause
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Progesterone Congeners
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      2
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      2
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      2
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11331055
+    </articleid>
+    <articleid idtype="pii">
+     S0002-9343(01)00647-7
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

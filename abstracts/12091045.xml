@@ -1,0 +1,505 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12091045
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     01
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     04
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0049-3848
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       105
+      </volume>
+      <issue>
+       6
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Mar
+       </month>
+       <day>
+        15
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Thrombosis research
+     </title>
+     <isoabbreviation>
+      Thromb. Res.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Low molecular weight heparin (Innohep) as thromboprophylaxis in outpatients with a plaster cast: a venografic controlled study.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      477-80
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="INTRODUCTION" nlmcategory="BACKGROUND">
+      The aim of this study was to investigate the incidence of deep vein thrombosis (DVT) in patients immobilized in plaster cast and the possible efficacy of prophylaxis with low molecular weight heparin (LMWH).
+     </abstracttext>
+     <abstracttext label="MATERIAL AND METHODS" nlmcategory="METHODS">
+      The study was a randomized, assessor-blinded, open multicenter (three centers) study. All patients over 18 years of age with planned plaster cast on a lower extremity of at least 3 weeks were eligible for participation. Written informed consent was obtained from 300 patients and they were randomized to either 3.500 IU anti-Xa of tinzaparin (Innohep) subcutaneously once daily or no prophylaxis. On the day the cast was removed, ascending unilateral venography was performed. Two experienced radiologists, unaware of treatment, assessed the pictures independently. The radiologist had to obtain consensus as to whether DVT was present or not.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      300 patients were included (148 in the treatment group and 152 in the control group). Ninety-five were subsequently withdrawn. DVT was diagnosed in 10/99 patients in the treatment group and in 18/106 patients in the control group. This difference is not significant (P=.15, chi(2) test) and the odds ratio was 0.55 (95% confidence interval=0.34-1.26).
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      DVT in legs after plaster casting is a big problem, with an incidence of almost 20%. An effective prophylactic regime is required. Once-daily dose of 3.500 IU anti-Xa of tinzaparin was not sufficient.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Gentofte Hospital University of Copenhagen, Copenhagen, Denmark. per.seest@dadlnet.dk
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Jørgensen
+      </lastname>
+      <forename>
+       Per Seest
+      </forename>
+      <initials>
+       PS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Warming
+      </lastname>
+      <forename>
+       Torsten
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hansen
+      </lastname>
+      <forename>
+       Kim
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Paltved
+      </lastname>
+      <forename>
+       Charlotte
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Vibeke Berg
+      </lastname>
+      <forename>
+       Helle
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jensen
+      </lastname>
+      <forename>
+       René
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kirchhoff-Jensen
+      </lastname>
+      <forename>
+       René
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kjaer
+      </lastname>
+      <forename>
+       Lasse
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kerbouche
+      </lastname>
+      <forename>
+       Nina
+      </forename>
+      <initials>
+       N
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Leth-Espensen
+      </lastname>
+      <forename>
+       Per
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Narvestad
+      </lastname>
+      <forename>
+       Eva
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rasmussen
+      </lastname>
+      <forename>
+       Søren Wistisen
+      </forename>
+      <initials>
+       SW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sloth
+      </lastname>
+      <forename>
+       Carsten
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tørholm
+      </lastname>
+      <forename>
+       Carsten
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wille-Jørgensen
+      </lastname>
+      <forename>
+       Peer
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Thromb Res
+    </medlineta>
+    <nlmuniqueid>
+     0326377
+    </nlmuniqueid>
+    <issnlinking>
+     0049-3848
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Fibrinolytic Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Heparin, Low-Molecular-Weight
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      tinzaparin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Casts, Surgical
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fibrinolytic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heparin, Low-Molecular-Weight
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Incidence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lower Extremity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Odds Ratio
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Outpatients
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Phlebography
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Failure
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Venous Thrombosis
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      2
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      2
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12091045
+    </articleid>
+    <articleid idtype="pii">
+     S0049384802000592
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

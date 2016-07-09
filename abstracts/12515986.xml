@@ -1,0 +1,324 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12515986
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     07
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     16
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2008
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     21
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1538-0688
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       30
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <medlinedate>
+        2003 Jan-Feb
+       </medlinedate>
+      </pubdate>
+     </journalissue>
+     <title>
+      Oncology nursing forum
+     </title>
+     <isoabbreviation>
+      Oncol Nurs Forum
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Meta-analysis of the effect of psychoeducational interventions on pain in adults with cancer.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      75-89
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="PURPOSE/OBJECTIVES" nlmcategory="OBJECTIVE">
+      To determine the effect of psychoeducational interventions on pain in adults with cancer.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      25 intervention studies published from 1978-2001.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      When analyzed across all studies, a statistically significant, beneficial effect on pain was found. However, threats to validity were present in some studies. The most serious of these involved a lack of random assignment to treatment condition and a floor effect on pain. When limited to the studies with the best methodologic quality, the effect on pain continued to be statistically significant. Effect on pain by type of treatment was examined and found to be somewhat variable and limited by the small number of studies testing each type of treatment.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Methodologic quality was variable. Reasonably strong evidence exists for relaxation-based cognitive-behavioral interventions, education about analgesic usage, and supportive counseling. Minimal data were available about the relative effectiveness of different types of psychoeducational interventions because few studies included within-study contrasts of different experimental interventions and usual care was not well documented.
+     </abstracttext>
+     <abstracttext label="IMPLICATIONS FOR NURSING" nlmcategory="CONCLUSIONS">
+      Psychoeducational interventions are not a substitute for analgesics, but they may serve as adjuvant therapy. Assessment and clinical judgment are critical. The intervention must be acceptable to patients and not too burdensome for patients in pain to use.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     School of Nursing, University of Wisconsin-Milwaukee, Milwaukee, WI, USA. ecd@uwm.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Devine
+      </lastname>
+      <forename>
+       Elizabeth C
+      </forename>
+      <initials>
+       EC
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       R15 NR04750
+      </grantid>
+      <acronym>
+       NR
+      </acronym>
+      <agency>
+       NINR NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Oncol Nurs Forum
+    </medlineta>
+    <nlmuniqueid>
+     7809033
+    </nlmuniqueid>
+    <issnlinking>
+     0190-535X
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <citationsubset>
+    N
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Chronic Disease
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cognitive Therapy
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Counseling
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      complications
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pain
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      classification
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      psychology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pain Measurement
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Patient Education as Topic
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Quality of Life
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Relaxation Therapy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Reproducibility of Results
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      8
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      17
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      8
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12515986
+    </articleid>
+    <articleid idtype="doi">
+     10.1188/03.ONF.75-89
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

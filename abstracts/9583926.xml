@@ -1,0 +1,616 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    9583926
+   </pmid>
+   <datecreated>
+    <year>
+     1998
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     13
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1998
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     13
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0959-8138
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       316
+      </volume>
+      <issue>
+       7139
+      </issue>
+      <pubdate>
+       <year>
+        1998
+       </year>
+       <month>
+        Apr
+       </month>
+       <day>
+        18
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      BMJ (Clinical research ed.)
+     </title>
+     <isoabbreviation>
+      BMJ
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Investigation by Parkinson's Disease Research Group of United Kingdom into excess mortality seen with combined levodopa and selegiline treatment in patients with early, mild Parkinson's disease: further results of randomised trial and confidential inquiry.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1191-6
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To determine whether the excess mortality observed in patients who received both levodopa and selegiline in a randomised trial could be explained by revised diagnosis of Parkinson's disease, autonomic or cardiovascular effects, more rapid disease progression, or drug interactions.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Open randomised trial and blind comparison and reclassification of the cause of death of patients who were recruited from 93 hospitals between 1985 and 1990 and who had died before December 1993 in arms 1 and 2.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      United Kingdom.
+     </abstracttext>
+     <abstracttext label="SUBJECTS" nlmcategory="METHODS">
+      624 patients with early Parkinson's disease who were not receiving dopaminergic treatment and a subgroup fo 120 patients who died during the trial.
+     </abstracttext>
+     <abstracttext label="INTERVENTIONS" nlmcategory="METHODS">
+      Levodopa and a dopa carboxylase inhibitor (arm 1), levodopa and a dopa decarboxylase inhibitor in combination with selegiline (arm 2), or bromocriptine alone (arm 3).
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      All cause mortality for 520 subjects in arms 1 and 2 and for 104 subjects who were randomised into these arms from arm 3. Cause specific mortality for people who died in the original arms 1 and 2 on the basis of the opinion of a panel, revised diagnosis and disability ratings, evidence from clinical records of either autonomic or cardiovascular episodes, other clinical features before death, and drug interactions.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      After extended follow up (mean 6.8 years) until the end of September 1995, when arm 2 was terminated, the hazard ratio for arm 2 compared with arm 1 was 1.32 (95% confidence interval 0.98 to 1.79). For subjects who were randomised from arm 3 the hazard ratio for arm 2 was 1.54 (0.83 to 2.87). When all subjects were included the hazard ratio was 1.33 (1.02 to 1.74) and after adjustment for other baseline factors it was 1.30 (0.99 to 1.72). The excess mortality seemed to be greatest in the third and fourth year of follow up. Cause specific death rates showed an excess of deaths from Parkinson's disease only (hazard ratio 2.5 (1.3 to 4.7)). No significant differences were found for revised diagnosis, disability rating scores, autonomic or cardiovascular events, other clinical features, or drug interactions. Patients who died in arm 2 were more likely to have had possible dementia and a history of falls before death compared with those who died in arm 1.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      The results consistently show excess mortality in patients treated with combined levodopa and selegiline. Revised diagnosis, autonomic or cardiovascular events, or drug interactions could not explain this finding, but falls and possible dementia were more common in arm 2. The results do not support combined treatment in patients with newly diagnosed Parkinson's disease. In more advanced disease, combined treatment should perhaps be avoided in patients with postural hypotension, frequent falls, confusion, or dementia.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Social Medicine, University of Bristol, Bristol BS8 2PR, UK.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Ben-Shlomo
+      </lastname>
+      <forename>
+       Y
+      </forename>
+      <initials>
+       Y
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Churchyard
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Head
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hurwitz
+      </lastname>
+      <forename>
+       B
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Overstall
+      </lastname>
+      <forename>
+       P
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ockelford
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lees
+      </lastname>
+      <forename>
+       A J
+      </forename>
+      <initials>
+       AJ
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     ENGLAND
+    </country>
+    <medlineta>
+     BMJ
+    </medlineta>
+    <nlmuniqueid>
+     8900488
+    </nlmuniqueid>
+    <issnlinking>
+     0959-535X
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antiparkinson Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Levodopa
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      14611-51-9
+     </registrynumber>
+     <nameofsubstance>
+      Selegiline
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      25614-03-3
+     </registrynumber>
+     <nameofsubstance>
+      Bromocriptine
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1984 Dec 1;2(8414):1262-5
+     </refsource>
+     <pmid version="1">
+      6150288
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Brain. 1994 Aug;117 ( Pt 4):835-45
+     </refsource>
+     <pmid version="1">
+      7922469
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1993 Aug 21;307(6902):469-72
+     </refsource>
+     <pmid version="1">
+      8400928
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1995 Dec 16;311(7020):1602-7
+     </refsource>
+     <pmid version="1">
+      8555803
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1996 Mar 16;312(7032):703; author reply 704-5
+     </refsource>
+     <pmid version="1">
+      8597747
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1996 Mar 16;312(7032):704; author reply 704-5
+     </refsource>
+     <pmid version="1">
+      8597750
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1996 Mar 16;312(7032):704-5
+     </refsource>
+     <pmid version="1">
+      8597751
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1996 Mar 23;312(7033):724
+     </refsource>
+     <pmid version="1">
+      8605448
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Neurol Neurosurg Psychiatry. 1996 Jun;60(6):615-20
+     </refsource>
+     <pmid version="1">
+      8648326
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Neurol. 1996 Dec;40(6):841-5
+     </refsource>
+     <pmid version="1">
+      9007088
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Neurol. 1997 Feb;41(2):282-3
+     </refsource>
+     <pmid version="1">
+      9029081
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Neurology. 1997 Mar;48(3):662-7
+     </refsource>
+     <pmid version="1">
+      9065544
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1997 Apr 24;336(17):1216-22
+     </refsource>
+     <pmid version="1">
+      9110909
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Age Ageing. 1997 Jul;26(4):315-8
+     </refsource>
+     <pmid version="1">
+      9271296
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Can J Neurol Sci. 1991 Aug;18(3):275-8
+     </refsource>
+     <pmid version="1">
+      1913360
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Prev Soc Med. 1967 Jan;21(1):22-9
+     </refsource>
+     <pmid version="1">
+      6032061
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Neural Transm. 1985;64(2):113-27
+     </refsource>
+     <pmid version="1">
+      3935752
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1989 Nov 16;321(20):1364-71
+     </refsource>
+     <pmid version="1">
+      2509910
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Neurol Neurosurg Psychiatry. 1997 Aug;63(2):228-34
+     </refsource>
+     <pmid version="1">
+      9285463
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      BMJ. 1998 Apr 18;316(7139):1182-3
+     </refsource>
+     <pmid version="1">
+      9552992
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      BMJ. 1998 Apr 18;316(7139):1183-4
+     </refsource>
+     <pmid version="1">
+      9552993
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      BMJ. 1998 Dec 5;317(7172):1586-7
+     </refsource>
+     <pmid version="1">
+      9890764
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      BMJ. 1998 Dec 5;317(7172):1586
+     </refsource>
+     <pmid version="1">
+      9836669
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antiparkinson Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bromocriptine
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cause of Death
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Disabled Persons
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Therapy, Combination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Follow-Up Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Levodopa
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Parkinson Disease
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Proportional Hazards Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Selegiline
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Survival Rate
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Failure
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC28519
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1998
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      16
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1998
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1998
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     9583926
+    </articleid>
+    <articleid idtype="pmc">
+     PMC28519
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

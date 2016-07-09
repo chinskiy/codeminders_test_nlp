@@ -1,0 +1,706 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11110735
+   </pmid>
+   <datecreated>
+    <year>
+     2000
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     29
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     15
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0959-8138
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       321
+      </volume>
+      <issue>
+       7274
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+       <month>
+        Dec
+       </month>
+       <day>
+        9
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      BMJ (Clinical research ed.)
+     </title>
+     <isoabbreviation>
+      BMJ
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Randomised controlled trial of dual blockade of renin-angiotensin system in patients with hypertension, microalbuminuria, and non-insulin dependent diabetes: the candesartan and lisinopril microalbuminuria (CALM) study.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1440-4
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To assess and compare the effects of candesartan or lisinopril, or both, on blood pressure and urinary albumin excretion in patients with microalbuminuria, hypertension, and type 2 diabetes.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Prospective, randomised, parallel group, double blind study with four week placebo run in period and 12 weeks' monotherapy with candesartan or lisinopril followed by 12 weeks' monotherapy or combination treatment.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      Tertiary hospitals and primary care centres in four countries (37 centres).
+     </abstracttext>
+     <abstracttext label="PARTICIPANTS" nlmcategory="METHODS">
+      199 patients aged 30-75 years.
+     </abstracttext>
+     <abstracttext label="INTERVENTIONS" nlmcategory="METHODS">
+      Candesartan 16 mg once daily, lisinopril 20 mg once daily.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      Blood pressure and urinary albumin:creatinine ratio.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      At 12 weeks mean (95% confidence interval) reductions in diastolic blood pressure were 9.5 mm Hg (7.7 mm Hg to 11.2 mm Hg, P&lt;0.001) and 9.7 mm Hg (7.9 mm Hg to 11.5 mm Hg, P&lt;0.001), respectively, and in urinary albumin:creatinine ratio were 30% (15% to 42%, P&lt;0.001) and 46% (35% to 56%, P&lt;0.001) for candesartan and lisinopril, respectively. At 24 weeks the mean reduction in diastolic blood pressure with combination treatment (16.3 mm Hg, 13.6 mm Hg to 18.9 mm Hg, P&lt;0. 001) was significantly greater than that with candesartan (10.4 mm Hg, 7.7 mm Hg to 13.1 mm Hg, P&lt;0.001) or lisinopril (mean 10.7 mm Hg, 8.0 mm Hg to 13.5 mm Hg, P&lt;0.001). Furthermore, the reduction in urinary albumin:creatinine ratio with combination treatment (50%, 36% to 61%, P&lt;0.001) was greater than with candesartan (24%, 0% to 43%, P=0.05) and lisinopril (39%, 20% to 54%, P&lt;0.001). All treatments were generally well tolerated.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Candesartan 16 mg once daily is as effective as lisinopril 20 mg once daily in reducing blood pressure and microalbuminuria in hypertensive patients with type 2 diabetes. Combination treatment is well tolerated and more effective in reducing blood pressure.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Medicine, M, Kommunehospitalet, University Hospital, DK-8000 Aarhus C, Denmark. cem@afdm.au.dk
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Mogensen
+      </lastname>
+      <forename>
+       C E
+      </forename>
+      <initials>
+       CE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Neldam
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tikkanen
+      </lastname>
+      <forename>
+       I
+      </forename>
+      <initials>
+       I
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Oren
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Viskoper
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Watts
+      </lastname>
+      <forename>
+       R W
+      </forename>
+      <initials>
+       RW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cooper
+      </lastname>
+      <forename>
+       M E
+      </forename>
+      <initials>
+       ME
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     ENGLAND
+    </country>
+    <medlineta>
+     BMJ
+    </medlineta>
+    <nlmuniqueid>
+     8900488
+    </nlmuniqueid>
+    <issnlinking>
+     0959-535X
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Angiotensin-Converting Enzyme Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antihypertensive Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Benzimidazoles
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Tetrazoles
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      139481-59-7
+     </registrynumber>
+     <nameofsubstance>
+      candesartan
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      83915-83-7
+     </registrynumber>
+     <nameofsubstance>
+      Lisinopril
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Circulation. 1999 Mar 2;99(8):990-2
+     </refsource>
+     <pmid version="1">
+      10051289
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Hypertens. 1999 Feb;17(2):151-83
+     </refsource>
+     <pmid version="1">
+      10067786
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Intern Med. 1999 Feb;245(2):111-26
+     </refsource>
+     <pmid version="1">
+      10081514
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Nephrol. 1999;19(1):1-6
+     </refsource>
+     <pmid version="1">
+      10085442
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Kidney Dis. 1999 May;33(5):851-6
+     </refsource>
+     <pmid version="1">
+      10213639
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1999 Jul 3;319(7201):24-5
+     </refsource>
+     <pmid version="1">
+      10390455
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1999 Sep 4;319(7210):630-5
+     </refsource>
+     <pmid version="1">
+      10473485
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 2000 Jan 22;355(9200):253-9
+     </refsource>
+     <pmid version="1">
+      10675071
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Hypertens. 2000 Jan;18(1):89-95
+     </refsource>
+     <pmid version="1">
+      10678548
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1995 Nov 25;346(8987):1403-7
+     </refsource>
+     <pmid version="1">
+      7475826
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1995 Oct 21;346(8982):1080-4
+     </refsource>
+     <pmid version="1">
+      7564792
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Circulation. 1995 Aug 15;92(4):825-34
+     </refsource>
+     <pmid version="1">
+      7641363
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Physiol. 1995 Apr;268(4 Pt 2):F588-94
+     </refsource>
+     <pmid version="1">
+      7733315
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Circulation. 1995 Mar 15;91(6):1655-8
+     </refsource>
+     <pmid version="1">
+      7882471
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Hum Hypertens. 1996 Mar;10(3):185-92
+     </refsource>
+     <pmid version="1">
+      8733038
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1996 Aug 28;276(8):637-9
+     </refsource>
+     <pmid version="1">
+      8773637
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Sci (Lond). 1996 Mar;90(3):205-13
+     </refsource>
+     <pmid version="1">
+      8777826
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1996 Sep 7;313(7057):591-4
+     </refsource>
+     <pmid version="1">
+      8806248
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Hypertension. 1997 Feb;29(2):634-40
+     </refsource>
+     <pmid version="1">
+      9040450
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Invest. 1997 Apr 1;99(7):1585-95
+     </refsource>
+     <pmid version="1">
+      9120002
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Drugs. 1997 Jun;53(6):1081-105
+     </refsource>
+     <pmid version="1">
+      9179532
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1997 Jun 21;349(9068):1787-92
+     </refsource>
+     <pmid version="1">
+      9269212
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Diabetes. 1997 Oct;46(10):1612-8
+     </refsource>
+     <pmid version="1">
+      9313758
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Intern Med. 1997 Nov 24;157(21):2413-46
+     </refsource>
+     <pmid version="1">
+      9385294
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1998 Jan 3;351(9095):28-31
+     </refsource>
+     <pmid version="1">
+      9433426
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1998 Jul 18;352(9123):213-9
+     </refsource>
+     <pmid version="1">
+      9683226
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Hypertension. 1998 Sep;32(3):387-92
+     </refsource>
+     <pmid version="1">
+      9740600
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Hypertens. 1998 Jul;16(7):1023-9
+     </refsource>
+     <pmid version="1">
+      9794744
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Drugs. 1998 Nov;56(5):847-69
+     </refsource>
+     <pmid version="1">
+      9829158
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      BMJ. 2001 May 12;322(7295):1183
+     </refsource>
+     <pmid version="1">
+      11379586
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2001 Jul-Aug;135(1):9
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Albuminuria
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Angiotensin-Converting Enzyme Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antihypertensive Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Benzimidazoles
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetes Mellitus, Type 2
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertension
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lisinopril
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Renin-Angiotensin System
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tetrazoles
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC27545
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11110735
+    </articleid>
+    <articleid idtype="pmc">
+     PMC27545
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

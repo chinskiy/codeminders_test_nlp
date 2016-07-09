@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10989401
+   </pmid>
+   <datecreated>
+    <year>
+     2000
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     03
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2000
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     03
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       284
+      </volume>
+      <issue>
+       11
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+       <month>
+        Sep
+       </month>
+       <day>
+        20
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Heart rate recovery and treadmill exercise score as predictors of mortality in patients referred for exercise ECG.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1392-8
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Both attenuated heart rate recovery following exercise and the Duke treadmill exercise score have been demonstrated to be independent predictors of mortality, but their prognostic value relative to each other has not been studied.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To assess the associations among abnormal heart rate recovery, treadmill exercise score, and death in patients referred specifically for exercise electrocardiography.
+     </abstracttext>
+     <abstracttext label="DESIGN AND SETTING" nlmcategory="METHODS">
+      Prospective cohort study conducted in an academic medical center between September 1990 and December 1997, with a median follow-up of 5.2 years.
+     </abstracttext>
+     <abstracttext label="PATIENTS" nlmcategory="METHODS">
+      A total of 9454 consecutive patients (mean [SD] age, 53 [11] years; 78% male) who underwent symptom-limited exercise electrocardiographic testing. Exclusion criteria included age younger than 30 years, history of heart failure or valvular disease, pacemaker implantation, and uninterpretable electrocardiograms.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      All-cause mortality, as predicted by abnormal heart rate recovery, defined as failure of heart rate to decrease by more than 12/min during the first minute after peak exercise, and by treadmill exercise score, defined as (exercise time) - (5 x maximum ST-segment deviation) - (4 x treadmill angina index).
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Three hundred twelve deaths occurred in the cohort. Abnormal heart rate recovery and intermediate- or high-risk treadmill exercise score were present in 20% (n = 1852) and 21% (n = 1996) of patients, respectively. In univariate analyses, death was predicted by both abnormal heart rate recovery (8% vs 2% in patients with normal heart rate recovery; hazard ratio [HR], 4.16; 95% confidence interval [CI], 3.33-5.19; chi(2) = 158; P&lt;.001) and intermediate- or high-risk treadmill exercise score (8% vs 2% in patients with low-risk scores; HR, 4.28; 95% CI, 3.43-5.35; chi(2) = 164; P&lt;.001). After adjusting for age, sex, standard cardiovascular risk factors, medication use, and other potential confounders, abnormal heart rate recovery remained predictive of death (among the 8549 patients not taking beta-blockers, adjusted HR, 2.13; 95% CI, 1.63-2.78; P&lt;.001), as did intermediate- or high-risk treadmill exercise score (adjusted HR, 1. 49; 95% CI, 1.15-1.92; P =.002). There was no interaction between these 2 predictors.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      In this cohort of patients referred specifically for exercise electrocardiography, both abnormal heart rate recovery and treadmill exercise score were independent predictors of mortality. Heart rate recovery appears to provide additional prognostic information to the established treadmill exercise score and should be considered for routine incorporation into exercise test interpretation. JAMA. 2000;284:1392-1398.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Clinical Research and Exercise Laboratory, Department of Cardiology, Desk F25, Cleveland Clinic Foundation, Cleveland, OH 44195, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Nishime
+      </lastname>
+      <forename>
+       E O
+      </forename>
+      <initials>
+       EO
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cole
+      </lastname>
+      <forename>
+       C R
+      </forename>
+      <initials>
+       CR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Blackstone
+      </lastname>
+      <forename>
+       E H
+      </forename>
+      <initials>
+       EH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pashkow
+      </lastname>
+      <forename>
+       F J
+      </forename>
+      <initials>
+       FJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lauer
+      </lastname>
+      <forename>
+       M S
+      </forename>
+      <initials>
+       MS
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2001 Feb 21;285(7):879-80
+     </refsource>
+     <pmid version="1">
+      11180718
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cause of Death
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Electrocardiography
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Exercise
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Exercise Test
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Heart Rate
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Mortality
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Multivariate Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prognosis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Proportional Hazards Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Survival Analysis
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2000
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      7
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10989401
+    </articleid>
+    <articleid idtype="pii">
+     joc00680
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

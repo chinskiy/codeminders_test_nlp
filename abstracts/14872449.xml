@@ -1,0 +1,371 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    14872449
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     11
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     09
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0004-3591
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       51
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Feb
+       </month>
+       <day>
+        15
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Arthritis and rheumatism
+     </title>
+     <isoabbreviation>
+      Arthritis Rheum.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Treatment of fibromyalgia with cyclobenzaprine: A meta-analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      9-13
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To systematically review the effectiveness of cyclobenzaprine in the treatment of fibromyalgia.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Articles describing randomized, placebo-controlled trials of cyclobenzaprine in people with fibromyalgia were obtained from Medline, EMBase, Psyclit, the Cochrane Library, and Federal Research in Progress Database. Unpublished literature and bibliographies were also reviewed. Outcomes, including global improvement, treatment effects on pain, fatigue, sleep, and tender points over time, were abstracted.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Five randomized, placebo-controlled trials were identified. The odds ratio for global improvement with therapy was 3.0 (95% confidence interval [95% CI] 1.6-5.6) with a pooled risk difference of 0.21 (95% CI 0.09-0.34), which calculates to 4.8 (95% CI 3.0-11) individuals needing treatment for 1 patient to experience symptom improvement. Pain improved early on, but there was no improvement in fatigue or tender points at any time.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Cyclobenzaprine-treated patients were 3 times as likely to report overall improvement and to report moderate reductions in individual symptoms, particularly sleep.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Walter Reed Army Medical Center, Washington, DC, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Tofferi
+      </lastname>
+      <forename>
+       Jeanne K
+      </forename>
+      <initials>
+       JK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jackson
+      </lastname>
+      <forename>
+       Jeffrey L
+      </forename>
+      <initials>
+       JL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       O'Malley
+      </lastname>
+      <forename>
+       Patrick G
+      </forename>
+      <initials>
+       PG
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Arthritis Rheum
+    </medlineta>
+    <nlmuniqueid>
+     0370605
+    </nlmuniqueid>
+    <issnlinking>
+     0004-3591
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Muscle Relaxants, Central
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Placebos
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      303-53-7
+     </registrynumber>
+     <nameofsubstance>
+      cyclobenzaprine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      50-48-6
+     </registrynumber>
+     <nameofsubstance>
+      Amitriptyline
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Amitriptyline
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      analogs &amp; derivatives
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Databases, Factual
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fatigue
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fibromyalgia
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Muscle Relaxants, Central
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pain
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Placebos
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      12
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      12
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     14872449
+    </articleid>
+    <articleid idtype="doi">
+     10.1002/art.20076
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

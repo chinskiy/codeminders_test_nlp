@@ -1,0 +1,484 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    9807989
+   </pmid>
+   <datecreated>
+    <year>
+     1998
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     20
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1998
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     20
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0140-6736
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       352
+      </volume>
+      <issue>
+       9138
+      </issue>
+      <pubdate>
+       <year>
+        1998
+       </year>
+       <month>
+        Oct
+       </month>
+       <day>
+        31
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Lancet
+     </title>
+     <isoabbreviation>
+      Lancet
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Randomised trial of interferon alpha2b plus ribavirin for 48 weeks or for 24 weeks versus interferon alpha2b plus placebo for 48 weeks for treatment of chronic infection with hepatitis C virus. International Hepatitis Interventional Therapy Group (IHIT)
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1426-32
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Only 15-20% of patients with chronic hepatitis C achieve a sustained virological response with interferon therapy. The aim of this study was to compare the efficacy and safety of interferon alpha2b in combination with oral ribavirin with interferon alone, for treatment of chronic infection with hepatitis C virus (HCV).
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      832 patients aged 18 years or more with chronic HCV who had not been treated with interferon or ribavirin, were enrolled and randomly allocated one of three regimens: 3 mega units (MU) interferon alpha2b three times a week plus 1000-1200 mg ribavirin per day for 48 weeks; 3 MU interferon alpha2b three times a week plus 1000-1200 mg ribavirin per day for 24 weeks; or 3 MU interferon alpha2b three times a week and placebo for 48 weeks. All patients were assessed for safety, tolerance, and efficacy at the end of weeks 1, 2, 4, 6, and 8, and every 4 weeks during treatment. After treatment was completed patients were followed up on weeks 4, 8, 12, and 24. The primary endpoint was loss of detectable HCV-RNA (serum HCV-RNA &lt;100 copies/mL) at week 24 after treatment.
+     </abstracttext>
+     <abstracttext label="FINDINGS" nlmcategory="RESULTS">
+      Sustained virological response at 24 weeks after treatment, was found in 119 (43%) of the 277 patients treated for 48 weeks with the combination regimen, 97 (35%) of the 277 patients treated for 24 weeks with the combination regimen (p=O.055), and 53 (19%) of the 278 patients treated for 48 weeks with interferon alone (p&lt;0.001 vs both combination regimens, intention-to-treat analysis). Logistic regression identified five independent factors significantly associated with response: genotype 2 or 3, viral load less than 2 million copies/mL, age 40 years or less, minimal fibrosis stage, and female sex. Among patients with fewer than three of these factors the odds ratio of sustained response was 2.6 (95% Cl 1.4-4.8; p=0.002) for the 48 week combination regimen compared with 24 weeks of the combination regimen. Discontinuation of therapy for adverse events was more frequent with combination (19%) and monotherapy (13%) given for 48 weeks than combination therapy given for 24 weeks (8%).
+     </abstracttext>
+     <abstracttext label="INTERPRETATION" nlmcategory="CONCLUSIONS">
+      An interferon alpha2b plus ribavirin combination is more effective than 48 weeks of interferon alpha2b monotherapy and has an acceptable safety profile. Patients with few favourable factors benefit more from extending the duration of combination therapy to 48 weeks.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Groupe Hospitalier, Faculté Pitie-Salpêtrière, Université Paris VI, URA CNRS 1484, France. tpoynard@teaser.fr
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Poynard
+      </lastname>
+      <forename>
+       T
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Marcellin
+      </lastname>
+      <forename>
+       P
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lee
+      </lastname>
+      <forename>
+       S S
+      </forename>
+      <initials>
+       SS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Niederau
+      </lastname>
+      <forename>
+       C
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Minuk
+      </lastname>
+      <forename>
+       G S
+      </forename>
+      <initials>
+       GS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ideo
+      </lastname>
+      <forename>
+       G
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bain
+      </lastname>
+      <forename>
+       V
+      </forename>
+      <initials>
+       V
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Heathcote
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Zeuzem
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Trepo
+      </lastname>
+      <forename>
+       C
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Albrecht
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     ENGLAND
+    </country>
+    <medlineta>
+     Lancet
+    </medlineta>
+    <nlmuniqueid>
+     2985213R
+    </nlmuniqueid>
+    <issnlinking>
+     0140-6736
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antiviral Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      RNA, Viral
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      36791-04-5
+     </registrynumber>
+     <nameofsubstance>
+      Ribavirin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      99210-65-8
+     </registrynumber>
+     <nameofsubstance>
+      Interferon Alfa-2b
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 1999 Feb 6;353(9151):499; author reply 500
+     </refsource>
+     <pmid version="1">
+      9989746
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 1999 Feb 6;353(9151):499-500
+     </refsource>
+     <pmid version="1">
+      9989747
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 1999 May-Jun;130(3):70
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Administration, Oral
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antiviral Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Administration Schedule
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Therapy, Combination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Genotype
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hepatitis C, Chronic
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      genetics
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Interferon Alfa-2b
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      RNA, Viral
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ribavirin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1998
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      10
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1998
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1998
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     9807989
+    </articleid>
+    <articleid idtype="pii">
+     S0140673698071244
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

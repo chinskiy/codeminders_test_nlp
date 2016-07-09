@@ -1,0 +1,385 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10399422
+   </pmid>
+   <datecreated>
+    <year>
+     1999
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     14
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1999
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     14
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0022-4707
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       39
+      </volume>
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        1999
+       </year>
+       <month>
+        Jun
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The Journal of sports medicine and physical fitness
+     </title>
+     <isoabbreviation>
+      J Sports Med Phys Fitness
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Muscle enzyme release does not predict muscle function impairment after triathlon.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      133-9
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      We sought to determine the effects of a long distance triathlon (4 km swim, 120 km bike-ride, and 30 km run) on the four-day kinetics of the biochemical markers of muscle damage, and whether they were quantitatively linked with muscle function impairment and soreness.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Experimental design: Data were collected from 2 days before until 4 days after the completion of the race. Participants: Twelve triathletes performed the triathlon and five did not. Measures: Maximal voluntary contraction (MVC), muscle soreness (DOMS) and total serum CK, CK-MB, LDH, AST and ALT activities were assessed.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Significant changes after triathlon completion were found for all muscle damage indirect markers over time (p &lt; 0.0001). MVC of the knee extensor and flexor muscles decreased over time (p &lt; 0.05). There is disparity in the time point at which peak values where reached for DOMS, MVC and enzyme leakage. There is no correlation between serum enzyme leakage, DOMS and MVC impairment which occur after triathlon.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Long distance triathlon race caused muscle damage, but extent, as well as muscle recovery cannot be evaluated by the magnitude of changes in serum enzyme activities. Muscle enzyme release cannot be used to predict the magnitude of the muscle function impairment caused by muscle damage.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Laboratoire de Physiologie de l'Activité Musculaire Faculté des Sciences du Sport Université de Nice Sophia-Antipolis, France.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Margaritis
+      </lastname>
+      <forename>
+       I
+      </forename>
+      <initials>
+       I
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tessier
+      </lastname>
+      <forename>
+       F
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Verdera
+      </lastname>
+      <forename>
+       F
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bermon
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Marconnet
+      </lastname>
+      <forename>
+       P
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     ITALY
+    </country>
+    <medlineta>
+     J Sports Med Phys Fitness
+    </medlineta>
+    <nlmuniqueid>
+     0376337
+    </nlmuniqueid>
+    <issnlinking>
+     0022-4707
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Myoglobin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      EC 1.1.1.27
+     </registrynumber>
+     <nameofsubstance>
+      L-Lactate Dehydrogenase
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      EC 2.6.1.1
+     </registrynumber>
+     <nameofsubstance>
+      Aspartate Aminotransferases
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      EC 2.6.1.2
+     </registrynumber>
+     <nameofsubstance>
+      Alanine Transaminase
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      EC 2.7.3.2
+     </registrynumber>
+     <nameofsubstance>
+      Creatine Kinase
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <citationsubset>
+    S
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Alanine Transaminase
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Analysis of Variance
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aspartate Aminotransferases
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Creatine Kinase
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Exercise
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      physiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      L-Lactate Dehydrogenase
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Muscle Fatigue
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      physiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Muscle, Skeletal
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      enzymology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Myoglobin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Oxygen Consumption
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      physiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Predictive Value of Tests
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1999
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      10
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1999
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1999
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10399422
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

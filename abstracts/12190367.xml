@@ -1,0 +1,416 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12190367
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     22
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     03
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       288
+      </volume>
+      <issue>
+       8
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Aug
+       </month>
+       <day>
+        28
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Effect of homocysteine-lowering therapy with folic acid, vitamin B12, and vitamin B6 on clinical outcome after percutaneous coronary intervention: the Swiss Heart study: a randomized controlled trial.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      973-9
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Plasma homocysteine level has been recognized as an important cardiovascular risk factor that predicts adverse cardiac events in patients with established coronary atherosclerosis and influences restenosis rate after percutaneous coronary intervention.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To evaluate the effect of homocysteine-lowering therapy on clinical outcome after percutaneous coronary intervention.
+     </abstracttext>
+     <abstracttext label="DESIGN, SETTING, AND PARTICIPANTS" nlmcategory="METHODS">
+      Randomized, double-blind placebo-controlled trial involving 553 patients referred to the University Hospital in Bern, Switzerland, from May 1998 to April 1999 and enrolled after successful angioplasty of at least 1 significant coronary stenosis (&gt; or = 50%).
+     </abstracttext>
+     <abstracttext label="INTERVENTION" nlmcategory="METHODS">
+      Participants were randomly assigned to receive a combination of folic acid (1 mg/d), vitamin B12 (cyanocobalamin, 400 micro g/d), and vitamin B6 (pyridoxine hydrochloride, 10 mg/d) (n = 272) or placebo (n = 281) for 6 months.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURE" nlmcategory="METHODS">
+      Composite end point of major adverse events defined as death, nonfatal myocardial infarction, and need for repeat revascularization, evaluated at 6 months and 1 year.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      After a mean (SD) follow-up of 11 (3) months, the composite end point was significantly lower at 1 year in patients treated with homocysteine-lowering therapy (15.4% vs 22.8%; relative risk [RR], 0.68; 95% confidence interval [CI], 0.48-0.96; P =.03), primarily due to a reduced rate of target lesion revascularization (9.9% vs 16.0%; RR, 0.62; 95% CI, 0.40-0.97; P =.03). A nonsignificant trend was seen toward fewer deaths (1.5% vs 2.8%; RR, 0.54; 95% CI, 0.16-1.70; P =.27) and nonfatal myocardial infarctions (2.6% vs 4.3%; RR, 0.60; 95% CI, 0.24-1.51; P =.27) with homocysteine-lowering therapy. These findings remained unchanged after adjustment for potential confounders.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Homocysteine-lowering therapy with folic acid, vitamin B12, and vitamin B6 significantly decreases the incidence of major adverse events after percutaneous coronary intervention.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Division of Cardiology, Swiss Cardiovascular Center Bern, University Hospital, Switzerland. g.schnyder@lycos.com
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Schnyder
+      </lastname>
+      <forename>
+       Guido
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Roffi
+      </lastname>
+      <forename>
+       Marco
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Flammer
+      </lastname>
+      <forename>
+       Yvonne
+      </forename>
+      <initials>
+       Y
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pin
+      </lastname>
+      <forename>
+       Riccardo
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hess
+      </lastname>
+      <forename>
+       Otto Martin
+      </forename>
+      <initials>
+       OM
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      454-28-4
+     </registrynumber>
+     <nameofsubstance>
+      Homocysteine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      59-30-3
+     </registrynumber>
+     <nameofsubstance>
+      Folic Acid
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      68-19-9
+     </registrynumber>
+     <nameofsubstance>
+      Vitamin B 12
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      8059-24-3
+     </registrynumber>
+     <nameofsubstance>
+      Vitamin B 6
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2003 Mar-Apr;138(2):33
+     </refsource>
+     <pmid version="1">
+      12614118
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Fam Pract. 2003 Jan;52(1):16-8
+     </refsource>
+     <pmid version="1">
+      12540303
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Angioplasty, Balloon, Coronary
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Coronary Angiography
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Coronary Stenosis
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Folic Acid
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Follow-Up Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Homocysteine
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vitamin B 12
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vitamin B 6
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      23
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      11
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      23
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12190367
+    </articleid>
+    <articleid idtype="pii">
+     joc12068
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

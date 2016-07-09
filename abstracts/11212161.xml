@@ -1,0 +1,696 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11212161
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     09
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     08
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0004-3591
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       44
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Jan
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Arthritis and rheumatism
+     </title>
+     <isoabbreviation>
+      Arthritis Rheum.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Two-year effects of alendronate on bone mineral density and vertebral fracture in patients receiving glucocorticoids: a randomized, double-blind, placebo-controlled extension trial.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      202-11
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To evaluate the continued efficacy and safety of alendronate (ALN) for up to 2 years in patients receiving glucocorticoids.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      This is a 12-month extension of a previously completed 1-year trial of daily ALN, performed to evaluate the effects of ALN over a total of 2 years in 66 men and 142 women continuing to receive at least 7.5 mg of prednisone or equivalent daily. All patients received supplemental calcium and vitamin D. The primary end point was the mean percentage change in lumbar spine bone mineral density (BMD) from baseline to 24 months. Other outcomes included changes in hip and total body BMD, biochemical markers of bone turnover, radiographic joint damage of the hands, and vertebral fracture incidence.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The mean (+/-SEM) lumbar spine BMD increased by 2.8 +/- 0.6%, 3.9 +/- 0.7%, and 3.7 +/- 0.6%, respectively, in the groups that received 5 mg, 10 mg, and 2.5/10 mg of ALN daily (P &lt; or = 0.001) and decreased by -0.8 +/- 0.6% in the placebo group (P not significant) over 24 months. In patients receiving any dose of ALN, BMD was increased at the trochanter (P &lt; or = 0.05) and maintained at the femoral neck. Total body BMD was increased in patients receiving 5 or 10 mg ALN (P &lt; or = 0.01). These 2 dose levels of ALN were more effective than placebo at all sites (P &lt; or = 0.05). Bone turnover markers (N-telopeptides of type I collagen and bone-specific alkaline phosphatase) decreased 60% and 25%, respectively, during treatment with ALN (P &lt; or = 0.05). There were fewer patients with new vertebral fractures in the ALN group versus the placebo group (0.7% versus 6.8%; P = 0.026). The safety profile was similar between treatment groups.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Alendronate is an effective, well-tolerated therapy for the prevention and treatment of glucocorticoid-induced osteoporosis, with sustained treatment advantages for up to 2 years.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Medicine, McMaster University, Hamilton, Ontario, Canada.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Adachi
+      </lastname>
+      <forename>
+       J D
+      </forename>
+      <initials>
+       JD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Saag
+      </lastname>
+      <forename>
+       K G
+      </forename>
+      <initials>
+       KG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Delmas
+      </lastname>
+      <forename>
+       P D
+      </forename>
+      <initials>
+       PD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Liberman
+      </lastname>
+      <forename>
+       U A
+      </forename>
+      <initials>
+       UA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Emkey
+      </lastname>
+      <forename>
+       R D
+      </forename>
+      <initials>
+       RD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Seeman
+      </lastname>
+      <forename>
+       E
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lane
+      </lastname>
+      <forename>
+       N E
+      </forename>
+      <initials>
+       NE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kaufman
+      </lastname>
+      <forename>
+       J M
+      </forename>
+      <initials>
+       JM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Poubelle
+      </lastname>
+      <forename>
+       P E
+      </forename>
+      <initials>
+       PE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hawkins
+      </lastname>
+      <forename>
+       F
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Correa-Rotter
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Menkes
+      </lastname>
+      <forename>
+       C J
+      </forename>
+      <initials>
+       CJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rodriguez-Portales
+      </lastname>
+      <forename>
+       J A
+      </forename>
+      <initials>
+       JA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schnitzer
+      </lastname>
+      <forename>
+       T J
+      </forename>
+      <initials>
+       TJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Block
+      </lastname>
+      <forename>
+       J A
+      </forename>
+      <initials>
+       JA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wing
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McIlwain
+      </lastname>
+      <forename>
+       H H
+      </forename>
+      <initials>
+       HH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Westhovens
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Brown
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Melo-Gomes
+      </lastname>
+      <forename>
+       J A
+      </forename>
+      <initials>
+       JA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gruber
+      </lastname>
+      <forename>
+       B L
+      </forename>
+      <initials>
+       BL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Yanover
+      </lastname>
+      <forename>
+       M J
+      </forename>
+      <initials>
+       MJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Leite
+      </lastname>
+      <forename>
+       M O
+      </forename>
+      <initials>
+       MO
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Siminoski
+      </lastname>
+      <forename>
+       K G
+      </forename>
+      <initials>
+       KG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Nevitt
+      </lastname>
+      <forename>
+       M C
+      </forename>
+      <initials>
+       MC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sharp
+      </lastname>
+      <forename>
+       J T
+      </forename>
+      <initials>
+       JT
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Malice
+      </lastname>
+      <forename>
+       M P
+      </forename>
+      <initials>
+       MP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dumortier
+      </lastname>
+      <forename>
+       T
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Czachur
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Carofano
+      </lastname>
+      <forename>
+       W
+      </forename>
+      <initials>
+       W
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Daifotis
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       RR-00059
+      </grantid>
+      <acronym>
+       RR
+      </acronym>
+      <agency>
+       NCRR NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Arthritis Rheum
+    </medlineta>
+    <nlmuniqueid>
+     0370605
+    </nlmuniqueid>
+    <issnlinking>
+     0004-3591
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Glucocorticoids
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Placebos
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      66376-36-1
+     </registrynumber>
+     <nameofsubstance>
+      Alendronate
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Alendronate
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      pharmacology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Arthrography
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bone Density
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bone Resorption
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Glucocorticoids
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Joints
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Placebos
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pharmacology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Spinal Fractures
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Time Factors
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      12
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      12
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11212161
+    </articleid>
+    <articleid idtype="doi">
+     10.1002/1529-0131(200101)44:1&lt;202::AID-ANR27&gt;3.0.CO;2-W
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,653 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15824412
+   </pmid>
+   <datecreated>
+    <year>
+     2005
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     12
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     08
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1488-2329
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       172
+      </volume>
+      <issue>
+       8
+      </issue>
+      <pubdate>
+       <year>
+        2005
+       </year>
+       <month>
+        Apr
+       </month>
+       <day>
+        12
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne
+     </title>
+     <isoabbreviation>
+      CMAJ
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Intra-articular hyaluronic acid for the treatment of osteoarthritis of the knee: systematic review and meta-analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1039-43
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Osteoarthritis of the knee affects up to 10% of the elderly population. The condition is frequently treated by intra-articular injection of hyaluronic acid. We performed a systematic review and meta-analysis of randomized controlled trials to assess the effectiveness of this treatment.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We searched MEDLINE, EMBASE, CINAHL, BIOSIS and the Cochrane Controlled Trial Register from inception until April 2004 using a combination of search terms for knee osteoarthritis and hyaluronic acid and a filter for randomized controlled trials. We extracted data on pain at rest, pain during or immediately after movement, joint function and adverse events.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Twenty-two trials that reported usable quantitative information on any of the predefined end points were identified and included in the systematic review. Even though pain at rest may be improved by hyaluronic acid, the data available from these studies did not allow an appropriate assessment of this end point. Patients who received the intervention experienced a reduction in pain during movement: the mean difference on a 100-mm visual analogue scale was -3.8 mm (95% confidence interval [CI] -9.1 to 1.4 mm) after 2-6 weeks, -4.3 mm (95% CI -7.6 to -0.9 mm) after 10-14 weeks and -7.1 mm (95% CI -11.8 to -2.4 mm) after 22-30 weeks. However, this effect was not compatible with a clinically meaningful difference (expected to be about 15 mm on the visual analogue scale). Furthermore, the effect was exaggerated by trials not reporting an intention-to-treat analysis. No improvement in knee function was observed at any time point. Even so, the effect of hyaluronic acid on knee function was more favourable when allocation was not concealed. Adverse events occurred slightly more often among patients who received the intervention (relative risk 1.08, 95% CI 1.01 to 1.15). Only 4 trials explicitly reported allocation concealment, had blinded outcome assessment and presented intention-to-treat data.
+     </abstracttext>
+     <abstracttext label="INTERPRETATION" nlmcategory="CONCLUSIONS">
+      According to the currently available evidence, intra-articular hyaluronic acid has not been proven clinically effective and may be associated with a greater risk of adverse events. Large trials with clinically relevant and uniform end points are necessary to clarify the benefit-risk ratio.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Emergency Medicine, Medizin Universität Wien, Vienna, Austria.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Arrich
+      </lastname>
+      <forename>
+       Jasmin
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Piribauer
+      </lastname>
+      <forename>
+       Franz
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Mad
+      </lastname>
+      <forename>
+       Philipp
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schmid
+      </lastname>
+      <forename>
+       Daniela
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Klaushofer
+      </lastname>
+      <forename>
+       Klaus
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Müllner
+      </lastname>
+      <forename>
+       Marcus
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     Canada
+    </country>
+    <medlineta>
+     CMAJ
+    </medlineta>
+    <nlmuniqueid>
+     9711805
+    </nlmuniqueid>
+    <issnlinking>
+     0820-3946
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      9004-61-9
+     </registrynumber>
+     <nameofsubstance>
+      Hyaluronic Acid
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Rheum Dis. 1996 Jul;55(7):424-31
+     </refsource>
+     <pmid version="1">
+      8774159
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Zhonghua Yi Xue Za Zhi (Taipei). 1997 Feb;59(2):99-106
+     </refsource>
+     <pmid version="1">
+      9175299
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1997 Sep 20;350(9081):834-43
+     </refsource>
+     <pmid version="1">
+      9310601
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Ther. 1998 May-Jun;20(3):410-23
+     </refsource>
+     <pmid version="1">
+      9663358
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1998 Aug 22;352(9128):609-13
+     </refsource>
+     <pmid version="1">
+      9746022
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Rheumatol. 1998 Nov;25(11):2203-12
+     </refsource>
+     <pmid version="1">
+      9818665
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Rheumatology (Oxford). 1999 Jul;38(7):602-7
+     </refsource>
+     <pmid version="1">
+      10461471
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1999 Sep 15;282(11):1054-60
+     </refsource>
+     <pmid version="1">
+      10493204
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Stat Med. 1999 Oct 30;18(20):2693-708
+     </refsource>
+     <pmid version="1">
+      10521860
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 2000 Sep;43(9):1905-15
+     </refsource>
+     <pmid version="1">
+      11014340
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Rheum Dis. 2000 Dec;59(12):936-44
+     </refsource>
+     <pmid version="1">
+      11087696
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Rheum Dis. 2001 Feb;60(2):91-7
+     </refsource>
+     <pmid version="1">
+      11156538
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Exp Rheumatol. 2001 May-Jun;19(3):265-70
+     </refsource>
+     <pmid version="1">
+      11407078
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 2001 Jul 14;323(7304):101-5
+     </refsource>
+     <pmid version="1">
+      11451790
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Osteoarthritis Cartilage. 1994 Jun;2(2):133-40
+     </refsource>
+     <pmid version="1">
+      11548229
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 2001 Nov 10;323(7321):1123-4
+     </refsource>
+     <pmid version="1">
+      11701584
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Intern Med. 2002 Feb 11;162(3):245-7
+     </refsource>
+     <pmid version="1">
+      11822915
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Intern Med. 2002 Feb 11;162(3):292-8
+     </refsource>
+     <pmid version="1">
+      11822921
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Med Assoc Thai. 2001 Oct;84 Suppl 2:S576-81
+     </refsource>
+     <pmid version="1">
+      11853284
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Stat Med. 2002 Jun 15;21(11):1539-58
+     </refsource>
+     <pmid version="1">
+      12111919
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Rheumatology (Oxford). 2002 Nov;41(11):1240-8
+     </refsource>
+     <pmid version="1">
+      12421996
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Health Technol Assess. 2003;7(1):1-76
+     </refsource>
+     <pmid version="1">
+      12583822
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Res Ther. 2003;5(2):54-67
+     </refsource>
+     <pmid version="1">
+      12718745
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int J Clin Pract. 2003 Jul-Aug;57(6):467-74
+     </refsource>
+     <pmid version="1">
+      12918884
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Bone. 2003 Oct;33(4):703-10
+     </refsource>
+     <pmid version="1">
+      14555276
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Rheumatology (Oxford). 2004 Mar;43(3):381-4
+     </refsource>
+     <pmid version="1">
+      14623948
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Rheum Dis. 2003 Dec;62(12):1145-55
+     </refsource>
+     <pmid version="1">
+      14644851
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 2003 Dec 17;290(23):3115-21
+     </refsource>
+     <pmid version="1">
+      14679274
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 2004 Jan;50(1):314-26
+     </refsource>
+     <pmid version="1">
+      14730630
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Bone Joint Surg Am. 2004 Mar;86-A(3):538-45
+     </refsource>
+     <pmid version="1">
+      14996880
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Rheumatol. 2004 Apr;31(4):775-82
+     </refsource>
+     <pmid version="1">
+      15088306
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Osteoarthritis Cartilage. 1993 Oct;1(4):233-41
+     </refsource>
+     <pmid version="1">
+      15449510
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Curr Med Res Opin. 1988;11(4):205-13
+     </refsource>
+     <pmid version="1">
+      3063436
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pharmatherapeutica. 1987;5(2):137-41
+     </refsource>
+     <pmid version="1">
+      3310017
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1995 Feb 1;273(5):408-12
+     </refsource>
+     <pmid version="1">
+      7823387
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Rheum Dis. 1994 Aug;53(8):529-34
+     </refsource>
+     <pmid version="1">
+      7944639
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 1994 Apr;37(4):521-8
+     </refsource>
+     <pmid version="1">
+      8147929
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Rheumatol. 1993 Mar;20(3):557-60
+     </refsource>
+     <pmid version="1">
+      8478873
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hyaluronic Acid
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Injections, Intra-Articular
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Osteoarthritis, Knee
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pain
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Regression Analysis
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    53
+   </numberofreferences>
+   <otherid source="NLM">
+    PMC556045
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2005
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2005
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     172/8/1039
+    </articleid>
+    <articleid idtype="doi">
+     10.1503/cmaj.1041203
+    </articleid>
+    <articleid idtype="pubmed">
+     15824412
+    </articleid>
+    <articleid idtype="pmc">
+     PMC556045
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

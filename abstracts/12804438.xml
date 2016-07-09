@@ -1,0 +1,321 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12804438
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     13
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     28
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Alpha-fetoprotein and/or liver ultrasonography for liver cancer screening in patients with chronic hepatitis B.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD002799
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Chronic hepatitis B infection may cause liver cancer (hepatocellular carcinoma (HCC)). Alpha-fetoprotein (AFP) and liver ultrasonography (US) are used to screen these patients for HCC. It is uncertain whether screening is worthwhile.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To review randomized trials on screening for HCC with alpha-fetoprotein and/or liver ultrasonography among people with hepatitis B surface antigen (HBsAg) whether asymptomatic or with clinical liver disease.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      Relevant reports were searched from electronic databases until August 2002 (The Cochrane Hepato-Biliary Group Controlled Trials Register, The Cochrane Controlled Trials Register, MEDLINE, EMBASE, HealthStar, and the Chinese Medical Literature Electronic Databases, MedCyber) supplemented with manual searches on the bibliographies of papers found and communication to people familiar with chronic hepatitis B.
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      Randomized trials on screening for liver cancer were included irrespective of language. Studies were excluded if the hepatitis B status was uncertain, if patients were not adequately followed, if the screening tests were not sensitive, widely-used ones, or if the test was used for diagnosis rather than screening for HCC.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      We analyzed independently all the studies considered for inclusion. We wrote to the relevant authors for further information. Data were analyzed with Peto's odds ratio (OR) with 95% confidence interval (CI).
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      Two trials met the selection criteria. One trial (n = 18,816) compared bi-annual AFP plus US screening with no screening for five years. No data on all-cause mortality were available. The two groups did not differ significantly regarding HCC mortality (OR 0.81; 95% CI 0.54 to 1.22). Number of patients with HCC was significantly increased in the screeened group (OR 1.37; 95% CI 1.00 to 1.88). Most HCCs in the screened group, but none in the control group, were at an early stage. The survival rate of patients with resected HCC in the screened group reached 52.7% after three and five years, but was 0% for those in the control group. The authors' estimated lead-time for HCC was 5.4 months, suggesting that screening prolonged the survival of HCC. Another trial (n = 1069) compared AFP plus US versus AFP screening, but could not decide which approach was superior due to the small sample size (number of detected HCC: OR 0.74; 95% CI 0.26 to 2.12).
+     </abstracttext>
+     <abstracttext label="REVIEWER'S CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      There are not enough quality trials to support or refute screening of HBsAg-positive patients for HCC. It is possible that screening may be effective, but also that harm caused by screening/treatment may outweigh any gain. More and better-designed large randomized trials are required.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Research Committee, Hong Kong College of Family Physicians, Room 701, Hong Kong Academy of Medicine Jockey Club Building, 99 Wong Chuk Hang Road, Aberdeen, Hong Kong, China. ytwun@alumni.cuhk.net
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Wun
+      </lastname>
+      <forename>
+       Y T
+      </forename>
+      <initials>
+       YT
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dickinson
+      </lastname>
+      <forename>
+       J A
+      </forename>
+      <initials>
+       JA
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Biological Markers
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Hepatitis B Surface Antigens
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      alpha-Fetoproteins
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Biological Markers
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Carcinoma, Hepatocellular
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      ultrasonography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hepatitis B Surface Antigens
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hepatitis B, Chronic
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      complications
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Liver Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      ultrasonography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      alpha-Fetoproteins
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      analysis
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    79
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      14
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      29
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      14
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12804438
+    </articleid>
+    <articleid idtype="doi">
+     10.1002/14651858.CD002799
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

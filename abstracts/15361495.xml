@@ -1,0 +1,690 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15361495
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     13
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     29
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0017-5749
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       53
+      </volume>
+      <issue>
+       10
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Oct
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Gut
+     </title>
+     <isoabbreviation>
+      Gut
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Food elimination based on IgG antibodies in irritable bowel syndrome: a randomised controlled trial.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1459-64
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Patients with irritable bowel syndrome (IBS) often feel they have some form of dietary intolerance and frequently try exclusion diets. Tests attempting to predict food sensitivity in IBS have been disappointing but none has utilised IgG antibodies.
+     </abstracttext>
+     <abstracttext label="AIMS" nlmcategory="OBJECTIVE">
+      To assess the therapeutic potential of dietary elimination based on the presence of IgG antibodies to food.
+     </abstracttext>
+     <abstracttext label="PATIENTS" nlmcategory="METHODS">
+      A total of 150 outpatients with IBS were randomised to receive, for three months, either a diet excluding all foods to which they had raised IgG antibodies (enzyme linked immunosorbant assay test) or a sham diet excluding the same number of foods but not those to which they had antibodies.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Primary outcome measures were change in IBS symptom severity and global rating scores. Non-colonic symptomatology, quality of life, and anxiety/depression were secondary outcomes. Intention to treat analysis was undertaken using a generalised linear model.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      After 12 weeks, the true diet resulted in a 10% greater reduction in symptom score than the sham diet (mean difference 39 (95% confidence intervals (CI) 5-72); p = 0.024) with this value increasing to 26% in fully compliant patients (difference 98 (95% CI 52-144); p&lt;0.001). Global rating also significantly improved in the true diet group as a whole (p = 0.048, NNT = 9) and even more in compliant patients (p = 0.006, NNT = 2.5). All other outcomes showed trends favouring the true diet. Relaxing the diet led to a 24% greater deterioration in symptoms in those on the true diet (difference 52 (95% CI 18-88); p = 0.003).
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Food elimination based on IgG antibodies may be effective in reducing IBS symptoms and is worthy of further biomedical research.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Medicine, University Hospital of South Manchester, Manchester M20 2LR, UK.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Atkinson
+      </lastname>
+      <forename>
+       W
+      </forename>
+      <initials>
+       W
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sheldon
+      </lastname>
+      <forename>
+       T A
+      </forename>
+      <initials>
+       TA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Shaath
+      </lastname>
+      <forename>
+       N
+      </forename>
+      <initials>
+       N
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Whorwell
+      </lastname>
+      <forename>
+       P J
+      </forename>
+      <initials>
+       PJ
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Gut
+    </medlineta>
+    <nlmuniqueid>
+     2985108R
+    </nlmuniqueid>
+    <issnlinking>
+     0017-5749
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Immunoglobulin G
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Gut. 2001 Dec;49(6):743-5
+     </refsource>
+     <pmid version="1">
+      11709500
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int Arch Allergy Appl Immunol. 1988;87(2):184-8
+     </refsource>
+     <pmid version="1">
+      3192305
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Gastroenterology. 2002 Jun;122(7):1778-83
+     </refsource>
+     <pmid version="1">
+      12055584
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Gastroenterology. 2002 Jun;122(7):2078-80
+     </refsource>
+     <pmid version="1">
+      12055614
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 2002 Aug 17;360(9332):555-64
+     </refsource>
+     <pmid version="1">
+      12241674
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Aliment Pharmacol Ther. 2002 Nov;16(11):1877-88
+     </refsource>
+     <pmid version="1">
+      12390096
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Gastroenterology. 2002 Dec;123(6):2108-31
+     </refsource>
+     <pmid version="1">
+      12454866
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Gut. 2003 Jan;52(1):91-3
+     </refsource>
+     <pmid version="1">
+      12477767
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Respir Med. 2003 Jan;97(1):75-9
+     </refsource>
+     <pmid version="1">
+      12556015
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Aliment Pharmacol Ther. 2003 Mar 1;17(5):623-33
+     </refsource>
+     <pmid version="1">
+      12641510
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Vet Immunol Immunopathol. 2003 May 12;92(3-4):113-24
+     </refsource>
+     <pmid version="1">
+      12730012
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Psychosom Res. 2004 Mar;56(3):271-8
+     </refsource>
+     <pmid version="1">
+      15046962
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Allergy. 1992 Jun;47(3):218-29
+     </refsource>
+     <pmid version="1">
+      1510234
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Clin Pract. 1987 Dec;41(12):1041-3
+     </refsource>
+     <pmid version="1">
+      3504322
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Gastroenterol. 1987 Oct;9(5):526-8
+     </refsource>
+     <pmid version="1">
+      3680901
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Allergy. 1985 Jun;54(6):538-40
+     </refsource>
+     <pmid version="1">
+      4014782
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int Arch Allergy Appl Immunol. 1985;77(4):416-22
+     </refsource>
+     <pmid version="1">
+      4018884
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1982 Nov 20;2(8308):1115-7
+     </refsource>
+     <pmid version="1">
+      6128447
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1983 Aug 6;2(8345):295-7
+     </refsource>
+     <pmid version="1">
+      6135828
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Allergy. 1983 Aug;51(2 Pt 2):255
+     </refsource>
+     <pmid version="1">
+      6192737
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Acta Psychiatr Scand. 1983 Jun;67(6):361-70
+     </refsource>
+     <pmid version="1">
+      6880820
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Immunol. 1994 May 1;152(9):4663-70
+     </refsource>
+     <pmid version="1">
+      8157979
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Aliment Pharmacol Ther. 1996 Feb;10(1):91-5
+     </refsource>
+     <pmid version="1">
+      8871448
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Exp Allergy. 1997 Mar;27(3):325-32
+     </refsource>
+     <pmid version="1">
+      9088659
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Aliment Pharmacol Ther. 1997 Apr;11(2):395-402
+     </refsource>
+     <pmid version="1">
+      9146781
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Gastroenterol. 1998 Nov;93(11):2184-90
+     </refsource>
+     <pmid version="1">
+      9820394
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Gastroenterol. 2002 Apr;97(4):954-61
+     </refsource>
+     <pmid version="1">
+      12003432
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Gut. 1986 Apr;27(4):452-6
+     </refsource>
+     <pmid version="1">
+      3082725
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Allergy. 1989 Feb;62(2):94-9
+     </refsource>
+     <pmid version="1">
+      2919809
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Gut. 1989 Aug;30(8):1099-104
+     </refsource>
+     <pmid version="1">
+      2767507
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Gut. 1999 Jul;45(1):1-4
+     </refsource>
+     <pmid version="1">
+      10369691
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Gut. 2000 Dec;47(6):804-11
+     </refsource>
+     <pmid version="1">
+      11076879
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Intern Med. 2001 Apr 17;134(8):663-94
+     </refsource>
+     <pmid version="1">
+      11304107
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Hum Nutr Diet. 2001 Jun;14(3):231-41
+     </refsource>
+     <pmid version="1">
+      11424515
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pharmacoeconomics. 2001;19(6):643-53
+     </refsource>
+     <pmid version="1">
+      11456212
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Allergy Proc. 1991 Sep-Oct;12(5):305-7
+     </refsource>
+     <pmid version="1">
+      1959767
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Pediatr Gastroenterol Nutr. 1990 Jul;11(1):72-7
+     </refsource>
+     <pmid version="1">
+      2117653
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Gut. 2004 Oct;53(10):1391-3
+     </refsource>
+     <pmid version="1">
+      15361481
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Gut. 2005 Aug;54(8):1203; author reply 1203
+     </refsource>
+     <pmid version="1">
+      16009694
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Gut. 2005 Apr;54(4):567
+     </refsource>
+     <pmid version="1">
+      15753552
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Gut. 2005 Apr;54(4):566
+     </refsource>
+     <pmid version="1">
+      15753547
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Food Hypersensitivity
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      diet therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      immunology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Immunoglobulin G
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      biosynthesis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Irritable Bowel Syndrome
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diet therapy
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      immunology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Patient Compliance
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Severity of Illness Index
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC1774223
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      14
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      14
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     15361495
+    </articleid>
+    <articleid idtype="doi">
+     10.1136/gut.2003.037697
+    </articleid>
+    <articleid idtype="pii">
+     53/10/1459
+    </articleid>
+    <articleid idtype="pmc">
+     PMC1774223
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

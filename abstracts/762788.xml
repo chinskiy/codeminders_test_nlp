@@ -1,0 +1,329 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    762788
+   </pmid>
+   <datecreated>
+    <year>
+     1979
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     26
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1979
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     26
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     19
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       241
+      </volume>
+      <issue>
+       12
+      </issue>
+      <pubdate>
+       <year>
+        1979
+       </year>
+       <month>
+        Mar
+       </month>
+       <day>
+        23
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Toxic effects of isoniazid in tuberculosis chemoprophylaxis. Role of biochemical monitoring in 1,000 patients.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1239-41
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      One thousand patients receiving isoniazid chemoprophylaxis were prospectively followed up to assess the value of liver function monitoring plus monthly clinical evaluation. Two hundred twenty-two (22.2%) of the patients had at least one elevated SGOT level during the course of treatment, and 47 asymptomatic persons had isoniazid therapy discontinued because of consistent elevations greater than five times normal. Another 17 had symptoms in association with elevated SGOT levels, and therapy was stopped in these patients as well. No patient became seriously ill, and there were no deaths. Biochemical monitoring should be done routinely in patients receiving isoniazid chemoprophylaxis to avoid the development of irreversible hepatic reactions.
+     </abstracttext>
+    </abstract>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Byrd
+      </lastname>
+      <forename>
+       R B
+      </forename>
+      <initials>
+       RB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Horn
+      </lastname>
+      <forename>
+       B R
+      </forename>
+      <initials>
+       BR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Solomon
+      </lastname>
+      <forename>
+       D A
+      </forename>
+      <initials>
+       DA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Griggs
+      </lastname>
+      <forename>
+       G A
+      </forename>
+      <initials>
+       GA
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      54-85-3
+     </registrynumber>
+     <nameofsubstance>
+      Isoniazid
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      EC 2.6.1.1
+     </registrynumber>
+     <nameofsubstance>
+      Aspartate Aminotransferases
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aspartate Aminotransferases
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug-Induced Liver Injury
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Isoniazid
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Liver
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Monitoring, Physiologic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tuberculosis, Pulmonary
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1979
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      23
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1979
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      23
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1979
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      23
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     762788
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

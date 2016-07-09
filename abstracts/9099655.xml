@@ -1,0 +1,490 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    9099655
+   </pmid>
+   <datecreated>
+    <year>
+     1997
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     17
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1997
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     17
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0028-4793
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       336
+      </volume>
+      <issue>
+       16
+      </issue>
+      <pubdate>
+       <year>
+        1997
+       </year>
+       <month>
+        Apr
+       </month>
+       <day>
+        17
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     A clinical trial of the effects of dietary patterns on blood pressure. DASH Collaborative Research Group.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1117-24
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      It is known that obesity, sodium intake, and alcohol consumption factors influence blood pressure. In this clinical trial, Dietary Approaches to Stop Hypertension, we assessed the effects of dietary patterns on blood pressure.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We enrolled 459 adults with systolic blood pressures of less than 160 mm Hg and diastolic blood pressures of 80 to 95 mm Hg. For three weeks, the subjects were fed a control diet that was low in fruits, vegetables, and dairy products, with a fat content typical of the average diet in the United States. They were then randomly assigned to receive for eight weeks the control diet, a diet rich in fruits and vegetables, or a "combination" diet rich in fruits, vegetables, and low-fat dairy products and with reduced saturated and total fat. Sodium intake and body weight were maintained at constant levels.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      At base line, the mean (+/-SD) systolic and diastolic blood pressures were 131.3+/-10.8 mm Hg and 84.7+/-4.7 mm Hg, respectively. The combination diet reduced systolic and diastolic blood pressure by 5.5 and 3.0 mm Hg more, respectively, than the control diet (P&lt;0.001 for each); the fruits-and-vegetables diet reduced systolic blood pressure by 2.8 mm Hg more (P&lt;0.001) and diastolic blood pressure by 1.1 mm Hg more than the control diet (P=0.07). Among the 133 subjects with hypertension (systolic pressure, &gt; or =140 mm Hg; diastolic pressure, &gt; or =90 mm Hg; or both), the combination diet reduced systolic and diastolic blood pressure by 11.4 and 5.5 mm Hg more, respectively, than the control diet (P&lt;0.001 for each); among the 326 subjects without hypertension, the corresponding reductions were 3.5 mm Hg (P&lt;0.001) and 2.1 mm Hg (P=0.003).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      A diet rich in fruits, vegetables, and low-fat dairy foods and with reduced saturated and total fat can substantially lower blood pressure. This diet offers an additional nutritional approach to preventing and treating hypertension.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Welch Center for Prevention, Epidemiology, and Clinical Research, Johns Hopkins University, Baltimore, MD, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Appel
+      </lastname>
+      <forename>
+       L J
+      </forename>
+      <initials>
+       LJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Moore
+      </lastname>
+      <forename>
+       T J
+      </forename>
+      <initials>
+       TJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Obarzanek
+      </lastname>
+      <forename>
+       E
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Vollmer
+      </lastname>
+      <forename>
+       W M
+      </forename>
+      <initials>
+       WM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Svetkey
+      </lastname>
+      <forename>
+       L P
+      </forename>
+      <initials>
+       LP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sacks
+      </lastname>
+      <forename>
+       F M
+      </forename>
+      <initials>
+       FM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bray
+      </lastname>
+      <forename>
+       G A
+      </forename>
+      <initials>
+       GA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Vogt
+      </lastname>
+      <forename>
+       T M
+      </forename>
+      <initials>
+       TM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cutler
+      </lastname>
+      <forename>
+       J A
+      </forename>
+      <initials>
+       JA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Windhauser
+      </lastname>
+      <forename>
+       M M
+      </forename>
+      <initials>
+       MM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lin
+      </lastname>
+      <forename>
+       P H
+      </forename>
+      <initials>
+       PH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Karanja
+      </lastname>
+      <forename>
+       N
+      </forename>
+      <initials>
+       N
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="N">
+     <grant>
+      <grantid>
+       HL50968
+      </grantid>
+      <acronym>
+       HL
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       HL50972
+      </grantid>
+      <acronym>
+       HL
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       HL50981
+      </grantid>
+      <acronym>
+       HL
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Dietary Fats
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 1997 Aug 28;337(9):637; author reply 637-8
+     </refsource>
+     <pmid version="1">
+      9280833
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 1997 Aug 28;337(9):637; author reply 637-8
+     </refsource>
+     <pmid version="1">
+      9280834
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 1997 Aug 28;337(9):636-7; author reply 637-8
+     </refsource>
+     <pmid version="1">
+      9280832
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Pressure
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      physiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dairy Products
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diet
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dietary Fats
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Food Habits
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      physiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fruit
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertension
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diet therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Meat
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vegetables
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1997
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      17
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1997
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      17
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1997
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      17
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     9099655
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJM199704173361601
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

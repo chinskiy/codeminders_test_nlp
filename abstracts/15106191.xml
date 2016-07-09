@@ -1,0 +1,370 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15106191
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     23
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     17
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2008
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Addition of anti-leukotriene agents to inhaled corticosteroids for chronic asthma.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD003133
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Anti-leukotriene (AL) agents are being considered as 'add-on' therapy to inhaled corticosteroids (ICS), in chronic asthma.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To examine the safety and efficacy of daily AL plus ICS compared to ICS alone, and determine the corticosteroid-sparing effect of AL when added to ICS in chronic asthma.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      We searched MEDLINE, EMBASE, CINAHL (until August 2003), reference lists of review articles and trials, contacted international headquarters of AL manufacturers and looked at American Thoracic Society and European Respiratory Society meeting abstracts (1998 to 2003).
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      Randomised placebo-controlled trials of asthmatics aged two years and older with at least one month intervention.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      Two reviewers assessed quality and extracted data independently. Trials were grouped by asthma control at baseline (symptomatic or well-controlled) and dose of ICS in the control group (same or double).
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      Of 587 citations, 27 (25 adult and 2 paediatric) trials met inclusion criteria. Sixteen trials were published in full-text and 16 trials reported data in a way that allowed meta-analysis. In symptomatic patients, addition of licensed doses of anti-leukotrienes to ICS resulted in a non-significant reduction in the risk of exacerbations requiring systemic steroids: Relative Risk (RR) 0.64; 95% Confidence Interval (CI) 0.38 to 1.07). A modest improvement group difference in PEF was seen (Weighted Mean Difference (WMD) 7.7 L/min; 95% CI 3.6 to 11.8 L/min) together with decrease in use of rescue short-acting beta2-agonist use (WMD 1 puff/week; 95%CI 0.5 to 2). With only 3 trials comparing the use of licensed doses of anti-leukotrienes with increasing the dose of inhaled glucocorticoids, no firm conclusion can be drawn about the equivalence of both treatment options. In ICS-sparing studies of patients who were well controlled at baseline, addition of anti-leukotrienes produced no overall difference in dose of inhaled glucocorticoids (WMD -21 mcg/d, 95%CI -65, 23 mcg/d), but it was associated with fewer withdrawals due to poor asthma control (RR 0.63, 95% CI 0.42 to 0.95).
+     </abstracttext>
+     <abstracttext label="REVIEWERS' CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The addition of licensed doses of anti-leukotrienes to add-on therapy to inhaled glucocorticoids brings modest improvement in lung function. Although addition of anti-leukotrienes to inhaled glucocorticoids appears comparable to increasing the dose of inhaled steroids, the power of the review is insufficient to confirm the equivalence of both treatment options. Addition of anti-leukotrienes is associated with superior asthma control after glucocorticoid tapering; although the glucocorticoid-sparing effect cannot be quantified at present, it appears modest.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Pediatrics and Epidemiology &amp; Biostatistics, McGill University Health Centre, Montreal Chidren's Hospital, 2300 Tupper Street, Room C-538E, Montreal, Quebec, Canada, H3H 1P3.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Ducharme
+      </lastname>
+      <forename>
+       F
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schwartz
+      </lastname>
+      <forename>
+       Z
+      </forename>
+      <initials>
+       Z
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hicks
+      </lastname>
+      <forename>
+       G
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kakuma
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Asthmatic Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Inflammatory Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Leukotriene Antagonists
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Steroids
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Ann Emerg Med. 2008 May;51(5):663-5
+     </refsource>
+     <pmid version="1">
+      18453027
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2004 Nov-Dec;141(3):73
+     </refsource>
+     <pmid version="1">
+      15518457
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="UpdateOf">
+     <refsource>
+      Cochrane Database Syst Rev. 2002;(1):CD003133
+     </refsource>
+     <pmid version="1">
+      11869653
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Administration, Inhalation
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Asthmatic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Inflammatory Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Asthma
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Chronic Disease
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Therapy, Combination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Leukotriene Antagonists
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Steroids
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    234
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     15106191
+    </articleid>
+    <articleid idtype="doi">
+     10.1002/14651858.CD003133.pub2
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

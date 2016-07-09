@@ -1,0 +1,633 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11211366
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     09
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     08
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0890-8567
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       40
+      </volume>
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Feb
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of the American Academy of Child and Adolescent Psychiatry
+     </title>
+     <isoabbreviation>
+      J Am Acad Child Adolesc Psychiatry
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Impairment and deportment responses to different methylphenidate doses in children with ADHD: the MTA titration trial.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      180-7
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      Results of the NIMH Collaborative Multisite Multimodal Treatment Study of Children With Attention-Deficit/Hyperactivity Disorder (MTA) were analyzed to determine whether a double-blind, placebo-controlled methylphenidate (MPH) titration trial identified the best MPH dose for each child with attention-deficit/hyperactivity disorder (ADHD).
+     </abstracttext>
+     <abstracttext label="METHOD" nlmcategory="METHODS">
+      Children with ADHD assigned to MTA medication treatment groups (n = 289) underwent a controlled 28-day titration protocol that administered different MPH doses (placebo, low, middle, and high) on successive days.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      A repeated-measures analysis of variance revealed main effects for MPH dose with greater effects on teacher ratings of impairment and deportment (F3 = 100.6, n = 223, p = .0001; effect sizes 0.8-1.3) than on parent ratings of similar endpoints (F3 = 55.61, n = 253, p = .00001; effect sizes 0.4-0.6). Dose did not interact with period, dose order, comorbid diagnosis, site, or treatment group.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The MTA titration protocol validated the efficacy of weekend MPH dosing and established a total daily dose limit of 35 mg of MPH for children weighing less than 25 kg. It replicated previously reported MPH response rates (77%), distribution of best doses (10-50 mg/day) across subjects, effect sizes on impairment and deportment, as well as dose-related adverse events.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Clinical Psychiatry, Department of Psychiatry, Columbia University, New York, USA. LarryLGreenhill@cs.com
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Greenhill
+      </lastname>
+      <forename>
+       L L
+      </forename>
+      <initials>
+       LL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Swanson
+      </lastname>
+      <forename>
+       J M
+      </forename>
+      <initials>
+       JM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Vitiello
+      </lastname>
+      <forename>
+       B
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Davies
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Clevenger
+      </lastname>
+      <forename>
+       W
+      </forename>
+      <initials>
+       W
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wu
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Arnold
+      </lastname>
+      <forename>
+       L E
+      </forename>
+      <initials>
+       LE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Abikoff
+      </lastname>
+      <forename>
+       H B
+      </forename>
+      <initials>
+       HB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bukstein
+      </lastname>
+      <forename>
+       O G
+      </forename>
+      <initials>
+       OG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Conners
+      </lastname>
+      <forename>
+       C K
+      </forename>
+      <initials>
+       CK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Elliott
+      </lastname>
+      <forename>
+       G R
+      </forename>
+      <initials>
+       GR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hechtman
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hinshaw
+      </lastname>
+      <forename>
+       S P
+      </forename>
+      <initials>
+       SP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hoza
+      </lastname>
+      <forename>
+       B
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jensen
+      </lastname>
+      <forename>
+       P S
+      </forename>
+      <initials>
+       PS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kraemer
+      </lastname>
+      <forename>
+       H C
+      </forename>
+      <initials>
+       HC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       March
+      </lastname>
+      <forename>
+       J S
+      </forename>
+      <initials>
+       JS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Newcorn
+      </lastname>
+      <forename>
+       J H
+      </forename>
+      <initials>
+       JH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Severe
+      </lastname>
+      <forename>
+       J B
+      </forename>
+      <initials>
+       JB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wells
+      </lastname>
+      <forename>
+       K
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wigal
+      </lastname>
+      <forename>
+       T
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       5 UO1-MH50454-02
+      </grantid>
+      <acronym>
+       MH
+      </acronym>
+      <agency>
+       NIMH NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       UO1 MH50440
+      </grantid>
+      <acronym>
+       MH
+      </acronym>
+      <agency>
+       NIMH NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       UO1 MH50447
+      </grantid>
+      <acronym>
+       MH
+      </acronym>
+      <agency>
+       NIMH NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       UO1 MH50453
+      </grantid>
+      <acronym>
+       MH
+      </acronym>
+      <agency>
+       NIMH NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       UO1 MH50454
+      </grantid>
+      <acronym>
+       MH
+      </acronym>
+      <agency>
+       NIMH NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       UO1 MH50461
+      </grantid>
+      <acronym>
+       MH
+      </acronym>
+      <agency>
+       NIMH NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       UO1 MH50467
+      </grantid>
+      <acronym>
+       MH
+      </acronym>
+      <agency>
+       NIMH NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     J Am Acad Child Adolesc Psychiatry
+    </medlineta>
+    <nlmuniqueid>
+     8704565
+    </nlmuniqueid>
+    <issnlinking>
+     0890-8567
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Central Nervous System Stimulants
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      113-45-1
+     </registrynumber>
+     <nameofsubstance>
+      Methylphenidate
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Analysis of Variance
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Attention Deficit Disorder with Hyperactivity
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Central Nervous System Stimulants
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pharmacology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cross-Over Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dose-Response Relationship, Drug
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Methylphenidate
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pharmacology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Regression Analysis
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      12
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      12
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11211366
+    </articleid>
+    <articleid idtype="pii">
+     S0890-8567(09)60367-1
+    </articleid>
+    <articleid idtype="doi">
+     10.1097/00004583-200102000-00012
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

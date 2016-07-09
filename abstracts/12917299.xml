@@ -1,0 +1,655 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12917299
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     14
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     19
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1533-4406
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       349
+      </volume>
+      <issue>
+       7
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Aug
+       </month>
+       <day>
+        14
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Comparison of low-intensity warfarin therapy with conventional-intensity warfarin therapy for long-term prevention of recurrent venous thromboembolism.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      631-9
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Warfarin is very effective in preventing recurrent venous thromboembolism but is also associated with a substantial risk of bleeding. After three months of conventional warfarin therapy, a lower dose of anticoagulant medication may result in less bleeding and still prevent recurrent venous thromboembolism.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We conducted a randomized, double-blind study, in which 738 patients who had completed three or more months of warfarin therapy for unprovoked venous thromboembolism were randomly assigned to continue warfarin therapy with a target international normalized ratio (INR) of 2.0 to 3.0 (conventional intensity) or a target INR of 1.5 to 1.9 (low intensity). Patients were followed for an average of 2.4 years.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Of 369 patients assigned to low-intensity therapy, 16 had recurrent venous thromboembolism (1.9 per 100 person-years), as compared with 6 of 369 assigned to conventional-intensity therapy (0.7 per 100 person-years; hazard ratio, 2.8; 95 percent confidence interval, 1.1 to 7.0). A major bleeding episode occurred in nine patients assigned to low-intensity therapy (1.1 events per 100 person-years) and eight patients assigned to conventional-intensity therapy (0.9 event per 100 person-years; hazard ratio, 1.2; 95 percent confidence interval, 0.4 to 3.0). There was no significant difference in the frequency of overall bleeding between the two groups (hazard ratio, 1.3; 95 percent confidence interval, 0.8 to 2.1).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Conventional-intensity warfarin therapy is more effective than low-intensity warfarin therapy for the long-term prevention of recurrent venous thromboembolism. The low-intensity warfarin regimen does not reduce the risk of clinically important bleeding.
+     </abstracttext>
+     <copyrightinformation>
+      Copyright 2003 Massachusetts Medical Society
+     </copyrightinformation>
+    </abstract>
+    <affiliation>
+     McMaster University, Hamilton, Ont.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Kearon
+      </lastname>
+      <forename>
+       Clive
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ginsberg
+      </lastname>
+      <forename>
+       Jeffrey S
+      </forename>
+      <initials>
+       JS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kovacs
+      </lastname>
+      <forename>
+       Michael J
+      </forename>
+      <initials>
+       MJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Anderson
+      </lastname>
+      <forename>
+       David R
+      </forename>
+      <initials>
+       DR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wells
+      </lastname>
+      <forename>
+       Philip
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Julian
+      </lastname>
+      <forename>
+       Jim A
+      </forename>
+      <initials>
+       JA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       MacKinnon
+      </lastname>
+      <forename>
+       Betsy
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Weitz
+      </lastname>
+      <forename>
+       Jeffrey I
+      </forename>
+      <initials>
+       JI
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Crowther
+      </lastname>
+      <forename>
+       Mark A
+      </forename>
+      <initials>
+       MA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dolan
+      </lastname>
+      <forename>
+       Sean
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Turpie
+      </lastname>
+      <forename>
+       Alexander G
+      </forename>
+      <initials>
+       AG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Geerts
+      </lastname>
+      <forename>
+       William
+      </forename>
+      <initials>
+       W
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Solymoss
+      </lastname>
+      <forename>
+       Susan
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       van Nguyen
+      </lastname>
+      <forename>
+       Paul
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Demers
+      </lastname>
+      <forename>
+       Christine
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kahn
+      </lastname>
+      <forename>
+       Susan R
+      </forename>
+      <initials>
+       SR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kassis
+      </lastname>
+      <forename>
+       Jeannine
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rodger
+      </lastname>
+      <forename>
+       Marc
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hambleton
+      </lastname>
+      <forename>
+       Julie
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gent
+      </lastname>
+      <forename>
+       Michael
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       Extended Low-Intensity Anticoagulation for Thrombo-Embolism Investigators
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anticoagulants
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      81-81-2
+     </registrynumber>
+     <nameofsubstance>
+      Warfarin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2003 Nov 27;349(22):2164-7; author reply 2164-7
+     </refsource>
+     <pmid version="1">
+      14658125
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Rev Cardiovasc Med. 2004 Spring;5(2):135-8
+     </refsource>
+     <pmid version="1">
+      15184845
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2004 Mar-Apr;140(2):37
+     </refsource>
+     <pmid version="1">
+      15122857
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2003 Aug 14;349(7):675-83
+     </refsource>
+     <pmid version="1">
+      12917305
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2003 Nov 27;349(22):2164-7; author reply 2164-7
+     </refsource>
+     <pmid version="1">
+      14658124
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2003 Nov 27;349(22):2164-7; author reply 2164-7
+     </refsource>
+     <pmid version="1">
+      14645647
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2003 Nov 27;349(22):2164-7; author reply 2164-7
+     </refsource>
+     <pmid version="1">
+      14658127
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2003 Nov 27;349(22):2164-7; author reply 2164-7
+     </refsource>
+     <pmid version="1">
+      14658126
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2003 Aug 14;349(7):702-4
+     </refsource>
+     <pmid version="1">
+      12917308
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Age Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anticoagulants
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Administration Schedule
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Follow-Up Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hemorrhage
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      chemically induced
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      International Normalized Ratio
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pulmonary Embolism
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Recurrence
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Venous Thrombosis
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Warfarin
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      15
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      15
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12917299
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJMoa035422
+    </articleid>
+    <articleid idtype="pii">
+     349/7/631
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,414 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    16968832
+   </pmid>
+   <datecreated>
+    <year>
+     2006
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     04
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2006
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     06
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print-Electronic">
+    <journal>
+     <issn issntype="Electronic">
+      1538-3598
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       296
+      </volume>
+      <issue>
+       13
+      </issue>
+      <pubdate>
+       <year>
+        2006
+       </year>
+       <month>
+        Oct
+       </month>
+       <day>
+        4
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Adverse effects of cyclooxygenase 2 inhibitors on renal and arrhythmia events: meta-analysis of randomized trials.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1619-32
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Adverse effects of selective cyclooxygenase 2 (COX-2) inhibitors on renal events and arrhythmia have been controversial, with suggestions of a class effect.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To quantitatively evaluate adverse risks of renal events (renal dysfunction, hypertension, and peripheral edema) and arrhythmia events and to explore drug class effects and temporal trends of apparent effects of the COX-2 inhibitors: rofecoxib, celecoxib, valdecoxib, parecoxib, etoricoxib, and lumiracoxib.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      A systematic search of EMBASE and MEDLINE (through June 2006), bibliographies, US Food and Drug Administration reports, and pharmaceutical industry clinical trial databases.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION" nlmcategory="METHODS">
+      From relevant reports, 114 randomized double-blind clinical trials were included.
+     </abstracttext>
+     <abstracttext label="DATA EXTRACTION" nlmcategory="METHODS">
+      Information on publication year, participant characteristics, trial duration, drug, control, dose, and events were extracted using a standardized protocol.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      Results were pooled via random-effects models and meta-regressions. Of 116 094 participants from 114 trial reports including 127 trial populations (40 rofecoxib, 37 celecoxib, 29 valdecoxib + parecoxib, 15 etoricoxib, and 6 lumiracoxib), there were a total of 6394 composite renal events (2670 peripheral edema, 3489 hypertension, 235 renal dysfunction) and 286 arrhythmia events. Results indicated significant heterogeneity of renal effects across agents (P for interaction = .02), indicating no class effect. Compared with controls, rofecoxib was associated with increased risk of arrhythmia (relative risk [RR], 2.90; 95% confidence interval [CI], 1.07-7.88) and composite renal events (RR, 1.53; 95% CI, 1.33-1.76); adverse renal effects increased with greater dose and duration (both P&lt; or =.05). For all individual renal end points, rofecoxib was associated with increased risk of peripheral edema (RR, 1.43; 95% CI, 1.23-1.66), hypertension (RR, 1.55; 95% CI, 1.29-1.85), and renal dysfunction (RR, 2.31; 95% CI, 1.05-5.07). In contrast, celecoxib was associated with lower risk of both renal dysfunction (RR, 0.61; 95% CI, 0.40-0.94) and hypertension (RR, 0.83; 95% CI, 0.71-0.97) compared with controls. Other agents were not significantly associated with risk. Time-cumulative analyses indicated that for rofecoxib the adverse risks for peripheral edema and hypertension were evident by the end of year 2000 and for risk of arrhythmia by 2004.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      In this comprehensive analysis of 114 randomized trials with 116,094 participants, rofecoxib was associated with increased renal and arrhythmia risks. A COX-2 inhibitor class effect was not evident. Future safety monitoring is warranted and may benefit from an active and continuous cumulative surveillance system.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Renal Division, Brigham and Women's Hospital and Harvard Medical School, Boston, Mass, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Zhang
+      </lastname>
+      <forename>
+       Jingjing
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ding
+      </lastname>
+      <forename>
+       Eric L
+      </forename>
+      <initials>
+       EL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Song
+      </lastname>
+      <forename>
+       Yiqing
+      </forename>
+      <initials>
+       Y
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       R01-DK062290
+      </grantid>
+      <acronym>
+       DK
+      </acronym>
+      <agency>
+       NIDDK NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       R01-DK066401
+      </grantid>
+      <acronym>
+       DK
+      </acronym>
+      <agency>
+       NIDDK NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       T32-CA009001
+      </grantid>
+      <acronym>
+       CA
+      </acronym>
+      <agency>
+       NCI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, N.I.H., Extramural
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2006
+     </year>
+     <month>
+      09
+     </month>
+     <day>
+      12
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cyclooxygenase 2 Inhibitors
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2006 Oct 4;296(13):1653-6
+     </refsource>
+     <pmid version="1">
+      16968830
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2007 Jan-Feb;146(1):25
+     </refsource>
+     <pmid version="1">
+      17203944
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Curr Hypertens Rep. 2007 Mar;9(1):3-4
+     </refsource>
+     <pmid version="1">
+      17362663
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Curr Hypertens Rep. 2007 Mar;9(1):41-4
+     </refsource>
+     <pmid version="1">
+      17362670
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Arrhythmias, Cardiac
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      chemically induced
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cyclooxygenase 2 Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertension
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      chemically induced
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Renal Insufficiency
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      chemically induced
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    135
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="aheadofprint">
+     <year>
+      2006
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      12
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2006
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      14
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2006
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      7
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2006
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      14
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     296.13.jrv60015
+    </articleid>
+    <articleid idtype="doi">
+     10.1001/jama.296.13.jrv60015
+    </articleid>
+    <articleid idtype="pubmed">
+     16968832
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,563 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12604544
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     26
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     14
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0066-4804
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       47
+      </volume>
+      <issue>
+       3
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Mar
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Antimicrobial agents and chemotherapy
+     </title>
+     <isoabbreviation>
+      Antimicrob. Agents Chemother.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     High-dose, short-duration, early valacyclovir therapy for episodic treatment of cold sores: results of two randomized, placebo-controlled, multicenter studies.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1072-80
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Oral valacyclovir is better absorbed than oral acyclovir, increasing acyclovir bioavailability three- to fivefold. This provides the opportunity to explore whether high systemic acyclovir concentrations are effective in the treatment of cold sores (herpes labialis). Two randomized, double-blind, placebo-controlled studies were conducted. Subjects were provided with 2 g of valacyclovir twice daily for 1 day (1-day treatment), 2 g of valacyclovir twice daily for 1 day and then 1 g of valacyclovir twice daily for 1 day (2-day treatment), or a matching placebo and instructed to initiate treatment upon the first symptoms of a cold sore. In study 1, the median duration of the episode (primary endpoint) was reduced by 1.0 day (P = 0.001) with 1-day treatment and 0.5 days (P = 0.009) with 2-day treatment compared to placebo. Similarly, the mean duration of the episode was statistically significantly reduced by 1.1 days with 1-day treatment and 0.7 days with 2-day treatment compared to placebo. The proportion of subjects in whom cold sore lesion development was prevented and/or blocked was increased by 6.4% (P = 0.096) with 1-day treatment and 8.5% (P = 0.061) with 2-day treatment compared to placebo. The time to lesion healing and time to cessation of pain and/or discomfort were statistically significantly reduced with valacyclovir compared to placebo. In study 2, results similar to those in study 1 were obtained. AEs were similar across treatment groups. These studies provide evidence supporting a simple, 1-day valacyclovir treatment regimen for cold sores that is safe and effective. The 1-day valacyclovir regimen offers patients a unique and convenient dosing alternative compared to available topical therapies.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     University of Utah, Division of Infectious Diseases, School of Medicine, Salt Lake City 84132, USA. woody.spruance@hsc.utah.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Spruance
+      </lastname>
+      <forename>
+       Spotswood L
+      </forename>
+      <initials>
+       SL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jones
+      </lastname>
+      <forename>
+       Terry M
+      </forename>
+      <initials>
+       TM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Blatter
+      </lastname>
+      <forename>
+       Mark M
+      </forename>
+      <initials>
+       MM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Vargas-Cortes
+      </lastname>
+      <forename>
+       Mauricio
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Barber
+      </lastname>
+      <forename>
+       Judy
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hill
+      </lastname>
+      <forename>
+       Joanne
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Goldstein
+      </lastname>
+      <forename>
+       Donna
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schultz
+      </lastname>
+      <forename>
+       Margaret
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Antimicrob Agents Chemother
+    </medlineta>
+    <nlmuniqueid>
+     0315061
+    </nlmuniqueid>
+    <issnlinking>
+     0066-4804
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antiviral Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      124832-27-5
+     </registrynumber>
+     <nameofsubstance>
+      valacyclovir
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      59277-89-3
+     </registrynumber>
+     <nameofsubstance>
+      Acyclovir
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      7004-03-7
+     </registrynumber>
+     <nameofsubstance>
+      Valine
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Oral Surg Oral Med Oral Pathol. 1976 Apr;41(4):498-507
+     </refsource>
+     <pmid version="1">
+      1063349
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Antivir Chem Chemother. 1998 Jan;9(1):19-24
+     </refsource>
+     <pmid version="1">
+      9875373
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Dermatol. 2001 Sep;137(9):1232-5
+     </refsource>
+     <pmid version="1">
+      11559222
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Can Med Assoc J. 1975 Oct 4;113(7):627-30
+     </refsource>
+     <pmid version="1">
+      1181018
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Am Dent Assoc. 2002 Mar;133(3):303-9
+     </refsource>
+     <pmid version="1">
+      11934185
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Antimicrob Agents Chemother. 2002 Jul;46(7):2238-43
+     </refsource>
+     <pmid version="1">
+      12069980
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1990 Feb;161(2):185-90
+     </refsource>
+     <pmid version="1">
+      2153735
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1978 Dec;138(6):897-905
+     </refsource>
+     <pmid version="1">
+      216753
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Stat Med. 1990 Jul;9(7):811-8
+     </refsource>
+     <pmid version="1">
+      2218183
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Am Dent Assoc. 1987 Jul;115(1):38-42
+     </refsource>
+     <pmid version="1">
+      3301980
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Oral Surg Oral Med Oral Pathol. 1984 Dec;58(6):667-71
+     </refsource>
+     <pmid version="1">
+      6095159
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br Med J (Clin Res Ed). 1983 May 28;286(6379):1699-701
+     </refsource>
+     <pmid version="1">
+      6405939
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Am Acad Dermatol. 1981 Nov;5(5):550-7
+     </refsource>
+     <pmid version="1">
+      7298921
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Antimicrob Agents Chemother. 1995 Dec;39(12):2759-64
+     </refsource>
+     <pmid version="1">
+      8593015
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1997 May 7;277(17):1374-9
+     </refsource>
+     <pmid version="1">
+      9134943
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Dermatol. 2001 Sep;137(9):1153-8
+     </refsource>
+     <pmid version="1">
+      11559210
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Acyclovir
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      analogs &amp; derivatives
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antiviral Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Herpes Labialis
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pain
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Valine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      analogs &amp; derivatives
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC149313
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      27
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      15
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      27
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12604544
+    </articleid>
+    <articleid idtype="pmc">
+     PMC149313
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

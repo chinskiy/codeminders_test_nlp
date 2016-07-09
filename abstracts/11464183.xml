@@ -1,0 +1,519 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11464183
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     20
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     23
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2008
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     02
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0190-9622
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       45
+      </volume>
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Aug
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of the American Academy of Dermatology
+     </title>
+     <isoabbreviation>
+      J. Am. Acad. Dermatol.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Clinical efficacy of topical docosanol 10% cream for herpes simplex labialis: A multicenter, randomized, placebo-controlled trial.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      222-30
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Recurrent herpes simplex labialis (HSL) occurs in 20% to 40% of the US population. Although the disease is self-limiting in persons with a healthy immune response, patients seek treatment because of the discomfort and visibility of a recurrent lesion.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      Our purpose was to determine whether docosanol 10% cream (docosanol) is efficacious compared with placebo for the topical treatment of episodes of acute HSL.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Two identical double-blind, placebo-controlled studies were conducted at a total of 21 sites. Otherwise healthy adults, with documented histories of HSL, were randomized to receive either docosanol or polyethylene glycol placebo and initiated therapy in the prodrome or erythema stage of an episode. Treatment was administered 5 times daily until healing occurred (ie, the crust fell off spontaneously or there was no longer evidence of an active lesion) with twice-daily visits.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The median time to healing in the 370 docosanol-treated patients was 4.1 days, 18 hours shorter than observed in the 367 placebo-treated patients (P =.008; 95% confidence interval [CI]: 2, 22). The docosanol group also exhibited reduced times from treatment initiation to (1) cessation of pain and all other symptoms (itching, burning, and/or tingling; P =.002; 95% CI: 3, 16.5); (2) complete healing of classic lesions (P =.023; 95% CI: 1, 24.5); and (3) cessation of the ulcer or soft crust stage of classic lesions (P &lt;.001; 95% CI: 8, 25). Aborted episodes were experienced by 40% of the docosanol recipients versus 34% of placebo recipients (P =.109; 95% CI for odds ratio: 0.95, 1.73). Adverse experiences with docosanol were mild and similar to those with placebo.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Docosanol applied 5 times daily is safe and effective in the treatment of recurrent HSL. Differences in healing time compared favorably with those reported for the only treatment of HSL that has been approved by the Food and Drug Administration.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Viridae Clinical Sciences, Inc, and the University of British Columbia, Vancouver, Canada.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Sacks
+      </lastname>
+      <forename>
+       S L
+      </forename>
+      <initials>
+       SL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Thisted
+      </lastname>
+      <forename>
+       R A
+      </forename>
+      <initials>
+       RA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jones
+      </lastname>
+      <forename>
+       T M
+      </forename>
+      <initials>
+       TM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Barbarash
+      </lastname>
+      <forename>
+       R A
+      </forename>
+      <initials>
+       RA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Mikolich
+      </lastname>
+      <forename>
+       D J
+      </forename>
+      <initials>
+       DJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ruoff
+      </lastname>
+      <forename>
+       G E
+      </forename>
+      <initials>
+       GE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jorizzo
+      </lastname>
+      <forename>
+       J L
+      </forename>
+      <initials>
+       JL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gunnill
+      </lastname>
+      <forename>
+       L B
+      </forename>
+      <initials>
+       LB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Katz
+      </lastname>
+      <forename>
+       D H
+      </forename>
+      <initials>
+       DH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Khalil
+      </lastname>
+      <forename>
+       M H
+      </forename>
+      <initials>
+       MH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Morrow
+      </lastname>
+      <forename>
+       P R
+      </forename>
+      <initials>
+       PR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Yakatan
+      </lastname>
+      <forename>
+       G J
+      </forename>
+      <initials>
+       GJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pope
+      </lastname>
+      <forename>
+       L E
+      </forename>
+      <initials>
+       LE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Berg
+      </lastname>
+      <forename>
+       J E
+      </forename>
+      <initials>
+       JE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       Docosanol 10% Cream Study Group
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     J Am Acad Dermatol
+    </medlineta>
+    <nlmuniqueid>
+     7907132
+    </nlmuniqueid>
+    <issnlinking>
+     0190-9622
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antiviral Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Fatty Alcohols
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Ointments
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      661-19-8
+     </registrynumber>
+     <nameofsubstance>
+      docosanol
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Am Acad Dermatol. 2002 Sep;47(3):457-8
+     </refsource>
+     <pmid version="1">
+      12196766
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Acute Disease
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Administration, Topical
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antiviral Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Administration Schedule
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fatty Alcohols
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Herpes Labialis
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ointments
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Recurrence
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11464183
+    </articleid>
+    <articleid idtype="pii">
+     S0190-9622(01)30676-X
+    </articleid>
+    <articleid idtype="doi">
+     10.1067/mjd.2001.116215
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

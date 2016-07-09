@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15258101
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     19
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     18
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2008
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     21
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0090-9556
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       32
+      </volume>
+      <issue>
+       8
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Aug
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Drug metabolism and disposition: the biological fate of chemicals
+     </title>
+     <isoabbreviation>
+      Drug Metab. Dispos.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Insect repellent [correction of repellant] interactions: sunscreens enhance DEET (N,N-diethyl-m-toluamide) absorption.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      783-5
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Toxicology studies are typically performed on single compounds, which we hypothesized would miss adverse synergies from chemical mixtures. This hypothesis was tested using an insect repellant and sunscreens because both groups include known permeation enhancers, with prior pediatric reports of toxicity from highly concentrated DEET (N,N-diethyl-m-toluamide). Using real-time mass spectroscopy in a hairless mouse skin model, we confirmed substantial penetration of a 20% DEET standard. Despite a lower (10%) DEET content, a commercially marketed sunscreen formulation had a 6-fold more rapid detection (5 versus 30 min) and 3.4-fold greater penetration at steady state. We also tested the efficacy of DEET microemulsion products and confirmed that one successfully slowed the onset of absorption, but not the steady-state permeation. Risks from mixtures of potential toxins are worthy of routine testing, which can be accomplished by simple assays, and are of utmost importance for pediatric applications.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     End-Stage Renal Disease Program, Division of Nephrology, Hypertension and Transplantation, University of Florida, P.O. Box 100224, Gainesville, FL 32610-0224, USA. Rossea@medicine.ufl.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Ross
+      </lastname>
+      <forename>
+       Edward A
+      </forename>
+      <initials>
+       EA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Savage
+      </lastname>
+      <forename>
+       Kathleen A
+      </forename>
+      <initials>
+       KA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Utley
+      </lastname>
+      <forename>
+       Luke J
+      </forename>
+      <initials>
+       LJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tebbett
+      </lastname>
+      <forename>
+       Ian R
+      </forename>
+      <initials>
+       IR
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      In Vitro
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Drug Metab Dispos
+    </medlineta>
+    <nlmuniqueid>
+     9421550
+    </nlmuniqueid>
+    <issnlinking>
+     0090-9556
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Insect Repellents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Sunscreening Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      134-62-3
+     </registrynumber>
+     <nameofsubstance>
+      DEET
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Animals
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      DEET
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      analysis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      pharmacokinetics
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Synergism
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Insect Repellents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      analysis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      pharmacokinetics
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Mice
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Mice, Hairless
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Skin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      metabolism
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Skin Absorption
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sunscreening Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      analysis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      pharmacokinetics
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     15258101
+    </articleid>
+    <articleid idtype="pii">
+     32/8/783
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,949 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15345498
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     19
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     16
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print-Electronic">
+    <journal>
+     <issn issntype="Print">
+      0003-4967
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       63
+      </volume>
+      <issue>
+       12
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Dec
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Annals of the rheumatic diseases
+     </title>
+     <isoabbreviation>
+      Ann. Rheum. Dis.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Outcomes of a multicentre randomised clinical trial of etanercept to treat ankylosing spondylitis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1594-600
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      A double blind, randomised, placebo controlled study to evaluate the safety and efficacy of etanercept to treat adult patients with ankylosing spondylitis (AS).
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Adult patients with AS at 14 European sites were randomly assigned to 25 mg injections of etanercept or placebo twice weekly for 12 weeks. The primary efficacy end point was an improvement of at least 20% in patient reported symptoms, based on the multicomponent Assessments in Ankylosing Spondylitis (ASAS) response criteria (ASAS 20). Secondary end points included ASAS 50 and ASAS 70 responses and improved scores on individual components of ASAS, the Bath Ankylosing Spondylitis Disease Activity Index (BASDAI), acute phase reactants, and spinal mobility tests. Safety was evaluated during scheduled visits.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Of 84 patients enrolled, 45 received etanercept and 39 received placebo. Significantly more etanercept patients than placebo patients responded at the ASAS 20 level as early as week 2, and sustained differences were evident up to week 12. Significantly more etanercept patients reported ASAS 50 responses at all times and ASAS 70 responses at weeks 2, 4, and 8; reported lower composite and fatigue BASDAI scores; had lower acute phase reactant levels; and had improved spinal flexion. Etanercept was well tolerated. Most adverse events were mild to moderate; the only between-group difference was injection site reactions, which occurred significantly more often in etanercept patients.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Etanercept is a well tolerated and effective treatment for reducing clinical symptoms and signs of AS.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Royal National Hospital for Rheumatic Disease, Upper Borough Walls, Bath, UK. calinandrei@hotmail.com.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Calin
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dijkmans
+      </lastname>
+      <forename>
+       B A C
+      </forename>
+      <initials>
+       BA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Emery
+      </lastname>
+      <forename>
+       P
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hakala
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kalden
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Leirisalo-Repo
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Mola
+      </lastname>
+      <forename>
+       E M
+      </forename>
+      <initials>
+       EM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Salvarani
+      </lastname>
+      <forename>
+       C
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sanmartí
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sany
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sibilia
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sieper
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       van der Linden
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Veys
+      </lastname>
+      <forename>
+       E
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Appel
+      </lastname>
+      <forename>
+       A M
+      </forename>
+      <initials>
+       AM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Fatenejad
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2004
+     </year>
+     <month>
+      09
+     </month>
+     <day>
+      02
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Ann Rheum Dis
+    </medlineta>
+    <nlmuniqueid>
+     0372355
+    </nlmuniqueid>
+    <issnlinking>
+     0003-4967
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antirheumatic Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Immunoglobulin G
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Immunologic Factors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Receptors, Tumor Necrosis Factor
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      185243-69-0
+     </registrynumber>
+     <nameofsubstance>
+      TNFR-Fc fusion protein
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      9007-41-4
+     </registrynumber>
+     <nameofsubstance>
+      C-Reactive Protein
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Res. 2002;4(5):307-21
+     </refsource>
+     <pmid version="1">
+      12223105
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 1998 Jun;41(6):1119-25
+     </refsource>
+     <pmid version="1">
+      9627023
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Biomed Sci. 2002;59(3):173-9
+     </refsource>
+     <pmid version="1">
+      12371064
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Rheum Dis. 2002 Dec;61 Suppl 3:iii51-60
+     </refsource>
+     <pmid version="1">
+      12381511
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Best Pract Res Clin Rheumatol. 2002 Sep;16(4):619-30
+     </refsource>
+     <pmid version="1">
+      12406430
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Rheumatology (Oxford). 2002 Nov;41(11):1330-2
+     </refsource>
+     <pmid version="1">
+      12422010
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Exp Rheumatol. 2002 Nov-Dec;20(6 Suppl 28):S16-22
+     </refsource>
+     <pmid version="1">
+      12463441
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Exp Rheumatol. 2002 Nov-Dec;20(6 Suppl 28):S23-6
+     </refsource>
+     <pmid version="1">
+      12463442
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Intern Med. 1999 Mar 16;130(6):478-86
+     </refsource>
+     <pmid version="1">
+      10075615
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Care Res. 1999 Aug;12(4):247-55
+     </refsource>
+     <pmid version="1">
+      10689989
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 2000 Mar 16;342(11):763-9
+     </refsource>
+     <pmid version="1">
+      10717011
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Rheumatol. 2000;19(2):114-7
+     </refsource>
+     <pmid version="1">
+      10791621
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 2000 Jul 29;356(9227):385-90
+     </refsource>
+     <pmid version="1">
+      10972371
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Expert Opin Investig Drugs. 2000 Mar;9(3):497-514
+     </refsource>
+     <pmid version="1">
+      11060691
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 2000 Nov 30;343(22):1586-93
+     </refsource>
+     <pmid version="1">
+      11096165
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 2001 Aug;44(8):1876-86
+     </refsource>
+     <pmid version="1">
+      11508441
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 2001 Sep;44(9):2112-7
+     </refsource>
+     <pmid version="1">
+      11592375
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 2001 Oct;45(5):424-9
+     </refsource>
+     <pmid version="1">
+      11642641
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 2002 Jan;46(1):223-31
+     </refsource>
+     <pmid version="1">
+      11817595
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 2002 Mar;46(3):755-65
+     </refsource>
+     <pmid version="1">
+      11920412
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 2002 Feb;47(1):8-16
+     </refsource>
+     <pmid version="1">
+      11932872
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 2002 Apr 6;359(9313):1187-93
+     </refsource>
+     <pmid version="1">
+      11955536
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 2002 May 2;346(18):1349-56
+     </refsource>
+     <pmid version="1">
+      11986408
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Rheumatol. 2002 May;29(5):959-65
+     </refsource>
+     <pmid version="1">
+      12022358
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Expert Opin Investig Drugs. 2002 Jul;11(7):937-46
+     </refsource>
+     <pmid version="1">
+      12084004
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 2003 Feb 13;348(7):601-8
+     </refsource>
+     <pmid version="1">
+      12584368
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Rheum Dis Clin North Am. 2003 Feb;29(1):37-59, vi
+     </refsource>
+     <pmid version="1">
+      12635499
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 2003 Jun;48(6):1667-75
+     </refsource>
+     <pmid version="1">
+      12794835
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Rheum Dis. 2003 Sep;62(9):817-24
+     </refsource>
+     <pmid version="1">
+      12922952
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 2003 Nov;48(11):3230-6
+     </refsource>
+     <pmid version="1">
+      14613288
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Rheumatol. 1991 Oct;30(5):336-8
+     </refsource>
+     <pmid version="1">
+      1913000
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Rheumatol. 1990 Dec;17(12):1649-52
+     </refsource>
+     <pmid version="1">
+      2084239
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Rheum Dis. 1989 Nov;48(11):924-7
+     </refsource>
+     <pmid version="1">
+      2596883
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 1984 Apr;27(4):361-8
+     </refsource>
+     <pmid version="1">
+      6231933
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Rheumatol. 1994 Dec;21(12):2281-5
+     </refsource>
+     <pmid version="1">
+      7699629
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Rheumatol. 1994 Dec;21(12):2286-91
+     </refsource>
+     <pmid version="1">
+      7699630
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 1995 Apr;38(4):499-505
+     </refsource>
+     <pmid version="1">
+      7718003
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 1995 May;38(5):618-27
+     </refsource>
+     <pmid version="1">
+      7748217
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Rheumatol. 1994 Oct;33(10):927-31
+     </refsource>
+     <pmid version="1">
+      7921752
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Rheumatol Int. 1994;13(5):175-80
+     </refsource>
+     <pmid version="1">
+      8202660
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Rheumatol. 1993 Apr;20(4):688-92
+     </refsource>
+     <pmid version="1">
+      8496866
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 1996 Oct;39(10):1703-10
+     </refsource>
+     <pmid version="1">
+      8843861
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Rheumatol. 1996 Nov;23(11):1849-55
+     </refsource>
+     <pmid version="1">
+      8923355
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 1996 Dec;39(12):2004-12
+     </refsource>
+     <pmid version="1">
+      8961905
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Rheumatol. 1997 Jan;36(1):38-42
+     </refsource>
+     <pmid version="1">
+      9117172
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Rheumatol. 1997 Jul;36(7):766-71
+     </refsource>
+     <pmid version="1">
+      9255111
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Rheumatol Suppl. 2002 Sep;65:16-21
+     </refsource>
+     <pmid version="1">
+      12236617
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antirheumatic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      C-Reactive Protein
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      metabolism
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Immunoglobulin G
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Immunologic Factors
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Receptors, Tumor Necrosis Factor
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Severity of Illness Index
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Spine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Spondylitis, Ankylosing
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC1754832
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="aheadofprint">
+     <year>
+      2004
+     </year>
+     <month>
+      September
+     </month>
+     <day>
+      2
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      4
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      17
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      4
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     15345498
+    </articleid>
+    <articleid idtype="doi">
+     10.1136/ard.2004.020875
+    </articleid>
+    <articleid idtype="pii">
+     ard.2004.020875
+    </articleid>
+    <articleid idtype="pmc">
+     PMC1754832
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

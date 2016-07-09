@@ -1,0 +1,445 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    14600189
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     05
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1538-3598
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       290
+      </volume>
+      <issue>
+       17
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Nov
+       </month>
+       <day>
+        5
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Contemporary management of chronic obstructive pulmonary disease: scientific review.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      2301-12
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      The care of patients with chronic obstructive pulmonary disease (COPD) has changed radically over the past 2 decades, and novel therapies can not only improve the health status of patients with COPD but also modify its natural course.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To systematically review the impact of long-acting bronchodilators, inhaled corticosteroids, nocturnal noninvasive mechanical ventilation, pulmonary rehabilitation, domiciliary oxygen therapy, and disease management programs on clinical outcomes in patients with COPD.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      MEDLINE and Cochrane databases were searched to identify all randomized controlled trials and systematic reviews from 1980 to May 2002 evaluating interventions in patients with COPD. We also hand searched bibliographies of relevant articles and contacted experts in the field.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION AND DATA EXTRACTION" nlmcategory="METHODS">
+      We included randomized controlled trials that had follow-up of at least 3 months and contained data on at least 1 of these clinical outcomes: health-related quality of life, exacerbations associated with COPD, or death. For pulmonary rehabilitation, we included studies that had a follow-up of at least 6 weeks. Using standard meta-analytic techniques, the effects of interventions were compared with placebo or with usual care. In secondary analyses, the effects of interventions were compared against each other, where possible.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      Long-acting beta2-agonists and anticholinergics (tiotropium) reduced exacerbation rates by approximately 20% to 25% (relative risk [RR] for long-acting beta2-agonists, 0.79; 95% CI, 0.69-0.90; RR for tiotropium, 0.74; 95% CI, 0.62-0.89) in patients with moderate to severe COPD. Inhaled corticosteroids also reduced exacerbation rates by a similar amount (RR, 0.76; 95% CI, 0.72-0.80). The beneficial effects were most pronounced in trials enrolling patients with FEV1 between 1 L and 2 L. Combining a long-acting beta2-agonist with an inhaled corticosteroid resulted in an approximate 30% (RR, 0.70; 95% CI, 0.62-0.78) reduction in exacerbations. Pulmonary rehabilitation improved the health status of patients with moderate to severe disease, but no material effect was observed on long-term survival or hospitalization rates. Domiciliary oxygen therapy improved survival by approximately 40% in patients with PaO2 lower than 60 mm Hg, but not in those without hypoxia at rest. The data on disease management programs were heterogeneous, but overall no effect was observed on survival or risk of hospitalization. Noninvasive mechanical ventilation was not associated with improved outcomes.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      A significant body of evidence supports the use of long-acting bronchodilators and inhaled corticosteroids in reducing exacerbations in patients with moderate to severe COPD. Domiciliary oxygen therapy is the only intervention that has been demonstrated to prolong survival, but only in patients with resting hypoxia.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Division of Pulmonary Medicine, University of Alberta, Edmonton, Canada. don.sin@ualberta.ca
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Sin
+      </lastname>
+      <forename>
+       Don D
+      </forename>
+      <initials>
+       DD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McAlister
+      </lastname>
+      <forename>
+       Finlay A
+      </forename>
+      <initials>
+       FA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Man
+      </lastname>
+      <forename>
+       S F Paul
+      </forename>
+      <initials>
+       SF
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Anthonisen
+      </lastname>
+      <forename>
+       Nick R
+      </forename>
+      <initials>
+       NR
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Adrenergic beta-Agonists
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Bronchodilator Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cholinergic Antagonists
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Glucocorticoids
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Influenza Vaccines
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Pneumococcal Vaccines
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      58-55-9
+     </registrynumber>
+     <nameofsubstance>
+      Theophylline
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2004 Mar 3;291(9):1066-7; author reply 1067
+     </refsource>
+     <pmid version="1">
+      14996770
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Evid Based Nurs. 2004 Jul;7(3):87
+     </refsource>
+     <pmid version="1">
+      15252915
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2004 May-Jun;140(3):58
+     </refsource>
+     <pmid version="1">
+      15122821
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2004 Mar 3;291(9):1066; author reply 1067
+     </refsource>
+     <pmid version="1">
+      14996771
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adrenergic beta-Agonists
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bronchodilator Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cholinergic Antagonists
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Glucocorticoids
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Influenza Vaccines
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Oxygen Inhalation Therapy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pneumococcal Vaccines
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pulmonary Disease, Chronic Obstructive
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Respiration, Artificial
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Smoking Cessation
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Theophylline
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    138
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      6
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      6
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     14600189
+    </articleid>
+    <articleid idtype="doi">
+     10.1001/jama.290.17.2301
+    </articleid>
+    <articleid idtype="pii">
+     290/17/2301
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

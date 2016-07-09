@@ -1,0 +1,445 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    9400035
+   </pmid>
+   <datecreated>
+    <year>
+     1997
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     18
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1997
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     18
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0028-4793
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       337
+      </volume>
+      <issue>
+       25
+      </issue>
+      <pubdate>
+       <year>
+        1997
+       </year>
+       <month>
+        Dec
+       </month>
+       <day>
+        18
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Transvaginal ultrasonography compared with endometrial biopsy for the detection of endometrial disease. Postmenopausal Estrogen/Progestin Interventions Trial.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1792-8
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Transvaginal ultrasonography is a noninvasive procedure that may be used to detect endometrial disease. However, its usefulness in screening for asymptomatic disease in postmenopausal women before or during treatment with estrogen or estrogen-progesterone replacement is not known.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We compared the sensitivity and specificity of transvaginal ultrasonography and endometrial biopsy for the detection of endometrial disease in 448 postmenopausal women who received estrogen alone, cyclic or continuous estrogen-progesterone, or placebo for three years.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Concurrent ultrasonographic and biopsy results were available for 577 examinations in the 448 women, 99 percent of whom were undergoing routine annual follow-up. Endometrial thickness was less than 5 mm in 45 percent of the examinations, 5 to 10 mm in 41 percent, more than 10 mm in 12 percent, and not measured in 2 percent, and it was higher in the women receiving estrogen alone than in the other groups. Biopsy detected 11 cases of serious disease: 1 case of adenocarcinoma, 2 cases of atypical simple hyperplasia, and 8 cases of complex hyperplasia. Biopsy also detected simple hyperplasia in 20 cases. At a threshold value of 5 mm for endometrial thickness, transvaginal ultrasonography had a positive predictive value of 9 percent for detecting any abnormality, with 90 percent sensitivity, 48 percent specificity, and a negative predictive value of 99 percent. With this threshold, a biopsy would be indicated in more than half the women, only 4 percent of whom had serious disease.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Transvaginal ultrasonography has a poor positive predictive value but a high negative predictive value for detecting serious endometrial disease in asymptomatic postmenopausal women.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Family and Preventive Medicine, University of California, San Diego, La Jolla 92093-0978, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Langer
+      </lastname>
+      <forename>
+       R D
+      </forename>
+      <initials>
+       RD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pierce
+      </lastname>
+      <forename>
+       J J
+      </forename>
+      <initials>
+       JJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       O'Hanlan
+      </lastname>
+      <forename>
+       K A
+      </forename>
+      <initials>
+       KA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Johnson
+      </lastname>
+      <forename>
+       S R
+      </forename>
+      <initials>
+       SR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Espeland
+      </lastname>
+      <forename>
+       M A
+      </forename>
+      <initials>
+       MA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Trabal
+      </lastname>
+      <forename>
+       J F
+      </forename>
+      <initials>
+       JF
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Barnabei
+      </lastname>
+      <forename>
+       V M
+      </forename>
+      <initials>
+       VM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Merino
+      </lastname>
+      <forename>
+       M J
+      </forename>
+      <initials>
+       MJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Scully
+      </lastname>
+      <forename>
+       R E
+      </forename>
+      <initials>
+       RE
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="N">
+     <grant>
+      <grantid>
+       U01-HL40154
+      </grantid>
+      <acronym>
+       HL
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       U01-HL40185
+      </grantid>
+      <acronym>
+       HL
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       U01-HL40195
+      </grantid>
+      <acronym>
+       HL
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Controlled Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Progestins
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 1997 Dec 18;337(25):1839-40
+     </refsource>
+     <pmid version="1">
+      9400043
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Biopsy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Endometrial Hyperplasia
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      pathology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      ultrasonography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Endometrial Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      ultrasonography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Estrogen Replacement Therapy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Predictive Value of Tests
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Progestins
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ultrasonography
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      methods
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1997
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      18
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1997
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1997
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     9400035
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJM199712183372502
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

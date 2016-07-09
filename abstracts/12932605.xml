@@ -1,0 +1,430 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12932605
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     22
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     30
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0735-1097
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       42
+      </volume>
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Aug
+       </month>
+       <day>
+        20
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of the American College of Cardiology
+     </title>
+     <isoabbreviation>
+      J. Am. Coll. Cardiol.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Diuretic use, progressive heart failure, and death in patients in the Studies Of Left Ventricular Dysfunction (SOLVD).
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      705-8
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      We sought to determine whether non-potassium-sparing diuretics (PSDs) in the absence of a PSD may result in progressive heart failure (HF).
+     </abstracttext>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Angiotensin-converting enzyme (ACE) inhibitors incompletely suppress ACE activity in HF patients. Furthermore, non-PSDs are activators of aldosterone secretion. We reasoned that non-PSDs, in the absence of a PSD, might result in progressive HF.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      In the 6,797 patients in the Studies Of Left Ventricular Dysfunction (SOLVD), we compared the risk of hospitalization for, or death from, HF between those taking a PSD and those who were not, adjusting for known covariates.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The risk of hospitalization from worsening HF in those taking a PSD relative to those taking only a non-PSD was 0.74 (95% confidence interval [CI] 0.55 to 0.99; p = 0.047). The relative risk for cardiovascular death was 0.74 (95% CI 0.59 to 0.93; p = 0.011), for death from all causes 0.73 (95% CI 0.59 to 0.90; p = 0.004), and for hospitalization for, or death from, HF 0.75 (95% CI 0.58 to 0.97; p = 0.030). Compared with patients not taking any diuretic, the risk of hospitalization or death due to worsening HF in patients taking non-PSDs alone was significantly increased (risk ratio [RR] = 1.31, 95% CI 1.09 to 1.57; p = 0.0004); this was not observed in patients taking PSDs with or without a non-PSD (RR = 0.99, 95% CI 0.76 to 1.30; p = 0.95).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The use of PSDs in HF patients is associated with a reduced risk of death from, or hospitalization for, progressive HF or all-cause or cardiovascular death, compared with patients taking only a non-PSD.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Clinical Trials Group, National Heart, Lung, and Blood Institute, Bethesda, Maryland 20892-7936, USA. domanskm@NIH.gov
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Domanski
+      </lastname>
+      <forename>
+       Michael
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Norman
+      </lastname>
+      <forename>
+       James
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pitt
+      </lastname>
+      <forename>
+       Bertram
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Haigney
+      </lastname>
+      <forename>
+       Mark
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hanlon
+      </lastname>
+      <forename>
+       Stephen
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Peyster
+      </lastname>
+      <forename>
+       Eliot
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       Studies of Left Ventricular Dysfunction
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     J Am Coll Cardiol
+    </medlineta>
+    <nlmuniqueid>
+     8301365
+    </nlmuniqueid>
+    <issnlinking>
+     0735-1097
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Diuretics
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      52-39-1
+     </registrynumber>
+     <nameofsubstance>
+      Aldosterone
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      7440-09-7
+     </registrynumber>
+     <nameofsubstance>
+      Potassium
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Am Coll Cardiol. 2003 Aug 20;42(4):709-11
+     </refsource>
+     <pmid version="1">
+      12932606
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Am Coll Cardiol. 2004 May 5;43(9):1723; author reply 1723
+     </refsource>
+     <pmid version="1">
+      15120837
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aldosterone
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      metabolism
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cause of Death
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Disease Progression
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diuretics
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heart Failure
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hospitalization
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Potassium
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      metabolism
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Stroke Volume
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ventricular Dysfunction, Left
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      mortality
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      23
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      23
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12932605
+    </articleid>
+    <articleid idtype="pii">
+     S0735109703007654
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

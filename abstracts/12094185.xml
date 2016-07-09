@@ -1,0 +1,459 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12094185
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     02
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     18
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1097-6744
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       144
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Jul
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      American heart journal
+     </title>
+     <isoabbreviation>
+      Am. Heart J.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Diuretic resistance predicts mortality in patients with advanced heart failure.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      31-8
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      In patients with chronic heart failure (CHF), diuretic requirements increase as the disease progresses. Because diuretic resistance can be overcome with escalating doses, the evaluation of CHF severity and prognosis may be incomplete without considering the intensity of therapy.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      The prognostic importance of diuretic resistance (as evidenced by a high-dose requirement) was retrospectively evaluated in 1153 patients with advanced CHF who were enrolled in the Prospective Randomized Amlodipine Survival Evaluation (PRAISE). The relation of loop diuretic and angiotensin-converting enzyme inhibitor doses (defined by their median values) and other baseline characteristics to total and cause-specific mortality was determined by proportion hazards regression.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      High diuretic doses were independently associated with mortality, sudden death, and pump failure death (adjusted hazard ratios [HRs] 1.37 [P =.004], 1.39 [P =.042], and 1.51 [P =.034], respectively). Use of metolazone was an independent predictor of total mortality (adjusted HR = 1.37, P =.016) but not of cause-specific mortality. Low angiotensin-converting enzyme inhibitor dose was an independent predictor of pump failure death (adjusted HR = 2.21, P =.0005). Unadjusted mortality risks of congestion and its treatment were additive and comparable to those of established risk factors.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The independent association of high diuretic doses with mortality suggests that diuretic resistance should be considered an indicator of prognosis in patients with chronic CHF. These retrospective observations do not establish harm or rule out a long-term benefit of diuretics in CHF, because selection bias may entirely explain the relation of prescribed therapy to death.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Division of Circulatory Physiology, Columbia University, College of Physicians and Surgeons, New York, NY 10032, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Neuberg
+      </lastname>
+      <forename>
+       Gerald W
+      </forename>
+      <initials>
+       GW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Miller
+      </lastname>
+      <forename>
+       Alan B
+      </forename>
+      <initials>
+       AB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       O'Connor
+      </lastname>
+      <forename>
+       Chris M
+      </forename>
+      <initials>
+       CM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Belkin
+      </lastname>
+      <forename>
+       Robert N
+      </forename>
+      <initials>
+       RN
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Carson
+      </lastname>
+      <forename>
+       Peter E
+      </forename>
+      <initials>
+       PE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cropp
+      </lastname>
+      <forename>
+       Anne B
+      </forename>
+      <initials>
+       AB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Frid
+      </lastname>
+      <forename>
+       David J
+      </forename>
+      <initials>
+       DJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Nye
+      </lastname>
+      <forename>
+       Regina G
+      </forename>
+      <initials>
+       RG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pressler
+      </lastname>
+      <forename>
+       Milton L
+      </forename>
+      <initials>
+       ML
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wertheimer
+      </lastname>
+      <forename>
+       John H
+      </forename>
+      <initials>
+       JH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Packer
+      </lastname>
+      <forename>
+       Milton
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       PRAISE Investigators. Prospective Randomized Amlodipine Survival Evaluation
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Am Heart J
+    </medlineta>
+    <nlmuniqueid>
+     0370465
+    </nlmuniqueid>
+    <issnlinking>
+     0002-8703
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Angiotensin-Converting Enzyme Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Diuretics
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Vasodilator Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      88150-42-9
+     </registrynumber>
+     <nameofsubstance>
+      Amlodipine
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Amlodipine
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Analysis of Variance
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Angiotensin-Converting Enzyme Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Chronic Disease
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diuretics
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Resistance
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heart Failure
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prognosis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Regression Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Retrospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vasodilator Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12094185
+    </articleid>
+    <articleid idtype="pii">
+     S0002870302000406
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

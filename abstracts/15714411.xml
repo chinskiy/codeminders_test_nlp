@@ -1,0 +1,354 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15714411
+   </pmid>
+   <datecreated>
+    <year>
+     2005
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     16
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2006
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     09
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print-Electronic">
+    <journal>
+     <issn issntype="Electronic">
+      1537-6591
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       40
+      </volume>
+      <issue>
+       5
+      </issue>
+      <pubdate>
+       <year>
+        2005
+       </year>
+       <month>
+        Mar
+       </month>
+       <day>
+        1
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Clinical infectious diseases : an official publication of the Infectious Diseases Society of America
+     </title>
+     <isoabbreviation>
+      Clin. Infect. Dis.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Short-course therapy with rifampin plus isoniazid, compared with standard therapy with isoniazid, for latent tuberculosis infection: a meta-analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      670-6
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      A major difficulty associated with the use of standard therapy with isoniazid for latent tuberculosis infection is poor patient adherence to therapy because of the prolonged course required. Shorter courses of therapy involving &gt; or =2 drugs have been proposed as an alternative to standard therapy, but they have not undergone enough testing.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We performed a meta-analysis to determine the equivalence of daily short-course therapy with rifampin plus isoniazid for 3 months and standard therapy with isoniazid for 6-12 months. The end points that were evaluated were development of active tuberculosis, severe adverse drug reactions, and death. We searched published information in the Cochrane Library, MEDLINE, and Embase databases, as well as unpublished information in the Cambridge Scientific Abstracts Internet database, Conference Papers Index, AIDS and Cancer Research Abstracts, and ClinicalTrials.gov. We also scanned the reference lists of articles. We only included trials in which individuals were randomly allocated to receive treatment. Two reviewers independently applied the criteria for trial selection, assessed trial quality, and extracted data.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Five trials comprising 1926 adults from Hong Kong, Spain, and Uganda were identified. The mean duration of follow-up varied from 13 to 37 months. Overall, development of active tuberculosis was equivalent in association with both regimens (pooled risk difference, 0%; 95% confidence interval [CI], -1% to 2%; percentage of total variation across the studies that is the result of heterogeneity rather than chance [I2], 0%; P=.86). Severe adverse effects were reported with a similar frequency for both regimens (pooled risk difference, -1%; 95% CI, -7% to 5%) but with statistically significant heterogeneity detected (I2, 78%; P=.001). However, a subanalysis of high-quality trials (including 74% of the sample size) suggested that both regimens were equally safe. In 3 trials (comprising 1390 patients) that provided data on mortality, the regimens showed equivalence (pooled risk difference, -1%; 95% CI, -4% to 2%; I2, 2.7%; P=.38).
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Short-course therapy with rifampin plus isoniazid was equivalent to standard therapy with isoniazid in terms of efficacy, the proportion of severe side effects that occurred, and mortality.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Internal Medicine Department, Marina Baixa Hospital, Villajoyosa, Alicante, Spain. ena_jav@gva.es
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Ena
+      </lastname>
+      <forename>
+       Javier
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Valls
+      </lastname>
+      <forename>
+       Victoria
+      </forename>
+      <initials>
+       V
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2005
+     </year>
+     <month>
+      02
+     </month>
+     <day>
+      01
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Clin Infect Dis
+    </medlineta>
+    <nlmuniqueid>
+     9203213
+    </nlmuniqueid>
+    <issnlinking>
+     1058-4838
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antitubercular Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      13292-46-1
+     </registrynumber>
+     <nameofsubstance>
+      Rifampin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      54-85-3
+     </registrynumber>
+     <nameofsubstance>
+      Isoniazid
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antitubercular Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Administration Schedule
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Therapy, Combination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Isoniazid
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Rifampin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tuberculosis
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="received">
+     <year>
+      2004
+     </year>
+     <month>
+      July
+     </month>
+     <day>
+      22
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="accepted">
+     <year>
+      2004
+     </year>
+     <month>
+      October
+     </month>
+     <day>
+      14
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="aheadofprint">
+     <year>
+      2005
+     </year>
+     <month>
+      February
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2005
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      17
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2006
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2005
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      17
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     CID34516
+    </articleid>
+    <articleid idtype="doi">
+     10.1086/427802
+    </articleid>
+    <articleid idtype="pubmed">
+     15714411
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

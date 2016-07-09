@@ -1,0 +1,468 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11483783
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     02
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     25
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1098-4275
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       108
+      </volume>
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Aug
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Pediatrics
+     </title>
+     <isoabbreviation>
+      Pediatrics
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Evidence assessment of management of acute otitis media: I. The role of antibiotics in treatment of uncomplicated acute otitis media.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      239-47
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      In 1995, &gt;5 million episodes of acute otitis media (AOM) accounted for $3 billion in health care expenditures.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To synthesize the literature on the natural history of AOM, the effectiveness of antibiotic treatment in uncomplicated AOM, and the relative effectiveness of specific antibiotic regimens.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      Seven electronic databases for articles published between 1966 and March 1999 and reference lists in proceedings, published articles, reports, and guidelines.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION" nlmcategory="METHODS">
+      Two physicians independently assessed each article. Studies addressing AOM in children 4 weeks to 18 years old were included; those addressing children with immunodeficiencies or craniofacial abnormalities were excluded. Randomized, controlled trials (RCTs) were used to assess antibiotic effectiveness, and RCTs and cohort studies were used to assess the natural history of AOM. Among the 3491 citations identified, 80 (2.3%) met our inclusion criteria.
+     </abstracttext>
+     <abstracttext label="DATA EXTRACTION" nlmcategory="METHODS">
+      Two physicians independently abstracted data and assessed the quality of studies using a validated scale for RCTs and 8 quality components for cohort studies.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      Random-effects estimates of pooled absolute rate differences of outcomes were derived, and heterogeneity of both the rates and rate differences was assessed. Children with AOM not treated with antibiotics experienced a 1- to 7-day clinical failure rate of 19% (95% confidence interval: 0.10-0.28) and few suppurative complications. When patients were treated with amoxicillin, the 2- to 7-day clinical failure rate was reduced to 7%, a 12% (95% confidence interval: 0.04-0.20) reduction. Adverse effects, primarily gastrointestinal, were more common among children on cefixime than among those on ampicillin or amoxicillin. They were also more common among children on amoxicillin-clavulanate than among those on azithromycin.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The majority of uncomplicated cases of AOM resolve spontaneously without apparent suppurative complications. Ampicillin or amoxicillin confers a limited therapeutic benefit. There is no evidence to support any particular antibiotic regimens as more effective at relieving symptoms. Certain antibiotics are more likely than others to cause diarrhea and other adverse events.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Division of General Pediatrics, Childrens Hospital, Los Angeles, California 90027, USA. gtakata@chla.usc.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Takata
+      </lastname>
+      <forename>
+       G S
+      </forename>
+      <initials>
+       GS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Chan
+      </lastname>
+      <forename>
+       L S
+      </forename>
+      <initials>
+       LS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Shekelle
+      </lastname>
+      <forename>
+       P
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Morton
+      </lastname>
+      <forename>
+       S C
+      </forename>
+      <initials>
+       SC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Mason
+      </lastname>
+      <forename>
+       W
+      </forename>
+      <initials>
+       W
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Marcy
+      </lastname>
+      <forename>
+       S M
+      </forename>
+      <initials>
+       SM
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       290-97-0001
+      </grantid>
+      <agency>
+       PHS HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Pediatrics
+    </medlineta>
+    <nlmuniqueid>
+     0376422
+    </nlmuniqueid>
+    <issnlinking>
+     0031-4005
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Bacterial Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Penicillins
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      26787-78-0
+     </registrynumber>
+     <nameofsubstance>
+      Amoxicillin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      69-53-4
+     </registrynumber>
+     <nameofsubstance>
+      Ampicillin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      8064-90-2
+     </registrynumber>
+     <nameofsubstance>
+      Trimethoprim-Sulfamethoxazole Combination
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Acute Disease
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Amoxicillin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ampicillin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Bacterial Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cohort Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diarrhea
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      chemically induced
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dose-Response Relationship, Drug
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Administration Schedule
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Evidence-Based Medicine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Otitis Media with Effusion
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Penicillins
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Trimethoprim-Sulfamethoxazole Combination
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11483783
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

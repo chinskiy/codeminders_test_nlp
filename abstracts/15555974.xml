@@ -1,0 +1,334 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15555974
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     23
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     07
+    </day>
+   </datecompleted>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      1072-7515
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       199
+      </volume>
+      <issue>
+       6
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Dec
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of the American College of Surgeons
+     </title>
+     <isoabbreviation>
+      J. Am. Coll. Surg.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     The timing of elective colectomy in diverticulitis: a decision analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      904-12
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Determining the optimal strategy for elective colectomy in patients with diverticular disease involves a balance of the morbidity, mortality, costs, and quality of life associated with both elective and expectant management. We used decision and cost analysis to simulate the clinical and economic outcomes after recovery from an episode of nonsurgically treated diverticulitis to determine the preferable management strategy.
+     </abstracttext>
+     <abstracttext label="STUDY DESIGN" nlmcategory="METHODS">
+      A Markov model was constructed to evaluate lifetime risks of death and colostomy, care costs, and quality of life associated with elective colectomy after subsequent episodes of diverticulitis. The analysis was from the payer's perspective, using hypothetical cohorts of 35- and 50-year-old patients who recovered from a nonsurgically treated diverticulitis episode. Probabilities of clinical events and costs for the base-case analysis were derived from a large cohort using a statewide administrative database and published estimates.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Performing colectomy after the fourth rather than the second episode in patients older than 50 years resulted in 0.5% fewer deaths, 0.7% fewer colostomies, and saved US 1,035 dollars per patient. In younger patients, performing colectomy after the fourth episode compared with the first episode resulted in 0.1% fewer deaths, 2% fewer colostomies, and saved US 5,429 dollars per patient. Expectant management through three recurrent episodes with elective colectomy after the fourth episode was the dominant strategy across the full range of the variables tested in the sensitivity analysis compared with earlier intervention.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      This study suggests that expectant management is associated with lower rates of death and colostomy and is cost-saving for both younger and older patients.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Surgery, University of Washington, Seattle, WA 98195-6410, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Salem
+      </lastname>
+      <forename>
+       Leon
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Veenstra
+      </lastname>
+      <forename>
+       David L
+      </forename>
+      <initials>
+       DL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sullivan
+      </lastname>
+      <forename>
+       Sean D
+      </forename>
+      <initials>
+       SD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Flum
+      </lastname>
+      <forename>
+       David R
+      </forename>
+      <initials>
+       DR
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     J Am Coll Surg
+    </medlineta>
+    <nlmuniqueid>
+     9431305
+    </nlmuniqueid>
+    <issnlinking>
+     1072-7515
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Colectomy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Colostomy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cost-Benefit Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Costs and Cost Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Decision Support Techniques
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diverticulitis
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      surgery
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Markov Chains
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Recurrence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Surgical Procedures, Elective
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="received">
+     <year>
+      2004
+     </year>
+     <month>
+      May
+     </month>
+     <day>
+      19
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="revised">
+     <year>
+      2004
+     </year>
+     <month>
+      Jul
+     </month>
+     <day>
+      23
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="accepted">
+     <year>
+      2004
+     </year>
+     <month>
+      Jul
+     </month>
+     <day>
+      28
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      8
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     S1072-7515(04)01000-2
+    </articleid>
+    <articleid idtype="doi">
+     10.1016/j.jamcollsurg.2004.07.029
+    </articleid>
+    <articleid idtype="pubmed">
+     15555974
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

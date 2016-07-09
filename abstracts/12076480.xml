@@ -1,0 +1,270 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12076480
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     21
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     09
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Dietary fibre for the prevention of colorectal adenomas and carcinomas.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD003430
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Colorectal cancer (CRC) is a major cause of morbidity and mortality in industrialized countries. Experimental evidence has supported the hypothesis that dietary fibre may be protective for the development of CRC, although epidemiologic data have been inconclusive.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      We have conducted a systematic review and meta-analysis to assess the effect of dietary fibre on the incidence or recurrence of colorectal adenomas, the incidence of CRC, and the development of adverse events.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      We identified randomized controlled trials from Medline, Embase, and the Cochrane Controlled Trials Register up to Oct 2001
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      Randomized or quasi-randomized controlled trials were assessed. The population included all subjects that had adenomatous polyps but no previous history of colorectal cancer (CRC), a documented "clean colon" at baseline and repeated visualization of the colon/rectum after at least two years of follow-up. Dietary fibre was the intervention. The primary outcomes were the number of subjects with: a) at least one adenoma, b) more than one adenoma, c) at least one adenoma greater than or equal to 1 cm or d) a new diagnosis of CRC. The secondary outcome was the number of adverse events.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      Two reviewers independently extracted data, assessed trial quality and resolved discrepancies by consensus. The outcomes were reported as relative risks (RR) and risk difference (RD) with 95% confidence intervals (CI). If statistical significance was reached, the number need to treat (NNTT) or harm (NNTH) was reported. The study data were combined with the fixed effects model if it was clinically, methodologically, and statistically reasonable.
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      Five studies with 4349 subjects met the inclusion criteria. The interventions were wheat bran fibre, ispaghula husk, or a comprehensive dietary intervention with high fibre whole food sources alone or in combination. When the data were combined there was no difference between the intervention and control groups for the number of subjects with at least one adenoma [RR 1.04 (95% CI 0.95,1.13); RD 0.01 (95% CI 0.02,0.04)]. As well, the combined results for the number of subjects with more than one adenoma [RR 1.02 (95% CI 0.89,1.17), RD 0.00 (-0.02,0.03)] or at least one adenoma 1 cm or greater [RR 0.94 (95% CI 0.77,1.15), RD -0.01 (-0.02,0.01)] were not statistically significant. Other primary and secondary outcomes and subanalyses by type of fibre intervention were not statistically or clinically significant.
+     </abstracttext>
+     <abstracttext label="REVIEWER'S CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      There is currently no evidence from RCTs to suggest that increased dietary fibre intake will reduce the incidence or recurrence of adenomatous polyps within a two to four year period.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     General Surgery, University of Toronto, Mount Sinai Hospital, 600 University Avenue, Suite 449, Toronto, Ontario, Canada, M5G 1X5. tasano@mtsinai.on.ca
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Asano
+      </lastname>
+      <forename>
+       T
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McLeod
+      </lastname>
+      <forename>
+       R S
+      </forename>
+      <initials>
+       RS
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adenoma
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Colorectal Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dietary Fiber
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Neoplasm Recurrence, Local
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    48
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      22
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      22
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12076480
+    </articleid>
+    <articleid idtype="pii">
+     CD003430
+    </articleid>
+    <articleid idtype="doi">
+     10.1002/14651858.CD003430
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

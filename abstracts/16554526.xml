@@ -1,0 +1,606 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    16554526
+   </pmid>
+   <datecreated>
+    <year>
+     2006
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     23
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2006
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     07
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1533-4406
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       354
+      </volume>
+      <issue>
+       12
+      </issue>
+      <pubdate>
+       <year>
+        2006
+       </year>
+       <month>
+        Mar
+       </month>
+       <day>
+        23
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Medication augmentation after the failure of SSRIs for depression.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1243-52
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Although clinicians frequently add a second medication to an initial, ineffective antidepressant drug, no randomized controlled trial has compared the efficacy of this approach.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We randomly assigned 565 adult outpatients who had nonpsychotic major depressive disorder without remission despite a mean of 11.9 weeks of citalopram therapy (mean final dose, 55 mg per day) to receive sustained-release bupropion (at a dose of up to 400 mg per day) as augmentation and 286 to receive buspirone (at a dose of up to 60 mg per day) as augmentation. The primary outcome of remission of symptoms was defined as a score of 7 or less on the 17-item Hamilton Rating Scale for Depression (HRSD-17) at the end of this study; scores were obtained over the telephone by raters blinded to treatment assignment. The 16-item Quick Inventory of Depressive Symptomatology--Self-Report (QIDS-SR-16) was used to determine the secondary outcomes of remission (defined as a score of less than 6 at the end of this study) and response (a reduction in baseline scores of 50 percent or more).
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The sustained-release bupropion group and the buspirone group had similar rates of HRSD-17 remission (29.7 percent and 30.1 percent, respectively), QIDS-SR-16 remission (39.0 percent and 32.9 percent), and QIDS-SR-16 response (31.8 percent and 26.9 percent). Sustained-release bupropion, however, was associated with a greater reduction (from baseline to the end of this study) in QIDS-SR-16 scores than was buspirone (25.3 percent vs. 17.1 percent, P&lt;0.04), a lower QIDS-SR-16 score at the end of this study (8.0 vs. 9.1, P&lt;0.02), and a lower dropout rate due to intolerance (12.5 percent vs. 20.6 percent, P&lt;0.009).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Augmentation of citalopram with either sustained-release bupropion or buspirone appears to be useful in actual clinical settings. Augmentation with sustained-release bupropion does have certain advantages, including a greater reduction in the number and severity of symptoms and fewer side effects and adverse events. (ClinicalTrials.gov number, NCT00021528.).
+     </abstracttext>
+     <copyrightinformation>
+      Copyright 2006 Massachusetts Medical Society.
+     </copyrightinformation>
+    </abstract>
+    <affiliation>
+     Mood Disorder Program and Clinic, Department of Psychiatry, University of Texas Southwestern Medical Center, Dallas, TX 75390-9119, USA. madhukar.trivedi@utsouthwestern.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Trivedi
+      </lastname>
+      <forename>
+       Madhukar H
+      </forename>
+      <initials>
+       MH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Fava
+      </lastname>
+      <forename>
+       Maurizio
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wisniewski
+      </lastname>
+      <forename>
+       Stephen R
+      </forename>
+      <initials>
+       SR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Thase
+      </lastname>
+      <forename>
+       Michael E
+      </forename>
+      <initials>
+       ME
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Quitkin
+      </lastname>
+      <forename>
+       Frederick
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Warden
+      </lastname>
+      <forename>
+       Diane
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ritz
+      </lastname>
+      <forename>
+       Louise
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Nierenberg
+      </lastname>
+      <forename>
+       Andrew A
+      </forename>
+      <initials>
+       AA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lebowitz
+      </lastname>
+      <forename>
+       Barry D
+      </forename>
+      <initials>
+       BD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Biggs
+      </lastname>
+      <forename>
+       Melanie M
+      </forename>
+      <initials>
+       MM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Luther
+      </lastname>
+      <forename>
+       James F
+      </forename>
+      <initials>
+       JF
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Shores-Wilson
+      </lastname>
+      <forename>
+       Kathy
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rush
+      </lastname>
+      <forename>
+       A John
+      </forename>
+      <initials>
+       AJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       STAR*D Study Team
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <databanklist completeyn="Y">
+     <databank>
+      <databankname>
+       ClinicalTrials.gov
+      </databankname>
+      <accessionnumberlist>
+       <accessionnumber>
+        NCT00021528
+       </accessionnumber>
+      </accessionnumberlist>
+     </databank>
+    </databanklist>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       N01MH90003
+      </grantid>
+      <acronym>
+       MH
+      </acronym>
+      <agency>
+       NIMH NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, N.I.H., Extramural
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Delayed-Action Preparations
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Dopamine Uptake Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Serotonin Receptor Agonists
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Serotonin Uptake Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      34841-39-9
+     </registrynumber>
+     <nameofsubstance>
+      Bupropion
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      36505-84-7
+     </registrynumber>
+     <nameofsubstance>
+      Buspirone
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      59729-33-8
+     </registrynumber>
+     <nameofsubstance>
+      Citalopram
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2006 Jun 15;354(24):2611-3; author reply 2611-3
+     </refsource>
+     <pmid version="1">
+      16775879
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2006 Mar 23;354(12):1305-7
+     </refsource>
+     <pmid version="1">
+      16554533
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bupropion
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Buspirone
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Citalopram
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Delayed-Action Preparations
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Depressive Disorder, Major
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dopamine Uptake Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Administration Schedule
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Therapy, Combination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Logistic Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Remission Induction
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Serotonin Receptor Agonists
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Serotonin Uptake Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Failure
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2006
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2006
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      8
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2006
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     354/12/1243
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJMoa052964
+    </articleid>
+    <articleid idtype="pubmed">
+     16554526
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

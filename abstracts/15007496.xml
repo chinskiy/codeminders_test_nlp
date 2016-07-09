@@ -1,0 +1,335 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15007496
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     09
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     07
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0037-5675
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       44
+      </volume>
+      <issue>
+       11
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Nov
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Singapore medical journal
+     </title>
+     <isoabbreviation>
+      Singapore Med J
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Clinical risk factors for obstructive sleep apnoea in children.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      570-3
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To identify the clinical factor(s) that identify obstructive sleep apnoea syndrome (OSAS) in children.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      A prospective study of children referred to the sleep clinic of the paediatric department was conducted in a public non-teaching regional hospital in Hong Kong. A standard questionnaire was administered and overnight sleep polysomnography was performed in a consecutive series of patients. Logistic regression analysis was performed to obtain significant risk factors for prediction of OSAS in this series of patients.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Sixty-two children were enrolled into the study and 22 were diagnosed to have OSAS. Logistic regression analysis showed that, among all the answers, 'snoring every night' is the single most significant risk factor (p&lt;0.0001) to predict OSAS. 'Snoring every night' has a sensitivity of 91% and specificity of 75% for OSAS patients. It also has a positive predictive value of 67% and negative predictive value of 94%.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Snoring every night is an important risk factor in identifying OSAS in children. Priority for an overnight sleep polysomnogram should be given to those with this symptom.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Paediatrics, Kwong Wah Hospital, Waterloo Road, Kowloon, Hong Kong, People's Republic of China. dkkng@ha.org.hk
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Chau
+      </lastname>
+      <forename>
+       K W
+      </forename>
+      <initials>
+       KW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ng
+      </lastname>
+      <forename>
+       D K K
+      </forename>
+      <initials>
+       DK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kwok
+      </lastname>
+      <forename>
+       C K L
+      </forename>
+      <initials>
+       CK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Chow
+      </lastname>
+      <forename>
+       P Y
+      </forename>
+      <initials>
+       PY
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ho
+      </lastname>
+      <forename>
+       J C S
+      </forename>
+      <initials>
+       JC
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     Singapore
+    </country>
+    <medlineta>
+     Singapore Med J
+    </medlineta>
+    <nlmuniqueid>
+     0404516
+    </nlmuniqueid>
+    <issnlinking>
+     0037-5675
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      Hong Kong
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Logistic Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Polysomnography
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Predictive Value of Tests
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Questionnaires
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sleep Apnea, Obstructive
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      8
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     15007496
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

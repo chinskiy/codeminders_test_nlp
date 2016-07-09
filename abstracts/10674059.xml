@@ -1,0 +1,1197 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10674059
+   </pmid>
+   <datecreated>
+    <year>
+     2000
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     29
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2000
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     29
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0820-3946
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       162
+      </volume>
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+       <month>
+        Jan
+       </month>
+       <day>
+        25
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne
+     </title>
+     <isoabbreviation>
+      CMAJ
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Meta-analysis of benzodiazepine use in the treatment of insomnia.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      225-33
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To systematically review the benefits and risks associated with the use of benzodiazepines to treat insomnia in adults.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      MEDLINE and the Cochrane Controlled Trials Registry were searched for English-language articles published from 1966 to December 1998 that described randomized controlled trials of benzodiazepines for the treatment of insomnia. Key words included "benzodiazepines" (exploded), "randomized controlled trial" and "insomnia." Bibliographies of relevant articles were reviewed for additional studies and manufacturers of benzodiazepines were asked to submit additional randomized controlled trial reports not in the literature.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION" nlmcategory="METHODS">
+      Articles were considered for the meta-analysis if they were randomized controlled trials involving patients with insomnia and compared a benzodiazepine with placebo or another active agent. Of the 89 trials originally identified, 45 met our criteria, representing a total of 2672 patients.
+     </abstracttext>
+     <abstracttext label="DATA EXTRACTION" nlmcategory="METHODS">
+      Data were extracted regarding the participants, the setting, details of the intervention, the outcomes (including adverse effects) and the methodologic quality of the studies.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      The meta-analyses of sleep records indicated that, when compared with placebo, benzodiazepines decreased sleep latency by 4.2 minutes (non-significant; 95% confidence interval (CI -0.7 to 9.2) and significantly increased total sleep duration by 61.8 minutes (95% CI 37.4 to 86.2). Patient-reported outcomes were more optimistic for sleep latency; those randomized to benzodiazepine treatment estimated a sleep latency decrease of 14.3 minutes (95% CI 10.6 to 18.0). Although more patients receiving benzodiazepine treatment reported adverse effects, especially daytime drowsiness and dizziness or light-headedness (common odds ratio 1.8, 95% CI 1.4 to 2.4), dropout rates for the benzodiazepine and placebo groups were similar. Cognitive function decline including memory impairment was reported in several of the studies. Zopiclone was not found to be superior to benzodiazepines on any of the outcome measures examined.
+     </abstracttext>
+     <abstracttext label="INTERPRETATION" nlmcategory="CONCLUSIONS">
+      The use of benzodiazepines in the treatment of insomnia is associated with an increase in sleep duration, but this is countered by a number of adverse effects. Additional studies evaluating the efficacy of nonpharmacological interventions would be valuable.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Centre for Evaluation of Medicines, St. Joseph's Hospital, Hamilton, Ont. holbrook@mcmaster.ca
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Holbrook
+      </lastname>
+      <forename>
+       A M
+      </forename>
+      <initials>
+       AM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Crowther
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lotter
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cheng
+      </lastname>
+      <forename>
+       C
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       King
+      </lastname>
+      <forename>
+       D
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     CANADA
+    </country>
+    <medlineta>
+     CMAJ
+    </medlineta>
+    <nlmuniqueid>
+     9711805
+    </nlmuniqueid>
+    <issnlinking>
+     0820-3946
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      12794-10-4
+     </registrynumber>
+     <nameofsubstance>
+      Benzodiazepines
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Clin Pharmacol. 1983;16 Suppl 2:415S-416S
+     </refsource>
+     <pmid version="1">
+      6661386
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pharmacology. 1983;27 Suppl 2:136-45
+     </refsource>
+     <pmid version="1">
+      6669629
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pharmatherapeutica. 1982;3(3):215-20
+     </refsource>
+     <pmid version="1">
+      6752963
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int Pharmacopsychiatry. 1982;17 Suppl 2:205-9
+     </refsource>
+     <pmid version="1">
+      6765245
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Pharmacol Ther. 1982 Dec;32(6):781-8
+     </refsource>
+     <pmid version="1">
+      7140142
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int Pharmacopsychiatry. 1982;17 Suppl 2:179-87
+     </refsource>
+     <pmid version="1">
+      7188374
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Sleep. 1995 May;18(4):240-5
+     </refsource>
+     <pmid version="1">
+      7618021
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Intern Med. 1995 Sep 11;155(16):1801-7
+     </refsource>
+     <pmid version="1">
+      7654115
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      CMAJ. 1995 Sep 15;153(6):783-6
+     </refsource>
+     <pmid version="1">
+      7664231
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Drugs. 1993 Jan;45(1):44-55
+     </refsource>
+     <pmid version="1">
+      7680984
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1994 Jul 21;331(3):193-6
+     </refsource>
+     <pmid version="1">
+      7794298
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1995 Feb 1;273(5):408-12
+     </refsource>
+     <pmid version="1">
+      7823387
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1994 May 25;271(20):1609-14
+     </refsource>
+     <pmid version="1">
+      7880221
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Consult Clin Psychol. 1995 Feb;63(1):79-89
+     </refsource>
+     <pmid version="1">
+      7896994
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Psychiatry. 1994 Aug;151(8):1172-80
+     </refsource>
+     <pmid version="1">
+      8037252
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Fam Med. 1993 Nov;2(11):1129-34
+     </refsource>
+     <pmid version="1">
+      8124487
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Psychiatry. 1993 Jan;54(1):33-8
+     </refsource>
+     <pmid version="1">
+      8428895
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Ther. 1993 Jan-Feb;15(1):127-36
+     </refsource>
+     <pmid version="1">
+      8458042
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Control Clin Trials. 1996 Feb;17(1):1-12
+     </refsource>
+     <pmid version="1">
+      8721797
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1997 Dec 24-31;278(24):2170-7
+     </refsource>
+     <pmid version="1">
+      9417012
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Am Geriatr Soc. 1998 Jan;46(1):71-6
+     </refsource>
+     <pmid version="1">
+      9434668
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Can Fam Physician. 1998 Apr;44:799-808
+     </refsource>
+     <pmid version="1">
+      9585853
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1998 Oct 24;352(9137):1331-6
+     </refsource>
+     <pmid version="1">
+      9802269
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Pharmacol Ther. 1998 Dec;64(6):684-92
+     </refsource>
+     <pmid version="1">
+      9871433
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Am Geriatr Soc. 1999 Feb;47(2):184-8
+     </refsource>
+     <pmid version="1">
+      9988289
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1999 Mar 17;281(11):991-9
+     </refsource>
+     <pmid version="1">
+      10086433
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      CMAJ. 1999 Mar 9;160(5):649-55
+     </refsource>
+     <pmid version="1">
+      10101999
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      CMAJ. 1999 Mar 9;160(5):675-80
+     </refsource>
+     <pmid version="1">
+      10102003
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      CMAJ. 2000 Jan 25;162(2):216-20
+     </refsource>
+     <pmid version="1">
+      10674058
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Z Med J. 1992 Oct 28;105(944):428-9
+     </refsource>
+     <pmid version="1">
+      1297939
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Psychopharmacology (Berl). 1992;108(1-2):67-71
+     </refsource>
+     <pmid version="1">
+      1410148
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Psychopharmacology (Berl). 1992;107(4):480-4
+     </refsource>
+     <pmid version="1">
+      1603890
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Sleep. 1982;5(4):361-71
+     </refsource>
+     <pmid version="1">
+      6131526
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Science. 1983 Apr 1;220(4592):95-7
+     </refsource>
+     <pmid version="1">
+      6131538
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pharmacology. 1983;26(3):138-49
+     </refsource>
+     <pmid version="1">
+      6132414
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Acta Psychiatr Scand. 1983 Feb;67(2):118-29
+     </refsource>
+     <pmid version="1">
+      6133412
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int Clin Psychopharmacol. 1990 Jul;5(3):173-83
+     </refsource>
+     <pmid version="1">
+      2230061
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arzneimittelforschung. 1990 Aug;40(8):859-62
+     </refsource>
+     <pmid version="1">
+      2242077
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Pharmacol Ther. 1975 May;17(5):573-7
+     </refsource>
+     <pmid version="1">
+      236108
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ir J Med Sci. 1989 Dec;158(12):294-9
+     </refsource>
+     <pmid version="1">
+      2576423
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Psychopharmacol. 1989 Aug;9(4):260-7
+     </refsource>
+     <pmid version="1">
+      2671059
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1989 Sep 15;262(11):1479-84
+     </refsource>
+     <pmid version="1">
+      2769898
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Gen Psychiatry. 1985 Mar;42(3):225-32
+     </refsource>
+     <pmid version="1">
+      2858188
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Psychiatry. 1985 Mar;146:312-4
+     </refsource>
+     <pmid version="1">
+      2859069
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pharmatherapeutica. 1985;4(4):231-5
+     </refsource>
+     <pmid version="1">
+      2865746
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Pharmacol Ther. 1986 Mar;39(3):345-52
+     </refsource>
+     <pmid version="1">
+      2868823
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Sleep. 1986;9(3):385-92
+     </refsource>
+     <pmid version="1">
+      2876485
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Acta Psychiatr Scand Suppl. 1986;332:47-54
+     </refsource>
+     <pmid version="1">
+      2883828
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Drug Intell Clin Pharm. 1987 Sep;21(9):716-20
+     </refsource>
+     <pmid version="1">
+      2888637
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Pharmacol. 1987 Oct;27(10):768-75
+     </refsource>
+     <pmid version="1">
+      2892863
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Psychiatry. 1988 Apr;49(4):134-7
+     </refsource>
+     <pmid version="1">
+      2895761
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pharmatherapeutica. 1986;4(7):463-71
+     </refsource>
+     <pmid version="1">
+      2938195
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arzneimittelforschung. 1988 Apr;38(4):563-7
+     </refsource>
+     <pmid version="1">
+      3041972
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Pharmacol. 1988 Jan;28(1):52-63
+     </refsource>
+     <pmid version="1">
+      3280615
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arzneimittelforschung. 1988 Mar;38(3):387-92
+     </refsource>
+     <pmid version="1">
+      3289550
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1987 Sep 17;317(12):722-8
+     </refsource>
+     <pmid version="1">
+      3306380
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Sleep. 1987;10 Suppl 1:63-72
+     </refsource>
+     <pmid version="1">
+      3326117
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Sleep. 1987;10 Suppl 1:73-8
+     </refsource>
+     <pmid version="1">
+      3326118
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Pharmacol. 1978 Feb-Mar;18(2-3):110-8
+     </refsource>
+     <pmid version="1">
+      342551
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Acta Psychiatr Scand Suppl. 1986;329:104-11
+     </refsource>
+     <pmid version="1">
+      3529832
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arzneimittelforschung. 1987 Jan;37(1):54-7
+     </refsource>
+     <pmid version="1">
+      3551970
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Soc Sci Med. 1985;21(8):887-98
+     </refsource>
+     <pmid version="1">
+      4071122
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Clin Pharmacol. 1979;8(1):69S-72S
+     </refsource>
+     <pmid version="1">
+      41544
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Clin Pharmacol. 1979;8(1):73S-77S
+     </refsource>
+     <pmid version="1">
+      41546
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Gen Psychiatry. 1970 Sep;23(3):226-32
+     </refsource>
+     <pmid version="1">
+      4318151
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int Pharmacopsychiatry. 1980;15(2):129-35
+     </refsource>
+     <pmid version="1">
+      6108299
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Acta Psychiatr Scand. 1981 Sep;64(3):260-9
+     </refsource>
+     <pmid version="1">
+      6119872
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br Med J (Clin Res Ed). 1982 Mar 27;284(6320):942
+     </refsource>
+     <pmid version="1">
+      6121606
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Int Med Res. 1984;12(1):10-6
+     </refsource>
+     <pmid version="1">
+      6141114
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pharmatherapeutica. 1983;3(7):468-74
+     </refsource>
+     <pmid version="1">
+      6142463
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Curr Med Res Opin. 1984;8(10):714-9
+     </refsource>
+     <pmid version="1">
+      6144456
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Psychopharmacology Suppl. 1984;1:194-202
+     </refsource>
+     <pmid version="1">
+      6147841
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pharmacopsychiatry. 1984 Jul;17(4):133-5
+     </refsource>
+     <pmid version="1">
+      6147866
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Neuropsychobiology. 1984;12(2-3):134-7
+     </refsource>
+     <pmid version="1">
+      6152029
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Pharmacol Ther. 1976 May;19(5 Pt 1):576-83
+     </refsource>
+     <pmid version="1">
+      6180
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Clin Pharmacol. 1983;16 Suppl 2:403S-406S
+     </refsource>
+     <pmid version="1">
+      6362699
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Neuropsychobiology. 1984;12(2-3):130-3
+     </refsource>
+     <pmid version="1">
+      6527754
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Ther. 1983;5(6):662-70
+     </refsource>
+     <pmid version="1">
+      6627292
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Curr Med Res Opin. 1983;8(8):543-6
+     </refsource>
+     <pmid version="1">
+      6653132
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Clin Pharmacol. 1983;16 Suppl 1:167S-171S
+     </refsource>
+     <pmid version="1">
+      6138072
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Clin Pharmacol. 1983;16 Suppl 1:173S-177S
+     </refsource>
+     <pmid version="1">
+      6138074
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Clin Pharmacol. 1983;16 Suppl 1:179S-183S
+     </refsource>
+     <pmid version="1">
+      6138075
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Clin Pharmacol. 1983;16 Suppl 2:407S-412S
+     </refsource>
+     <pmid version="1">
+      6140949
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Pharmacol. 1977 May-Jun;17(5-6):319-23
+     </refsource>
+     <pmid version="1">
+      16041
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Pharmacol. 1992 Jul;32(7):647-51
+     </refsource>
+     <pmid version="1">
+      1640005
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1991 Apr 6;337(8745):827-31
+     </refsource>
+     <pmid version="1">
+      1672921
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Psychiatry. 1991 Sep;52 Suppl:31-7
+     </refsource>
+     <pmid version="1">
+      1680123
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Eur J Clin Pharmacol. 1991;41(2):137-40
+     </refsource>
+     <pmid version="1">
+      1743245
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Pharmacol. 1976 Aug-Sep;16(8-9):399-406
+     </refsource>
+     <pmid version="1">
+      184118
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Pharmacol. 1991 Aug;31(8):747-50
+     </refsource>
+     <pmid version="1">
+      1880233
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Intern Med. 1991 Sep;151(9):1779-83
+     </refsource>
+     <pmid version="1">
+      1888243
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Psychiatry. 1991 Jan;148(1):121-6
+     </refsource>
+     <pmid version="1">
+      1888345
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Psychopharmacol. 1991 Aug;11(4):249-53
+     </refsource>
+     <pmid version="1">
+      1918423
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Pharmacol. 1990 May;30(5):461-7
+     </refsource>
+     <pmid version="1">
+      1971831
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Pharmacol Ther. 1991 Apr;49(4):468-76
+     </refsource>
+     <pmid version="1">
+      2015735
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1991 Jun 13;324(24):1691-8
+     </refsource>
+     <pmid version="1">
+      2034245
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int Clin Psychopharmacol. 1990 Oct;5(4):279-86
+     </refsource>
+     <pmid version="1">
+      2081899
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int Clin Psychopharmacol. 1990 Apr;5 Suppl 2:1-10
+     </refsource>
+     <pmid version="1">
+      2201721
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int Clin Psychopharmacol. 1990 Apr;5 Suppl 2:21-7
+     </refsource>
+     <pmid version="1">
+      2201727
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int Clin Psychopharmacol. 1990 Apr;5 Suppl 2:29-37
+     </refsource>
+     <pmid version="1">
+      2201728
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int Clin Psychopharmacol. 1990 Apr;5 Suppl 2:39-46
+     </refsource>
+     <pmid version="1">
+      2201729
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int Clin Psychopharmacol. 1990 Apr;5 Suppl 2:69-77
+     </refsource>
+     <pmid version="1">
+      2201731
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Psychopharmacol. 1990 Aug;10(4 Suppl):28S-31S
+     </refsource>
+     <pmid version="1">
+      2229460
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Psychopharmacol. 1990 Aug;10(4 Suppl):3S-4S
+     </refsource>
+     <pmid version="1">
+      2229461
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Psychopharmacol. 1990 Aug;10(4 Suppl):32S-43S
+     </refsource>
+     <pmid version="1">
+      2229462
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Psychopharmacol. 1990 Aug;10(4 Suppl):56S-67S
+     </refsource>
+     <pmid version="1">
+      2229464
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int Clin Psychopharmacol. 1990 Jul;5(3):165-71
+     </refsource>
+     <pmid version="1">
+      2230060
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Benzodiazepines
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      MEDLINE
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Registries
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sleep Initiation and Maintenance Disorders
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC1232276
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2000
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      4
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10674059
+    </articleid>
+    <articleid idtype="pmc">
+     PMC1232276
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

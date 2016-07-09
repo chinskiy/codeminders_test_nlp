@@ -1,0 +1,481 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12707429
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     22
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     14
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1526-632X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       60
+      </volume>
+      <issue>
+       8
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Apr
+       </month>
+       <day>
+        22
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Neurology
+     </title>
+     <isoabbreviation>
+      Neurology
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Pregabalin for the treatment of postherpetic neuralgia: a randomized, placebo-controlled trial.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1274-83
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To evaluate the efficacy and safety of pregabalin in the treatment of postherpetic neuralgia (PHN).
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      The authors conducted a multicenter, parallel-group, double-blind, placebo-controlled, 8-week, randomized clinical trial in PHN, defined as pain for 3 or more months following herpes zoster rash healing. Patients (n = 173) were randomized to treatment with pregabalin or placebo. Patients randomized to pregabalin received either 600 mg/day (creatinine clearance &gt; 60 mL/min) or 300 mg/day (creatinine clearance 30 to 60 mL/min). The primary efficacy measure was the mean of the last seven daily pain ratings. Secondary endpoints included additional pain ratings, sleep interference, quality of life, mood, and patient and clinician ratings of global improvement.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Pregabalin-treated patients had greater decreases in pain than patients treated with placebo (endpoint mean scores 3.60 vs 5.29, p = 0.0001). Pain was significantly reduced in the pregabalin-treated patients after the first full day of treatment and throughout the study, and significant improvement on the McGill Pain Questionnaire total, sensory, and affective pain scores was also found. The proportions of patients with &gt;or=30% and &gt;or=50% decreases in mean pain scores were greater in the pregabalin than in the placebo group (63% vs 25% and 50% vs 20%, p = 0.001). Sleep also improved in patients treated with pregabalin compared to placebo (p = 0.0001). Both patients and clinicians were more likely to report global improvement with pregabalin than placebo (p = 0.001). Given the maximal dosage studied, pregabalin had acceptable tolerability compared to placebo despite a greater incidence of side effects, which were generally mild to moderate in intensity.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Treatment of PHN with pregabalin is safe, efficacious in relieving pain and sleep interference, and associated with greater global improvement than treatment with placebo.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     University of Rochester School of Medicine and Dentistry, Rochester, NY 14642, USA. robert_dworkin@urmc.rochester.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Dworkin
+      </lastname>
+      <forename>
+       R H
+      </forename>
+      <initials>
+       RH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Corbin
+      </lastname>
+      <forename>
+       A E
+      </forename>
+      <initials>
+       AE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Young
+      </lastname>
+      <forename>
+       J P
+      </forename>
+      <initials>
+       JP
+      </initials>
+      <suffix>
+       Jr
+      </suffix>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sharma
+      </lastname>
+      <forename>
+       U
+      </forename>
+      <initials>
+       U
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       LaMoreaux
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bockbrader
+      </lastname>
+      <forename>
+       H
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Garofalo
+      </lastname>
+      <forename>
+       E A
+      </forename>
+      <initials>
+       EA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Poole
+      </lastname>
+      <forename>
+       R M
+      </forename>
+      <initials>
+       RM
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Neurology
+    </medlineta>
+    <nlmuniqueid>
+     0401060
+    </nlmuniqueid>
+    <issnlinking>
+     0028-3878
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Analgesics, Non-Narcotic
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      pregabalin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      56-12-2
+     </registrynumber>
+     <nameofsubstance>
+      gamma-Aminobutyric Acid
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Neurology. 2003 Apr 22;60(8):E6-7
+     </refsource>
+     <pmid version="1">
+      12707463
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Affect
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Analgesics, Non-Narcotic
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dizziness
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      chemically induced
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Edema
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      chemically induced
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Herpes Zoster
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      complications
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Neuralgia
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      psychology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      virology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pain Measurement
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Quality of Life
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Safety
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sleep Initiation and Maintenance Disorders
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sleep Stages
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      gamma-Aminobutyric Acid
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      analogs &amp; derivatives
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      23
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      15
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      23
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12707429
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,596 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    14732621
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     20
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     25
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0003-9942
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       61
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Jan
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Archives of neurology
+     </title>
+     <isoabbreviation>
+      Arch. Neurol.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Mild cognitive impairment can be distinguished from Alzheimer disease and normal aging for clinical trials.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      59-66
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Mild cognitive impairment (MCI) represents a transitional state between the cognitive changes of normal aging and very early dementia and is becoming increasingly recognized as a risk factor for Alzheimer disease (AD). The Memory Impairment Study (MIS) is a multicenter clinical trial in patients with MCI designed to evaluate whether vitamin E or donepezil is effective at delaying the time to a clinical diagnosis of AD.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To describe the baseline characteristics of patients with MCI recruited for the MIS and compare them with those of elderly controls and patients with AD in another clinical trial.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Descriptive and comparative study of patients with MCI participating in a multicenter clinical trial.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      Memory disorder centers in the United States and Canada.
+     </abstracttext>
+     <abstracttext label="PATIENTS" nlmcategory="METHODS">
+      A total of 769 patients with MCI, 107 cognitively normal elderly controls, 122 patients with very mild AD (Clinical Dementia Rating [CDR] 0.5), and 183 patients with mild AD (CDR 1.0) were evaluated. Patients in the MIS met operational criteria for amnestic MCI. Controls were recruited in parallel with the MCI group, underwent the same assessments, and had a CDR of 0.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      Clinical, neuropsychologic, functional, neuroimaging, and genetic measures.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Mean +/- SD Alzheimer's Disease Assessment Scale-Cognitive Subscale scores were 5.6 +/- 3.3 for controls, 11.3 +/- 4.4 for patients with MCI, 18.0 +/- 6.2 for the AD CDR 0.5 group, and 25.2 +/- 8.8 for the AD CDR 1.0 group. Compared with controls, patients with MCI were most impaired on memory tasks, with less severe impairments in other cognitive domains. Patients with MCI were more likely than controls but less likely than patients with AD to carry the apolipoprotein E epsilon4 allele. Patients with MCI had hippocampal volumes that were intermediate between those of controls and patients with AD.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Patients with MCI had a predominant memory impairment with relative sparing of other cognitive domains and were intermediate between clinically normal individuals and patients with AD on cognitive and functional ratings. These results demonstrate the successful implementation of operational criteria for this unique group of at-risk patients in a multicenter clinical trial.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Alzheimer's Disease Cooperative Study, Department of Neurosciences, University of California-San Diego, 8950 Villa La Jolla Drive, Suite 227, La Jolla, CA 92037, USA. mgrundman@ucsd.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Grundman
+      </lastname>
+      <forename>
+       Michael
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Petersen
+      </lastname>
+      <forename>
+       Ronald C
+      </forename>
+      <initials>
+       RC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ferris
+      </lastname>
+      <forename>
+       Steven H
+      </forename>
+      <initials>
+       SH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Thomas
+      </lastname>
+      <forename>
+       Ronald G
+      </forename>
+      <initials>
+       RG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Aisen
+      </lastname>
+      <forename>
+       Paul S
+      </forename>
+      <initials>
+       PS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bennett
+      </lastname>
+      <forename>
+       David A
+      </forename>
+      <initials>
+       DA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Foster
+      </lastname>
+      <forename>
+       Norman L
+      </forename>
+      <initials>
+       NL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jack
+      </lastname>
+      <forename>
+       Clifford R
+      </forename>
+      <initials>
+       CR
+      </initials>
+      <suffix>
+       Jr
+      </suffix>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Galasko
+      </lastname>
+      <forename>
+       Douglas R
+      </forename>
+      <initials>
+       DR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Doody
+      </lastname>
+      <forename>
+       Rachelle
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kaye
+      </lastname>
+      <forename>
+       Jeffrey
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sano
+      </lastname>
+      <forename>
+       Mary
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Mohs
+      </lastname>
+      <forename>
+       Richard
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gauthier
+      </lastname>
+      <forename>
+       Serge
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kim
+      </lastname>
+      <forename>
+       Hyun T
+      </forename>
+      <initials>
+       HT
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jin
+      </lastname>
+      <forename>
+       Shelia
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schultz
+      </lastname>
+      <forename>
+       Arlan N
+      </forename>
+      <initials>
+       AN
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schafer
+      </lastname>
+      <forename>
+       Kimberly
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Mulnard
+      </lastname>
+      <forename>
+       Ruth
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       van Dyck
+      </lastname>
+      <forename>
+       Christopher H
+      </forename>
+      <initials>
+       CH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Mintzer
+      </lastname>
+      <forename>
+       Jacobo
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Zamrini
+      </lastname>
+      <forename>
+       Edward Y
+      </forename>
+      <initials>
+       EY
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cahn-Weiner
+      </lastname>
+      <forename>
+       Deborah
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Thal
+      </lastname>
+      <forename>
+       Leon J
+      </forename>
+      <initials>
+       LJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       Alzheimer's Disease Cooperative Study
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       AG 010483
+      </grantid>
+      <acronym>
+       AG
+      </acronym>
+      <agency>
+       NIA NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Arch Neurol
+    </medlineta>
+    <nlmuniqueid>
+     0372436
+    </nlmuniqueid>
+    <issnlinking>
+     0003-9942
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aging
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      physiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Alzheimer Disease
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Brain
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Clinical Trials as Topic
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cognition Disorders
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Magnetic Resonance Imaging
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Neuropsychological Tests
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     14732621
+    </articleid>
+    <articleid idtype="doi">
+     10.1001/archneur.61.1.59
+    </articleid>
+    <articleid idtype="pii">
+     61/1/59
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

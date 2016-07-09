@@ -1,0 +1,565 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15333452
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     03
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     24
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print-Electronic">
+    <journal>
+     <issn issntype="Electronic">
+      1468-5833
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       329
+      </volume>
+      <issue>
+       7465
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Sep
+       </month>
+       <day>
+        4
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      BMJ (Clinical research ed.)
+     </title>
+     <isoabbreviation>
+      BMJ
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Effect of lactobacillus in preventing post-antibiotic vulvovaginal candidiasis: a randomised controlled trial.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      548
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To test whether oral or vaginal lactobacillus can prevent vulvovaginitis after antibiotic treatment.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Randomised, placebo controlled, double blind, factorial 2x2 trial.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      Fifty general practices and 16 pharmacies in Melbourne, Australia.
+     </abstracttext>
+     <abstracttext label="PARTICIPANTS" nlmcategory="METHODS">
+      Non-pregnant women aged 18-50 years who required a short course of oral antibiotics for a non-gynaecological infection: 278 were enrolled in the study, and results were available for 235.
+     </abstracttext>
+     <abstracttext label="INTERVENTIONS" nlmcategory="METHODS">
+      Lactobacillus preparations taken orally or vaginally, or both, from enrollment until four days after completion of their antibiotic course.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      Participants' reports of symptoms of post-antibiotic vulvovaginitis, with microbiological evidence of candidiasis provided by a self obtained vaginal swab.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Overall, 55/235 (23% (95% confidence interval 18% to 29%)) women developed post-antibiotic vulvovaginitis. Compared with placebo, the odds ratio for developing post-antibiotic vulvovaginitis with oral lactobacillus was 1.06 (95% confidence interval 0.58 to 1.94) and with vaginal lactobacillus 1.38 (0.75 to 2.54). Compliance with antibiotics and interventions was high. The trial was terminated after the second interim analysis because of lack of effect of the interventions. Given the data at this time, the chances of detecting a significant reduction in vulvovaginitis with oral or vaginal lactobacillus treatment were less than 0.032 and 0.0006 respectively if the trial proceeded to full enrollment.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The use of oral or vaginal forms of lactobacillus to prevent post-antibiotic vulvovaginitis is not supported by these results. Further research on this subject is unlikely to be fruitful, unless new understandings about the pathogenesis of post-antibiotic vulvovaginitis indicate a possible role for lactobacillus.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of General Practice, 200 Berkeley Street, Carlton, Victoria, Australia, 3053. m.pirotta@unimelb.edu.au
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Pirotta
+      </lastname>
+      <forename>
+       Marie
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gunn
+      </lastname>
+      <forename>
+       Jane
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Chondros
+      </lastname>
+      <forename>
+       Patty
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Grover
+      </lastname>
+      <forename>
+       Sonia
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       O'Malley
+      </lastname>
+      <forename>
+       Paula
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hurley
+      </lastname>
+      <forename>
+       Susan
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Garland
+      </lastname>
+      <forename>
+       Suzanne
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2004
+     </year>
+     <month>
+      08
+     </month>
+     <day>
+      27
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     BMJ
+    </medlineta>
+    <nlmuniqueid>
+     8900488
+    </nlmuniqueid>
+    <issnlinking>
+     0959-535X
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Bacterial Agents
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int J Antimicrob Agents. 2000 Dec;16(4):531-6
+     </refsource>
+     <pmid version="1">
+      11118874
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1998 Nov 11;280(18):1569-75
+     </refsource>
+     <pmid version="1">
+      9820257
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Microbiol. 2002 Dec;40(12):4768-70
+     </refsource>
+     <pmid version="1">
+      12454192
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int Rev Immunol. 2002 Nov-Dec;21(6):515-48
+     </refsource>
+     <pmid version="1">
+      12650240
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Med J Aust. 2003 Jul 7;179(1):43-6
+     </refsource>
+     <pmid version="1">
+      12831384
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1992 Jul 25;305(6847):235-40
+     </refsource>
+     <pmid version="1">
+      1392832
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Epidemiol. 2003 Sep;56(9):862-6
+     </refsource>
+     <pmid version="1">
+      14505771
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMC Fam Pract. 2004 Mar 28;5:5
+     </refsource>
+     <pmid version="1">
+      15046642
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1991 Jul;164(1):94-100
+     </refsource>
+     <pmid version="1">
+      1647428
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Intern Med. 1992 Mar 1;116(5):353-7
+     </refsource>
+     <pmid version="1">
+      1736766
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Fam Pract Res J. 1991 Sep;11(3):319-26
+     </refsource>
+     <pmid version="1">
+      1755351
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Rev Infect Dis. 1990 Sep-Oct;12(5):856-72
+     </refsource>
+     <pmid version="1">
+      2237129
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Biometrics. 1979 Sep;35(3):549-56
+     </refsource>
+     <pmid version="1">
+      497341
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      FEMS Immunol Med Microbiol. 1993 Apr;6(4):251-64
+     </refsource>
+     <pmid version="1">
+      8499891
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Diagn Microbiol Infect Dis. 1996 Apr;24(4):201-4
+     </refsource>
+     <pmid version="1">
+      8831034
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Microbiol. 1996 Oct;34(10):2497-9
+     </refsource>
+     <pmid version="1">
+      8880507
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Obstet Gynecol. 1997 Jul;90(1):50-3
+     </refsource>
+     <pmid version="1">
+      9207812
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Obstet Gynecol. 1998 Feb;178(2):203-11
+     </refsource>
+     <pmid version="1">
+      9500475
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Prev Med. 2002 Aug;35(2):166-73
+     </refsource>
+     <pmid version="1">
+      12200102
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Administration, Intravaginal
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Administration, Oral
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Bacterial Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Candidiasis, Vulvovaginal
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Lactobacillus
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vulvovaginitis
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC516107
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      31
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="aheadofprint">
+     <year>
+      2004
+     </year>
+     <month>
+      Aug
+     </month>
+     <day>
+      27
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      31
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     15333452
+    </articleid>
+    <articleid idtype="doi">
+     10.1136/bmj.38210.494977.DE
+    </articleid>
+    <articleid idtype="pii">
+     bmj.38210.494977.DE
+    </articleid>
+    <articleid idtype="pmc">
+     PMC516107
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

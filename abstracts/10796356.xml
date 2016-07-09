@@ -1,0 +1,299 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10796356
+   </pmid>
+   <datecreated>
+    <year>
+     2000
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     06
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2000
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     06
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2008
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Non-steroidal anti-inflammatory drugs for low back pain.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD000396
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Non-steroidal anti-inflammatory drugs (NSAIDs) are the most frequently prescribed medications worldwide and are widely used for patients with low back pain.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      The objective of this systematic review was to assess the effects of NSAIDs in the treatment of non-specific low back pain and to assess which type of NSAID is most effective.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      We searched the Medline and Embase databases and the Cochrane Controlled Trials Register (CCTR) up to and including September 1998 if reported in English, Dutch or German. We also screened references given in relevant reviews and identified trials.
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      Randomised trials and double-blind controlled trials of NSAIDs in non-specific low back pain with or without radiation were included.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      Two reviewers blinded with respect to authors, institution and journal independently extracted data and assessed methodological quality. A methodological quality score was applied, and studies meeting at least six of 11 specified criteria were considered high quality studies. If data were considered clinically homogeneous, a meta-analysis was performed using a fixed effects model for statistically homogeneous subgroups and a random effects model for statistically heterogeneous subgroups. If data were considered clinically heterogeneous, a qualitative analysis was performed using a rating system with four levels of evidence (strong, moderate, limited, no).
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      A total of 51 trials (total number of patients = 6057) were included in this review, of which 46 were published in English and five in German. Sixteen trials (31%) were of high quality. The pooled Relative Risk for global improvement after one week was 1.24 (95% CI 1.10, 1.41) and for additional analgesic use 1.29 (95% CI 1.05, 1.57), indicating a statistically significant effect in favour of NSAIDs compared to placebo. The results of the qualitative analysis showed that there is conflicting evidence (level 3) that NSAIDs are more effective than paracetamol for acute low back pain, and that there is moderate evidence (level 2) that NSAIDs are not more effective than other drugs for acute low back pain. There is strong evidence (level 1) that various types of NSAIDs are equally effective for acute low back pain.
+     </abstracttext>
+     <abstracttext label="REVIEWER'S CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      In conclusion, the evidence from the 51 trials included in this review suggests that NSAIDs are effective for short-term symptomatic relief in patients with acute low back pain. Furthermore, there does not seem to be a specific type of NSAID which is clearly more effective than others. Sufficient evidence on chronic low back pain is still lacking.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Institute for Research in Extramural Medicine, Vrije Universiteit, van der Boechorststraat 7, Amsterdam, Netherlands, 1081 BT. mw.van_tulder.emgo@med.vu.nl
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       van Tulder
+      </lastname>
+      <forename>
+       M W
+      </forename>
+      <initials>
+       MW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Scholten
+      </lastname>
+      <forename>
+       R J
+      </forename>
+      <initials>
+       RJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Koes
+      </lastname>
+      <forename>
+       B W
+      </forename>
+      <initials>
+       BW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Deyo
+      </lastname>
+      <forename>
+       R A
+      </forename>
+      <initials>
+       RA
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     ENGLAND
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Inflammatory Agents, Non-Steroidal
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="UpdateIn">
+     <refsource>
+      Cochrane Database Syst Rev. 2006;(2):CD000396
+     </refsource>
+     <pmid version="1">
+      17636636
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="UpdateIn">
+     <refsource>
+      Cochrane Database Syst Rev. 2008;(1):CD000396
+     </refsource>
+     <pmid version="1">
+      18253976
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Inflammatory Agents, Non-Steroidal
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Low Back Pain
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    51
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2000
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      8
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10796356
+    </articleid>
+    <articleid idtype="pii">
+     CD000396
+    </articleid>
+    <articleid idtype="doi">
+     10.1002/14651858.CD000396
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

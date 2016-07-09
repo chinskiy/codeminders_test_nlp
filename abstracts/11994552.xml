@@ -1,0 +1,968 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11994552
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     07
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     29
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0040-6376
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       57 Suppl 1
+      </volume>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        May
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Thorax
+     </title>
+     <isoabbreviation>
+      Thorax
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     British Thoracic Society Guidelines for the Management of Community Acquired Pneumonia in Childhood.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      i1-24
+     </medlinepgn>
+    </pagination>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <collectivename>
+       British Thoracic Society Standards of Care Committee
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Guideline
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Practice Guideline
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Thorax
+    </medlineta>
+    <nlmuniqueid>
+     0417353
+    </nlmuniqueid>
+    <issnlinking>
+     0040-6376
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Scand J Infect Dis. 1994;26(4):399-402
+     </refsource>
+     <pmid version="1">
+      7984970
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1993 Oct 30;307(6912):1117
+     </refsource>
+     <pmid version="1">
+      8251812
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Epidemiol. 1993 May 1;137(9):977-88
+     </refsource>
+     <pmid version="1">
+      8317455
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Acta Paediatr. 1993 Apr;82(4):360-3
+     </refsource>
+     <pmid version="1">
+      8318803
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Eur J Pediatr. 1993 Jan;152(1):24-30
+     </refsource>
+     <pmid version="1">
+      8444202
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Acta Paediatr. 1993 Feb;82(2):137-41
+     </refsource>
+     <pmid version="1">
+      8477158
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Vaccine. 1995 Sep;13(13):1183-6
+     </refsource>
+     <pmid version="1">
+      8578802
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 1995 Oct;14(10):885-90
+     </refsource>
+     <pmid version="1">
+      8584317
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1996 May;97(5):607-12
+     </refsource>
+     <pmid version="1">
+      8628595
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 1996 Jul;15(7):600-4
+     </refsource>
+     <pmid version="1">
+      8823854
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Trop Pediatr. 1998 Feb;44(1):18-24
+     </refsource>
+     <pmid version="1">
+      9538601
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1998 May 14;338(20):1405-12
+     </refsource>
+     <pmid version="1">
+      9580647
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      AJR Am J Roentgenol. 1998 Jun;170(6):1627-31
+     </refsource>
+     <pmid version="1">
+      9609186
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Trop Paediatr. 1998 Mar;18(1):31-40
+     </refsource>
+     <pmid version="1">
+      9691999
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Drugs. 1998 Aug;56(2):273-97
+     </refsource>
+     <pmid version="1">
+      9711451
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1998 Jul;102(1 Pt 1):142-5
+     </refsource>
+     <pmid version="1">
+      9714639
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Z Med J. 1998 Aug 28;111(1072):315-7
+     </refsource>
+     <pmid version="1">
+      9765629
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 1998 Sep;17(9 Suppl):S123-5
+     </refsource>
+     <pmid version="1">
+      9781744
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 1998 Oct;17(10):865-71
+     </refsource>
+     <pmid version="1">
+      9802626
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Emerg Care. 1998 Oct;14(5):338-41
+     </refsource>
+     <pmid version="1">
+      9814400
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1998 Dec;102(6):1369-75
+     </refsource>
+     <pmid version="1">
+      9832571
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 1998 Nov;17(11):986-91
+     </refsource>
+     <pmid version="1">
+      9849979
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pharmatherapeutica. 1989;5(6):423-8
+     </refsource>
+     <pmid version="1">
+      2687898
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 1989 Mar;8(3):143-8
+     </refsource>
+     <pmid version="1">
+      2785261
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1988 Jul 16;2(8603):125-8
+     </refsource>
+     <pmid version="1">
+      2899187
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am Rev Respir Dis. 1988 Sep;138(3):583-9
+     </refsource>
+     <pmid version="1">
+      3059874
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis. 1986 Jan-Feb;5(1):71-85
+     </refsource>
+     <pmid version="1">
+      3080738
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Radiology. 1988 Apr;167(1):135-7
+     </refsource>
+     <pmid version="1">
+      3347713
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Dis Child. 1977 Dec;52(12):925-31
+     </refsource>
+     <pmid version="1">
+      343723
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1986 Jul;78(1):1-9
+     </refsource>
+     <pmid version="1">
+      3487770
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Pediatr. 1987 Aug;111(2):194-200
+     </refsource>
+     <pmid version="1">
+      3612389
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Am Osteopath Assoc. 1978 Oct;78(2):122-5
+     </refsource>
+     <pmid version="1">
+      361656
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 1998 Nov;17(11):992-5
+     </refsource>
+     <pmid version="1">
+      9849980
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Emerg Med. 1999 Feb;33(2):166-73
+     </refsource>
+     <pmid version="1">
+      9922412
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1999 Feb;103(2):409-13
+     </refsource>
+     <pmid version="1">
+      9925833
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 1999 Feb;18(2):98-104
+     </refsource>
+     <pmid version="1">
+      10048679
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Dis Child. 1999 Apr;80(4):393-7
+     </refsource>
+     <pmid version="1">
+      10086954
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Dis Child. 1999 Mar;80(3):297-9
+     </refsource>
+     <pmid version="1">
+      10325717
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 1999 Jun;18(6):543-51
+     </refsource>
+     <pmid version="1">
+      10391188
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Dis Child. 2000 Jan;82(1):41-5
+     </refsource>
+     <pmid version="1">
+      10630911
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 2000 Apr;19(4):293-8
+     </refsource>
+     <pmid version="1">
+      10783017
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Dis Child. 2000 Oct;83(4):320-4
+     </refsource>
+     <pmid version="1">
+      10999868
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Trop Paediatr. 1992;12(4):455-62
+     </refsource>
+     <pmid version="1">
+      1283678
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Acta Paediatr. 1992 Dec;81(12):993-6
+     </refsource>
+     <pmid version="1">
+      1290865
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Chemother. 1992 Dec;4(6):364-70
+     </refsource>
+     <pmid version="1">
+      1337553
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Scand J Infect Dis. 1992;24(4):445-51
+     </refsource>
+     <pmid version="1">
+      1411310
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Indian Pediatr. 1992 Jun;29(6):735-40
+     </refsource>
+     <pmid version="1">
+      1500133
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Chemotherapy. 1992;38 Suppl 2:29-32
+     </refsource>
+     <pmid version="1">
+      1516462
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Eur J Clin Microbiol Infect Dis. 1992 Mar;11(3):217-23
+     </refsource>
+     <pmid version="1">
+      1597197
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Curr Med Res Opin. 1992;12(10):631-9
+     </refsource>
+     <pmid version="1">
+      1633721
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1991 Oct 12;338(8772):928-30
+     </refsource>
+     <pmid version="1">
+      1681277
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 1991 Feb;10(2):104-8
+     </refsource>
+     <pmid version="1">
+      2062599
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Zhonghua Yi Xue Za Zhi (Taipei). 1990 Jul;46(1):49-52
+     </refsource>
+     <pmid version="1">
+      2176924
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Paediatr Child Health. 1990 Aug;26(4):209-11
+     </refsource>
+     <pmid version="1">
+      2257182
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Acta Paediatr Scand. 1990 Feb;79(2):219-25
+     </refsource>
+     <pmid version="1">
+      2321485
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 1989 Dec;8(12):856-62
+     </refsource>
+     <pmid version="1">
+      2516622
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1989 Feb 11;1(8633):297-9
+     </refsource>
+     <pmid version="1">
+      2563457
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Pediatr (Phila). 1989 Jun;28(6):261-4
+     </refsource>
+     <pmid version="1">
+      2656052
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Radiol. 1989;19(8):499-503
+     </refsource>
+     <pmid version="1">
+      2677945
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br Med J (Clin Res Ed). 1985 Jun 8;290(6483):1703-4
+     </refsource>
+     <pmid version="1">
+      3924221
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br Med J (Clin Res Ed). 1985 Jul 13;291(6488):143
+     </refsource>
+     <pmid version="1">
+      3926095
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Radiol. 1974;2(3):155-60
+     </refsource>
+     <pmid version="1">
+      4423578
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Dis Child. 1995 Jan;72(1):58-9
+     </refsource>
+     <pmid version="1">
+      7717742
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Infect Dis. 1995 Mar;20(3):621-8
+     </refsource>
+     <pmid version="1">
+      7756486
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 1995 Apr;14(4 Suppl):S19-22
+     </refsource>
+     <pmid version="1">
+      7792126
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Dis Child. 1994 Nov;71(5):393-4
+     </refsource>
+     <pmid version="1">
+      7826106
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Trans R Soc Trop Med Hyg. 1994 May-Jun;88(3):307-10
+     </refsource>
+     <pmid version="1">
+      7974671
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1996 Oct;174(4):752-9
+     </refsource>
+     <pmid version="1">
+      8843213
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Med. 1996 Feb;28(1):69-72
+     </refsource>
+     <pmid version="1">
+      8932509
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Pediatr (Phila). 1996 Dec;35(12):629-33
+     </refsource>
+     <pmid version="1">
+      8970755
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Chemotherapy. 1996 May-Jun;42(3):231-4
+     </refsource>
+     <pmid version="1">
+      8983893
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Trop Pediatr. 1997 Feb;43(1):47-9
+     </refsource>
+     <pmid version="1">
+      9078829
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Chemother. 1997 Feb;9(1):38-43
+     </refsource>
+     <pmid version="1">
+      9106016
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Eur Respir J. 1997 May;10(5):1125-9
+     </refsource>
+     <pmid version="1">
+      9163657
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Eur J Clin Microbiol Infect Dis. 1997 May;16(5):388-91
+     </refsource>
+     <pmid version="1">
+      9228482
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Trop Pediatr. 1997 Aug;43(4):208-12
+     </refsource>
+     <pmid version="1">
+      9283122
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1997 Nov 29;350(9091):1569-77
+     </refsource>
+     <pmid version="1">
+      9393335
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1998 Jan 28;279(4):308-13
+     </refsource>
+     <pmid version="1">
+      9450716
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1998 Feb 7;351(9100):404-8
+     </refsource>
+     <pmid version="1">
+      9482294
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Dis Child. 1971 Nov;122(5):386-92
+     </refsource>
+     <pmid version="1">
+      5129527
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Intern Med. 1970 Apr;125(4):680-4
+     </refsource>
+     <pmid version="1">
+      5437892
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Epidemiol. 1981 Jan;113(1):12-21
+     </refsource>
+     <pmid version="1">
+      6257108
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Pediatr (Phila). 1981 Nov;20(11):686-91
+     </refsource>
+     <pmid version="1">
+      6271448
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Dis Child. 1984 Nov;59(11):1038-45
+     </refsource>
+     <pmid version="1">
+      6391389
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Eur J Clin Microbiol. 1984 Apr;3(2):116-21
+     </refsource>
+     <pmid version="1">
+      6426950
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1984 Sep;74(3):379-83
+     </refsource>
+     <pmid version="1">
+      6472970
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Aust Paediatr J. 1983 Sep;19(3):172-4
+     </refsource>
+     <pmid version="1">
+      6651664
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Dis Child. 1980 Jan;55(1):17-21
+     </refsource>
+     <pmid version="1">
+      6769396
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Child Abuse Negl. 1982;6(2):113-23
+     </refsource>
+     <pmid version="1">
+      6892291
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 1995 Jun;14(6):471-7
+     </refsource>
+     <pmid version="1">
+      7667050
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 1995 Jun;14(6):484-90
+     </refsource>
+     <pmid version="1">
+      7667052
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Community-Acquired Infections
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pneumonia
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      microbiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC1765993
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      8
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      30
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      8
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11994552
+    </articleid>
+    <articleid idtype="pmc">
+     PMC1765993
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

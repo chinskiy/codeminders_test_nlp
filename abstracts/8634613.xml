@@ -1,0 +1,657 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    8634613
+   </pmid>
+   <datecreated>
+    <year>
+     1996
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     08
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1996
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     08
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     24
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0959-8138
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       312
+      </volume>
+      <issue>
+       7041
+      </issue>
+      <pubdate>
+       <year>
+        1996
+       </year>
+       <month>
+        May
+       </month>
+       <day>
+        18
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      BMJ (Clinical research ed.)
+     </title>
+     <isoabbreviation>
+      BMJ
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Meta-analysis of how well measures of bone mineral density predict occurrence of osteoporotic fractures.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1254-9
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To determine the ability of measurements of bone density in women to predict later fractures.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Meta-analysis of prospective cohort studies published between 1985 and end of 1994 with a baseline measurement of bone density in women and subsequent follow up for fractures. For comparative purposes, we also reviewed case control studies of hip fractures published between 1990 and 1994.
+     </abstracttext>
+     <abstracttext label="SUBJECTS" nlmcategory="METHODS">
+      Eleven separate study populations with about 90,000 person years of observation time and over 2000 fractures.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      Relative risk of fracture for a decrease in bone mineral density of one standard deviation below age adjusted mean.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      All measuring sites had similar predictive abilities (relative risk 1.5 (95% confidence interval 1.4 to 1.6)) for decrease in bone mineral density except for measurement at spine for predicting vertebral fractures (relative risk 2.3 (1.9 to 2.8)) and measurement at hip for hip fractures (2.6 (2.0 to 3.5)). These results are in accordance with results of case-control studies. Predictive ability of decrease in bone mass was roughly similar to (or, for hip or spine measurements, better than) that of a 1 SD increase in blood pressure for stroke and better than a 1 SD increase in serum cholesterol concentration for cardiovascular disease.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Measurements of bone mineral density can predict fracture risk but cannot identify individuals who will have a fracture. We do not recommend a programme of screening menopausal women for osteoporosis by measuring bone density.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Swedish Council on Technology Assessment in Health Care, Stockholm, Sweden.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Marshall
+      </lastname>
+      <forename>
+       D
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Johnell
+      </lastname>
+      <forename>
+       O
+      </forename>
+      <initials>
+       O
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wedel
+      </lastname>
+      <forename>
+       H
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     ENGLAND
+    </country>
+    <medlineta>
+     BMJ
+    </medlineta>
+    <nlmuniqueid>
+     8900488
+    </nlmuniqueid>
+    <issnlinking>
+     0959-535X
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Bone Miner Res. 1992 Jun;7(6):633-8
+     </refsource>
+     <pmid version="1">
+      1414481
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Bone. 1993 Mar-Apr;14(2):161-5
+     </refsource>
+     <pmid version="1">
+      8334034
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Osteoporos Int. 1992 Nov;2(6):285-9
+     </refsource>
+     <pmid version="1">
+      1421796
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Osteoporos Int. 1992 Nov;2(6):290-7
+     </refsource>
+     <pmid version="1">
+      1421797
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Kobe J Med Sci. 1992 Feb;38(1):21-36
+     </refsource>
+     <pmid version="1">
+      1495269
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Epidemiol. 1992 Mar 1;135(5):477-89
+     </refsource>
+     <pmid version="1">
+      1570814
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Bone Miner Res. 1992 Jul;7(7):755-9
+     </refsource>
+     <pmid version="1">
+      1642144
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Endocrinol Metab. 1992 Feb;74(2):351-6
+     </refsource>
+     <pmid version="1">
+      1730813
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Osteoporos Int. 1991 Jun;1(3):147-54
+     </refsource>
+     <pmid version="1">
+      1790402
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1991 Aug 24;303(6800):453-9
+     </refsource>
+     <pmid version="1">
+      1912840
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Calcif Tissue Int. 1991 Aug;49(2):90-4
+     </refsource>
+     <pmid version="1">
+      1913299
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Orthop Rev. 1991 Aug;20(8):690-8
+     </refsource>
+     <pmid version="1">
+      1923583
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Calcif Tissue Int. 1991 Sep;49(3):161-3
+     </refsource>
+     <pmid version="1">
+      1933579
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Intern Med. 1991 Dec 1;115(11):837-42
+     </refsource>
+     <pmid version="1">
+      1952469
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Intern Med. 1991 Jun 1;114(11):919-23
+     </refsource>
+     <pmid version="1">
+      2024857
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Calcif Tissue Int. 1990 Mar;46(3):149-61
+     </refsource>
+     <pmid version="1">
+      2137720
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Intern Med. 1990 Apr 1;112(7):516-28
+     </refsource>
+     <pmid version="1">
+      2180356
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1990 Sep 29;301(6753):638-41
+     </refsource>
+     <pmid version="1">
+      2224217
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Orthop Res. 1990 Mar;8(2):220-6
+     </refsource>
+     <pmid version="1">
+      2303954
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1990 Feb 2;263(5):665-8
+     </refsource>
+     <pmid version="1">
+      2404146
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Calcif Tissue Int. 1993 May;52(5):348-53
+     </refsource>
+     <pmid version="1">
+      8504371
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Clin Nutr. 1977 Oct;30(10):1603-11
+     </refsource>
+     <pmid version="1">
+      910737
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Epidemiol. 1992 Aug 15;136(4):428-40
+     </refsource>
+     <pmid version="1">
+      1415163
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1994 Jan 12;271(2):128-33
+     </refsource>
+     <pmid version="1">
+      8264067
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Stat Methods Med Res. 1993;2(2):173-92
+     </refsource>
+     <pmid version="1">
+      8261257
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Nucl Med. 1989 Jul;30(7):1166-71
+     </refsource>
+     <pmid version="1">
+      2738698
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Intern Med. 1989 Sep 1;111(5):355-61
+     </refsource>
+     <pmid version="1">
+      2764403
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Invest. 1988 Jun;81(6):1804-9
+     </refsource>
+     <pmid version="1">
+      3384952
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Orthop Relat Res. 1987 Mar;(216):262-9
+     </refsource>
+     <pmid version="1">
+      3815956
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Med J Aust. 1987 Mar 16;146(6):300-4
+     </refsource>
+     <pmid version="1">
+      3821635
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Med. 1985 Mar;78(3):487-94
+     </refsource>
+     <pmid version="1">
+      3976707
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Epidemiol. 1984 May;119(5):751-64
+     </refsource>
+     <pmid version="1">
+      6609636
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Osteoporos Int. 1994 Nov;4(6):325-31
+     </refsource>
+     <pmid version="1">
+      7696827
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1995 Feb 18;310(6977):454-6
+     </refsource>
+     <pmid version="1">
+      7873955
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Osteoporos Int. 1994 May;4(3):144-8
+     </refsource>
+     <pmid version="1">
+      8069053
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1993 Jan 9;341(8837):72-5
+     </refsource>
+     <pmid version="1">
+      8093403
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1993 Oct 30;307(6912):1111-5
+     </refsource>
+     <pmid version="1">
+      8251809
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Bone Miner Res. 1993 Oct;8(10):1227-33
+     </refsource>
+     <pmid version="1">
+      8256660
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      BMJ. 1996 Aug 31;313(7056):561
+     </refsource>
+     <pmid version="1">
+      8790007
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      BMJ. 1996 Aug 31;313(7056):561-2
+     </refsource>
+     <pmid version="1">
+      8790008
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 1996 Sep-Oct;125(2):48
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Bone Density
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cohort Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Follow-Up Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Forecasting
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fractures, Bone
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hip Fractures
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Osteoporosis, Postmenopausal
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Predictive Value of Tests
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC2351094
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1996
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      18
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1996
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1996
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     8634613
+    </articleid>
+    <articleid idtype="pmc">
+     PMC2351094
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

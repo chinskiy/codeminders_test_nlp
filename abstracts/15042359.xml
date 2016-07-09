@@ -1,0 +1,354 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15042359
+   </pmid>
+   <datecreated>
+    <year>
+     2005
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     21
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     28
+    </day>
+   </datecompleted>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0171-5216
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       130
+      </volume>
+      <issue>
+       7
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Jul
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of cancer research and clinical oncology
+     </title>
+     <isoabbreviation>
+      J. Cancer Res. Clin. Oncol.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Randomized controlled trial of screening for hepatocellular carcinoma.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      417-22
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="PURPOSE" nlmcategory="OBJECTIVE">
+      Screening for hepatocellular carcinoma (HCC) has been conducted for over 20 years, but there is no conclusive evidence that screening may reduce HCC mortality. The aim of this study was to assess the effect of screening on HCC mortality in people at increased risk.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      This study included 18,816 people, aged 35-59 years with hepatitis B virus infection or a history of chronic hepatitis in urban Shanghai, China. Participants were randomly allocated to a screening (9,373) or control (9,443) group. Controls received no screening and continued to use health-care facilities. Screening group participants were invited to have an AFP test and ultrasonography examination every 6 months. Screening was stopped in December 1997; by that time screening group participants had been offered five to ten times. All participants were followed up until December 1998. The primary outcome measure was HCC mortality.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The screened group completed 58.2 percent of the screening offered. When the screening group was compared to the control group, the number of HCC was 86 versus 67; subclinical HCC being 52 (60.5%) versus 0; small HCC 39 (45.3%) versus 0; resection achieved 40 (46.5%) versus 5 (7.5%); 1-, 3,-, and 5-year survival rate 65.9%, 52.6%, 46.4% versus 31.2%, 7.2%, 0, respectively. Thirty-two people died from HCC in the screened group versus 54 in the control group, and the HCC mortality rate was significantly lower in the screened group than in controls, being 83.2/100,000 and 131.5/100,000, respectively, with a mortality rate ratio of 0.63 (95%CI 0.41-0.98).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Our finding indicated that biannual screening reduced HCC mortality by 37%.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Liver Cancer Institute of Fudan University, Zhongshan Hospital, 180 Feng Lin Road, Shanghai 200032, China. bzhang@zshospital.net
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Zhang
+      </lastname>
+      <forename>
+       Bo-Heng
+      </forename>
+      <initials>
+       BH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Yang
+      </lastname>
+      <forename>
+       Bing-Hui
+      </forename>
+      <initials>
+       BH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tang
+      </lastname>
+      <forename>
+       Zhao-You
+      </forename>
+      <initials>
+       ZY
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     Germany
+    </country>
+    <medlineta>
+     J Cancer Res Clin Oncol
+    </medlineta>
+    <nlmuniqueid>
+     7902060
+    </nlmuniqueid>
+    <issnlinking>
+     0171-5216
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Tumor Markers, Biological
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      alpha-Fetoproteins
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Carcinoma, Hepatocellular
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      mortality
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      ultrasonography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      China
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Incidence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Liver Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      mortality
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      ultrasonography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Mass Screening
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Neoplasm Staging
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Survival Rate
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tumor Markers, Biological
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Urban Population
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      alpha-Fetoproteins
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      metabolism
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     15042359
+    </articleid>
+    <articleid idtype="doi">
+     10.1007/s00432-004-0552-0
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,619 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12479763
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     13
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     24
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       288
+      </volume>
+      <issue>
+       23
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Dec
+       </month>
+       <day>
+        18
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Major outcomes in high-risk hypertensive patients randomized to angiotensin-converting enzyme inhibitor or calcium channel blocker vs diuretic: The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT).
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      2981-97
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Antihypertensive therapy is well established to reduce hypertension-related morbidity and mortality, but the optimal first-step therapy is unknown.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To determine whether treatment with a calcium channel blocker or an angiotensin-converting enzyme inhibitor lowers the incidence of coronary heart disease (CHD) or other cardiovascular disease (CVD) events vs treatment with a diuretic.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT), a randomized, double-blind, active-controlled clinical trial conducted from February 1994 through March 2002.
+     </abstracttext>
+     <abstracttext label="SETTING AND PARTICIPANTS" nlmcategory="METHODS">
+      A total of 33 357 participants aged 55 years or older with hypertension and at least 1 other CHD risk factor from 623 North American centers.
+     </abstracttext>
+     <abstracttext label="INTERVENTIONS" nlmcategory="METHODS">
+      Participants were randomly assigned to receive chlorthalidone, 12.5 to 25 mg/d (n = 15 255); amlodipine, 2.5 to 10 mg/d (n = 9048); or lisinopril, 10 to 40 mg/d (n = 9054) for planned follow-up of approximately 4 to 8 years.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      The primary outcome was combined fatal CHD or nonfatal myocardial infarction, analyzed by intent-to-treat. Secondary outcomes were all-cause mortality, stroke, combined CHD (primary outcome, coronary revascularization, or angina with hospitalization), and combined CVD (combined CHD, stroke, treated angina without hospitalization, heart failure [HF], and peripheral arterial disease).
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Mean follow-up was 4.9 years. The primary outcome occurred in 2956 participants, with no difference between treatments. Compared with chlorthalidone (6-year rate, 11.5%), the relative risks (RRs) were 0.98 (95% CI, 0.90-1.07) for amlodipine (6-year rate, 11.3%) and 0.99 (95% CI, 0.91-1.08) for lisinopril (6-year rate, 11.4%). Likewise, all-cause mortality did not differ between groups. Five-year systolic blood pressures were significantly higher in the amlodipine (0.8 mm Hg, P =.03) and lisinopril (2 mm Hg, P&lt;.001) groups compared with chlorthalidone, and 5-year diastolic blood pressure was significantly lower with amlodipine (0.8 mm Hg, P&lt;.001). For amlodipine vs chlorthalidone, secondary outcomes were similar except for a higher 6-year rate of HF with amlodipine (10.2% vs 7.7%; RR, 1.38; 95% CI, 1.25-1.52). For lisinopril vs chlorthalidone, lisinopril had higher 6-year rates of combined CVD (33.3% vs 30.9%; RR, 1.10; 95% CI, 1.05-1.16); stroke (6.3% vs 5.6%; RR, 1.15; 95% CI, 1.02-1.30); and HF (8.7% vs 7.7%; RR, 1.19; 95% CI, 1.07-1.31).
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Thiazide-type diuretics are superior in preventing 1 or more major forms of CVD and are less expensive. They should be preferred for first-step antihypertensive therapy.
+     </abstracttext>
+    </abstract>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <collectivename>
+       ALLHAT Officers and Coordinators for the ALLHAT Collaborative Research Group. The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       N01-HC-35130
+      </grantid>
+      <acronym>
+       HC
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Angiotensin-Converting Enzyme Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antihypertensive Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Calcium Channel Blockers
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Diuretics
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      77-36-1
+     </registrynumber>
+     <nameofsubstance>
+      Chlorthalidone
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      83915-83-7
+     </registrynumber>
+     <nameofsubstance>
+      Lisinopril
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      88150-42-9
+     </registrynumber>
+     <nameofsubstance>
+      Amlodipine
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Expert Opin Pharmacother. 2003 May;4(5):825-8
+     </refsource>
+     <pmid version="1">
+      12740004
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Am J Hypertens. 2003 Jun;16(6):512-4
+     </refsource>
+     <pmid version="1">
+      12799104
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2003 Jul-Aug;139(1):7
+     </refsource>
+     <pmid version="1">
+      12841711
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Curr Hypertens Rep. 2003 Jun;5(3):183-5
+     </refsource>
+     <pmid version="1">
+      14524367
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Curr Hypertens Rep. 2003 Jun;5(3):189-91
+     </refsource>
+     <pmid version="1">
+      12724049
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Curr Hypertens Rep. 2003 Oct;5(5):405-7
+     </refsource>
+     <pmid version="1">
+      12948433
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Can Fam Physician. 2004 May;50:713-5
+     </refsource>
+     <pmid version="1">
+      15171673
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2003 Apr 23-30;289(16):2066; author reply 2069-70
+     </refsource>
+     <pmid version="1">
+      12709454
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2003 Apr 23-30;289(16):2066; author reply 2069-70
+     </refsource>
+     <pmid version="1">
+      12709456
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      CMAJ. 2003 Apr 1;168(7):874-5
+     </refsource>
+     <pmid version="1">
+      12668549
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2002 Dec 18;288(23):3039-42
+     </refsource>
+     <pmid version="1">
+      12479770
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2003 Apr 23-30;289(16):2066-7; author reply 2069-70
+     </refsource>
+     <pmid version="1">
+      12709455
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2003 Apr 23-30;289(16):2067-8; author reply 2069-70
+     </refsource>
+     <pmid version="1">
+      12709457
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2003 Apr 23-30;289(16):2068; author reply 2069-70
+     </refsource>
+     <pmid version="1">
+      12709459
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2003 Apr 23-30;289(16):2068; author reply 2069-70
+     </refsource>
+     <pmid version="1">
+      12709460
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2003 Apr 23-30;289(16):2068-9; author reply 2069-70
+     </refsource>
+     <pmid version="1">
+      12709458
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2003 Apr 23-30;289(16):2128-31
+     </refsource>
+     <pmid version="1">
+      12709471
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Hypertens. 2003 Mar;21(3):453-4
+     </refsource>
+     <pmid version="1">
+      12640229
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Hypertens. 2003 Mar;21(3):455-7
+     </refsource>
+     <pmid version="1">
+      12640230
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Hypertens. 2003 Mar;21(3):459-61
+     </refsource>
+     <pmid version="1">
+      12640231
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="ErratumIn">
+     <refsource>
+      JAMA. 2004 May 12;291(18):2196
+     </refsource>
+    </commentscorrections>
+    <commentscorrections reftype="ErratumIn">
+     <refsource>
+      JAMA 2003 Jan 8;289(2):178
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Amlodipine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Angiotensin-Converting Enzyme Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antihypertensive Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Calcium Channel Blockers
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cardiovascular Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Chlorthalidone
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diuretics
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertension
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lisinopril
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Proportional Hazards Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      27
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12479763
+    </articleid>
+    <articleid idtype="pii">
+     joc21962
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,570 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    9747868
+   </pmid>
+   <datecreated>
+    <year>
+     1998
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     29
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1998
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     29
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0027-8874
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       90
+      </volume>
+      <issue>
+       18
+      </issue>
+      <pubdate>
+       <year>
+        1998
+       </year>
+       <month>
+        Sep
+       </month>
+       <day>
+        16
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of the National Cancer Institute
+     </title>
+     <isoabbreviation>
+      J. Natl. Cancer Inst.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Tamoxifen for prevention of breast cancer: report of the National Surgical Adjuvant Breast and Bowel Project P-1 Study.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1371-88
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      The finding of a decrease in contralateral breast cancer incidence following tamoxifen administration for adjuvant therapy led to the concept that the drug might play a role in breast cancer prevention. To test this hypothesis, the National Surgical Adjuvant Breast and Bowel Project initiated the Breast Cancer Prevention Trial (P-1) in 1992.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Women (N=13388) at increased risk for breast cancer because they 1) were 60 years of age or older, 2) were 35-59 years of age with a 5-year predicted risk for breast cancer of at least 1.66%, or 3) had a history of lobular carcinoma in situ were randomly assigned to receive placebo (n=6707) or 20 mg/day tamoxifen (n=6681) for 5 years. Gail's algorithm, based on a multivariate logistic regression model using combinations of risk factors, was used to estimate the probability (risk) of occurrence of breast cancer over time.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Tamoxifen reduced the risk of invasive breast cancer by 49% (two-sided P&lt;.00001), with cumulative incidence through 69 months of follow-up of 43.4 versus 22.0 per 1000 women in the placebo and tamoxifen groups, respectively. The decreased risk occurred in women aged 49 years or younger (44%), 50-59 years (51%), and 60 years or older (55%); risk was also reduced in women with a history of lobular carcinoma in situ (56%) or atypical hyperplasia (86%) and in those with any category of predicted 5-year risk. Tamoxifen reduced the risk of noninvasive breast cancer by 50% (two-sided P&lt;.002). Tamoxifen reduced the occurrence of estrogen receptor-positive tumors by 69%, but no difference in the occurrence of estrogen receptor-negative tumors was seen. Tamoxifen administration did not alter the average annual rate of ischemic heart disease; however, a reduction in hip, radius (Colles'), and spine fractures was observed. The rate of endometrial cancer was increased in the tamoxifen group (risk ratio = 2.53; 95% confidence interval = 1.35-4.97); this increased risk occurred predominantly in women aged 50 years or older. All endometrial cancers in the tamoxifen group were stage I (localized disease); no endometrial cancer deaths have occurred in this group. No liver cancers or increase in colon, rectal, ovarian, or other tumors was observed in the tamoxifen group. The rates of stroke, pulmonary embolism, and deep-vein thrombosis were elevated in the tamoxifen group; these events occurred more frequently in women aged 50 years or older.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Tamoxifen decreases the incidence of invasive and noninvasive breast cancer. Despite side effects resulting from administration of tamoxifen, its use as a breast cancer preventive agent is appropriate in many women at increased risk for the disease.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     National Surgical Adjuvant Breast and Bowel Project, Allegheny University of the Health Sciences, Pittsburgh, PA 15212-5234, USA. BFISHER1@aherf.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Fisher
+      </lastname>
+      <forename>
+       B
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Costantino
+      </lastname>
+      <forename>
+       J P
+      </forename>
+      <initials>
+       JP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wickerham
+      </lastname>
+      <forename>
+       D L
+      </forename>
+      <initials>
+       DL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Redmond
+      </lastname>
+      <forename>
+       C K
+      </forename>
+      <initials>
+       CK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kavanah
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cronin
+      </lastname>
+      <forename>
+       W M
+      </forename>
+      <initials>
+       WM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Vogel
+      </lastname>
+      <forename>
+       V
+      </forename>
+      <initials>
+       V
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Robidoux
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dimitrov
+      </lastname>
+      <forename>
+       N
+      </forename>
+      <initials>
+       N
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Atkins
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Daly
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wieand
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tan-Chiu
+      </lastname>
+      <forename>
+       E
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ford
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wolmark
+      </lastname>
+      <forename>
+       N
+      </forename>
+      <initials>
+       N
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       U10-CA-37377
+      </grantid>
+      <acronym>
+       CA
+      </acronym>
+      <agency>
+       NCI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       U10-CA-69974
+      </grantid>
+      <acronym>
+       CA
+      </acronym>
+      <agency>
+       NCI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     J Natl Cancer Inst
+    </medlineta>
+    <nlmuniqueid>
+     7503089
+    </nlmuniqueid>
+    <issnlinking>
+     0027-8874
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antineoplastic Agents, Hormonal
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Estrogen Antagonists
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      10540-29-1
+     </registrynumber>
+     <nameofsubstance>
+      Tamoxifen
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Natl Cancer Inst. 2000 May 3;92(9):757-8
+     </refsource>
+     <pmid version="1">
+      10793117
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Natl Cancer Inst. 2000 Jun 7;92(11):943-4
+     </refsource>
+     <pmid version="1">
+      10841836
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Natl Cancer Inst. 2001 Sep 19;93(18):1420-1; author reply 1421-2
+     </refsource>
+     <pmid version="1">
+      11562395
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Natl Cancer Inst. 1999 Apr 21;91(8):730
+     </refsource>
+     <pmid version="1">
+      10218518
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Natl Cancer Inst. 1999 Jan 20;91(2):188
+     </refsource>
+     <pmid version="1">
+      9923863
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Natl Cancer Inst. 2000 Apr 19;92(8):659-60
+     </refsource>
+     <pmid version="1">
+      10772691
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antineoplastic Agents, Hormonal
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Breast Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      genetics
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cause of Death
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Estrogen Antagonists
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Neoplasm Invasiveness
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Odds Ratio
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Quality of Life
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tamoxifen
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1998
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      25
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1998
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1998
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     9747868
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

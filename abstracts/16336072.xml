@@ -1,0 +1,354 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    16336072
+   </pmid>
+   <datecreated>
+    <year>
+     2005
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     12
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2006
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     10
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0883-6612
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       30
+      </volume>
+      <issue>
+       3
+      </issue>
+      <pubdate>
+       <year>
+        2005
+       </year>
+       <month>
+        Dec
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Annals of behavioral medicine : a publication of the Society of Behavioral Medicine
+     </title>
+     <isoabbreviation>
+      Ann Behav Med
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Self-weighing in weight gain prevention and weight loss trials.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      210-6
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Although self-monitoring is a central tenet of behavioral approaches to changing health behavior, clinical and public health recommendations for better controlling body weight do not emphasize weight self-monitoring.
+     </abstracttext>
+     <abstracttext label="PURPOSE" nlmcategory="OBJECTIVE">
+      The objective was to determine whether more frequent self-weighing exerts a positive influence on weight loss or weight gain prevention.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      This study examined cross-sectional and longitudinal associations between self-weighing frequency and weight in two distinct groups: 1,226 adults who were enrolled in a weight gain prevention trial, and 1,800 adults who were enrolled in a weight loss trial.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Although the samples differed significantly in weight and baseline demographic characteristics, the distribution of baseline weighing frequencies did not differ by study. In both groups, more frequent self-weighing at baseline was associated with greater age, lower fat intake, White ethnicity, current nonsmoking status, a greater history of dieting to lose weight, and lower current body mass index. Despite similar weighing instructions, differential patterns of weighing frequency over time were observed: Weight loss dieters increased weighing over time regardless of treatment group (control or intervention), whereas weight gain preventers decreased weighing over time in the control group and increased weighing over time in intervention groups. Most important, higher weighing frequency was associated with greater 24-month weight loss or less weight gain.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Results support the idea that daily weighing is valuable to individuals trying to lose weight or prevent weight gain. Daily self-weighing should be emphasized in clinical and public health messages about weight control. Experimental studies on the effects of weighing frequency in these contexts are recommended.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Division of Epidemiology, School of Public Health, University of Minnesota, Twin Cities, Minneapolis 55454-1015, USA. linde@epi.umn.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Linde
+      </lastname>
+      <forename>
+       Jennifer A
+      </forename>
+      <initials>
+       JA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jeffery
+      </lastname>
+      <forename>
+       Robert W
+      </forename>
+      <initials>
+       RW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       French
+      </lastname>
+      <forename>
+       Simone A
+      </forename>
+      <initials>
+       SA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pronk
+      </lastname>
+      <forename>
+       Nicolaas P
+      </forename>
+      <initials>
+       NP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Boyle
+      </lastname>
+      <forename>
+       Raymond G
+      </forename>
+      <initials>
+       RG
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       1R01-DK45361
+      </grantid>
+      <acronym>
+       DK
+      </acronym>
+      <agency>
+       NIDDK NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       1R01-DK53826
+      </grantid>
+      <acronym>
+       DK
+      </acronym>
+      <agency>
+       NIDDK NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, N.I.H., Extramural
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Ann Behav Med
+    </medlineta>
+    <nlmuniqueid>
+     8510246
+    </nlmuniqueid>
+    <issnlinking>
+     0883-6612
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Behavior Therapy
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      Minnesota
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Multivariate Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Obesity
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Reward
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Self Care
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Weight Loss
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2005
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2006
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      11
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2005
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="doi">
+     10.1207/s15324796abm3003_5
+    </articleid>
+    <articleid idtype="pubmed">
+     16336072
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

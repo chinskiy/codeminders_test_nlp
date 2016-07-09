@@ -1,0 +1,459 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15039276
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     09
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     27
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print-Electronic">
+    <journal>
+     <issn issntype="Electronic">
+      1468-5833
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       328
+      </volume>
+      <issue>
+       7444
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Apr
+       </month>
+       <day>
+        10
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      BMJ (Clinical research ed.)
+     </title>
+     <isoabbreviation>
+      BMJ
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Corticosteroid injections for osteoarthritis of the knee: meta-analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      869
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To determine the efficacy of intra-articular corticosteroid injections for osteoarthritis of the knee and to identify numbers needed to treat.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      Cochrane controlled trials register, Medline (1966 to 2003), Embase (1980 to 2003), hand searches, and contact with authors.
+     </abstracttext>
+     <abstracttext label="INCLUSION CRITERIA" nlmcategory="METHODS">
+      Randomised controlled trial in which the efficacy of intra-articular corticosteroid injections for osteoarthritis of the knee could be ascertained.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      In high quality studies, the pooled relative risk for improvement in symptoms of osteoarthritis of the knee at 16-24 weeks after intra-articular corticosteroid injections was 2.09 (95% confidence interval 1.2 to 3.7) and the number needed to treat was 4.4. The pooled relative risk for improvement up to two weeks after injections was 1.66 (1.37 to 2.0). The numbers needed to treat to get one improvement in the statistically significant studies was 1.3 to 3.5 patients.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Evidence supports short term (up to two weeks) improvement in symptoms of osteoarthritis of the knee after intra-articular corticosteroid injection. Significant improvement was also shown in the only methodologically sound studies addressing longer term response (16-24 weeks). A dose equivalent to 50 mg of prednisone may be needed to show benefit at 16-24 weeks.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of General Practice and Primary Health Care, School of Population Health University of Auckland, Private Bag 92019 Auckland. b.arroll@auckland.ac.nz
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Arroll
+      </lastname>
+      <forename>
+       Bruce
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Goodyear-Smith
+      </lastname>
+      <forename>
+       Felicity
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2004
+     </year>
+     <month>
+      03
+     </month>
+     <day>
+      23
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     BMJ
+    </medlineta>
+    <nlmuniqueid>
+     8900488
+    </nlmuniqueid>
+    <issnlinking>
+     0959-535X
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Adrenal Cortex Hormones
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 1999 Mar;42(3):475-82
+     </refsource>
+     <pmid version="1">
+      10088770
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Endocrinol Metab Clin North Am. 1998 Jun;27(2):465-83
+     </refsource>
+     <pmid version="1">
+      9669150
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 2000 Sep;43(9):1905-15
+     </refsource>
+     <pmid version="1">
+      11014340
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Rheum Dis. 2000 Dec;59(12):936-44
+     </refsource>
+     <pmid version="1">
+      11087696
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Rheum Dis. 2001 Feb;60(2):91-7
+     </refsource>
+     <pmid version="1">
+      11156538
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Med Care. 2002 Apr;40(4 Suppl):II45-51
+     </refsource>
+     <pmid version="1">
+      12064581
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 2003 Feb;48(2):370-7
+     </refsource>
+     <pmid version="1">
+      12571845
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Rheum Dis. 1960 Sep;19:257-61
+     </refsource>
+     <pmid version="1">
+      13786828
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Rheumatol Suppl. 1991 Feb;27:134-7
+     </refsource>
+     <pmid version="1">
+      2027114
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Acta Chir Scand. 1966 Nov;132(5):532-7
+     </refsource>
+     <pmid version="1">
+      5339634
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Rheumatol. 1980 Nov-Dec;7(6):850-6
+     </refsource>
+     <pmid version="1">
+      7009857
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Rheumatol Rehabil. 1980 Nov;19(4):212-7
+     </refsource>
+     <pmid version="1">
+      7010511
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Rheum Dis. 1995 May;54(5):379-81
+     </refsource>
+     <pmid version="1">
+      7794044
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Control Clin Trials. 1996 Feb;17(1):1-12
+     </refsource>
+     <pmid version="1">
+      8721797
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Rheum Dis. 1996 Nov;55(11):829-32
+     </refsource>
+     <pmid version="1">
+      8976640
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1998 Feb 28;316(7132):690-3
+     </refsource>
+     <pmid version="1">
+      9522799
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1999 Nov 27;354(9193):1896-900
+     </refsource>
+     <pmid version="1">
+      10584742
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Fam Pract. 2004 Aug;53(8):606
+     </refsource>
+     <pmid version="1">
+      15298826
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adrenal Cortex Hormones
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Controlled Clinical Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Injections
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Osteoarthritis, Knee
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC387479
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="aheadofprint">
+     <year>
+      2004
+     </year>
+     <month>
+      Mar
+     </month>
+     <day>
+      23
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     15039276
+    </articleid>
+    <articleid idtype="doi">
+     10.1136/bmj.38039.573970.7C
+    </articleid>
+    <articleid idtype="pii">
+     bmj.38039.573970.7C
+    </articleid>
+    <articleid idtype="pmc">
+     PMC387479
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

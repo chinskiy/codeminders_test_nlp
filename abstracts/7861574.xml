@@ -1,0 +1,408 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    7861574
+   </pmid>
+   <datecreated>
+    <year>
+     1995
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     22
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1995
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     22
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     24
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       273
+      </volume>
+      <issue>
+       10
+      </issue>
+      <pubdate>
+       <year>
+        1995
+       </year>
+       <month>
+        Mar
+       </month>
+       <day>
+        8
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     The effect of passive smoking and tobacco exposure through breast milk on sudden infant death syndrome.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      795-8
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To examine the relationship between sudden infant death syndrome (SIDS) and smoking during pregnancy; postnatal tobacco smoke exposure from the mother, father, live-in-adults, and day care providers; and postnatal smoke exposure from breast-feeding.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Case-control study.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      Five counties in Southern California.
+     </abstracttext>
+     <abstracttext label="PARTICIPANTS" nlmcategory="METHODS">
+      A total of 200 white, African-American, Hispanic, and Asian parents of infants who died of SIDS between 1989 and 1992 were compared with 200 control parents who delivered healthy infants. Case infants were matched to control infants on the basis of birth hospital, birth date, gender, and race. All information was obtained from a detailed telephone interview and validated with medical records.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      Risk of SIDS associated with passive smoking by the mother, father, live-in adults, and day care providers; smoking in the same room as the infant; total number of cigarettes smoked by all adults; and maternal smoking during the time period of breast-feeding.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Conditional logistic regression resulted in overall adjusted odds ratios (ORs) for SIDS associated with passive smoke from the mother of 2.28, the father of 3.46, other live-in adults of 2.18, and all sources of 3.50 (95% confidence interval, 1.81 to 6.75), while simultaneously adjusting for birth weight, sleep position, prenatal care, medical conditions at birth, breast-feeding, and maternal smoking during pregnancy. A dose-response effect was noted for SIDS associated with increasing numbers of cigarettes, as well as total number of smokers. Breast-feeding was protective for SIDS among nonsmokers (OR = 0.37) but not smokers (OR = 1.38), when adjusting for potential confounders.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Passive smoking in the same room as the infant increases the risk for SIDS. Physicians should educate new and prospective parents about the risk of tobacco smoke exposure during pregnancy and the first year of the infant's life.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Family and Preventive Medicine, University of California, San Diego, La Jolla 92093-0607.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Klonoff-Cohen
+      </lastname>
+      <forename>
+       H S
+      </forename>
+      <initials>
+       HS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Edelstein
+      </lastname>
+      <forename>
+       S L
+      </forename>
+      <initials>
+       SL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lefkowitz
+      </lastname>
+      <forename>
+       E S
+      </forename>
+      <initials>
+       ES
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Srinivasan
+      </lastname>
+      <forename>
+       I P
+      </forename>
+      <initials>
+       IP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kaegi
+      </lastname>
+      <forename>
+       D
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Chang
+      </lastname>
+      <forename>
+       J C
+      </forename>
+      <initials>
+       JC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wiley
+      </lastname>
+      <forename>
+       K J
+      </forename>
+      <initials>
+       KJ
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Tobacco Smoke Pollution
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 1995 Jul 19;274(3):214-5
+     </refsource>
+     <pmid version="1">
+      7609222
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 1995 Mar 8;273(10):818-9
+     </refsource>
+     <pmid version="1">
+      7861578
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 1995 Sep 27;274(12):944
+     </refsource>
+     <pmid version="1">
+      7674523
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Breast Feeding
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Case-Control Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant, Newborn
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Logistic Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Milk, Human
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      metabolism
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Plants, Toxic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pregnancy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prenatal Exposure Delayed Effects
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Smoking
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      metabolism
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sudden Infant Death
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tobacco
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      metabolism
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Tobacco Smoke Pollution
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1995
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      8
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1995
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      8
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1995
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      8
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     7861574
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

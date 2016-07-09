@@ -1,0 +1,370 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12586995
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     14
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     03
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0307-0565
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       27
+      </volume>
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Feb
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      International journal of obesity and related metabolic disorders : journal of the International Association for the Study of Obesity
+     </title>
+     <isoabbreviation>
+      Int. J. Obes. Relat. Metab. Disord.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Early determinants of childhood overweight and adiposity in a birth cohort study: role of breast-feeding.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      162-72
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      The prevalence of adiposity in childhood is increasing. Is breast-feeding protective as suggested by cross-sectional studies?
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      In a longitudinal birth cohort study, we tested whether breast-feeding for more than 2 months has preventive effects against overweight and adiposity at 6 y.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Of 1314 children representing the catchment areas of six delivery units, 918 could be followed up to the age of 6 y. Height, weight, and skin-fold thickness were measured at regular visits. As the criteria of overweight, obesity, and adiposity in the children, the 90th and the 97th percentiles of BMI and skin-fold values were used. Parents with a BMI at or above the 90th percentile, which was 27 kg/m(2) or more, were considered overweight. Infants bottle-fed from birth or breast-fed for less than 3 months were classified as 'bottle-fed' (BO), and those breast-fed for 3 months and more as 'breast-fed' (BR). Univariate comparisons and logistic regression analysis were performed applying SAS 6.12. The final logistic model consisted of the 480 cases for whom complete data for all variables were available. The potential effect of loss to follow-up was analysed by the Cochran-Mantel-Haenzel test: the outcomes were not significantly influenced by loss to follow-up.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      At birth BMIs were nearly identical in both groups. By 3 months, BO had significantly higher BMIs and thicker skin folds than BR. From 6 months on, compared to BR, a consistently higher proportion of BO children exceeded the 90th and the 97th percentile of BMI and skin-fold thickness reference values. From the age of 4 y to 5 and 6 y, in BO the prevalence of obesity nearly doubled and tripled, respectively. With only minor changes of obesity prevalence in BR, the difference of BMI and skin-fold thickness between groups became statistically significant. Logistic regression analysis revealed that overweight of the mother, maternal smoking during pregnancy, bottle feeding, and low social status remained important risk factors for overweight and adiposity at 6 y of age.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      A maternal BMI of &gt; or =27, bottle-feeding, maternal smoking during pregnancy, and low social status are risk factors for overweight and adiposity at 6 y of age. Early bottle-feeding brings forward the obesity rebound, predictive of obesity in later life.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Robert Koch Institute, Epidemiology &amp; Health Reporting, Health of Children &amp; Adolescents, Berlin, Germany. BergmannK@rki.de
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Bergmann
+      </lastname>
+      <forename>
+       K E
+      </forename>
+      <initials>
+       KE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bergmann
+      </lastname>
+      <forename>
+       R L
+      </forename>
+      <initials>
+       RL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Von Kries
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Böhm
+      </lastname>
+      <forename>
+       O
+      </forename>
+      <initials>
+       O
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Richter
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dudenhausen
+      </lastname>
+      <forename>
+       J W
+      </forename>
+      <initials>
+       JW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wahn
+      </lastname>
+      <forename>
+       U
+      </forename>
+      <initials>
+       U
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Int J Obes Relat Metab Disord
+    </medlineta>
+    <nlmuniqueid>
+     9313169
+    </nlmuniqueid>
+    <issnlinking>
+     0307-0565
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Body Mass Index
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bottle Feeding
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Breast Feeding
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant, Newborn
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Logistic Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Longitudinal Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Obesity
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pregnancy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Smoking
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Social Class
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      15
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      4
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      15
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12586995
+    </articleid>
+    <articleid idtype="doi">
+     10.1038/sj.ijo.802200
+    </articleid>
+    <articleid idtype="pii">
+     802200
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

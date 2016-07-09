@@ -1,0 +1,602 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    17179478
+   </pmid>
+   <datecreated>
+    <year>
+     2006
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     20
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2007
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     09
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1460-2105
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       98
+      </volume>
+      <issue>
+       24
+      </issue>
+      <pubdate>
+       <year>
+        2006
+       </year>
+       <month>
+        Dec
+       </month>
+       <day>
+        20
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of the National Cancer Institute
+     </title>
+     <isoabbreviation>
+      J. Natl. Cancer Inst.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Dietary fat reduction and breast cancer outcome: interim efficacy results from the Women's Intervention Nutrition Study.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1767-76
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Preclinical and observational studies suggest a relationship between dietary fat intake and breast cancer, but the association remains controversial. We carried out a randomized, prospective, multicenter clinical trial to test the effect of a dietary intervention designed to reduce fat intake in women with resected, early-stage breast cancer receiving conventional cancer management.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      A total of 2437 women were randomly assigned between February 1994 and January 2001 in a ratio of 40:60 to dietary intervention (n = 975) or control (n = 1462) groups. An interim analysis was performed after a median follow-up of 60 months when funding for the intervention ceased. Mean differences between dietary intervention and control groups in nutrient intakes and anthropometric variables were compared with t tests. Relapse-free survival was examined using Kaplan-Meier analysis, stratified log-rank tests, and Cox proportional hazards models. Statistical tests were two-sided.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Dietary fat intake was lower in the intervention than in the control group (fat grams/day at 12 months, 33.3 [95% confidence interval {CI} = 32.2 to 34.5] versus 51.3 [95% CI = 50.0 to 52.7], respectively; P&lt;.001), corresponding to a statistically significant (P = .005), 6-pound lower mean body weight in the intervention group. A total of 277 relapse events (local, regional, distant, or ipsilateral breast cancer recurrence or new contralateral breast cancer) have been reported in 96 of 975 (9.8%) women in the dietary group and 181 of 1462 (12.4%) women in the control group. The hazard ratio of relapse events in the intervention group compared with the control group was 0.76 (95% CI = 0.60 to 0.98, P = .077 for stratified log rank and P = .034 for adjusted Cox model analysis). Exploratory analyses suggested a differential effect of the dietary intervention based on hormonal receptor status.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      A lifestyle intervention reducing dietary fat intake, with modest influence on body weight, may improve relapse-free survival of breast cancer patients receiving conventional cancer management. Longer, ongoing nonintervention follow-up will address original protocol design plans, which called for 3 years of follow-up after completion of recruitment.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Medicine, Los Angeles Biomedical Research Institute at Harbor-UCLA Medical Center, 1124 West Carson St., Building J-3, Torrance, CA 90502-2064, USA. rchlebow@whi.org
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Chlebowski
+      </lastname>
+      <forename>
+       Rowan T
+      </forename>
+      <initials>
+       RT
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Blackburn
+      </lastname>
+      <forename>
+       George L
+      </forename>
+      <initials>
+       GL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Thomson
+      </lastname>
+      <forename>
+       Cynthia A
+      </forename>
+      <initials>
+       CA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Nixon
+      </lastname>
+      <forename>
+       Daniel W
+      </forename>
+      <initials>
+       DW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Shapiro
+      </lastname>
+      <forename>
+       Alice
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hoy
+      </lastname>
+      <forename>
+       M Katherine
+      </forename>
+      <initials>
+       MK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Goodman
+      </lastname>
+      <forename>
+       Marc T
+      </forename>
+      <initials>
+       MT
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Giuliano
+      </lastname>
+      <forename>
+       Armando E
+      </forename>
+      <initials>
+       AE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Karanja
+      </lastname>
+      <forename>
+       Njeri
+      </forename>
+      <initials>
+       N
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McAndrew
+      </lastname>
+      <forename>
+       Philomena
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hudis
+      </lastname>
+      <forename>
+       Clifford
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Butler
+      </lastname>
+      <forename>
+       John
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Merkel
+      </lastname>
+      <forename>
+       Douglas
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kristal
+      </lastname>
+      <forename>
+       Alan
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Caan
+      </lastname>
+      <forename>
+       Bette
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Michaelson
+      </lastname>
+      <forename>
+       Richard
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Vinciguerra
+      </lastname>
+      <forename>
+       Vincent
+      </forename>
+      <initials>
+       V
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Del Prete
+      </lastname>
+      <forename>
+       Salvatore
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Winkler
+      </lastname>
+      <forename>
+       Marion
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hall
+      </lastname>
+      <forename>
+       Rayna
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Simon
+      </lastname>
+      <forename>
+       Michael
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Winters
+      </lastname>
+      <forename>
+       Barbara L
+      </forename>
+      <initials>
+       BL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Elashoff
+      </lastname>
+      <forename>
+       Robert M
+      </forename>
+      <initials>
+       RM
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial, Phase III
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, N.I.H., Extramural
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     J Natl Cancer Inst
+    </medlineta>
+    <nlmuniqueid>
+     7503089
+    </nlmuniqueid>
+    <issnlinking>
+     0027-8874
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Dietary Fats
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Natl Cancer Inst. 2006 Dec 20;98(24):1753-5
+     </refsource>
+     <pmid version="1">
+      17179470
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Natl Cancer Inst. 2007 Jun 6;99(11):900; author reply 900-1
+     </refsource>
+     <pmid version="1">
+      17551155
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Natl Cancer Inst. 2007 Jun 6;99(11):899-900; author reply 900-1
+     </refsource>
+     <pmid version="1">
+      17551152
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Body Weight
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Breast Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diet therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Carcinoma, Ductal, Breast
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diet therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Carcinoma, Lobular
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diet therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dietary Fats
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Disease-Free Survival
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Kaplan-Meier Estimate
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lymphatic Metastasis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Neoplasm Staging
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Proportional Hazards Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2006
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2007
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      11
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2006
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     98/24/1767
+    </articleid>
+    <articleid idtype="doi">
+     10.1093/jnci/djj494
+    </articleid>
+    <articleid idtype="pubmed">
+     17179478
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

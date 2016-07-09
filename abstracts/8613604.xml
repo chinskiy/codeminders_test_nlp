@@ -1,0 +1,453 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    8613604
+   </pmid>
+   <datecreated>
+    <year>
+     1996
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     03
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1996
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     03
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     24
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0735-1097
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       27
+      </volume>
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <year>
+        1996
+       </year>
+       <month>
+        Mar
+       </month>
+       <day>
+        15
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of the American College of Cardiology
+     </title>
+     <isoabbreviation>
+      J. Am. Coll. Cardiol.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Meta-analysis of intravenous dipyridamole-thallium-201 imaging (1985 to 1994) and dobutamine echocardiography (1991 to 1994) for risk stratification before vascular surgery.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      787-98
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      This study evaluated the prognostic value of abnormal test results with pharmacologic stress with regard to perioperative and long-term outcomes in a large population of candidates for vascular surgery.
+     </abstracttext>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Although numerous studies have demonstrated the prognostic value of dipyridamole-thallium-201 myocardial perfusion and dobutamine echocardiography in vascular surgery candidates, a synopsis of predictive estimates is difficult because of individual study variability in pretest clinical risk, sample size and study design.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      A systematic review of published reports on preoperative pharmacologic stress risk stratification from the MEDLINE data base (1985 to 1994) identified 10 reports on dipyridamole-thallium-201 myocardial perfusion (1,994 patients) and 5 on dobutamine stress echocardiography (446 patients). Random effects models were used to calculate summary odds ratios and 95% confidence intervals.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Summary odds ratios for death or myocardial infarction and secondary cardiac end points were greater for dobutamine echocardiographic dyssynergy (14- to 27-fold) than for dipyridamole-thallium-201 redistribution (4-fold); wider confidence intervals were noted with dobutamine echocardiography. Pretest coronary disease probability was correlated with the positive predictive value of a reversible thallium-201 defect (r=0.70), increasing sixfold from low to high risk patient subsets. Cardiac event rates were low in patients without a history of coronary artery disease (1% in 176 patients) compared with patients with coronary disease and a normal or fixed-defect pattern (4.8% in 83 patients) and one or more thallium-201 redistribution abnormality (18.6% in 97 patients, p=0.0001).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Meta-analysis of 15 studies demonstrated that the prognostic value of noninvasive stress imaging abnormalities for perioperative ischemic events is comparable between available techniques but that the accuracy varies with coronary artery disease prevalence.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Internal Medicine, Duke University Medical Center, Durham, North Carolina, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Shaw
+      </lastname>
+      <forename>
+       L J
+      </forename>
+      <initials>
+       LJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Eagle
+      </lastname>
+      <forename>
+       K A
+      </forename>
+      <initials>
+       KA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gersh
+      </lastname>
+      <forename>
+       B J
+      </forename>
+      <initials>
+       BJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Miller
+      </lastname>
+      <forename>
+       D D
+      </forename>
+      <initials>
+       DD
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, Non-P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     J Am Coll Cardiol
+    </medlineta>
+    <nlmuniqueid>
+     8301365
+    </nlmuniqueid>
+    <issnlinking>
+     0735-1097
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Adrenergic beta-Agonists
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Thallium Radioisotopes
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Vasodilator Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      34368-04-2
+     </registrynumber>
+     <nameofsubstance>
+      Dobutamine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      58-32-2
+     </registrynumber>
+     <nameofsubstance>
+      Dipyridamole
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 1996 Sep-Oct;125(2):44
+     </refsource>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Am Coll Cardiol. 1996 Mar 15;27(4):799-802
+     </refsource>
+     <pmid version="1">
+      8613605
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adrenergic beta-Agonists
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnostic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dipyridamole
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      diagnostic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dobutamine
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnostic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Echocardiography
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Exercise Test
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heart
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      radionuclide imaging
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heart Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      radionuclide imaging
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      ultrasonography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infusions, Intravenous
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Logistic Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Multivariate Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Odds Ratio
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Preoperative Care
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prognosis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Assessment
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Thallium Radioisotopes
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnostic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vascular Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      surgery
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vasodilator Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      diagnostic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1996
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      15
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1996
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      15
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1996
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      15
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     8613604
+    </articleid>
+    <articleid idtype="pii">
+     0735109795005498
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

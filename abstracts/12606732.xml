@@ -1,0 +1,393 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12606732
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     27
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     06
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1533-4406
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       348
+      </volume>
+      <issue>
+       9
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Feb
+       </month>
+       <day>
+        27
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Frequent ventricular ectopy after exercise as a predictor of death.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      781-90
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Exercise-induced ventricular ectopy predicts an increased risk of death in population-based cohorts. We sought to examine in a clinical cohort the prognostic importance of ventricular ectopy immediately after exercise, when reactivation of parasympathetic activity occurs. We hypothesized that ventricular ectopy after exercise (i.e., during the recovery phase) would predict an increased risk of death better than ventricular ectopy during exercise.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We studied 29,244 patients (mean [+/-SD] age, 56+/-11 years; 70 percent men) who had been referred for symptom-limited exercise testing without a history of heart failure, valve disease, or arrhythmia. Frequent ventricular ectopy was defined by the presence of seven or more ventricular premature beats per minute, ventricular bigeminy or trigeminy, ventricular couplets or triplets, ventricular tachycardia, ventricular flutter, torsade de pointes, or ventricular fibrillation.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Frequent ventricular ectopy occurred only during exercise in 945 patients (3 percent), only during recovery in 589 (2 percent), and during both exercise and recovery in 491 (2 percent). There were 1862 deaths during a mean of 5.3 years of follow-up. Frequent ventricular ectopy during exercise predicted an increased risk of death (five-year death rate, 9 percent, vs. 5 percent among patients without frequent ventricular ectopy during exercise; hazard ratio, 1.8; 95 percent confidence interval, 1.5 to 2.1; P&lt;0.001), but frequent ventricular ectopy during recovery was a stronger predictor (11 percent vs. 5 percent; hazard ratio, 2.4; 95 percent confidence interval, 2.0 to 2.9; P&lt;0.001). After propensity matching for confounding variables, frequent ventricular ectopy during recovery predicted an increased risk of death (adjusted hazard ratio, 1.5; 95 percent confidence interval, 1.1 to 1.9; P=0.003), but frequent ventricular ectopy during exercise did not (adjusted hazard ratio, 1.1; 95 percent confidence interval, 0.9 to 1.3; P=0.53).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Frequent ventricular ectopy during recovery after exercise is a better predictor of an increased risk of death than ventricular ectopy occurring only during exercise.
+     </abstracttext>
+     <copyrightinformation>
+      Copyright 2003 Massachusetts Medical Society
+     </copyrightinformation>
+    </abstract>
+    <affiliation>
+     Department of General Internal Medicine, Cleveland Clinic Foundation, Cleveland 44195, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Frolkis
+      </lastname>
+      <forename>
+       Joseph P
+      </forename>
+      <initials>
+       JP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pothier
+      </lastname>
+      <forename>
+       Claire E
+      </forename>
+      <initials>
+       CE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Blackstone
+      </lastname>
+      <forename>
+       Eugene H
+      </forename>
+      <initials>
+       EH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lauer
+      </lastname>
+      <forename>
+       Michael S
+      </forename>
+      <initials>
+       MS
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       HL 66004
+      </grantid>
+      <acronym>
+       HL
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Evaluation Studies
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2003 Jun 5;348(23):2357-9; author reply 2357-9
+     </refsource>
+     <pmid version="1">
+      12793414
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2003 Jun 5;348(23):2357-9; author reply 2357-9
+     </refsource>
+     <pmid version="1">
+      12793413
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2003 Jun 5;348(23):2357-9; author reply 2357-9
+     </refsource>
+     <pmid version="1">
+      12789003
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2003 Feb 27;348(9):775-6
+     </refsource>
+     <pmid version="1">
+      12606729
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="ErratumIn">
+     <refsource>
+      N Engl J Med. 2003 Apr 10;348(15):1508
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Exercise
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      physiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Exercise Test
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Mortality
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Myocardial Ischemia
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prognosis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Survival Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Ventricular Premature Complexes
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      7
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12606732
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJMoa022353
+    </articleid>
+    <articleid idtype="pii">
+     348/9/781
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

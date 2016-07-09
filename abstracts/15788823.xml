@@ -1,0 +1,555 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15788823
+   </pmid>
+   <datecreated>
+    <year>
+     2005
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     24
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     31
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1472-0213
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       22
+      </volume>
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <year>
+        2005
+       </year>
+       <month>
+        Apr
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Emergency medicine journal : EMJ
+     </title>
+     <isoabbreviation>
+      Emerg Med J
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Does leucocytosis identify bacterial infections in febrile neonates presenting to the emergency department?
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      256-9
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      This study was undertaken to evaluate the discriminatory power of the peripheral white blood cell (WBC) count to identify bacterial infections in a cohort of febrile neonates (&lt;or=28 days of age) presenting to an emergency department.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Retrospective medical record review using descriptive statistics and a receiver operating characteristic (ROC) curve. Neonates who presented to a tertiary care paediatric emergency department between 1 January 1999 and 22 August 2002, had a temperature &gt;or=38 degrees C, underwent lumbar puncture, and had a WBC count obtained were included. They were divided according to microbiological and radiographic findings into four groups: bacterial infections, viral infections, pneumonia, and negative sepsis evaluations.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      A total of 69 febrile neonates met the inclusion criteria. The number of neonates in each group was as follows: 8 with bacterial infections, 10 with viral infections, 3 with pneumonias, and 48 with negative sepsis evaluations. There was substantial overlap in WBC counts among the groups. The area under the ROC curve was 0.7231 (95% CI 0.5665 to 0.8797).
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      In a cohort of febrile neonates evaluated in the emergency department, the WBC count had modest discriminatory power in identifying neonates with bacterial infections and demonstrated substantial overlap among groups. The present data suggest against the use of any WBC count threshold to identify bacterial infections in febrile neonates presenting to the emergency department.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Emergency Medicine, A-108, Loma Linda University Medical Center and Children's Hospital, 11234 Anderson Street, Loma Linda, CA 92354, USA. LBROWNMD@AOL.com
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Brown
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Shaw
+      </lastname>
+      <forename>
+       T
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wittlake
+      </lastname>
+      <forename>
+       W A
+      </forename>
+      <initials>
+       WA
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Evaluation Studies
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Emerg Med J
+    </medlineta>
+    <nlmuniqueid>
+     100963089
+    </nlmuniqueid>
+    <issnlinking>
+     1472-0205
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Pediatr (Phila). 1981 Jun;20(6):375-80
+     </refsource>
+     <pmid version="1">
+      7226692
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1982 Jan;69(1):40-4
+     </refsource>
+     <pmid version="1">
+      7033912
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 1994 Nov;13(11):946-9
+     </refsource>
+     <pmid version="1">
+      7845745
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1994 Sep;94(3):390-6
+     </refsource>
+     <pmid version="1">
+      8065869
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1993 Nov 11;329(20):1437-41
+     </refsource>
+     <pmid version="1">
+      8413453
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 1997 Jan;16(1):59-63
+     </refsource>
+     <pmid version="1">
+      9002103
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Emerg Med. 1997 May;15(3):299-302
+     </refsource>
+     <pmid version="1">
+      9148992
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1999 Mar;103(3):627-31
+     </refsource>
+     <pmid version="1">
+      10049967
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Pediatr Adolesc Med. 1999 Mar;153(3):261-6
+     </refsource>
+     <pmid version="1">
+      10086403
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Pediatr Adolesc Med. 1999 May;153(5):508-11
+     </refsource>
+     <pmid version="1">
+      10323632
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Pediatr (Phila). 2000 Feb;39(2):81-8
+     </refsource>
+     <pmid version="1">
+      10696544
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Emerg Med. 2003 Aug;42(2):216-25
+     </refsource>
+     <pmid version="1">
+      12883509
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Pediatr Adolesc Med. 2003 Jun;157(6):511-6
+     </refsource>
+     <pmid version="1">
+      12796229
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 2001 Aug;108(2):311-6
+     </refsource>
+     <pmid version="1">
+      11483793
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 2003 Aug;112(2):282-4
+     </refsource>
+     <pmid version="1">
+      12897274
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Emerg Med. 2003 Aug;25(2):149-57
+     </refsource>
+     <pmid version="1">
+      12902000
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1992 Jul;90(1 Pt 1):11-3
+     </refsource>
+     <pmid version="1">
+      1614759
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Pediatr. 1992 Jan;120(1):22-7
+     </refsource>
+     <pmid version="1">
+      1731019
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 1990 Jun;9(6):385-9
+     </refsource>
+     <pmid version="1">
+      2367158
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Science. 1988 Jun 3;240(4857):1285-93
+     </refsource>
+     <pmid version="1">
+      3287615
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Pediatr. 1988 Mar;112(3):355-60
+     </refsource>
+     <pmid version="1">
+      3346773
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Pediatr. 1966 Aug;69(2):193-7
+     </refsource>
+     <pmid version="1">
+      5946646
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Dis Child. 1983 Dec;137(12):1146-9
+     </refsource>
+     <pmid version="1">
+      6416058
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Dis Child. 1983 Dec;137(12):1150-2
+     </refsource>
+     <pmid version="1">
+      6637929
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Pediatr (Phila). 1981 Jun;20(6):385-92
+     </refsource>
+     <pmid version="1">
+      7226693
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bacterial Infections
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Body Temperature
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Emergencies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Emergency Treatment
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fever
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant, Newborn
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Leukocyte Count
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Leukocytosis
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pneumonia
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      ROC Curve
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Retrospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Virus Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC1726736
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2005
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2005
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     22/4/256
+    </articleid>
+    <articleid idtype="doi">
+     10.1136/emj.2003.010850
+    </articleid>
+    <articleid idtype="pubmed">
+     15788823
+    </articleid>
+    <articleid idtype="pmc">
+     PMC1726736
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

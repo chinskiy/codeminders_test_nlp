@@ -1,0 +1,464 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    7935681
+   </pmid>
+   <datecreated>
+    <year>
+     1994
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1994
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     24
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0028-4793
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       331
+      </volume>
+      <issue>
+       19
+      </issue>
+      <pubdate>
+       <year>
+        1994
+       </year>
+       <month>
+        Nov
+       </month>
+       <day>
+        10
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Low serum thyrotropin concentrations as a risk factor for atrial fibrillation in older persons.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1249-52
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Low serum thyrotropin concentrations are a sensitive indicator of hyperthyroidism but can also occur in persons who have no clinical manifestations of the disorder. We studied whether low serum thyrotropin concentrations in clinically euthyroid older persons are a risk factor for subsequent atrial fibrillation.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We studied 2007 persons (814 men and 1193 women) 60 years of age or older who did not have atrial fibrillation in order to determine the frequency of this arrhythmia during a 10-year follow-up period. The subjects were classified according to their serum thyrotropin concentrations: those with low values (&lt; or = 0.1 mU per liter; 61 subjects); those with slightly low values (&gt; 0.1 to 0.4 mU per liter; 187 subjects); those with normal values (&gt; 0.4 to 5.0 mU per liter; 1576 subjects); and those with high values (&gt; 5.0 mU per liter; 183 subjects).
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      During the 10-year follow-up period, atrial fibrillation occurred in 13 persons with low initial values for serum thyrotropin, 23 with slightly low values, 133 with normal values, and 23 with high values. The cumulative incidence of atrial fibrillation at 10 years was 28 percent among the subjects with low serum thyrotropin values (&lt; or = 0.1 mU per liter), as compared with 11 percent among those with normal values; the age-adjusted incidence of atrial fibrillation was 28 per 1000 person-years among those with low values and 10 per 1000 person-years among those with normal values (P = 0.005). After adjustment for other known risk factors, the relative risk of atrial fibrillation in elderly subjects with low serum thyrotropin concentrations, as compared with those with normal concentrations, was 3.1 (95 percent confidence interval, 1.7 to 5.5; P &lt; 0.001). The 10-year incidence of atrial fibrillation in the groups with slightly low and high serum thyrotropin values was not significantly different from that in the group with normal values.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Among people 60 years of age or older, a low serum thyrotropin concentration is associated with a threefold higher risk that atrial fibrillation will develop in the subsequent decade.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Medical and Medical Research Services, Boston Veterans Affairs Medical Center, MA 02130.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Sawin
+      </lastname>
+      <forename>
+       C T
+      </forename>
+      <initials>
+       CT
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Geller
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wolf
+      </lastname>
+      <forename>
+       P A
+      </forename>
+      <initials>
+       PA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Belanger
+      </lastname>
+      <forename>
+       A J
+      </forename>
+      <initials>
+       AJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Baker
+      </lastname>
+      <forename>
+       E
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bacharach
+      </lastname>
+      <forename>
+       P
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wilson
+      </lastname>
+      <forename>
+       P W
+      </forename>
+      <initials>
+       PW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Benjamin
+      </lastname>
+      <forename>
+       E J
+      </forename>
+      <initials>
+       EJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       D'Agostino
+      </lastname>
+      <forename>
+       R B
+      </forename>
+      <initials>
+       RB
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       2-R01-NS-17950-12
+      </grantid>
+      <acronym>
+       NS
+      </acronym>
+      <agency>
+       NINDS NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       N01-HC-38038
+      </grantid>
+      <acronym>
+       HC
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       R01-HL40423-04
+      </grantid>
+      <acronym>
+       HL
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, Non-P.H.S.
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      7488-70-2
+     </registrynumber>
+     <nameofsubstance>
+      Thyroxine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      9002-71-5
+     </registrynumber>
+     <nameofsubstance>
+      Thyrotropin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 1995 Mar-Apr;122(2):47
+     </refsource>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 1994 Nov 10;331(19):1302-3
+     </refsource>
+     <pmid version="1">
+      7935688
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Age Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Atrial Fibrillation
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Confidence Intervals
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Follow-Up Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hyperthyroidism
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Incidence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Thyrotropin
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Thyroxine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1994
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      10
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1994
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1994
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     7935681
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJM199411103311901
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

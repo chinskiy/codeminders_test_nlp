@@ -1,0 +1,361 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    7293943
+   </pmid>
+   <datecreated>
+    <year>
+     1981
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     15
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1981
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     15
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0002-9165
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       34
+      </volume>
+      <issue>
+       10
+      </issue>
+      <pubdate>
+       <year>
+        1981
+       </year>
+       <month>
+        Oct
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The American journal of clinical nutrition
+     </title>
+     <isoabbreviation>
+      Am. J. Clin. Nutr.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Iron deficiency in children: the relationship between pretreatment laboratory tests and subsequent hemoglobin response to iron therapy.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      2158-68
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      The goal of detecting iron deficiency in children is to identify those whose Hb concentration will rise in response to treatment with iron. In a controlled treatment trial conducted among Eskimo children, we examined the effectiveness of various measures of iron nutrition in predicting a response to iron therapy (greater than 1.0 g/dl rise in Hb). A response was seen in 43%, and an additional 26% had an intermediate response (0.5 to 1.0 g/dl rise). When individual Hb values were expressed as SD scores of the Hb distribution of a reference population, a marked skew toward low scores was seen before treatment. After treatment, the distribution became more Gaussian, indicating that iron deficiency had been the major cause of anemia. Serum ferritin, transferrin saturation, and free erythrocyte protoporphyrin levels moved toward normal with treatment, however, none of the tests used was very effective in distinguishing individuals who would have a response t Hb from those who would not (sensitivities: 63 to 42%, specificities: 45 to 61%). Laboratory measures of iron nutrition were far more helpful in depicting the iron status of the population than they were in distinguishing iron-responsive from nonresponsive individuals.
+     </abstracttext>
+    </abstract>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Margolis
+      </lastname>
+      <forename>
+       H S
+      </forename>
+      <initials>
+       HS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hardison
+      </lastname>
+      <forename>
+       H H
+      </forename>
+      <initials>
+       HH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bender
+      </lastname>
+      <forename>
+       T R
+      </forename>
+      <initials>
+       TR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dallman
+      </lastname>
+      <forename>
+       P R
+      </forename>
+      <initials>
+       PR
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Am J Clin Nutr
+    </medlineta>
+    <nlmuniqueid>
+     0376027
+    </nlmuniqueid>
+    <issnlinking>
+     0002-9165
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Protoporphyrins
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      11096-37-0
+     </registrynumber>
+     <nameofsubstance>
+      Transferrin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      7439-89-6
+     </registrynumber>
+     <nameofsubstance>
+      Iron
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      9007-73-2
+     </registrynumber>
+     <nameofsubstance>
+      Ferritins
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      Alaska
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anemia, Hypochromic
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Erythrocytes
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      metabolism
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ferritins
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hemoglobinometry
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Inuits
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Iron
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Protoporphyrins
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Transferrin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      metabolism
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1981
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1981
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1981
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     7293943
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

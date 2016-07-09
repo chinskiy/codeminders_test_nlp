@@ -1,0 +1,233 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11933571
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     05
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     01
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     28
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0272-2712
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       22
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Mar
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Clinics in laboratory medicine
+     </title>
+     <isoabbreviation>
+      Clin. Lab. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Clinical utility of the band count.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      101-36
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Enumeration of band neutrophils has a long clinical tradition as a diagnostic test for bacterial infection. Yet, the band count is a nonspecific, inaccurate, and imprecise laboratory test. Review of the literature provides little support for the clinical utility of the band count in patients greater than 3 months of age. The white blood cell count and the automated absolute neutrophil count are better diagnostic tests for adults and most children. Absolute numbers of bands are required for the Rochester criteria, a diagnostic algorithm for acutely ill, febrile children less than 3 months of age. No studies, however, assess the independent contribution of bands to the performance of the algorithm, or the use of the automated total neutrophil count as a replacement for the band count. Band counts also are required to calculate an immature to total neutrophil ratio (I:T ratio), an index widely used to aid in the diagnosis of neonatal sepsis. Studies, however, show a wide range of sensitivity and specificity for the I:T ratio, indicating variable performance. In the near future, rapid analysis of inflammatory factors, adhesion molecules, cytokines, neutrophil surface antigens, or even bacterial DNA may be superior alternative tests for the early diagnosis of sepsis.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Pathology, Stanford University Medical Center, Stanford, California, USA. jcornbleet@stanford.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Cornbleet
+      </lastname>
+      <forename>
+       P Joanne
+      </forename>
+      <initials>
+       PJ
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Clin Lab Med
+    </medlineta>
+    <nlmuniqueid>
+     8100174
+    </nlmuniqueid>
+    <issnlinking>
+     0272-2712
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hematologic Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infection
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Leukocyte Count
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Neutrophils
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      cytology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    121
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      6
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      6
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11933571
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,549 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10352632
+   </pmid>
+   <datecreated>
+    <year>
+     1999
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     17
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1999
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     17
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0820-3946
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       160
+      </volume>
+      <issue>
+       10
+      </issue>
+      <pubdate>
+       <year>
+        1999
+       </year>
+       <month>
+        May
+       </month>
+       <day>
+        18
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne
+     </title>
+     <isoabbreviation>
+      CMAJ
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Risk factors for resistance to "first-line" antimicrobials among urinary tract isolates of Escherichia coli in children.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1436-40
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      There are increasing concerns regarding antimicrobial resistance in Canada. Data are limited on the prevalence, patterns of resistance and risk factors associated with resistant organisms, including coliforms, in children. This study was done to address these issues as they relate to urinary tract isolates of Escherichia coli in a tertiary care pediatric centre in Ottawa.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      A surveillance study was conducted from December 1992 to December 1994. Susceptibility testing of urinary tract isolates of E. coli was performed using a panel of antimicrobial agents. A case-control study was also conducted for subjects with isolates resistant to trimethoprim-sulfamethoxazole (T-S), this drug being used a representative "first-line" agent.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      A total of 1636 consecutive isolates were obtained from 967 subjects. Of the 1636 isolates, 736 (45.0%) were resistant to ampicillin, 514 (31.4%) were resistant to T-S, 363 (22.2%) were resistant to both ampicillin and T-S, and 27 (1.7%) were resistant to both ampicillin and gentamicin. In the case-control study 274 children with isolates resistant to T-S were matched with 274 children who had T-S-sensitive isolates obtained during the study period or the preceding or subsequent 6 months. Multivariate analyses indicated that subjects who had received antimicrobials for more than 4 weeks in the previous 6 months were about 23 times more likely to have isolates resistant to T-S than were subjects without this risk factor (odds ratio [OR] 23.4, 95% confidence interval [CI] 12.0-47.6). Children with genitourinary tract abnormalities were 2.4 times more likely to have resistant isolates than those without such abnormalities (95% CI 1.2-4.5). Compared with children who had no hospital admissions in the previous year, those with 1 admission in that period were more likely to have resistant isolates (OR 2.3, 95% CI 1.4-7.5), as were those with 2 or more admissions in that period (OR 3.2, 95% CI 1.1-4.8). Compared with children aged 2-6 years, children under 2 years of age were less likely to have resistant isolates (OR 0.3, 95% CI 0.2-0.8).
+     </abstracttext>
+     <abstracttext label="INTERPRETATION" nlmcategory="CONCLUSIONS">
+      Selective antimicrobial pressure and multiple admissions to hospital were among the risk factors associated with antimicrobial resistance. The finding of a low but definite level of resistance to both ampicillin and gentamicin is important for the selection of empiric therapy for sepsis in neonates. The role of inexpensive first-line agents in the outpatient treatment and prevention of urinary tract infections requires re-examination, particularly in children who have recently received antimicrobial therapy.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Pediatrics, Children's Hospital of Eastern Ontario, Ottawa.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Allen
+      </lastname>
+      <forename>
+       U D
+      </forename>
+      <initials>
+       UD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       MacDonald
+      </lastname>
+      <forename>
+       N
+      </forename>
+      <initials>
+       N
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Fuite
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Chan
+      </lastname>
+      <forename>
+       F
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Stephens
+      </lastname>
+      <forename>
+       D
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     CANADA
+    </country>
+    <medlineta>
+     CMAJ
+    </medlineta>
+    <nlmuniqueid>
+     9711805
+    </nlmuniqueid>
+    <issnlinking>
+     0820-3946
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Bacterial Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Infective Agents, Urinary
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      8064-90-2
+     </registrynumber>
+     <nameofsubstance>
+      Trimethoprim-Sulfamethoxazole Combination
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <citationsubset>
+    N
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 1992 Dec;11(12):1043-6
+     </refsource>
+     <pmid version="1">
+      1461695
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Antimicrob Chemother. 1992 Feb;29(2):159-68
+     </refsource>
+     <pmid version="1">
+      1506331
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Antimicrob Agents Chemother. 1990 Jul;34(7):1429-34
+     </refsource>
+     <pmid version="1">
+      2201257
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Pediatr. 1988 Apr;112(4):540-6
+     </refsource>
+     <pmid version="1">
+      3351677
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1985 Dec;152(6):1107-13
+     </refsource>
+     <pmid version="1">
+      3905979
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Clin Pathol. 1966 Apr;45(4):493-6
+     </refsource>
+     <pmid version="1">
+      5325707
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Rev Infect Dis. 1983 Nov-Dec;5(6):1033-48
+     </refsource>
+     <pmid version="1">
+      6318289
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1982 Jan 21;306(3):130-5
+     </refsource>
+     <pmid version="1">
+      7033781
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Infect Dis. 1995 May;20(5):1126-33
+     </refsource>
+     <pmid version="1">
+      7619987
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Infect Dis. 1995 May;20(5):1134-6
+     </refsource>
+     <pmid version="1">
+      7619988
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 1995 May;14(5):424-8
+     </refsource>
+     <pmid version="1">
+      7638032
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Urology. 1994 May;43(5):708-12; discussion 712-3
+     </refsource>
+     <pmid version="1">
+      8165772
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1993 Dec;92(6):761-7
+     </refsource>
+     <pmid version="1">
+      8233734
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Med. 1993 Aug;95(2):141-52
+     </refsource>
+     <pmid version="1">
+      8356980
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Biometrics. 1977 Mar;33(1):159-74
+     </refsource>
+     <pmid version="1">
+      843571
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1997 Aug 14;337(7):441-6
+     </refsource>
+     <pmid version="1">
+      9250845
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1997 Aug 14;337(7):491-2
+     </refsource>
+     <pmid version="1">
+      9250853
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Bacterial Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      pharmacology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Infective Agents, Urinary
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      pharmacology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Case-Control Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Resistance, Microbial
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Escherichia coli
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Escherichia coli Infections
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      microbiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Logistic Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Microbial Sensitivity Tests
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      Ontario
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Population Surveillance
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Statistics, Nonparametric
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Trimethoprim-Sulfamethoxazole Combination
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      pharmacology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Urinary Tract Infections
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      microbiology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC1232603
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1999
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      3
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1999
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1999
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10352632
+    </articleid>
+    <articleid idtype="pmc">
+     PMC1232603
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

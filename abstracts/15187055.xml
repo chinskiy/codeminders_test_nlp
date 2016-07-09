@@ -1,0 +1,413 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15187055
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     09
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     10
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1538-3598
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       291
+      </volume>
+      <issue>
+       22
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Jun
+       </month>
+       <day>
+        9
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Estimating prognosis for nursing home residents with advanced dementia.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      2734-40
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Survival varies for patients with advanced dementia, and accurate prognostic tools have not been developed. A small proportion of patients admitted to hospice have dementia, in part because of the difficulty in predicting survival.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To identify factors associated with 6-month mortality in newly admitted nursing home residents with advanced dementia and to create a practical risk score to predict 6-month mortality in this population.
+     </abstracttext>
+     <abstracttext label="DESIGN, SETTING, AND PARTICIPANTS" nlmcategory="METHODS">
+      This was a retrospective cohort study of data from the Minimum Data Set (MDS). All Medicare or Medicaid licensed nursing homes in New York and Michigan were included. Participants had advanced dementia and were admitted to New York nursing homes between June 1, 1994, and December 30, 1998 (derivation cohort, n = 6799), and to Michigan nursing homes from October 1, 1998, through July 30, 2000 (validation cohort, n = 4631).
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      MDS factors associated with 6-month mortality were determined in the derivation group, and the resulting mortality risk score was evaluated in the validation cohort. Risk score performance was compared with the cut point of 7c on the Functional Assessment Staging (FAST) scale.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Among residents with advanced dementia, 28.3% (n = 1922) died within 6 months of nursing home admission in the derivation cohort; 35.1% (n = 1626) died in the validation cohort. The 6-month mortality rate increased across risk scores (possible range, 0-19): 0 points, 8.9% mortality; 1 to 2, 10.8%; 3 to 5, 23.2%; 6 to 8, 40.4%; 9 to 11, 57.0%; and at least 12, 70.0% in the validation cohort. The area under the receiver operating characteristic (AUROC) curve for predicting 6-month mortality was 0.74 and 0.70 in the derivation and validation cohorts, respectively. Our risk score demonstrated better discrimination to predict 6-month mortality (AUROC, 0.64 for a cutoff of &gt; or =6 points vs 0.51 for FAST stage 7c).
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      A risk score based on 12 variables from the MDS estimates 6-month mortality for nursing home residents with advanced dementia with greater accuracy than existing prognostic guidelines.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Hebrew Rehabilitation Center for Aged Research and Training Institute, the Harvard Medical School, Boston, Mass 02131, USA. smitchell@mail.hrca.harvard.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Mitchell
+      </lastname>
+      <forename>
+       Susan L
+      </forename>
+      <initials>
+       SL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kiely
+      </lastname>
+      <forename>
+       Dan K
+      </forename>
+      <initials>
+       DK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hamel
+      </lastname>
+      <forename>
+       Mary Beth
+      </forename>
+      <initials>
+       MB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Park
+      </lastname>
+      <forename>
+       Pil S
+      </forename>
+      <initials>
+       PS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Morris
+      </lastname>
+      <forename>
+       John N
+      </forename>
+      <initials>
+       JN
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Fries
+      </lastname>
+      <forename>
+       Brant E
+      </forename>
+      <initials>
+       BE
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       AG04390
+      </grantid>
+      <acronym>
+       AG
+      </acronym>
+      <agency>
+       NIA NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       AG08812
+      </grantid>
+      <acronym>
+       AG
+      </acronym>
+      <agency>
+       NIA NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       K23AG20054
+      </grantid>
+      <acronym>
+       AG
+      </acronym>
+      <agency>
+       NIA NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2004 Oct 6;292(13):1553; author reply 1553-4
+     </refsource>
+     <pmid version="1">
+      15467055
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Alzheimer Disease
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cohort Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Homes for the Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      Michigan
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      New York
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Nursing Homes
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prognosis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Reproducibility of Results
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Retrospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Risk Assessment
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     15187055
+    </articleid>
+    <articleid idtype="doi">
+     10.1001/jama.291.22.2734
+    </articleid>
+    <articleid idtype="pii">
+     291/22/2734
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

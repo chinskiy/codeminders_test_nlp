@@ -1,0 +1,545 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    9635947
+   </pmid>
+   <datecreated>
+    <year>
+     1998
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     10
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1998
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     10
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0140-6736
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       351
+      </volume>
+      <issue>
+       9118
+      </issue>
+      <pubdate>
+       <year>
+        1998
+       </year>
+       <month>
+        Jun
+       </month>
+       <day>
+        13
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Lancet
+     </title>
+     <isoabbreviation>
+      Lancet
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Effects of intensive blood-pressure lowering and low-dose aspirin in patients with hypertension: principal results of the Hypertension Optimal Treatment (HOT) randomised trial. HOT Study Group.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1755-62
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Despite treatment, there is often a higher incidence of cardiovascular complications in patients with hypertension than in normotensive individuals. Inadequate reduction of their blood pressure is a likely cause, but the optimum target blood pressure is not known. The impact of acetylsalicylic acid (aspirin) has never been investigated in patients with hypertension. We aimed to assess the optimum target diastolic blood pressure and the potential benefit of a low dose of acetylsalicylic acid in the treatment of hypertension.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      18790 patients, from 26 countries, aged 50-80 years (mean 61.5 years) with hypertension and diastolic blood pressure between 100 mm Hg and 115 mm Hg (mean 105 mm Hg) were randomly assigned a target diastolic blood pressure. 6264 patients were allocated to the target pressure &lt; or =90 mm Hg, 6264 to &lt; or =85 mm Hg, and 6262 to &lt; or =80 mm Hg. Felodipine was given as baseline therapy with the addition of other agents, according to a five-step regimen. In addition, 9399 patients were randomly assigned 75 mg/day acetylsalicylic acid (Bamycor, Astra) and 9391 patients were assigned placebo.
+     </abstracttext>
+     <abstracttext label="FINDINGS" nlmcategory="RESULTS">
+      Diastolic blood pressure was reduced by 20.3 mm Hg, 22.3 mm Hg, and 24.3 mm Hg, in the &lt; or =90 mm Hg, &lt; or =85 mm Hg, and &lt; or =80 mm Hg target groups, respectively. The lowest incidence of major cardiovascular events occurred at a mean achieved diastolic blood pressure of 82.6 mm Hg; the lowest risk of cardiovascular mortality occurred at 86.5 mm Hg. Further reduction below these blood pressures was safe. In patients with diabetes mellitus there was a 51% reduction in major cardiovascular events in target group &lt; or =80 mm Hg compared with target group &lt; or =90 mm Hg (p for trend=0.005). Acetylsalicylic acid reduced major cardiovascular events by 15% (p=0.03) and all myocardial infarction by 36% (p=0.002), with no effect on stroke. There were seven fatal bleeds in the acetylsalicylic acid group and eight in the placebo group, and 129 versus 70 non-fatal major bleeds in the two groups, respectively (p&lt;0.001).
+     </abstracttext>
+     <abstracttext label="INTERPRETATION" nlmcategory="CONCLUSIONS">
+      Intensive lowering of blood pressure in patients with hypertension was associated with a low rate of cardiovascular events. The HOT Study shows the benefits of lowering the diastolic blood pressure down to 82.6 mm Hg. Acetylsalicylic acid significantly reduced major cardiovascular events with the greatest benefit seen in all myocardial infarction. There was no effect on the incidence of stroke or fatal bleeds, but non-fatal major bleeds were twice as common.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     University of Uppsala, Department of Public Health and Social Sciences, Clinical Hypertension Research, Sweden.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Hansson
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Zanchetti
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Carruthers
+      </lastname>
+      <forename>
+       S G
+      </forename>
+      <initials>
+       SG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dahlöf
+      </lastname>
+      <forename>
+       B
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Elmfeldt
+      </lastname>
+      <forename>
+       D
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Julius
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ménard
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rahn
+      </lastname>
+      <forename>
+       K H
+      </forename>
+      <initials>
+       KH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wedel
+      </lastname>
+      <forename>
+       H
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Westerling
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     ENGLAND
+    </country>
+    <medlineta>
+     Lancet
+    </medlineta>
+    <nlmuniqueid>
+     2985213R
+    </nlmuniqueid>
+    <issnlinking>
+     0140-6736
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Inflammatory Agents, Non-Steroidal
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antihypertensive Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      50-78-2
+     </registrynumber>
+     <nameofsubstance>
+      Aspirin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 1999 Feb 20;353(9153):676
+     </refsource>
+     <pmid version="1">
+      10030365
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 1998 Aug 15;352(9127):571-2; author reply 574-5
+     </refsource>
+     <pmid version="1">
+      9716079
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 1998 Aug 15;352(9127):574-5
+     </refsource>
+     <pmid version="1">
+      9716085
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 1998 Jun 13;351(9118):1748-9
+     </refsource>
+     <pmid version="1">
+      9635941
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 1999 Jan 9;353(9147):148-50
+     </refsource>
+     <pmid version="1">
+      10023923
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2000 Feb 19;355(9204):652; author reply 653
+     </refsource>
+     <pmid version="1">
+      10697002
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2000 Aug 5;356(9228):508-9
+     </refsource>
+     <pmid version="1">
+      10981915
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 1998 Aug 15;352(9127):571; author reply 574-5
+     </refsource>
+     <pmid version="1">
+      9716078
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 1998 Aug 15;352(9127):573-4; author reply 574-5
+     </refsource>
+     <pmid version="1">
+      9716084
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 1998 Aug 15;352(9127):573; author reply 574-5
+     </refsource>
+     <pmid version="1">
+      9716082
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 1998 Aug 15;352(9127):573; author reply 574-5
+     </refsource>
+     <pmid version="1">
+      9716083
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 1998 Aug 15;352(9127):572-3; author reply 574-5
+     </refsource>
+     <pmid version="1">
+      9716081
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 1998 Aug 15;352(9127):572; author reply 574-5
+     </refsource>
+     <pmid version="1">
+      9716080
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Inflammatory Agents, Non-Steroidal
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antihypertensive Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aspirin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Pressure
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cardiovascular Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Therapy, Combination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Electrocardiography
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertension
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1998
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      23
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2000
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      10
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1998
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      23
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     9635947
+    </articleid>
+    <articleid idtype="pii">
+     S0140673698043116
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,487 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    9748034
+   </pmid>
+   <datecreated>
+    <year>
+     1998
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     20
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1998
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     20
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0028-3878
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       51
+      </volume>
+      <issue>
+       3
+      </issue>
+      <pubdate>
+       <year>
+        1998
+       </year>
+       <month>
+        Sep
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Neurology
+     </title>
+     <isoabbreviation>
+      Neurology
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Effect of selegiline on mortality in patients with Parkinson's disease: a meta-analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      825-30
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="INTRODUCTION" nlmcategory="BACKGROUND">
+      The Parkinson's Disease Research Group of the United Kingdom (PDRG-UK) reported increased mortality in PD patients treated with levodopa plus selegiline compared with those treated with levodopa alone.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We performed a meta-analysis on five long-term, prospective, randomized trials of selegiline in patients with untreated PD. Included in the analysis were four randomized, double-blind, placebo-controlled studies and one randomized, double-blind, placebo-controlled study of 2 years' duration followed by long-term, open follow-up.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The mean duration of follow-up was 4.1 +/- 1.8 years. There were 14 deaths in 297 selegiline-treated patients (4.7%) and 17 deaths in 292 non-selegiline-treated patients (5.8%). The hazard ratio for mortality was 1.02 (95% CI 0.44 to 2.37; p = 0.96). An analysis restricted to patients receiving only levodopa with or without selegiline noted 11 deaths in 257 levodopa/selegiline-treated patients (4.3%) and 11 deaths in 254 patients treated with levodopa alone (4.3%). The hazard ratio was 1.06 (95% CI 0.44 to 2.55; p = 0.90). Death rate per 1,000 patient years was 11.4 in the selegiline group and 14.2 in the nonselegiline group. Kaplan-Meier survival curves reflecting pooled survival data showed no significant difference in duration of survival. The hazard ratio was 0.84 (95% CI 0.41 to 1.70; p = 0.63) for selegiline- versus non-selegiline-treated patients and 1.05 (95% CI 0.46 to 2.43; p = 0.91) for selegiline/levodopa- versus levodopa-treated patients.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      These results contrast with those of the PDRG-UK study and demonstrate no increase in mortality associated with selegiline treatment whether or not patients also received levodopa.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Neurology, Mount Sinai School of Medicine, New York, NY 10029, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Olanow
+      </lastname>
+      <forename>
+       C W
+      </forename>
+      <initials>
+       CW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Myllylä
+      </lastname>
+      <forename>
+       V V
+      </forename>
+      <initials>
+       VV
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sotaniemi
+      </lastname>
+      <forename>
+       K A
+      </forename>
+      <initials>
+       KA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Larsen
+      </lastname>
+      <forename>
+       J P
+      </forename>
+      <initials>
+       JP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pålhagen
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Przuntek
+      </lastname>
+      <forename>
+       H
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Heinonen
+      </lastname>
+      <forename>
+       E H
+      </forename>
+      <initials>
+       EH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kilkku
+      </lastname>
+      <forename>
+       O
+      </forename>
+      <initials>
+       O
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lammintausta
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Mäki-Ikola
+      </lastname>
+      <forename>
+       O
+      </forename>
+      <initials>
+       O
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rinne
+      </lastname>
+      <forename>
+       U K
+      </forename>
+      <initials>
+       UK
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Neurology
+    </medlineta>
+    <nlmuniqueid>
+     0401060
+    </nlmuniqueid>
+    <issnlinking>
+     0028-3878
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antiparkinson Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Levodopa
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Monoamine Oxidase Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Neuroprotective Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      14611-51-9
+     </registrynumber>
+     <nameofsubstance>
+      Selegiline
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Neurology. 2001 Jul 24;57(2):369; author reply 369-70
+     </refsource>
+     <pmid version="1">
+      11480425
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antiparkinson Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Therapy, Combination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Levodopa
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Monoamine Oxidase Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Neuroprotective Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Parkinson Disease
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Proportional Hazards Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Selegiline
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Survival Rate
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1998
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      25
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1998
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1998
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     9748034
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

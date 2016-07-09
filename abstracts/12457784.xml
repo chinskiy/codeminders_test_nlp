@@ -1,0 +1,613 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12457784
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     29
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     10
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0140-6736
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       360
+      </volume>
+      <issue>
+       9346
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Nov
+       </month>
+       <day>
+        23
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Lancet
+     </title>
+     <isoabbreviation>
+      Lancet
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Pravastatin in elderly individuals at risk of vascular disease (PROSPER): a randomised controlled trial.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1623-30
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Although statins reduce coronary and cerebrovascular morbidity and mortality in middle-aged individuals, their efficacy and safety in elderly people is not fully established. Our aim was to test the benefits of pravastatin treatment in an elderly cohort of men and women with, or at high risk of developing, cardiovascular disease and stroke.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We did a randomised controlled trial in which we assigned 5804 men (n=2804) and women (n=3000) aged 70-82 years with a history of, or risk factors for, vascular disease to pravastatin (40 mg per day; n=2891) or placebo (n=2913). Baseline cholesterol concentrations ranged from 4.0 mmol/L to 9.0 mmol/L. Follow-up was 3.2 years on average and our primary endpoint was a composite of coronary death, non-fatal myocardial infarction, and fatal or non-fatal stroke. Analysis was by intention-to-treat.
+     </abstracttext>
+     <abstracttext label="FINDINGS" nlmcategory="RESULTS">
+      Pravastatin lowered LDL cholesterol concentrations by 34% and reduced the incidence of the primary endpoint to 408 events compared with 473 on placebo (hazard ratio 0.85, 95% CI 0.74-0.97, p=0.014). Coronary heart disease death and non-fatal myocardial infarction risk was also reduced (0.81, 0.69-0.94, p=0.006). Stroke risk was unaffected (1.03, 0.81-1.31, p=0.8), but the hazard ratio for transient ischaemic attack was 0.75 (0.55-1.00, p=0.051). New cancer diagnoses were more frequent on pravastatin than on placebo (1.25, 1.04-1.51, p=0.020). However, incorporation of this finding in a meta-analysis of all pravastatin and all statin trials showed no overall increase in risk. Mortality from coronary disease fell by 24% (p=0.043) in the pravastatin group. Pravastatin had no significant effect on cognitive function or disability.
+     </abstracttext>
+     <abstracttext label="INTERPRETATION" nlmcategory="CONCLUSIONS">
+      Pravastatin given for 3 years reduced the risk of coronary disease in elderly individuals. PROSPER therefore extends to elderly individuals the treatment strategy currently used in middle aged people.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     University Department of Pathological Biochemistry, University of Glasgow, Royal Infirmary, Scotland, Glasgow, UK. jshepherd@gri-biochem.org.uk
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Shepherd
+      </lastname>
+      <forename>
+       James
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Blauw
+      </lastname>
+      <forename>
+       Gerard J
+      </forename>
+      <initials>
+       GJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Murphy
+      </lastname>
+      <forename>
+       Michael B
+      </forename>
+      <initials>
+       MB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bollen
+      </lastname>
+      <forename>
+       Edward L E M
+      </forename>
+      <initials>
+       EL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Buckley
+      </lastname>
+      <forename>
+       Brendan M
+      </forename>
+      <initials>
+       BM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cobbe
+      </lastname>
+      <forename>
+       Stuart M
+      </forename>
+      <initials>
+       SM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ford
+      </lastname>
+      <forename>
+       Ian
+      </forename>
+      <initials>
+       I
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gaw
+      </lastname>
+      <forename>
+       Allan
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hyland
+      </lastname>
+      <forename>
+       Michael
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jukema
+      </lastname>
+      <forename>
+       J Wouter
+      </forename>
+      <initials>
+       JW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kamper
+      </lastname>
+      <forename>
+       Adriaan M
+      </forename>
+      <initials>
+       AM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Macfarlane
+      </lastname>
+      <forename>
+       Peter W
+      </forename>
+      <initials>
+       PW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Meinders
+      </lastname>
+      <forename>
+       A Edo
+      </forename>
+      <initials>
+       AE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Norrie
+      </lastname>
+      <forename>
+       John
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Packard
+      </lastname>
+      <forename>
+       Chris J
+      </forename>
+      <initials>
+       CJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Perry
+      </lastname>
+      <forename>
+       Ivan J
+      </forename>
+      <initials>
+       IJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Stott
+      </lastname>
+      <forename>
+       David J
+      </forename>
+      <initials>
+       DJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sweeney
+      </lastname>
+      <forename>
+       Brian J
+      </forename>
+      <initials>
+       BJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Twomey
+      </lastname>
+      <forename>
+       Cillian
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Westendorp
+      </lastname>
+      <forename>
+       Rudi G J
+      </forename>
+      <initials>
+       RG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       PROSPER study group. PROspective Study of Pravastatin in the Elderly at Risk
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Lancet
+    </medlineta>
+    <nlmuniqueid>
+     2985213R
+    </nlmuniqueid>
+    <issnlinking>
+     0140-6736
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anticholesteremic Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cholesterol, LDL
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      81093-37-0
+     </registrynumber>
+     <nameofsubstance>
+      Pravastatin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2003 Mar 29;361(9363):1135-6; author reply 1136
+     </refsource>
+     <pmid version="1">
+      12672344
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2003 Mar 29;361(9363):1135; author reply 1136
+     </refsource>
+     <pmid version="1">
+      12672345
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2002 Nov 23;360(9346):1618-9
+     </refsource>
+     <pmid version="1">
+      12457780
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2003 Feb 1;361(9355):427; author reply 428
+     </refsource>
+     <pmid version="1">
+      12573394
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2003 Feb 1;361(9355):427; author reply 428
+     </refsource>
+     <pmid version="1">
+      12573393
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2003 Feb 1;361(9355):428; author reply 428
+     </refsource>
+     <pmid version="1">
+      12573397
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2003 Feb 1;361(9355):428
+     </refsource>
+     <pmid version="1">
+      12573396
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2003 Jul-Aug;139(1):9
+     </refsource>
+     <pmid version="1">
+      12841713
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2003 Feb 1;361(9355):427-8; author reply 428
+     </refsource>
+     <pmid version="1">
+      12573395
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anticholesteremic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cholesterol, LDL
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Coronary Artery Disease
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Endpoint Determination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pravastatin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      30
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      11
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      30
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12457784
+    </articleid>
+    <articleid idtype="pii">
+     S014067360211600X
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

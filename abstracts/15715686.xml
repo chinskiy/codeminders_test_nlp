@@ -1,0 +1,410 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15715686
+   </pmid>
+   <datecreated>
+    <year>
+     2005
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     17
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     31
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0954-6820
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       257
+      </volume>
+      <issue>
+       3
+      </issue>
+      <pubdate>
+       <year>
+        2005
+       </year>
+       <month>
+        Mar
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of internal medicine
+     </title>
+     <isoabbreviation>
+      J. Intern. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Holotranscobalamin--a first choice assay for diagnosing early vitamin B deficiency?
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      289-98
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      The performance of holotranscobalamin (holoTC) was compared with the other markers of vitamin B12 deficiency, and the influence of age, renal function, and thyroid status was examined.
+     </abstracttext>
+     <abstracttext label="DESIGN AND INTERVENTIONS" nlmcategory="METHODS">
+      We examined 937 individuals not treated with vitamin B12 but in whom vitamin B12 deficiency was suspected because of a plasma methylmalonic acid (MMA) above 0.28 micromol L(-1) within the past 4 years. Besides laboratory tests, a structured interview and a neurological examination were performed amongst 534 individuals. Amongst these, 140 individuals qualified for a randomized trial (MMA 0.40-2.00 micromol L(-1)). They were randomized to injections with vitamin B12 or placebo and re-examined after 3 months.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      One university hospital in Aarhus, Denmark.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The ROC curves indicate that holoTC (AUC: 0.90) compared favourable with plasma vitamin B12 (AUC: 0.85) for identifying individuals likely to have vitamin B12 deficiency (MMA &gt; or =0.75 micromol L(-1) and plasma total homocysteine (tHcy) &gt; or =15 micromol L(-1)), and further that holoTC (AUC: 0.91) might replace combined testing with plasma vitamin B12 and the metabolites. No association was observed between the biochemical markers and symptoms and signs possibly related to vitamin B12 deficiency. HoloTC, TC saturation, plasma vitamin B12, MMA, and tHcy were significantly associated with plasma creatinine (all with P &lt;0.001). Only tHcy was significantly associated with thyroid stimulating hormone (P=0.02).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      HoloTC shows promise as first-line tests for diagnosing early vitamin B12 deficiency.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Clinical Biochemistry, Aarhus University Hospital, Aarhus C, Denmark. am.hvas@dadlnet.dk
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Hvas
+      </lastname>
+      <forename>
+       A-M
+      </forename>
+      <initials>
+       AM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Nexo
+      </lastname>
+      <forename>
+       E
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     J Intern Med
+    </medlineta>
+    <nlmuniqueid>
+     8904841
+    </nlmuniqueid>
+    <issnlinking>
+     0954-6820
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Biological Markers
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Transcobalamins
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      454-28-4
+     </registrynumber>
+     <nameofsubstance>
+      Homocysteine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      516-05-2
+     </registrynumber>
+     <nameofsubstance>
+      Methylmalonic Acid
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      60-27-5
+     </registrynumber>
+     <nameofsubstance>
+      Creatinine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      68-19-9
+     </registrynumber>
+     <nameofsubstance>
+      Vitamin B 12
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      9002-71-5
+     </registrynumber>
+     <nameofsubstance>
+      Thyrotropin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anemia
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Biological Markers
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Creatinine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Homocysteine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Methylmalonic Acid
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prognosis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Thyrotropin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Transcobalamins
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      analysis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vitamin B 12
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vitamin B 12 Deficiency
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2005
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2005
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     JIM1437
+    </articleid>
+    <articleid idtype="doi">
+     10.1111/j.1365-2796.2004.01437.x
+    </articleid>
+    <articleid idtype="pubmed">
+     15715686
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

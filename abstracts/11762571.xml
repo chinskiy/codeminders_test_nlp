@@ -1,0 +1,861 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11762571
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     12
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     28
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0820-3946
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       165
+      </volume>
+      <issue>
+       11
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Nov
+       </month>
+       <day>
+        27
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne
+     </title>
+     <isoabbreviation>
+      CMAJ
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     How efficacious and safe is short-acting methylphenidate for the treatment of attention-deficit disorder in children and adolescents? A meta-analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1475-88
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Numerous small clinical trials have been carried out to study the behaviourally defined efficacy and safety of short-acting methylphenidate compared with placebo for attention-deficit disorder (ADD) in individuals aged 18 years and less. However, no meta-analyses that carefully examined these questions have been done. We reviewed the behavioural evidence from all the randomized controlled trials that compared methylphenidate and placebo, and completed a meta-analysis.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We searched several electronic sources for articles published between 1981 and 1999: MEDLINE, EMBASE, PsychINFO, ERIC, CINAHL, HEALTHSTAR, Biological Abstracts, Current Contents and Dissertation Abstracts. The Cochrane Library Trials Registry and Current Controlled Trials were also consulted. A study was considered eligible for inclusion if it entailed the following: a placebo-controlled randomized trial that involved short-acting methylphenidate and participants aged 18 years or less at the start of the trial who had received any primary diagnosis of ADD that was made in a systematic and reproducible way.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      We included 62 randomized trials that involved a total of 2897 participants with a primary diagnosis of ADD (e.g., with or without hyperactivity). The median age of trial participants was 8.7 years, and the median "percent male" composition of trials was 88.1%. Most studies used a crossover design. Using the scores from 2 separate indices, this collection of trials exhibited low quality. Interventions lasted, on average, 3 weeks, with no trial lasting longer than 28 weeks. Each primary outcome (hyperactivity index) demonstrated a significant effect of methylphenidate (effect size reported by teacher 0.78, 95% confidence interval [CI] 0.64-0.91; effect size reported by parent 0.54, 95% CI 0.40-0.67). However, these apparent beneficial effects are tempered by a strong indication of publication bias and the lack of robustness of the findings, especially those involving core ADD features. Methylphenidate also has an adverse event profile that requires consideration. For example, clinicians only need to treat 4 children to identify an episode of decreased appetite.
+     </abstracttext>
+     <abstracttext label="INTERPRETATION" nlmcategory="CONCLUSIONS">
+      Short-acting methylphenidate has a statistically significant clinical effect in the short-term treatment of individuals with a diagnosis of ADD aged 18 years and less. However, the extension of this placebo-controlled effect beyond 4 weeks of treatment has not been demonstrated. Exact knowledge of the extent and definition of the short-term behavioural usefulness of methylphenidate is questioned.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Thomas C. Chalmers Centre for Systematic Reviews, Children's Hospital of Eastern Ontario Research Institute, Ottawa. hschacht@uottawa.ca
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Schachter
+      </lastname>
+      <forename>
+       H M
+      </forename>
+      <initials>
+       HM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pham
+      </lastname>
+      <forename>
+       B
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       King
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Langford
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Moher
+      </lastname>
+      <forename>
+       D
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     Canada
+    </country>
+    <medlineta>
+     CMAJ
+    </medlineta>
+    <nlmuniqueid>
+     9711805
+    </nlmuniqueid>
+    <issnlinking>
+     0820-3946
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Central Nervous System Stimulants
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      113-45-1
+     </registrynumber>
+     <nameofsubstance>
+      Methylphenidate
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1998 Apr 8;279(14):1100-7
+     </refsource>
+     <pmid version="1">
+      9546570
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1998 May 23;316(7144):1594-6
+     </refsource>
+     <pmid version="1">
+      9596603
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Can J Psychiatry. 1998 Aug;43(6):571-5
+     </refsource>
+     <pmid version="1">
+      9729682
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1998 Nov 28;352(9142):1752-3
+     </refsource>
+     <pmid version="1">
+      9848355
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Stat Med. 1999 Feb 15;18(3):321-59
+     </refsource>
+     <pmid version="1">
+      10070677
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1999 Mar 11;340(10):780-8
+     </refsource>
+     <pmid version="1">
+      10072414
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Am Acad Child Adolesc Psychiatry. 1999 May;38(5):503-12
+     </refsource>
+     <pmid version="1">
+      10230181
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1999 Jun 5;318(7197):1548-51
+     </refsource>
+     <pmid version="1">
+      10356018
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Am Acad Child Adolesc Psychiatry. 1999 Aug;38(8):944-51
+     </refsource>
+     <pmid version="1">
+      10434485
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Pediatr Adolesc Med. 1999 Oct;153(10):1039-45
+     </refsource>
+     <pmid version="1">
+      10520611
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1999 Nov 27;354(9193):1896-900
+     </refsource>
+     <pmid version="1">
+      10584742
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Gen Psychiatry. 1999 Dec;56(12):1073-86
+     </refsource>
+     <pmid version="1">
+      10591283
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Can J Psychiatry. 1999 Dec;44(10):1007-16
+     </refsource>
+     <pmid version="1">
+      10637680
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Can J Psychiatry. 1999 Dec;44(10):1025-35
+     </refsource>
+     <pmid version="1">
+      10637682
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Med Decis Making. 2000 Jan-Mar;20(1):104-11
+     </refsource>
+     <pmid version="1">
+      10638543
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Am Acad Child Adolesc Psychiatry. 2000 Feb;39(2):182-93
+     </refsource>
+     <pmid version="1">
+      10673829
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 2000 Feb 23;283(8):1025-30
+     </refsource>
+     <pmid version="1">
+      10697062
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 2000 Feb 23;283(8):1059-60
+     </refsource>
+     <pmid version="1">
+      10697069
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 2000 Apr;105(4 Pt 1):863-4
+     </refsource>
+     <pmid version="1">
+      10742336
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 2000 May;105(5):1158-70
+     </refsource>
+     <pmid version="1">
+      10836893
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Dis Child. 2000 Jul;83(1):63
+     </refsource>
+     <pmid version="1">
+      10869002
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Intern Med. 2001 Jan 8;161(1):125-6
+     </refsource>
+     <pmid version="1">
+      11146711
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 2001 Jan 24-31;285(4):437-43
+     </refsource>
+     <pmid version="1">
+      11242428
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Epidemiol. 1992 Jul;45(7):769-73
+     </refsource>
+     <pmid version="1">
+      1619456
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Psychiatry. 1991 May;148(5):564-77
+     </refsource>
+     <pmid version="1">
+      2018156
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1990 Aug;86(2):184-92
+     </refsource>
+     <pmid version="1">
+      2196520
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Abnorm Child Psychol. 1985 Dec;13(4):553-65
+     </refsource>
+     <pmid version="1">
+      4078186
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Learn Disabil. 1982 May;15(5):280-9
+     </refsource>
+     <pmid version="1">
+      6123539
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Gen Psychol. 1983 Jan;108(1st Half):79-86
+     </refsource>
+     <pmid version="1">
+      6131929
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Dev Med Child Neurol. 1983 Jun;25(3):358-66
+     </refsource>
+     <pmid version="1">
+      6347775
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Learn Disabil. 1983 Jun-Jul;16(6):324-30
+     </refsource>
+     <pmid version="1">
+      6886553
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Am Acad Child Adolesc Psychiatry. 1996 Aug;35(8):978-87
+     </refsource>
+     <pmid version="1">
+      8755794
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Paediatr Child Health. 1996 Jun;32(3):201-3
+     </refsource>
+     <pmid version="1">
+      8827533
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Am Acad Child Adolesc Psychiatry. 1996 Apr;35(4):409-32
+     </refsource>
+     <pmid version="1">
+      8919704
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Abnorm Child Psychol. 1996 Oct;24(5):571-95
+     </refsource>
+     <pmid version="1">
+      8956085
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Neurol. 1997 Jan;16(1):14-6
+     </refsource>
+     <pmid version="1">
+      9044395
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Paediatr Child Health. 1997 Feb;33(1):9-11
+     </refsource>
+     <pmid version="1">
+      9069037
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Am Acad Child Adolesc Psychiatry. 1997 Jun;36(6):754-63
+     </refsource>
+     <pmid version="1">
+      9183129
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1997 Jul 19;350(9072):185-6
+     </refsource>
+     <pmid version="1">
+      9250191
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Am Acad Child Adolesc Psychiatry. 1997 Aug;36(8):1036-45
+     </refsource>
+     <pmid version="1">
+      9256583
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1997 Sep 13;315(7109):629-34
+     </refsource>
+     <pmid version="1">
+      9310563
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Am Acad Child Adolesc Psychiatry. 1997 Oct;36(10 Suppl):85S-121S
+     </refsource>
+     <pmid version="1">
+      9334567
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Med Decis Making. 1998 Jan-Mar;18(1):37-43
+     </refsource>
+     <pmid version="1">
+      9456207
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1998 Feb 7;351(9100):429-33
+     </refsource>
+     <pmid version="1">
+      9482319
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Child Psychol Psychiatry. 1998 Jan;39(1):65-99
+     </refsource>
+     <pmid version="1">
+      9534087
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Psychopharmacol. 1995 Aug;15(4):270-9
+     </refsource>
+     <pmid version="1">
+      7593710
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Am Acad Child Adolesc Psychiatry. 1995 Aug;34(8):987-1000
+     </refsource>
+     <pmid version="1">
+      7665456
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1995 Feb 1;273(5):408-12
+     </refsource>
+     <pmid version="1">
+      7823387
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Pediatr Adolesc Med. 1996 Mar;150(3):284-8
+     </refsource>
+     <pmid version="1">
+      8603222
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Fertil Steril. 1996 May;65(5):939-45
+     </refsource>
+     <pmid version="1">
+      8612853
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Am Acad Child Adolesc Psychiatry. 1996 Mar;35(3):352-8
+     </refsource>
+     <pmid version="1">
+      8714324
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Control Clin Trials. 1996 Feb;17(1):1-12
+     </refsource>
+     <pmid version="1">
+      8721797
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      CMAJ. 2001 Nov 27;165(11):1505-6
+     </refsource>
+     <pmid version="1">
+      11762576
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      CMAJ. 2002 May 14;166(10):1251-2
+     </refsource>
+     <pmid version="1">
+      12041836
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Evid Based Ment Health. 2002 May;5(2):50
+     </refsource>
+     <pmid version="1">
+      12026899
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Age Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anorexia
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      chemically induced
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Attention Deficit Disorder with Hyperactivity
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      classification
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      psychology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bias (Epidemiology)
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Central Nervous System Stimulants
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pharmacology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Effect Modifiers (Epidemiology)
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Evidence-Based Medicine
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Methylphenidate
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pharmacology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Registries
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Research Design
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      standards
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Safety
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Severity of Illness Index
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Time Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC81663
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11762571
+    </articleid>
+    <articleid idtype="pmc">
+     PMC81663
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

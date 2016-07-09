@@ -1,0 +1,289 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    2341917
+   </pmid>
+   <datecreated>
+    <year>
+     1990
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     27
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1990
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     27
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     24
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0884-8734
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       5
+      </volume>
+      <issue>
+       3
+      </issue>
+      <pubdate>
+       <medlinedate>
+        1990 May-Jun
+       </medlinedate>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of general internal medicine
+     </title>
+     <isoabbreviation>
+      J Gen Intern Med
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Recognition and evaluation of red blood cell macrocytosis in the primary care setting.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      192-7
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To investigate primary care physicians' recognition and evaluation of red blood cell (RBC) macrocytosis in adults.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Retrospective chart review. Utilizing a computerized laboratory result system, all complete blood counts (CBCs) with RBC indices performed between May 1986 and May 1987 were retrieved. Patients having mean corpuscular volumes (MCVs) more than three standard deviations from the mean (greater than 98.5 fL) were selected for evaluation.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      The primary care clinics of a public university hospital.
+     </abstracttext>
+     <abstracttext label="PATIENTS" nlmcategory="METHODS">
+      138 (3.7%) of 3,805 adult outpatients had MCVs greater than 98.5 fL, and of these, 128 (93.4%) had medical charts available for review.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      55 patients with elevated MCVs were not evaluated for this finding, and their mean MCV (100.6 fL) was significantly lower than that of the 73 patients who were evaluated (102.5 fL; p = 0.003). The investigation of macrocytosis included vitamin B12 and folate levels consistently, and the reticulocyte count and peripheral smear were examined infrequently. Five patients had vitamin B12 deficiency, and two had hypothyroidism. Macrocytosis was ascribed to alcohol abuse in 47 patients, six of whom had no laboratory evaluation. Nine alcoholic patients with macrocytosis had other causes for this finding. Among the 55 patients whose macrocytosis was not evaluated, 12 were anemic and one had a peripheral neuropathy.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Clinically significant and treatable disease was often associated with macrocytosis in our study. Macrocytosis was common, and its recognition and evaluation were variable in this primary care outpatient setting.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Medicine, University of Virginia Health Sciences Center, Charlottesville.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Wymer
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Becker
+      </lastname>
+      <forename>
+       D M
+      </forename>
+      <initials>
+       DM
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     J Gen Intern Med
+    </medlineta>
+    <nlmuniqueid>
+     8605834
+    </nlmuniqueid>
+    <issnlinking>
+     0884-8734
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      J Gen Intern Med. 1990 May-Jun;5(3):264-5
+     </refsource>
+     <pmid version="1">
+      2341927
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Alcoholism
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anemia
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Erythrocyte Indices
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Medical Records
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Outpatient Clinics, Hospital
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Physicians, Family
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Utilization Review
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vitamin B 12 Deficiency
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1990
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1990
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1990
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     2341917
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

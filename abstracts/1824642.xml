@@ -1,0 +1,297 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    1824642
+   </pmid>
+   <datecreated>
+    <year>
+     1991
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     07
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1991
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     07
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       265
+      </volume>
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <medlinedate>
+        1991 Jan 23-30
+       </medlinedate>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     The J-curve phenomenon and the treatment of hypertension. Is there a point beyond which pressure reduction is dangerous?
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      489-95
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      We critically appraised the medical literature to evaluate whether there is a point beyond which blood pressure reduction in hypertensive subjects is no longer beneficial and possibly even deleterious. Thirteen studies that stratified cardiovascular outcomes by level of achieved blood pressure in treated hypertensive subjects who had been followed up for at least 1 year were critiqued by four independent reviewers. Data addressing population, protocol, and methodological characteristics were evaluated. Studies did not show a consistent J-shaped relationship between treated blood pressure and stroke, but they did demonstrate a consistent J-shaped relationship for cardiac events and diastolic blood pressure. The beneficial therapeutic threshold point was 85 mm Hg. We conclude that low treated diastolic blood pressure levels, ie, below 85 mm Hg, are associated with increased risk of cardiac events.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     College of Pharmacy, University of Texas, Austin.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Farnett
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Mulrow
+      </lastname>
+      <forename>
+       C D
+      </forename>
+      <initials>
+       CD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Linn
+      </lastname>
+      <forename>
+       W D
+      </forename>
+      <initials>
+       WD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lucey
+      </lastname>
+      <forename>
+       C R
+      </forename>
+      <initials>
+       CR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tuley
+      </lastname>
+      <forename>
+       M R
+      </forename>
+      <initials>
+       MR
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 1991 Jul 3;266(1):64-6
+     </refsource>
+     <pmid version="1">
+      2046129
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Blood Pressure
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cerebrovascular Disorders
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Coronary Disease
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertension
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Meta-Analysis as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1991
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      23
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1991
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      23
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1991
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      23
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     1824642
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

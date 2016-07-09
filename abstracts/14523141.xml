@@ -1,0 +1,498 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    14523141
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     02
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     20
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1533-4406
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       349
+      </volume>
+      <issue>
+       14
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Oct
+       </month>
+       <day>
+        2
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     The prevention of radiocontrast-agent-induced nephropathy by hemofiltration.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1333-40
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Nephropathy induced by exposure to radiocontrast agents, a possible complication of percutaneous coronary interventions, is associated with significant in-hospital and long-term morbidity and mortality. Patients with preexisting renal failure are at particularly high risk. We investigated the role of hemofiltration, as compared with isotonic-saline hydration, in preventing contrast-agent-induced nephropathy in patients with renal failure.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We studied 114 consecutive patients with chronic renal failure (serum creatinine concentration, &gt;2 mg per deciliter [176.8 micromol per liter]) who were undergoing coronary interventions. We randomly assigned them to either hemofiltration in an intensive care unit (ICU) (58 patients, with a mean [+/-SD] serum creatinine concentration of 3.0+/-1.0 mg per deciliter [265.2+/-88.4 micromol per liter]) or isotonic-saline hydration at a rate of 1 ml per kilogram of body weight per hour given in a step-down unit (56 patients, with a mean serum creatinine concentration of 3.1+/-1.0 mg per deciliter [274.0+/-88.4 micromol per liter]). Hemofiltration (fluid replacement rate, 1000 ml per hour without weight loss) and saline hydration were initiated 4 to 8 hours before the coronary intervention and were continued for 18 to 24 hours after the procedure was completed.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      An increase in the serum creatinine concentration of more than 25 percent from the base-line value after the coronary intervention occurred less frequently among the patients in the hemofiltration group than among the control patients (5 percent vs. 50 percent, P&lt;0.001). Temporary renal-replacement therapy (hemodialysis or hemofiltration) was required in 25 percent of the control patients and in 3 percent of the patients in the hemofiltration group. The rate of in-hospital events was 9 percent in the hemofiltration group and 52 percent in the control group (P&lt;0.001). In-hospital mortality was 2 percent in the hemofiltration group and 14 percent in the control group (P=0.02), and the cumulative one-year mortality was 10 percent and 30 percent, respectively (P=0.01).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      In patients with chronic renal failure who are undergoing percutaneous coronary interventions, periprocedural hemofiltration given in an ICU setting appears to be effective in preventing the deterioration of renal function due to contrast-agent-induced nephropathy and is associated with improved in-hospital and long-term outcomes.
+     </abstracttext>
+     <copyrightinformation>
+      Copyright 2003 Massachusetts Medical Society
+     </copyrightinformation>
+    </abstract>
+    <affiliation>
+     Centro Cardiologico Monzino, Istituto di Ricovero e Cura a Carattere Scientifico, Institute of Cardiology, University of Milan, Milan, Italy. giancarlo.marenzi@cardiologicomonzino.it
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Marenzi
+      </lastname>
+      <forename>
+       Giancarlo
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Marana
+      </lastname>
+      <forename>
+       Ivana
+      </forename>
+      <initials>
+       I
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lauri
+      </lastname>
+      <forename>
+       Gianfranco
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Assanelli
+      </lastname>
+      <forename>
+       Emilio
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Grazi
+      </lastname>
+      <forename>
+       Marco
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Campodonico
+      </lastname>
+      <forename>
+       Jeness
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Trabattoni
+      </lastname>
+      <forename>
+       Daniela
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Fabbiocchi
+      </lastname>
+      <forename>
+       Franco
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Montorsi
+      </lastname>
+      <forename>
+       Piero
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bartorelli
+      </lastname>
+      <forename>
+       Antonio L
+      </forename>
+      <initials>
+       AL
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Contrast Media
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Radiopharmaceuticals
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      7647-14-5
+     </registrynumber>
+     <nameofsubstance>
+      Sodium Chloride
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2003 Oct 2;349(14):1311-2
+     </refsource>
+     <pmid version="1">
+      14523137
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2004 Feb 19;350(8):836-8; author reply 836-8
+     </refsource>
+     <pmid version="1">
+      14973207
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2004 Feb 19;350(8):836-8; author reply 836-8
+     </refsource>
+     <pmid version="1">
+      14978842
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2004 Feb 19;350(8):836-8; author reply 836-8
+     </refsource>
+     <pmid version="1">
+      14978835
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2004 Feb 19;350(8):836-8; author reply 836-8
+     </refsource>
+     <pmid version="1">
+      14978836
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2004 Feb 19;350(8):836-8; author reply 836-8
+     </refsource>
+     <pmid version="1">
+      14978834
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Angioplasty, Balloon, Coronary
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Urea Nitrogen
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Contrast Media
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Coronary Angiography
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Hemofiltration
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Kidney Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      chemically induced
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Kidney Failure, Chronic
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      complications
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Radiopharmaceuticals
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sodium Chloride
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     14523141
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJMoa023204
+    </articleid>
+    <articleid idtype="pii">
+     349/14/1333
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

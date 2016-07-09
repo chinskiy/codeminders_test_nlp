@@ -1,0 +1,335 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    16098855
+   </pmid>
+   <datecreated>
+    <year>
+     2005
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     15
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     15
+    </day>
+   </datecompleted>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0002-9378
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       193
+      </volume>
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2005
+       </year>
+       <month>
+        Aug
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      American journal of obstetrics and gynecology
+     </title>
+     <isoabbreviation>
+      Am. J. Obstet. Gynecol.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Common use of inaccurate antibody assays to identify infection status with herpes simplex virus type 2.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      361-2
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      In recent proficiency testing of herpes simplex virus type-specific serologic evidence by the College of American Pathologists, commercially available herpes simplex virus antibody assays that were not glycoprotein-G based demonstrated high false-positive rates (14%-88%) for herpes simplex virus type-2 antibodies in sera that were positive for herpes simplex virus type-1 antibodies but negative for herpes simplex virus type-2 antibodies. Herpes simplex virus serologic testing should be performed with only glycoprotein-G-based tests.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Laboratory Medicine, University of Washington School of Medicine, Seattle 98195, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Morrow
+      </lastname>
+      <forename>
+       Rhoda Ashley
+      </forename>
+      <initials>
+       RA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Brown
+      </lastname>
+      <forename>
+       Zane A
+      </forename>
+      <initials>
+       ZA
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Am J Obstet Gynecol
+    </medlineta>
+    <nlmuniqueid>
+     0370476
+    </nlmuniqueid>
+    <issnlinking>
+     0002-9378
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antibodies, Viral
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Viral Envelope Proteins
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      glycoprotein G, herpes simplex virus type 2
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antibodies, Viral
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      isolation &amp; purification
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cross Reactions
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      False Positive Reactions
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Herpes Genitalis
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Herpesvirus 1, Human
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      genetics
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      immunology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Herpesvirus 2, Human
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      genetics
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      immunology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      isolation &amp; purification
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Immunoenzyme Techniques
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Viral Envelope Proteins
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="received">
+     <year>
+      2004
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      11
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="revised">
+     <year>
+      2005
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      10
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="accepted">
+     <year>
+      2005
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      11
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2005
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2005
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     S0002-9378(05)00102-X
+    </articleid>
+    <articleid idtype="doi">
+     10.1016/j.ajog.2005.01.025
+    </articleid>
+    <articleid idtype="pubmed">
+     16098855
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

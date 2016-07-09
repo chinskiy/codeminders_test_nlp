@@ -1,0 +1,376 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    7707596
+   </pmid>
+   <datecreated>
+    <year>
+     1995
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     09
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1995
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     09
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     24
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       273
+      </volume>
+      <issue>
+       14
+      </issue>
+      <pubdate>
+       <year>
+        1995
+       </year>
+       <month>
+        Apr
+       </month>
+       <day>
+        12
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Changes in physical fitness and all-cause mortality. A prospective study of healthy and unhealthy men.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1093-8
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To evaluate the relationship between changes in physical fitness and risk of mortality in men.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Prospective study, with two clinical examinations (mean interval between examinations, 4.9 years) to assess change or lack of change in physical fitness as associated with risk of mortality during follow-up after the subsequent examination (mean follow-up from subsequent examination, 5.1 years).
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      Preventive medicine clinic.
+     </abstracttext>
+     <abstracttext label="STUDY PARTICIPANTS" nlmcategory="METHODS">
+      Participants were 9777 men given two preventive medical examinations, each of which included assessment of physical fitness by maximal exercise tests and evaluation of health status.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      All cause (n = 223) and cardiovascular disease (n = 87) mortality.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The highest age-adjusted all-cause death rate was observed in men who were unfit at both examinations (122.0/10,000 man-years); the lowest death rate was in men who were physically fit at both examinations (39.6/10,000 man-years). Men who improved from unfit to fit between the first and subsequent examinations had an age-adjusted death rate of 67.7/10,000 man-years. This is a reduction in mortality risk of 44% (95% confidence interval, 25% to 59%) relative to men who remained unfit at both examinations. Improvement in fitness was associated with lower death rates after adjusting for age, health status, and other risk factors of premature mortality. For each minute increase in maximal treadmill time between examinations, there was a corresponding 7.9% (P = .001) decrease in risk of mortality. Similar results were seen when the group was stratified by health status, and for cardiovascular disease mortality.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Men who maintained or improved adequate physical fitness were less likely to die from all causes and from cardiovascular disease during follow-up than persistently unfit men. Physicians should encourage unfit men to improve their fitness by starting a physical activity program.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Division of Epidemiology, Cooper Institute for Aerobics Research, Dallas, TX 75230, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Blair
+      </lastname>
+      <forename>
+       S N
+      </forename>
+      <initials>
+       SN
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kohl
+      </lastname>
+      <forename>
+       H W
+      </forename>
+      <initials>
+       HW
+      </initials>
+      <suffix>
+       3rd
+      </suffix>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Barlow
+      </lastname>
+      <forename>
+       C E
+      </forename>
+      <initials>
+       CE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Paffenbarger
+      </lastname>
+      <forename>
+       R S
+      </forename>
+      <initials>
+       RS
+      </initials>
+      <suffix>
+       Jr
+      </suffix>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gibbons
+      </lastname>
+      <forename>
+       L W
+      </forename>
+      <initials>
+       LW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Macera
+      </lastname>
+      <forename>
+       C A
+      </forename>
+      <initials>
+       CA
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       AG06945
+      </grantid>
+      <acronym>
+       AG
+      </acronym>
+      <agency>
+       NIA NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 1995 Sep-Oct;123(2):52-3
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cardiovascular Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cause of Death
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Health Status
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Mortality
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Multivariate Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Physical Fitness
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Proportional Hazards Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Survival Analysis
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1995
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      12
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1995
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      12
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     7707596
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,373 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11198016
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     23
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     15
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2008
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     21
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0899-823X
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       22
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Jan
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Infection control and hospital epidemiology : the official journal of the Society of Hospital Epidemiologists of America
+     </title>
+     <isoabbreviation>
+      Infect Control Hosp Epidemiol
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     An outbreak of scabies in a teaching hospital: lessons learned.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      13-8
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To investigate an outbreak of scabies in an inner-city teaching hospital, identify pathways of transmission, institute effective control measures to end the outbreak, and prevent future occurrences.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Outbreak investigation, case-control study, and chart review.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      Large tertiary acute-care hospital.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      A patient with unrecognized Norwegian (crusted) scabies was admitted to the acquired immunodeficiency syndrome (AIDS) service of a 940-bed acute-care hospital. Over 4 months, 773 healthcare workers (HCWs) and 204 patients were exposed to scabies. Of the exposed HCWs, 147 (19%) worked on the AIDS service. Risk factors for being infested with scabies among HCWs included working on the AIDS service (odds ratio [OR], 5.3; 95% confidence interval [CI95], 2.17-13.15) and being a nurse, physical therapist, or HCW with extensive physical contact with infected patients (OR, 4.5; CI95, 1.26-17.45). Aggressive infection control precautions beyond Centers for Disease Control and Prevention barrier and isolation recommendations were instituted, including the following: (1) early identification of infected patients; (2) prophylactic treatment with topical applications for all exposed HCWs; (3) use of two treatments 1 week apart for all cases of Norwegian scabies; (4) maintaining isolation for 8 days and barrier precautions for 24 hours after completing second treatment for a diagnosis of Norwegian scabies; and (5) oral ivermectin for treatment of patients who failed conventional therapy.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      HCWs with the most patient contact are at highest risk of acquiring scabies. Because HCWs who used traditionally accepted barriers while caring for patients with Norwegian scabies continued to develop scabies, we found additional measures were required in the acute-care hospital. HCWs with skin exposure to patients with scabies should receive prophylactic treatment. We recommend (1) using heightened barrier precautions for care of patients with scabies and (2) extending the isolation period for 8 days or 24 hours after the second treatment with a scabicide for those patients with Norwegian scabies. Oral ivermectin was well tolerated for treating patients and HCWs who failed conventional treatment. Finally, we developed a surveillance system that provides a "barometric measure" of the infection rate in the community. If scabies increases in the community, a tiered triage system is activated to protect against transmission among HCWs or hospital patients.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Epidemiology, Johns Hopkins School of Hygiene and Public Health, The Johns Hopkins University, Baltimore, MD, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Obasanjo
+      </lastname>
+      <forename>
+       O O
+      </forename>
+      <initials>
+       OO
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wu
+      </lastname>
+      <forename>
+       P
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Conlon
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Karanfil
+      </lastname>
+      <forename>
+       L V
+      </forename>
+      <initials>
+       LV
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pryor
+      </lastname>
+      <forename>
+       P
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Moler
+      </lastname>
+      <forename>
+       G
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Anhalt
+      </lastname>
+      <forename>
+       G
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Chaisson
+      </lastname>
+      <forename>
+       R E
+      </forename>
+      <initials>
+       RE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Perl
+      </lastname>
+      <forename>
+       T M
+      </forename>
+      <initials>
+       TM
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Infect Control Hosp Epidemiol
+    </medlineta>
+    <nlmuniqueid>
+     8804099
+    </nlmuniqueid>
+    <issnlinking>
+     0899-823X
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <citationsubset>
+    N
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Case-Control Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Cross Infection
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Disease Outbreaks
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hospitals, Teaching
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infection Control
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infectious Disease Transmission, Patient-to-Professional
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Personnel, Hospital
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Scabies
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      transmission
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Triage
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      12
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      17
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      12
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11198016
+    </articleid>
+    <articleid idtype="pii">
+     ICHE6756
+    </articleid>
+    <articleid idtype="doi">
+     10.1086/501818
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

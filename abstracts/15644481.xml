@@ -1,0 +1,369 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15644481
+   </pmid>
+   <datecreated>
+    <year>
+     2005
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     26
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     07
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     13
+    </day>
+   </daterevised>
+   <article pubmodel="Print-Electronic">
+    <journal>
+     <issn issntype="Print">
+      1060-0280
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       39
+      </volume>
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2005
+       </year>
+       <month>
+        Feb
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The Annals of pharmacotherapy
+     </title>
+     <isoabbreviation>
+      Ann Pharmacother
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Sulfonamide cross-reactivity: fact or fiction?
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      290-301
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To provide a critical and comprehensive review of the literature, specifically case reports and observational studies used to support the concept of cross-reactivity between sulfonylarylamines and non-sulfonylarylamines.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      A list of medications was formulated from several different review articles. A MEDLINE/PubMed search was conducted (1966-March 2004) using the individual medications and the MeSH terms of drug hypersensitivity/etiology, sulfonamides/adverse effects, and/or cross-reaction.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION AND DATA EXTRACTION" nlmcategory="METHODS">
+      A critical review of the methodology and conclusions for each article found in the search was conducted. The manufacturer's package insert (MPI) for each drug was examined for a statement concerning possible cross-reactivity in patients with a sulfonamide allergy. If indicated, the manufacturers were contacted to obtain any clinical data supporting the statement.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      A total of 33 medications were identified. Seventeen (51.5%) of the MPIs contained statements of varying degrees concerning use in patients with a "sulfonamide" allergy; 21 case series, case reports, and other articles were found.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      After a thorough critique of the literature, it appears that the dogma of sulfonylarylamine cross-reactivity with non-sulfonylarylamines is not supported by the data. While many of the case reports on the surface support the concept of cross-reactivity, on closer examination the level of evidence in many of the cases does not conclusively support either a connection or an association between the observed cause and effect.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Adult Internal Medicine Pharmacy Resident, Department of Pharmacy Services, Virginia Commonwealth University Medical Center-Medical College of Virginia (MCV) Campus, Richmond, VA 23298-0042, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Johnson
+      </lastname>
+      <forename>
+       Kelly K
+      </forename>
+      <initials>
+       KK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Green
+      </lastname>
+      <forename>
+       David L
+      </forename>
+      <initials>
+       DL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rife
+      </lastname>
+      <forename>
+       Jason P
+      </forename>
+      <initials>
+       JP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Limon
+      </lastname>
+      <forename>
+       Lynn
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2005
+     </year>
+     <month>
+      01
+     </month>
+     <day>
+      11
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Ann Pharmacother
+    </medlineta>
+    <nlmuniqueid>
+     9203131
+    </nlmuniqueid>
+    <issnlinking>
+     1060-0280
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cyclooxygenase Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Diuretics
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Sulfonamides
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Ann Pharmacother. 2005 Jul-Aug;39(7-8):1372-3; author reply 1373
+     </refsource>
+     <pmid version="1">
+      15928263
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="ErratumIn">
+     <refsource>
+      Ann Pharmacother. 2005 Jul-Aug;39(7-8):1373
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cyclooxygenase Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      chemistry
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diuretics
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      chemistry
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Hypersensitivity
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Interactions
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Labeling
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sulfonamides
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      chemistry
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    88
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="aheadofprint">
+     <year>
+      2005
+     </year>
+     <month>
+      January
+     </month>
+     <day>
+      11
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2005
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2005
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     aph.1E350
+    </articleid>
+    <articleid idtype="doi">
+     10.1345/aph.1E350
+    </articleid>
+    <articleid idtype="pubmed">
+     15644481
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

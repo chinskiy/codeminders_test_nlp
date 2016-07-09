@@ -1,0 +1,345 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11061763
+   </pmid>
+   <datecreated>
+    <year>
+     2000
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2000
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     22
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1098-4275
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       106
+      </volume>
+      <issue>
+       5
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+       <month>
+        Nov
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Pediatrics
+     </title>
+     <isoabbreviation>
+      Pediatrics
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Predictors of bacteremia in febrile children 3 to 36 months of age.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      977-82
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="PURPOSE" nlmcategory="OBJECTIVE">
+      To develop an improved model for the prediction of bacteremia in young febrile children.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      A retrospective review was performed on patients 3 to 36 months of age seen in a children's hospital emergency department between December 1995 and September 1997 who had a complete blood count and blood culture ordered as part of their regular care. Exclusion criteria included current use of antibiotics or any immunodeficient state. Clinical and laboratory parameters reviewed included age, gender, race, weight, temperature, presence of focal bacterial infection, white blood cell count (WBC), polymorphonuclear cell count (PMN), band count, and absolute neutrophil count (ANC). Logistic regression analyses were used to identify factors associated with bacteremia, defined as growth of a pathogen in a blood culture. The model that was developed was then validated on a second dataset consisting of febrile patients 3 to 36 months of age collected from a second children's hospital (validation set).
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      There were 633 patients in the derivation set (46 bacteremic) and 9465 patients in the validation set (149 bacteremic). The mean age of patients in the derivation and validation sets were 15.8 months (95% confidence interval [CI]: 15.2-16.5) and 16.6 months (95% CI: 16.5-16.8), respectively; the mean temperatures were 39.1 degrees C (95% CI: 39. 0-39.2) and 39.8 degrees C (95% CI: 39.7-39.8); 56% were male in the derivation set and 55% male in the validation set. Predictors of bacteremia identified by logistic regression included ANC, WBC, PMN, temperature, and gender. Receiver operator characteristic (ROC) analysis showed similar performance of ANC and WBC as predictors of bacteremia. When placed into a multivariate logistic regression model, band count was not significantly associated with bacteremia. Information regarding focal infection was available for 572 patients in the derivation set. The percentage of patients diagnosed with bacteremia with a focal bacterial infection was not significantly different from the percentage who had bacteremia without a focal bacterial infection (16/200 vs 30/372). Based on this dataset, a logistic regression formula was developed that could be used to develop a unique risk value for each patient based on temperature, gender, and ANC. When the final model was applied to the validation set, the area under the ROC curve (AUC) constructed from these data indicated that the model retained good predictive value (AUC for the derivation vs validation data =.8348 vs 0.8221, respectively).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Use of the formulas derived here allows the clinician to estimate a child's risk for bacteremia based on temperature, ANC, and gender. This approach offers a useful alternative to predictions based on fever and WBC alone.bacteremia, detection, white blood cell.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Division of Pediatric Emergency Medicine, Department of Pediatrics, Eastern Virginia Medical School, Children's Hospital of The King's Daughters, Norfolk, Virginia 23507, USA. disaacma@chkd.com
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Isaacman
+      </lastname>
+      <forename>
+       D J
+      </forename>
+      <initials>
+       DJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Shults
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gross
+      </lastname>
+      <forename>
+       T K
+      </forename>
+      <initials>
+       TK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Davis
+      </lastname>
+      <forename>
+       P H
+      </forename>
+      <initials>
+       PH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Harper
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Pediatrics
+    </medlineta>
+    <nlmuniqueid>
+     0376422
+    </nlmuniqueid>
+    <issnlinking>
+     0031-4005
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Age Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bacteremia
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Cell Count
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fever
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Leukocyte Count
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Logistic Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Models, Statistical
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      ROC Curve
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Retrospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      4
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      4
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11061763
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

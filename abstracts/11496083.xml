@@ -1,0 +1,296 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11496083
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     09
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     23
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0012-3706
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       44
+      </volume>
+      <issue>
+       7
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Jul
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Diseases of the colon and rectum
+     </title>
+     <isoabbreviation>
+      Dis. Colon Rectum
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Dietary fiber and colorectal neoplasia.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1016-33
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="PURPOSE" nlmcategory="OBJECTIVE">
+      Dietary fiber has been implicated in colorectal neoplasia, despite conflicting evidence. This is a review of the currently available data on the role of dietary fiber in colorectal carcinogenesis.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      A literature search was conducted using the MEDLINE database. All case-control, longitudinal, and randomized, controlled studies published in English between 1988 and 2000 were identified, as were animal model studies in the period 1986 to 2000. Data from the various studies were tabulated and systematically analyzed, with particular emphasis on the effect of dietary fiber on tumor incidence and luminal parameters such as short chain fatty acids.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Epidemiologic correlation studies show a high intake of dietary fiber to be associated with a lower risk of colorectal neoplasia. Thirteen of the 24 case-control studies reviewed demonstrated a protective effect of dietary fiber against colorectal neoplasia, and 16 showed a protective effect of vegetables or vegetable fiber. On the other hand, of 13 longitudinal studies in various cohorts, only 3 demonstrated a protective effect of fiber and 4 a protective effect of vegetables or vegetable fiber. The five published randomized, controlled trials all investigated the effect of increased fiber intake on short-term adenoma recurrence; however, none showed any significant protective effect. Among 19 experimental studies in animal models, 15 showed a protective effect of fiber against tumor induction compared with controls. Animal studies also showed that poorly fermentable fibers (e.g., wheat bran and cellulose) were more protective than soluble fibers (e.g., guar gum and oat bran), which sometimes enhanced carcinogenesis. No clear correlation was found between luminal pH or short chain fatty acids and tumor induction.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      On the basis of current data, there is little evidence to support the use of dietary fiber supplements to reduce the risk of colorectal neoplasia. Lifelong and early exposure may be important but are difficult to study. Other risk factors interact with the effects of dietary fiber.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Surgery, Colorectal Unit, Royal Melbourne Hospital and the University of Melbourne, Melbourne, Australia.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Sengupta
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tjandra
+      </lastname>
+      <forename>
+       J J
+      </forename>
+      <initials>
+       JJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gibson
+      </lastname>
+      <forename>
+       P R
+      </forename>
+      <initials>
+       PR
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Dis Colon Rectum
+    </medlineta>
+    <nlmuniqueid>
+     0372764
+    </nlmuniqueid>
+    <issnlinking>
+     0012-3706
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Animals
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Case-Control Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cell Transformation, Neoplastic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cohort Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Colorectal Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Dietary Fiber
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Disease Models, Animal
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Epidemiologic Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Incidence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    163
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11496083
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

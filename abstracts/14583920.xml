@@ -1,0 +1,329 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    14583920
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     29
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     04
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     03
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Vaccines for preventing pneumococcal infection in adults.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD000422
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Diseases caused by Streptococcus pneumoniae (S. pneumoniae) continue to cause substantial morbidity and mortality throughout the world. Polysaccharide pneumococcal vaccines have been developed for over 50 years and may have the potential to prevent disease and death.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To assess the effectiveness of polysaccharide pneumococcal vaccination in preventing disease or death in adults.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      Trials were identified by electronic searches of the Cochrane Central Register of Controlled Trials (CENTRAL) issue 2, 2003 (which includes the Cochrane ARI Group's specialised register); MEDLINE (January 1966 to June 2003); and EMBASE (1974 to June 2003). We searched existing literature. The bibliographies of all newly revealed studies were read in order to identify further studies. The vaccine manufacturers, the lead authors of newly identified studies not included in existing meta-analyses were contacted.
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      A) Prospective, randomised or quasi-randomised studies comparing pneumococcal vaccines with placebo, control vaccines or no intervention.B) Case-control studies (including indirect cohort studies) assessing pneumococcal vaccine effectiveness against invasive pneumococcal disease. Cohort studies are excluded.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      A) Randomised studies. Trial quality assessment was conducted by two reviewers (JH and DT). Data extraction was done by three reviewers (JH, DT, KD). There were many instances of unclear or incomplete data in the trial reports, and the final dataset was arrived at after much deliberation and discussion, including comparison with the data used in two previous reviews of this question. Due to the age of the trials (dating back to 1954 in one case) it was not generally possible to obtain clarification from the authors, though a partial clarification was achieved in one case.B) Non-randomised studies. Study quality was assessed by two reviewers (RA and KD).
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      The combined results from the randomised studies fail to show that the polysaccharide pneumococcal vaccine is effective in preventing either pneumonia (outcome 6: odds ratio = 0.77, confidence interval 0.58, 1.02, number = 14) or death (outcome 8: odds ratio 0.90, confidence interval 0.76, 1.07, number = 11). Despite encouraging data from some very early trials, pooling trials published from 1977 on suggests there is no effect (outcome 6; odds ratio = 0.96, confidence interval 0.80, 1.15, number = 12; outcome 9: odds ratio = 0.98, confidence interval 0.88, 1.09, number = 10). The available data cannot distinguish whether this heterogeneity in results is due to improvements in trial methodology and reporting, to differences in trial setting or to real loss of efficacy over time. This is because the early, poorly reported trials were conducted in high-risk healthy populations where the expected benefit is greatest. The case-control studies show significant efficacy in preventing invasive pneumococcal disease: OR 0.47 (CI 0.37, 0.59) corresponding to an efficacy of 53%.
+     </abstracttext>
+     <abstracttext label="REVIEWER'S CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      While polysaccharide pneumococcal vaccines do not appear to reduce the incidence of pneumonia or death in adults with or without chronic illness, or in the elderly (55 years and above), the evidence from non-randomised studies suggests that the vaccines are effective in the reducing the incidence of the more specific outcome, invasive pneumococcal disease, among adults and the immunocompetent elderly (55 years and above). Surveillance data suggest that infection rates vary widely between and also within countries, but a typical figure in developed countries is 0.01%, or 10 per 100,000 per year. Efficacy of 50% then corresponds to a number-needed-to-treat (NNT) of 20,000 vaccinations per infection avoided, and perhaps 50,000 per death avoided.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     National Centre for Epidemiology and Population Health, Australian National University, Building 62, Canberra, ACT, Australia, 0200. keith.dear@anu.edu.au
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Dear
+      </lastname>
+      <forename>
+       K
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Holden
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Andrews
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tatham
+      </lastname>
+      <forename>
+       D
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Pneumococcal Vaccines
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2004 Jul-Aug;141(1):16
+     </refsource>
+     <pmid version="1">
+      15230564
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="UpdateIn">
+     <refsource>
+      Cochrane Database Syst Rev. 2008;(1):CD000422
+     </refsource>
+     <pmid version="1">
+      18253977
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Case-Control Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pneumococcal Vaccines
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pneumonia, Pneumococcal
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    72
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      30
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      30
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     14583920
+    </articleid>
+    <articleid idtype="doi">
+     10.1002/14651858.CD000422
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

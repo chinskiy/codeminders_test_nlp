@@ -1,0 +1,366 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11180735
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     22
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     15
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2008
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     21
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       285
+      </volume>
+      <issue>
+       7
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Feb
+       </month>
+       <day>
+        21
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Accuracy of positron emission tomography for diagnosis of pulmonary nodules and mass lesions: a meta-analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      914-24
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Focal pulmonary lesions are commonly encountered in clinical practice, and positron emission tomography (PET) with the glucose analog 18-fluorodeoxyglucose (FDG) may be an accurate test for identifying malignant lesions.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To estimate the diagnostic accuracy of FDG-PET for malignant focal pulmonary lesions.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      Studies published between January 1966 and September 2000 in the MEDLINE and CANCERLIT databases; reference lists of identified studies; abstracts from recent conference proceedings; and direct contact with investigators.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION" nlmcategory="METHODS">
+      Studies that examined FDG-PET or FDG with a modified gamma camera in coincidence mode for diagnosis of focal pulmonary lesions; enrolled at least 10 participants with pulmonary nodules or masses, including at least 5 participants with malignant lesions; and presented sufficient data to permit calculation of sensitivity and specificity were included in the analysis.
+     </abstracttext>
+     <abstracttext label="DATA EXTRACTION" nlmcategory="METHODS">
+      Two reviewers independently assessed study quality and abstracted data regarding prevalence of malignancy and sensitivity and specificity of the imaging test. Disagreements were resolved by discussion.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      We used a meta-analytic method to construct summary receiver operating characteristic curves. Forty studies met inclusion criteria. Study methodological quality was fair. Sample sizes were small and blinding was often incomplete. For 1474 focal pulmonary lesions of any size, the maximum joint sensitivity and specificity (the upper left point on the receiver operating characteristic curve at which sensitivity and specificity are equal) of FDG-PET was 91.2% (95% confidence interval, 89.1%-92.9%). In current practice, FDG-PET operates at a point on the summary receiver operating characteristic curve that corresponds approximately to a sensitivity and specificity of 96.8% and 77.8%, respectively. There was no difference in diagnostic accuracy for pulmonary nodules compared with lesions of any size (P =.43), for semiquantitative methods of image interpretation compared with qualitative methods (P =.52), or for FDG-PET compared with FDG imaging with a modified gamma camera in coincidence mode (P =.19).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Positron emission tomography with 18-fluorodeoxyglucose is an accurate noninvasive imaging test for diagnosis of pulmonary nodules and larger mass lesions, although few data exist for nodules smaller than 1 cm in diameter. In current practice, FDG-PET has high sensitivity and intermediate specificity for malignancy.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Pulmonary Section (111P), VA Palo Alto Health Care System, 3801 Miranda Ave, Palo Alto, CA 94304, USA. gould@stanford.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Gould
+      </lastname>
+      <forename>
+       M K
+      </forename>
+      <initials>
+       MK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Maclean
+      </lastname>
+      <forename>
+       C C
+      </forename>
+      <initials>
+       CC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kuschner
+      </lastname>
+      <forename>
+       W G
+      </forename>
+      <initials>
+       WG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rydzak
+      </lastname>
+      <forename>
+       C E
+      </forename>
+      <initials>
+       CE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Owens
+      </lastname>
+      <forename>
+       D K
+      </forename>
+      <initials>
+       DK
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, Non-P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Radiopharmaceuticals
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      40871-47-4
+     </registrynumber>
+     <nameofsubstance>
+      2-fluoro-2-deoxyglucose-6-phosphate
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      56-73-5
+     </registrynumber>
+     <nameofsubstance>
+      Glucose-6-Phosphate
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2001 Sep-Oct;135(2):73
+     </refsource>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2001 Feb 21;285(7):936-7
+     </refsource>
+     <pmid version="1">
+      11180738
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Glucose-6-Phosphate
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      analogs &amp; derivatives
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      diagnostic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lung Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      radionuclide imaging
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      ROC Curve
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Radiopharmaceuticals
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnostic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Solitary Pulmonary Nodule
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      radionuclide imaging
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Tomography, Emission-Computed
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      17
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      17
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      17
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11180735
+    </articleid>
+    <articleid idtype="pii">
+     jma00037
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

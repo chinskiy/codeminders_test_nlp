@@ -1,0 +1,616 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11937179
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     08
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     24
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0140-6736
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       359
+      </volume>
+      <issue>
+       9311
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Mar
+       </month>
+       <day>
+        23
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Lancet
+     </title>
+     <isoabbreviation>
+      Lancet
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Cardiovascular morbidity and mortality in patients with diabetes in the Losartan Intervention For Endpoint reduction in hypertension study (LIFE): a randomised trial against atenolol.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1004-10
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      The most suitable antihypertensive drug to reduce the risk of cardiovascular disease in patients with hypertension and diabetes is unclear. In prespecified analyses, we compared the effects of losartan and atenolol on cardiovascular morbidity and mortality in diabetic patients.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      As part of the LIFE study, in a double-masked, randomised, parallel-group trial, we assigned a group of 1195 patients with diabetes, hypertension, and signs of left-ventricular hypertrophy (LVH) on electrocardiograms losartan-based or atenolol-based treatment. Mean age of patients was 67 years (SD 7) and mean blood pressure 177/96 mm Hg (14/10) after placebo run-in. We followed up patients for at least 4 years (mean 4.7 years [1.1]). We used Cox regression analysis with baseline Framingham risk score and electrocardiogram-LVH as covariates to compare the effects of the drugs on the primary composite endpoint of cardiovascular morbidity and mortality (cardiovascular death, stroke, or myocardial infarction).
+     </abstracttext>
+     <abstracttext label="FINDINGS" nlmcategory="RESULTS">
+      Mean blood pressure fell to 146/79 mm Hg (17/11) in losartan patients and 148/79 mm Hg (19/11) in atenolol patients. The primary endpoint occurred in 103 patients assigned losartan (n=586) and 139 assigned atenolol (n=609); relative risk 0.76 (95% CI 0.58-.98), p=0.031. 38 and 61 patients in the losartan and atenolol groups, respectively, died from cardiovascular disease; 0.63 (0.42-0.95), p=0.028. Mortality from all causes was 63 and 104 in losartan and atenolol groups, respectively; 0.61 (0.45-0.84), p=0.002.
+     </abstracttext>
+     <abstracttext label="INTERPRETATION" nlmcategory="CONCLUSIONS">
+      Losartan was more effective than atenolol in reducing cardiovascular morbidity and mortality as well as mortality from all causes in patients with hypertension, diabetes, and LVH. Losartan seems to have benefits beyond blood pressure reduction.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Umeå University Hospital, Sweden. larsh.lindholm@fammed.umu.se
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Lindholm
+      </lastname>
+      <forename>
+       Lars H
+      </forename>
+      <initials>
+       LH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ibsen
+      </lastname>
+      <forename>
+       Hans
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dahlöf
+      </lastname>
+      <forename>
+       Björn
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Devereux
+      </lastname>
+      <forename>
+       Richard B
+      </forename>
+      <initials>
+       RB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Beevers
+      </lastname>
+      <forename>
+       Gareth
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       de Faire
+      </lastname>
+      <forename>
+       Ulf
+      </forename>
+      <initials>
+       U
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Fyhrquist
+      </lastname>
+      <forename>
+       Frej
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Julius
+      </lastname>
+      <forename>
+       Stevo
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kjeldsen
+      </lastname>
+      <forename>
+       Sverre E
+      </forename>
+      <initials>
+       SE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kristiansson
+      </lastname>
+      <forename>
+       Krister
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lederballe-Pedersen
+      </lastname>
+      <forename>
+       Ole
+      </forename>
+      <initials>
+       O
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Nieminen
+      </lastname>
+      <forename>
+       Markku S
+      </forename>
+      <initials>
+       MS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Omvik
+      </lastname>
+      <forename>
+       Per
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Oparil
+      </lastname>
+      <forename>
+       Suzanne
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wedel
+      </lastname>
+      <forename>
+       Hans
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Aurup
+      </lastname>
+      <forename>
+       Peter
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Edelman
+      </lastname>
+      <forename>
+       Jonathan
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Snapinn
+      </lastname>
+      <forename>
+       Steven
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       LIFE Study Group
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Lancet
+    </medlineta>
+    <nlmuniqueid>
+     2985213R
+    </nlmuniqueid>
+    <issnlinking>
+     0140-6736
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Angiotensin Receptor Antagonists
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antihypertensive Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      114798-26-4
+     </registrynumber>
+     <nameofsubstance>
+      Losartan
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      29122-68-7
+     </registrynumber>
+     <nameofsubstance>
+      Atenolol
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2002 Nov-Dec;137(3):87
+     </refsource>
+     <pmid version="1">
+      12418827
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2002 Jun 22;359(9324):2201; author reply 2203-4
+     </refsource>
+     <pmid version="1">
+      12091006
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Curr Hypertens Rep. 2002 Aug;4(4):321-3
+     </refsource>
+     <pmid version="1">
+      12117460
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2002 Jun 22;359(9324):2200-1; author reply 2203-4
+     </refsource>
+     <pmid version="1">
+      12091004
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2002 Jun 22;359(9324):2201; author reply 2203-4
+     </refsource>
+     <pmid version="1">
+      12091005
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Expert Opin Pharmacother. 2003 Jan;4(1):115-8
+     </refsource>
+     <pmid version="1">
+      12517248
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2003 Oct 25;362(9393):1416
+     </refsource>
+     <pmid version="1">
+      14585647
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2003 Aug 23;362(9384):591-2
+     </refsource>
+     <pmid version="1">
+      12944056
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Angiotensin Receptor Antagonists
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antihypertensive Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Atenolol
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cardiovascular Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Diabetes Complications
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Follow-Up Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertension
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Losartan
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Regression Analysis
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11937179
+    </articleid>
+    <articleid idtype="pii">
+     S0140-6736(02)08090-X
+    </articleid>
+    <articleid idtype="doi">
+     10.1016/S0140-6736(02)08090-X
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

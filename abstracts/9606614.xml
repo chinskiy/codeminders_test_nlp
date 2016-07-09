@@ -1,0 +1,264 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    9606614
+   </pmid>
+   <datecreated>
+    <year>
+     1998
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     17
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1998
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     17
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      1170-229X
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       12
+      </volume>
+      <issue>
+       5
+      </issue>
+      <pubdate>
+       <year>
+        1998
+       </year>
+       <month>
+        May
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Drugs &amp; aging
+     </title>
+     <isoabbreviation>
+      Drugs Aging
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Optimal treatment of phantom limb pain in the elderly.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      361-76
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Phantom limb and stump pain is a common sequela of amputation. In geriatric patients with an amputated limb and multiple other illnesses, drug therapy may be problematic and invasive techniques may be risky. Interactions between pathophysiological mechanisms in the peripheral and central nervous systems may be responsible for the initiation and maintenance of chronic phantom limb and stump pain. These mechanisms include: (i) peripheral damage to nociceptive fibres and dorsal root ganglion cells, which acquire abnormal sensitivity to mechanical, thermal and chemical stimuli; (ii) the prolonged sensitisation of central nociceptive 'second order' neurons in the dorsal horn of the spinal cord, which become hyperexcitable and start responding to nonnoxious stimuli; and (iii) the degeneration of nociceptive neurons, which may trigger the anatomical sprouting of low threshold mechanosensitive terminals to form connections with central nociceptive neurons. This may subsequently induce functional synaptic reorganisation in the dorsal horn. The provision of a pain-free perioperative interval using regional anaesthetic techniques is likely to reduce the incidence of phantom limb pain. The therapy of manifest pain is difficult, and treatment should start as soon as possible to prevent chronic pain. In the acute state, the infusion of calcitonin and oral opioid analgesics have proven to be helpful, while established phantom limb pain may respond to antidepressants, anticonvulsants and drugs that mimic or enhance gamma-aminobutyric acid function. Pharmacological treatment should be combined with transcutaneous electrical nerve stimulation, sympathetic blockade and psychotherapy. In addition, new therapeutic strategies are now being tested; examples include capsaicin, new anticonvulsants and N-methyl-D-aspartate antagonists. Patients with severe pain should be referred to a pain specialist to ensure optimal and timely interventional pain management.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Klinik für Neurologie, Christian-Albrechts-Universität zu Kiel, Germany. r.baron@neurologie.uni-kiel.de
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Baron
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wasner
+      </lastname>
+      <forename>
+       G
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lindner
+      </lastname>
+      <forename>
+       V
+      </forename>
+      <initials>
+       V
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     NEW ZEALAND
+    </country>
+    <medlineta>
+     Drugs Aging
+    </medlineta>
+    <nlmuniqueid>
+     9102074
+    </nlmuniqueid>
+    <issnlinking>
+     1170-229X
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Amputation Stumps
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      innervation
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Animals
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pain, Postoperative
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Phantom Limb
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    137
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1998
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      2
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1998
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      2
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1998
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      2
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     9606614
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

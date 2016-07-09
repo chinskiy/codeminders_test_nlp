@@ -1,0 +1,578 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15699225
+   </pmid>
+   <datecreated>
+    <year>
+     2005
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     08
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     08
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0002-9165
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       81
+      </volume>
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2005
+       </year>
+       <month>
+        Feb
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The American journal of clinical nutrition
+     </title>
+     <isoabbreviation>
+      Am. J. Clin. Nutr.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Direct comparison of a dietary portfolio of cholesterol-lowering foods with a statin in hypercholesterolemic participants.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      380-7
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      3-Hydroxy-3-methyl-glutaryl-coenzyme A (HMG-CoA) reductase inhibitors reduce serum cholesterol and are increasingly advocated in primary prevention to achieve reductions in LDL cholesterol. Newer dietary approaches combining cholesterol-lowering foods may offer another option, but these approaches have not been compared directly with statins in the same persons.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      The objective was to compare, in the same subjects, the cholesterol-lowering potential of a dietary portfolio with that of a statin.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Thirty-four hyperlipidemic participants underwent all three 1-mo treatments in random order as outpatients: a very-low-saturated-fat diet (control diet), the same diet plus 20 mg lovastatin (statin diet), and a diet high in plant sterols (1.0 g/1000 kcal), soy-protein foods (including soy milks and soy burgers, 21.4 g/1000 kcal), almonds (14 g/1000 kcal), and viscous fibers from oats, barley, psyllium, and the vegetables okra and eggplant (10 g/1000 kcal) (portfolio diets). Fasting blood samples were obtained at 0, 2, and 4 wk.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      LDL-cholesterol concentrations decreased by 8.5+/-1.9%, 33.3+/-1.9%, and 29.6+/-1.3% after 4 wk of the control, statin, and portfolio diets, respectively. Although the absolute difference between the statin and the portfolio treatments was significant at 4 wk (P=0.013), 9 participants (26%) achieved their lowest LDL-cholesterol concentrations with the portfolio diet. Moreover, the statin (n=27) and the portfolio (n=24) diets did not differ significantly (P=0.288) in their ability to reduce LDL cholesterol below the 3.4-mmol/L primary prevention cutoff.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Dietary combinations may not differ in potency from first-generation statins in achieving current lipid goals for primary prevention. They may, therefore, bridge the treatment gap between current therapeutic diets and newer statins.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Clinical Nutrition and Risk Factor Modification Center, St Michael's Hospital, Toronto, Canada. cyril.kendall@utoronto.ca
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Jenkins
+      </lastname>
+      <forename>
+       David J A
+      </forename>
+      <initials>
+       DJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kendall
+      </lastname>
+      <forename>
+       Cyril W C
+      </forename>
+      <initials>
+       CW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Marchie
+      </lastname>
+      <forename>
+       Augustine
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Faulkner
+      </lastname>
+      <forename>
+       Dorothea A
+      </forename>
+      <initials>
+       DA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wong
+      </lastname>
+      <forename>
+       Julia M W
+      </forename>
+      <initials>
+       JM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       de Souza
+      </lastname>
+      <forename>
+       Russell
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Emam
+      </lastname>
+      <forename>
+       Azadeh
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Parker
+      </lastname>
+      <forename>
+       Tina L
+      </forename>
+      <initials>
+       TL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Vidgen
+      </lastname>
+      <forename>
+       Edward
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Trautwein
+      </lastname>
+      <forename>
+       Elke A
+      </forename>
+      <initials>
+       EA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lapsley
+      </lastname>
+      <forename>
+       Karen G
+      </forename>
+      <initials>
+       KG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Josse
+      </lastname>
+      <forename>
+       Robert G
+      </forename>
+      <initials>
+       RG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Leiter
+      </lastname>
+      <forename>
+       Lawrence A
+      </forename>
+      <initials>
+       LA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Singer
+      </lastname>
+      <forename>
+       William
+      </forename>
+      <initials>
+       W
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Connelly
+      </lastname>
+      <forename>
+       Philip W
+      </forename>
+      <initials>
+       PW
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Am J Clin Nutr
+    </medlineta>
+    <nlmuniqueid>
+     0376027
+    </nlmuniqueid>
+    <issnlinking>
+     0002-9165
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anticholesteremic Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cholesterol, Dietary
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Cholesterol, LDL
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Hydroxymethylglutaryl-CoA Reductase Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Phytosterols
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Soybean Proteins
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      75330-75-5
+     </registrynumber>
+     <nameofsubstance>
+      Lovastatin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Am J Clin Nutr. 2005 Feb;81(2):339-40
+     </refsource>
+     <pmid version="1">
+      15699219
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anticholesteremic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cholesterol, Dietary
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cholesterol, LDL
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cross-Over Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dietary Fiber
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Therapy, Combination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fasting
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hydroxymethylglutaryl-CoA Reductase Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hyperlipidemias
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diet therapy
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lovastatin
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Phytosterols
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Primary Prevention
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Soybean Proteins
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2005
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2005
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     81/2/380
+    </articleid>
+    <articleid idtype="pubmed">
+     15699225
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10469816
+   </pmid>
+   <datecreated>
+    <year>
+     1999
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     17
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1999
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     17
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1098-4275
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       104
+      </volume>
+      <issue>
+       3
+      </issue>
+      <pubdate>
+       <year>
+        1999
+       </year>
+       <month>
+        Sep
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Pediatrics
+     </title>
+     <isoabbreviation>
+      Pediatrics
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Growth and fatness at three to six years of age of children born small- or large-for-gestational age.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      e33
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To compare young children 3 to 6 years of age who were born small-for-gestational age (SGA; &lt;10th percentile for gestational age) or large-for-gestational age (LGA; &gt;/=90th percentile) with those who were born appropriate-for-gestational age (10th-89th percentile) to determine whether there are differences in growth and fatness in early childhood associated with birth weight status.
+     </abstracttext>
+     <abstracttext label="DESIGN AND METHODS" nlmcategory="METHODS">
+      National sample of 3192 US-born non-Hispanic white, non-Hispanic black, and Mexican-American children 3 to 6 years of age (36-83 months) examined in the third National Health and Nutrition Examination Survey and for whom birth certificates were obtained. On the birth certificates, length of gestation from the mother's last menstrual period was examined for completeness, validity, and whether the pattern of missing (n = 141) and invalid data (n = 147) on gestation was random. Gestation was considered invalid when &gt;44 weeks, or when at gestations of &lt;/=35 weeks, birth weight was inconsistent with gestation. To reclaim cases with missing or invalid data on gestation for analysis, a multiple imputation (MI) procedure was used. MI procedures are recommended when, as in this case, a critical covariate (length of gestation) is not missing at random, and complete-subject analysis may be biased. Using the results of the MI procedure, children were categorized, and growth outcome was assessed by birth weight-for-gestational age status. The growth outcomes considered in these analyses were body weight (kg), height (cm), head circumference (cm), mid-upper arm circumference (MUAC; cm), and triceps and subscapular skinfold thicknesses (mm). The anthropometric outcomes first were transformed to approximate normal distributions and converted into z scores (standard deviation units [SDU]) to scale the data for comparison across ages. Outcomes at each age then were estimated using regression procedures. SUDAAN software that adjusts variance estimates to account for the sample design was used in analysis for prevalence estimates and to calculate regression coefficients (in SDU).
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Over these ages, children born SGA remained significantly shorter and weighed less (-0.70 to -0.60 SDU). Children born LGA remained taller and weighed more (0.40-0.60 SDU). For weight and height among LGA children, there was a divergence from the mean with age compared with those born appropriate-for-gestational age (10th-89th percentile). Head circumference and MUAC followed these same patterns. The coefficients for MUAC show values for SGA children fairly consistently at about -0.50 SDU and children born LGA show increasing MUAC from +0.40 to +0.50 SDU from 36 to 83 months of age. As with weight, there is a trend toward increased MUAC coefficients with age. Measures of fatness (triceps and subscapular skinfolds), which are more prone to environmental influences, showed less association with birth weight-for-gestational age status. Only a single age group, the oldest (6 years of age) group showed a significant deficit in fatness for children born SGA. For children born LGA, there was an increase in fatness at both the triceps and subscapular sites after 3 years of age.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      These findings on a national sample of US-born non-Hispanic white, non-Hispanic black, and Mexican-American children show that children born SGA remain significantly shorter and lighter throughout early childhood and do not seem to catch up from 36 to 83 months of age. LGA infants remain longer and heavier through 83 months of age, but unlike children born SGA, children born LGA may be prone to an increasing accumulation of fat in early childhood. Thus, early childhood may be a particularly sensitive period in which there is increase in variation in levels of fatness associated with size at birth. These findings have implications for the evaluation of the growth of young children. The results indicate that intrauterine growth is associated with size in early childhood. (ABSTR
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Division of Epidemiology, Statistics and Prevention Research, National Institute of Child Health and Human Development, National Institutes of Health, Bethesda, Maryland 20892-7510, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Hediger
+      </lastname>
+      <forename>
+       M L
+      </forename>
+      <initials>
+       ML
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Overpeck
+      </lastname>
+      <forename>
+       M D
+      </forename>
+      <initials>
+       MD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McGlynn
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kuczmarski
+      </lastname>
+      <forename>
+       R J
+      </forename>
+      <initials>
+       RJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Maurer
+      </lastname>
+      <forename>
+       K R
+      </forename>
+      <initials>
+       KR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Davis
+      </lastname>
+      <forename>
+       W W
+      </forename>
+      <initials>
+       WW
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Pediatrics
+    </medlineta>
+    <nlmuniqueid>
+     0376422
+    </nlmuniqueid>
+    <issnlinking>
+     0031-4005
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adipose Tissue
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      African Continental Ancestry Group
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Birth Weight
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Body Weight
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      European Continental Ancestry Group
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fetal Macrosomia
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Follow-Up Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Growth
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Head
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      growth &amp; development
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Health Surveys
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant, Newborn
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      growth &amp; development
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant, Small for Gestational Age
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      growth &amp; development
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Mexican Americans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Obesity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Regression Analysis
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1999
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      2
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1999
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      2
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1999
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      2
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10469816
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

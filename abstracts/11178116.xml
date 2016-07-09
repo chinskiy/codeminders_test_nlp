@@ -1,0 +1,533 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11178116
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     22
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     31
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print-Electronic">
+    <journal>
+     <issn issntype="Print">
+      1465-9905
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       3
+      </volume>
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Arthritis research
+     </title>
+     <isoabbreviation>
+      Arthritis Res.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     The risk of upper gastrointestinal complications associated with nonsteroidal anti-inflammatory drugs, glucocorticoids, acetaminophen, and combinations of these agents.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      98-101
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Most anti-inflammatory drugs have been associated with an increased risk of serious upper gastrointestinal complications. Epidemiological studies have estimated the magnitude of the risk for specific anti-inflammatory drugs. The risk of upper gastrointestinal tract bleeding or perforation increases around twofold with use of oral steroids or low dose aspirin, and increases around fourfold with use of nonaspirin nonsteroidal anti-inflammatory drugs. Acetaminophen at daily doses of 2000 mg and higher has also been associated with an increased risk. Overall, the risk is dose dependent and is greater with more than one anti-inflammatory drug taken simultaneously. Hence, whenever possible, anti-inflammatory drugs should be given in monotherapy and at the lowest effective dose in order to reduce the risk of serious upper gastrointestinal complications.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Spanish Center for Pharmacoepidemiological Research (CEIFE), Almirante 28-2, 28004 Madrid, Spain. lgarcia@ceife.es
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Garcia Rodríguez
+      </lastname>
+      <forename>
+       L A
+      </forename>
+      <initials>
+       LA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hernández-Díaz
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2000
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      15
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Arthritis Res
+    </medlineta>
+    <nlmuniqueid>
+     100913255
+    </nlmuniqueid>
+    <issnlinking>
+     1465-9905
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Analgesics, Non-Narcotic
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Inflammatory Agents, Non-Steroidal
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Glucocorticoids
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      103-90-2
+     </registrynumber>
+     <nameofsubstance>
+      Acetaminophen
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Intern Med. 2000 Jul 24;160(14):2093-9
+     </refsource>
+     <pmid version="1">
+      10904451
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Intern Med. 1998 Jan 12;158(1):33-9
+     </refsource>
+     <pmid version="1">
+      9437376
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Epidemiology. 1992 Jul;3(4):337-42
+     </refsource>
+     <pmid version="1">
+      1637896
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1991 Jan 12;337(8733):85-9
+     </refsource>
+     <pmid version="1">
+      1670734
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Intern Med. 1991 Nov 15;115(10):787-96
+     </refsource>
+     <pmid version="1">
+      1834002
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Gut. 1991 Jul;32(7):730-4
+     </refsource>
+     <pmid version="1">
+      1855677
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Intern Med. 1991 May 1;114(9):735-40
+     </refsource>
+     <pmid version="1">
+      2012355
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1983 Jul 7;309(1):21-4
+     </refsource>
+     <pmid version="1">
+      6343871
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Scand J Gastroenterol. 1995 May;30(5):438-44
+     </refsource>
+     <pmid version="1">
+      7638569
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1995 Apr 1;310(6983):827-30
+     </refsource>
+     <pmid version="1">
+      7711618
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Intern Med. 1995 Jul 10;155(13):1371-7
+     </refsource>
+     <pmid version="1">
+      7794085
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1994 Mar 26;343(8900):769-72
+     </refsource>
+     <pmid version="1">
+      7907735
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1994 Apr 30;343(8905):1075-8
+     </refsource>
+     <pmid version="1">
+      7909103
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Intern Med. 1994 Dec;236(6):619-32
+     </refsource>
+     <pmid version="1">
+      7989897
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Gastroenterology. 1993 Oct;105(4):1078-88
+     </refsource>
+     <pmid version="1">
+      8405852
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 1993 Jan;36(1):84-90
+     </refsource>
+     <pmid version="1">
+      8424842
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Scand J Gastroenterol. 1996 Feb;31(2):126-30
+     </refsource>
+     <pmid version="1">
+      8658033
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1996 Jun 22;312(7046):1563-6
+     </refsource>
+     <pmid version="1">
+      8664664
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Epidemiology. 1997 Jan;8(1):18-24
+     </refsource>
+     <pmid version="1">
+      9116088
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Intern Med. 1992 Jun;152(6):1289-95
+     </refsource>
+     <pmid version="1">
+      1534651
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Acetaminophen
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Analgesics, Non-Narcotic
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Inflammatory Agents, Non-Steroidal
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Arthritis
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Therapy, Combination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Gastrointestinal Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      chemically induced
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Glucocorticoids
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    26
+   </numberofreferences>
+   <otherid source="NLM">
+    PMC128885
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      15
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      2
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="received">
+     <year>
+      2000
+     </year>
+     <month>
+      Oct
+     </month>
+     <day>
+      30
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="revised">
+     <year>
+      2000
+     </year>
+     <month>
+      Nov
+     </month>
+     <day>
+      14
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="accepted">
+     <year>
+      2000
+     </year>
+     <month>
+      Nov
+     </month>
+     <day>
+      22
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="aheadofprint">
+     <year>
+      2000
+     </year>
+     <month>
+      Dec
+     </month>
+     <day>
+      15
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      15
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11178116
+    </articleid>
+    <articleid idtype="pmc">
+     PMC128885
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

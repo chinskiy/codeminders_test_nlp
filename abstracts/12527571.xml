@@ -1,0 +1,307 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12527571
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     15
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     04
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0012-3692
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       123
+      </volume>
+      <issue>
+       1 Suppl
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Jan
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Chest
+     </title>
+     <isoabbreviation>
+      Chest
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Performance characteristics of different modalities for diagnosis of suspected lung cancer: summary of published evidence.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      115S-128S
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="STUDY OBJECTIVES" nlmcategory="OBJECTIVE">
+      To determine the test performance characteristics of various modalities for the diagnosis of suspected lung cancer.
+     </abstracttext>
+     <abstracttext label="DESIGN, SETTING, AND PARTICIPANTS" nlmcategory="METHODS">
+      A systematic search of MEDLINE, HealthStar, and Cochrane Library databases to July 2001 and print bibliographies was performed to identify studies comparing the results of sputum cytology, bronchoscopy, transthoracic needle aspirate (TTNA), or biopsy with histologic reference standard diagnoses among at least 50 patients with suspected lung cancer.
+     </abstracttext>
+     <abstracttext label="MEASUREMENT AND RESULTS" nlmcategory="RESULTS">
+      For sputum cytology, the pooled specificity was 0.99 and the pooled sensitivity was 0.66, but sensitivity was higher for central lesions than for peripheral lesions (0.71 vs 0.49, respectively). Studies on bronchoscopic procedures provided data only on diagnostic yield (sensitivity). The diagnosis of endobronchial disease by bronchoscopy in 30 studies showed the highest sensitivity for endobronchial biopsy (0.74), followed by cytobrushing (0.59) and washing (0.48). The sensitivity for all modalities combined was 0.88. Thirty studies reported on peripheral lesions. Cytobrushing demonstrated the highest sensitivity (0.52), followed by transbronchial biopsy (0.46) and BAL/washing (0.43). The overall sensitivity for all modalities was 0.69. Peripheral lesions &lt; 2 cm or &gt; 2 cm in diameter showed sensitivities of 0.33 and 0.62, respectively. Updating a previous meta-analysis with 19 studies revealed a pooled sensitivity of 0.90 for TTNA. A trend toward lower sensitivity was noted for lesions that were &lt; 2 cm in diameter. The accuracy in differentiating between small cell and non-small cell cytology for the various diagnostic modalities was 0.98, with individual studies ranging from 0.94 to 1.0. The average false-positive and false-negative rates were 0.09 and 0.02, respectively.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The sensitivity of bronchoscopy is high for endobronchial disease and poor for peripheral lesions that are &lt; 2 cm in diameter. The sensitivity of TTNA is excellent for malignant disease. The distinction between small cell lung cancer and non-small cell lung cancer by cytology appears to be accurate.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Medicine, Duke University Medical Center, Durham, NC, USA. egschreib@mdanderson.org
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Schreiber
+      </lastname>
+      <forename>
+       Gilbert
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McCrory
+      </lastname>
+      <forename>
+       Douglas C
+      </forename>
+      <initials>
+       DC
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Chest
+    </medlineta>
+    <nlmuniqueid>
+     0231335
+    </nlmuniqueid>
+    <issnlinking>
+     0012-3692
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Biopsy, Needle
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bronchoscopy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Carcinoma, Non-Small-Cell Lung
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Carcinoma, Small Cell
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diagnostic Errors
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diagnostic Techniques, Respiratory System
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      standards
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lung Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sputum
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      cytology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Thoracic Surgical Procedures
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    147
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12527571
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

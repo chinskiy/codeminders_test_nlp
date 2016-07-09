@@ -1,0 +1,356 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11339934
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     07
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     14
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     26
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0029-7844
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       97
+      </volume>
+      <issue>
+       5 Pt 1
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        May
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Obstetrics and gynecology
+     </title>
+     <isoabbreviation>
+      Obstet Gynecol
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Impact of increasing Papanicolaou test sensitivity and compliance: a modeled cost and outcomes analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      781-8
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To model the impact of increasing screening compliance or implementing liquid-based cytology in populations with known compliance patterns and risk profiles on rates of detection of cervical precancers.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      An adaptation of a time-varying Markov model was used to follow a theoretic cohort of 100,000 women from age 20 through age 80. Separate analyses of all women, white, and black women were completed using three compliance rates (self-reported, Healthy People 2000, and Healthy People 2010 compliance) and two Papanicolaou test sensitivities (conventional Papanicolaou smear and liquid-based cytology).
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      All populations benefited from both increased compliance and liquid-based cytology use. Increasing compliance to Healthy People 2010 goals resulted in 23%, 21.7%, and 17% reductions in cervical cancer incidence for all women, white, and black women, respectively. Substituting liquid-based cytology for traditional Papanicolaou smear collection and processing with no change in compliance resulted in 32%, 32%, and 33% reductions in cervical cancer incidence for the same three subpopulations. In addition, cost-effectiveness of the liquid-based technology indirectly related to the risk profile of the population: for black women, the cost-effectiveness ratio was $10,335 per life year saved, whereas for white women, the ratio was $17,967 per life year saved.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Using liquid-based cytology in all populations would be cost-effective in improving outcomes from cervical cancer. In high-risk populations, this new technology may represent the most cost-effective approach to improve cervical cancer outcomes.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Kelly Gynecologic Oncology Service, The Johns Hopkins Hospital and Medical Institutions, Baltimore, Maryland 21287-1248, USA. fmontz@jhmi.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Montz
+      </lastname>
+      <forename>
+       F J
+      </forename>
+      <initials>
+       FJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Farber
+      </lastname>
+      <forename>
+       F L
+      </forename>
+      <initials>
+       FL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bristow
+      </lastname>
+      <forename>
+       R E
+      </forename>
+      <initials>
+       RE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cornelison
+      </lastname>
+      <forename>
+       T
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Obstet Gynecol
+    </medlineta>
+    <nlmuniqueid>
+     0401101
+    </nlmuniqueid>
+    <issnlinking>
+     0029-7844
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Age Distribution
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cohort Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Computer Simulation
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cost-Benefit Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Linear Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Models, Economic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Outcome and Process Assessment (Health Care)
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Patient Compliance
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Population Surveillance
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Assessment
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      United States
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Uterine Cervical Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vaginal Smears
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      8
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      15
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      8
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11339934
+    </articleid>
+    <articleid idtype="pii">
+     S0029784401013229
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

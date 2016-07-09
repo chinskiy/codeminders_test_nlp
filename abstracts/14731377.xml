@@ -1,0 +1,422 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    14731377
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     20
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     02
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      1366-5278
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       8
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Jan
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Health technology assessment (Winchester, England)
+     </title>
+     <isoabbreviation>
+      Health Technol Assess
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     What is the best imaging strategy for acute stroke?
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      iii, ix-x, 1-180
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To determine the cost-effectiveness of computed tomographic (CT) scanning after acute stroke. To assess the contribution of brain imaging to the diagnosis and management of stroke, and to estimate the costs, benefits and risks of different imaging strategies in order to provide data to inform national and local policy on the use of brain imaging in stroke.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      A decision-analysis model was developed to represent the pathway of care in acute stroke using 'scan all patients within 48 hours' as the comparator against which to cost 12 alternative scan strategies.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      Hospitals in Scotland.
+     </abstracttext>
+     <abstracttext label="PARTICIPANTS" nlmcategory="METHODS">
+      Subjects were patients admitted to hospital with a first stroke and those managed as outpatients.
+     </abstracttext>
+     <abstracttext label="INTERVENTIONS" nlmcategory="METHODS">
+      The effect on functional outcome after ischaemic or haemorrhagic stroke, tumours or infections, of correctly administered antithrombotic or other treatment; of time to scan and stroke severity on diagnosis by CT or MRI; on management, including length of stay, functional outcome, and quality-adjusted life years (QALYs), of the diagnostic information provided by CT scanning; the cost-effectiveness (cost versus QALYs) of different strategies for use of CT after acute stroke.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      Death and functional outcome at long-term follow-up; accuracy of CT and MRI; cost of CT scanning by time of day and week; effect of CT diagnosis on change in health outcome, length of stay in hospital and QALYs; cost-effectiveness of various scanning strategies.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      CT is very sensitive and specific for haemorrhage within the first 8 days of stroke only. Suboptimal scanning used in epidemiology studies suggests that the frequency of primary intracerebral haemorrhage (PICH) has been underestimated. Aspirin increases the risk of PICH. There were no reliable data on functional outcome or on the effect of antithrombotic treatment given long term after PICH. In 60% of patients with recurrent stroke after PICH, the cause is another PICH and mortality is high among PICH patients. A specific MR sequence (gradient echo) is required to identify prior PICH reliably. CT scanners were distributed unevenly in Scotland, 65% provided CT scanning within 48 hours of stroke, and 100% within 7 days for hospital-admitted patients, but access out of hours was very variable, and for outpatients was poor. The average cost of a CT brain scan for stroke was pounds 30.23 to pounds 89.56 in normal working hours and pounds 55.05 to pounds 173.46 out of hours. Average length of stay was greatest for severe strokes and those who survived in a dependent state. For a cohort of 1000 patients aged 70-74 years, the policy 'scan all strokes within 48 hours', cost pounds 10,279,728 and achieved 1982.3 QALYS. The most cost-effective strategy was 'scan all immediately' (pounds 9,993,676 and 1982.4 QALYS). The least cost-effective was to 'scan patients on anticoagulants, in a life-threatening condition immediately and the rest within 14 days'.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      In general, strategies in which most patients were scanned immediately cost least and achieved the most QALYs, as the cost of providing CT (even out of hours) was less than the cost of inpatient care. Increasing independent survival by even a small proportion through early use of aspirin in the majority with ischaemic stroke, avoiding aspirin in those with haemorrhagic stroke, and appropriate early management of those who have not had a stroke, reduced costs and increased QALYs.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Clinical Neurosciences, Western General Hospital (University of Edinburgh), Edinburgh, UK.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Wardlaw
+      </lastname>
+      <forename>
+       J M
+      </forename>
+      <initials>
+       JM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Keir
+      </lastname>
+      <forename>
+       S L
+      </forename>
+      <initials>
+       SL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Seymour
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lewis
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sandercock
+      </lastname>
+      <forename>
+       P A G
+      </forename>
+      <initials>
+       PA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dennis
+      </lastname>
+      <forename>
+       M S
+      </forename>
+      <initials>
+       MS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cairns
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Health Technol Assess
+    </medlineta>
+    <nlmuniqueid>
+     9706284
+    </nlmuniqueid>
+    <issnlinking>
+     1366-5278
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Platelet Aggregation Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      50-78-2
+     </registrynumber>
+     <nameofsubstance>
+      Aspirin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aspirin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Brain
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cerebral Hemorrhage
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Costs and Cost Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Decision Support Techniques
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Length of Stay
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Magnetic Resonance Imaging
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      utilization
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Platelet Aggregation Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Quality-Adjusted Life Years
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Stroke
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Thrombolytic Therapy
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      utilization
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tomography, X-Ray Computed
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      utilization
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    357
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     14731377
+    </articleid>
+    <articleid idtype="pii">
+     96-08-01
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

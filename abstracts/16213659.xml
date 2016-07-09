@@ -1,0 +1,378 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    16213659
+   </pmid>
+   <datecreated>
+    <year>
+     2005
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     12
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2006
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     14
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print-Electronic">
+    <journal>
+     <issn issntype="Print">
+      0304-3959
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       118
+      </volume>
+      <issue>
+       3
+      </issue>
+      <pubdate>
+       <year>
+        2005
+       </year>
+       <month>
+        Dec
+       </month>
+       <day>
+        5
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Pain
+     </title>
+     <isoabbreviation>
+      Pain
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Algorithm for neuropathic pain treatment: an evidence based proposal.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      289-305
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      New studies of the treatment of neuropathic pain have increased the need for an updated review of randomized, double-blind, placebo-controlled trials to support an evidence based algorithm to treat neuropathic pain conditions. Available studies were identified using a MEDLINE and EMBASE search. One hundred and five studies were included. Numbers needed to treat (NNT) and numbers needed to harm (NNH) were used to compare efficacy and safety of the treatments in different neuropathic pain syndromes. The quality of each trial was assessed. Tricyclic antidepressants and the anticonvulsants gabapentin and pregabalin were the most frequently studied drug classes. In peripheral neuropathic pain, the lowest NNT was for tricyclic antidepressants, followed by opioids and the anticonvulsants gabapentin and pregabalin. For central neuropathic pain there is limited data. NNT and NNH are currently the best way to assess relative efficacy and safety, but the need for dichotomous data, which may have to be estimated retrospectively for old trials, and the methodological complexity of pooling data from small cross-over and large parallel group trials, remain as limitations.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Neurology, Danish Pain Research Centre, Aarhus University Hospital, Aarhus Sygehus, Noerrebrogade 44, Aarhus 8000, Denmark. finnerup@akhphd.au.dk
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Finnerup
+      </lastname>
+      <forename>
+       N B
+      </forename>
+      <initials>
+       NB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Otto
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McQuay
+      </lastname>
+      <forename>
+       H J
+      </forename>
+      <initials>
+       HJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jensen
+      </lastname>
+      <forename>
+       T S
+      </forename>
+      <initials>
+       TS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sindrup
+      </lastname>
+      <forename>
+       S H
+      </forename>
+      <initials>
+       SH
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2005
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      06
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     Netherlands
+    </country>
+    <medlineta>
+     Pain
+    </medlineta>
+    <nlmuniqueid>
+     7508686
+    </nlmuniqueid>
+    <issnlinking>
+     0304-3959
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Nat Clin Pract Neurol. 2006 Apr;2(4):186-7
+     </refsource>
+     <pmid version="1">
+      16932548
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Algorithms
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Decision Support Techniques
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Evidence-Based Medicine
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      methods
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Neuralgia
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Publications
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    119
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="received">
+     <year>
+      2005
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      5
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="revised">
+     <year>
+      2005
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      14
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="accepted">
+     <year>
+      2005
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      8
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="aheadofprint">
+     <year>
+      2005
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      6
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2005
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      11
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2006
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2005
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      11
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     S0304-3959(05)00412-4
+    </articleid>
+    <articleid idtype="doi">
+     10.1016/j.pain.2005.08.013
+    </articleid>
+    <articleid idtype="pubmed">
+     16213659
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

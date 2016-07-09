@@ -1,0 +1,331 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12804508
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     13
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     28
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Acetaminophen for osteoarthritis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD004257
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Osteoarthritis (OA) is the most common form of arthritis. Published guidelines and expert opinion are divided over the relative role of acetaminophen (also called paracetamol or Tylenol) and non-steroidal anti-inflammatory drugs (NSAIDs) as first-line pharmacologic therapy. The comparative safety of acetaminophen and NSAIDs is important to consider as NSAIDs have the potential for serious gastrointestinal, renal, and cardiovascular toxicities, and acetaminophen in high dosages (greater than or equal to 2 grams per day), may also have the potential for serious upper gastrointestinal toxicity.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To assess the efficacy and safety of acetaminophen versus placebo and versus NSAIDs (ibuprofen, arthrotec, celecoxib,naproxen, rofecoxib) for treating OA.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      We searched the Cochrane Controlled Trials Register (Issue 3, 2002), MEDLINE (up to July 2002), and Current Contents (up to March 2002). Reference lists of identified RCTs and pertinent review articles were also hand searched.
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      Published randomized controlled trials (RCTs) evaluating the efficacy and safety of acetaminophen alone in OA were considered for inclusion.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      Pain, physical function and global assessment outcomes were reported. Results for continuous outcome measures were expressed as standardized mean differences. Dichotomous outcome measures were pooled using relative risk and the number needed to treat was calculated.
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      Six RCTs and 1689 participants were included in the review. One study compared acetaminophen to placebo, and five compared acetaminophen to NSAIDs. In the placebo-controlled RCT, acetaminophen was shown to be clearly superior to placebo with a similar safety profile. The number needed to treat to achieve an improvement in pain was three. In the comparator-controlled RCTs, acetaminophen was less effective overall than NSAIDs in terms of pain reduction and global assessments but both drugs had similar efficacy in terms of improvements in functional status. No significant difference was found between the safety of acetaminophen and NSAIDs, although patients taking NSAIDS were more likely to withdraw due to GI events.
+     </abstracttext>
+     <abstracttext label="REVIEWER'S CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The evidence to date suggests that NSAIDs are superior to acetaminophen for improving knee and hip pain in people with OA but have not been shown to be superior in improving function. The size of the treatment effect was modest, and the mean trial duration was only six weeks, therefore, additional considerations need to be factored in when making the decision between using acetaminophen or NSAIDs. In OA subjects with moderate-to-severe levels of pain, NSAIDs appear to be more effective than acetaminophen.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Medicine and Community Health and Epidemiology, Queen's University, Room 2066, Etherington Hall, Department of Medicine, Queen's University, Kingston, Ontario, Canada, K7L 3N6. tt5@post.queensu.ca
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Towheed
+      </lastname>
+      <forename>
+       T E
+      </forename>
+      <initials>
+       TE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Judd
+      </lastname>
+      <forename>
+       M J
+      </forename>
+      <initials>
+       MJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hochberg
+      </lastname>
+      <forename>
+       M C
+      </forename>
+      <initials>
+       MC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wells
+      </lastname>
+      <forename>
+       G
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Analgesics, Non-Narcotic
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Inflammatory Agents, Non-Steroidal
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      103-90-2
+     </registrynumber>
+     <nameofsubstance>
+      Acetaminophen
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="UpdateIn">
+     <refsource>
+      Cochrane Database Syst Rev. 2006;(1):CD004257
+     </refsource>
+     <pmid version="1">
+      16437479
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Acetaminophen
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Analgesics, Non-Narcotic
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Inflammatory Agents, Non-Steroidal
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Osteoarthritis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    61
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      14
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      29
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      14
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12804508
+    </articleid>
+    <articleid idtype="doi">
+     10.1002/14651858.CD004257
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

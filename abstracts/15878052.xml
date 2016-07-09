@@ -1,0 +1,355 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15878052
+   </pmid>
+   <datecreated>
+    <year>
+     2005
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     09
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     19
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1549-4713
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       112
+      </volume>
+      <issue>
+       5
+      </issue>
+      <pubdate>
+       <year>
+        2005
+       </year>
+       <month>
+        May
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Ophthalmology
+     </title>
+     <isoabbreviation>
+      Ophthalmology
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Management of the patient with suspected temporal arteritis a decision-analytic approach.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      744-56
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To perform a decision analysis of temporal arteritis (TA) to guide clinicians in the interpretation of diagnostic testing and choice of therapy.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Computer-based decision analytic model.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      A 785-node decision tree was created that reflects common testing and therapeutic options for a patient with suspected TA. A comprehensive literature search was then performed. From this search, point estimates and distributions for pooled probabilities and utilities were derived using inverse variance weighting and random effects techniques. Employing utility analysis, this decision model selects the diagnostic/therapeutic pathway resulting in the greatest utility for any user-defined set of patient characteristics on presentation.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURE" nlmcategory="METHODS">
+      Using utility analysis, the diagnostic/therapeutic pathway that results in the least expected disutility is selected as the optimal course of action.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The choice of diagnostic testing depends on several factors, including patient age, symptoms, and clinical findings. These factors can be used to calculate the pretest probability of TA being present. The optimal selection of diagnostic tests (laboratory or biopsy) depends on the pretest probability of disease. A temporal artery biopsy is recommended under most circumstances, with the choice of a unilateral versus bilateral biopsy depending upon blood test results and calculated pretest probability. A few scenarios exist in which blood tests alone can rule in or rule out TA without the need for biopsy. Empiric steroid therapy is almost never recommended.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      In TA, both the disease and its treatment are hazardous for the patient. Clinicians should have a very low threshold to initiate a diagnostic workup for TA. Physicians are often uncertain when a temporal artery biopsy is indicated and whether to perform a unilateral or bilateral biopsy. Often, the pathway chosen is not evidence based. Although the biopsy has long been considered the gold standard for diagnosis, it is invasive and less than 100% sensitive. The decision whether to undertake unilateral or bilateral biopsies is difficult, and our decision model delineates a method for choosing.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Ophthalmology and Visual Sciences, University of Wisconsin-Madison Medical School, Madison, Wisconsin 53792, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Niederkohr
+      </lastname>
+      <forename>
+       Ryan D
+      </forename>
+      <initials>
+       RD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Levin
+      </lastname>
+      <forename>
+       Leonard A
+      </forename>
+      <initials>
+       LA
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Ophthalmology
+    </medlineta>
+    <nlmuniqueid>
+     7802443
+    </nlmuniqueid>
+    <issnlinking>
+     0161-6420
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Glucocorticoids
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Ophthalmology. 2006 Jun;113(6):1059-60; author reply 1060-1
+     </refsource>
+     <pmid version="1">
+      16751047
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Age Distribution
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Biopsy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Decision Support Systems, Clinical
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Decision Support Techniques
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diagnostic Techniques, Ophthalmological
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Giant Cell Arteritis
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Glucocorticoids
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Practice Guidelines as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prevalence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Temporal Arteries
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="received">
+     <year>
+      2004
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      29
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="accepted">
+     <year>
+      2005
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      7
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2005
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2005
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     S0161-6420(05)00158-2
+    </articleid>
+    <articleid idtype="doi">
+     10.1016/j.ophtha.2005.01.031
+    </articleid>
+    <articleid idtype="pubmed">
+     15878052
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

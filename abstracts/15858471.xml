@@ -1,0 +1,431 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15858471
+   </pmid>
+   <datecreated>
+    <year>
+     2005
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     28
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2006
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     21
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1097-6787
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       52
+      </volume>
+      <issue>
+       5
+      </issue>
+      <pubdate>
+       <year>
+        2005
+       </year>
+       <month>
+        May
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of the American Academy of Dermatology
+     </title>
+     <isoabbreviation>
+      J. Am. Acad. Dermatol.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Tacrolimus ointment is more effective than pimecrolimus cream with a similar safety profile in the treatment of atopic dermatitis: results from 3 randomized, comparative studies.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      810-22
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To compare the efficacy and safety of tacrolimus ointment and pimecrolimus cream in adult and pediatric patients with mild to very severe atopic dermatitis (AD).
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      One thousand and sixty-five patients were randomized to treatment in 3 multicenter, randomized, investigator-blinded, 6-week studies.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Based on the Eczema Area Severity Index (EASI), tacrolimus ointment was more effective than pimecrolimus cream at the end of the study in adults (54.1% vs. 34.9%, respectively; P &lt; .0001), in children with moderate/severe disease (67.2% vs. 56.4%, respectively; P = .04), in the combined analysis (52.8% vs. 39.1%, respectively; P &lt; .0001), and at week 1 in children with mild disease (39.2% vs. 31.2%, respectively; P = .04). Tacrolimus was also more effective than pimecrolimus based on the Investigator Global AD Assessment (IGADA), improvement in percentage of total body surface area affected, and improvement in itch scores (P &lt; or = .05), with a faster onset of action. There was no significant difference in the incidence of adverse events (AEs), including application site reactions in the 2 studies involving 650 children. Adults treated with tacrolimus experienced a greater number of local application site reactions on day 1; both groups reported a similar incidence of application site reactions thereafter. More pimecrolimus-treated patients than tacrolimus-treated patients withdrew from the studies because of a lack of efficacy (P &lt; or = .03) or adverse events (P = .002; pediatric mild).
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Tacrolimus ointment is more effective and has a faster onset of action than pimecrolimus cream in adults and children with AD; their safety profiles are similar.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Northwestern University Medical School/Children's Memorial Hospital, Chicago, Illinois 60611-2923, USA. apaller@northwestern.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Paller
+      </lastname>
+      <forename>
+       Amy S
+      </forename>
+      <initials>
+       AS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lebwohl
+      </lastname>
+      <forename>
+       Mark
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Fleischer
+      </lastname>
+      <forename>
+       Alan B
+      </forename>
+      <initials>
+       AB
+      </initials>
+      <suffix>
+       Jr
+      </suffix>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Antaya
+      </lastname>
+      <forename>
+       Richard
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Langley
+      </lastname>
+      <forename>
+       Richard G
+      </forename>
+      <initials>
+       RG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kirsner
+      </lastname>
+      <forename>
+       Robert S
+      </forename>
+      <initials>
+       RS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Blum
+      </lastname>
+      <forename>
+       Robin R
+      </forename>
+      <initials>
+       RR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rico
+      </lastname>
+      <forename>
+       M Joyce
+      </forename>
+      <initials>
+       MJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jaracz
+      </lastname>
+      <forename>
+       Eileen
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Crowe
+      </lastname>
+      <forename>
+       Andrew
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Linowski
+      </lastname>
+      <forename>
+       Gregory J
+      </forename>
+      <initials>
+       GJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       US/Canada Tacrolimus Ointment Study Group
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     J Am Acad Dermatol
+    </medlineta>
+    <nlmuniqueid>
+     7907132
+    </nlmuniqueid>
+    <issnlinking>
+     0190-9622
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Ointments
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      pimecrolimus
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      109581-93-3
+     </registrynumber>
+     <nameofsubstance>
+      Tacrolimus
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dermatitis, Atopic
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ointments
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Patient Satisfaction
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tacrolimus
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      analogs &amp; derivatives
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2005
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      29
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2006
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2005
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      29
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     S019096220404229X
+    </articleid>
+    <articleid idtype="doi">
+     10.1016/j.jaad.2004.12.038
+    </articleid>
+    <articleid idtype="pubmed">
+     15858471
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

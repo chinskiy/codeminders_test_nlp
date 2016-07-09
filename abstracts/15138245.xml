@@ -1,0 +1,425 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15138245
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     12
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     14
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1538-3598
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       291
+      </volume>
+      <issue>
+       18
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        May
+       </month>
+       <day>
+        12
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Prevalence of chlamydial and gonococcal infections among young adults in the United States.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      2229-36
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Chlamydial and gonococcal infections are important causes of pelvic inflammatory disease, ectopic pregnancy, and infertility. Although screening for Chlamydia trachomatis is widely recommended among young adult women, little information is available regarding the prevalence of chlamydial and gonococcal infections in the general young adult population.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To determine the prevalence of chlamydial and gonococcal infections in a nationally representative sample of young adults living in the United States.
+     </abstracttext>
+     <abstracttext label="DESIGN, SETTING, AND PARTICIPANTS" nlmcategory="METHODS">
+      Cross-sectional analyses of a prospective cohort study of a nationally representative sample of 14,322 young adults aged 18 to 26 years. In-home interviews were conducted across the United States for Wave III of The National Longitudinal Study of Adolescent Health (Add Health) from April 2, 2001, to May 9, 2002. This study sample represented 66.3% of the original 18,924 participants in Wave I of Add Health. First-void urine specimens using ligase chain reaction assay were available for 12,548 (87.6%) of the Wave III participants.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      Prevalences of chlamydial and gonococcal infections in the general young adult population, and by age, self-reported race/ethnicity, and geographic region of current residence.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Overall prevalence of chlamydial infection was 4.19% (95% confidence interval [CI], 3.48%-4.90%). Women (4.74%; 95% CI, 3.93%-5.71%) were more likely to be infected than men (3.67%; 95% CI, 2.93%-4.58%; prevalence ratio, 1.29; 95% CI, 1.03-1.63). The prevalence of chlamydial infection was highest among black women (13.95%; 95% CI, 11.25%-17.18%) and black men (11.12%; 95% CI, 8.51%-14.42%); lowest prevalences were among Asian men (1.14%; 95% CI, 0.40%-3.21%), white men (1.38%; 95% CI, 0.93%-2.03%), and white women (2.52%; 95% CI, 1.90%-3.34%). Prevalence of chlamydial infection was highest in the south (5.39%; 95% CI, 4.24%-6.83%) and lowest in the northeast (2.39%; 95% CI, 1.56%-3.65%). Overall prevalence of gonorrhea was 0.43% (95% CI, 0.29%-0.63%). Among black men and women, the prevalence was 2.13% (95% CI, 1.46%-3.10%) and among white young adults, 0.10% (95% CI, 0.03%-0.27%). Prevalence of coinfection with both chlamydial and gonococcal infections was 0.030% (95% CI, 0.18%-0.49%).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The prevalence of chlamydial infection is high among young adults in the United States. Substantial racial/ethnic disparities are present in the prevalence of both chlamydial and gonococcal infections.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Medicine, School of Medicine, University of North Carolina at Chapel Hill, Chapel Hill 27599-7435, USA. bill_miller@unc.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Miller
+      </lastname>
+      <forename>
+       William C
+      </forename>
+      <initials>
+       WC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ford
+      </lastname>
+      <forename>
+       Carol A
+      </forename>
+      <initials>
+       CA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Morris
+      </lastname>
+      <forename>
+       Martina
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Handcock
+      </lastname>
+      <forename>
+       Mark S
+      </forename>
+      <initials>
+       MS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schmitz
+      </lastname>
+      <forename>
+       John L
+      </forename>
+      <initials>
+       JL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hobbs
+      </lastname>
+      <forename>
+       Marcia M
+      </forename>
+      <initials>
+       MM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cohen
+      </lastname>
+      <forename>
+       Myron S
+      </forename>
+      <initials>
+       MS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Harris
+      </lastname>
+      <forename>
+       Kathleen Mullan
+      </forename>
+      <initials>
+       KM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Udry
+      </lastname>
+      <forename>
+       J Richard
+      </forename>
+      <initials>
+       JR
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       HD38210
+      </grantid>
+      <acronym>
+       HD
+      </acronym>
+      <agency>
+       NICHD NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       P01-HD31921
+      </grantid>
+      <acronym>
+       HD
+      </acronym>
+      <agency>
+       NICHD NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       UO131496
+      </grantid>
+      <agency>
+       PHS HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2004 Aug 18;292(7):801; author reply 801-2
+     </refsource>
+     <pmid version="1">
+      15315990
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Chlamydia Infections
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      ethnology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cross-Sectional Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Gonorrhea
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      ethnology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prevalence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      United States
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      15
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     15138245
+    </articleid>
+    <articleid idtype="doi">
+     10.1001/jama.291.18.2229
+    </articleid>
+    <articleid idtype="pii">
+     291/18/2229
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

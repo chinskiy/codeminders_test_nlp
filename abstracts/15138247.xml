@@ -1,0 +1,308 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15138247
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     12
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     14
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1538-3598
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       291
+      </volume>
+      <issue>
+       18
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        May
+       </month>
+       <day>
+        12
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Drug treatment of hyperlipidemia in women.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      2243-52
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Several clinical trials have evaluated the effects of lipid-lowering medications on coronary heart disease (CHD). Many of the trials have not included enough women to allow sex-specific analyses or have not reported results in women separately.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To assess and synthesize the evidence regarding drug treatment of hyperlipidemia for the prevention of CHD events in women and to conduct a meta-analysis of the effect of drug treatment on mortality.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      We searched MEDLINE, the Cochrane Database, and the Database of Abstracts of Reviews of Effectiveness for articles published from 1966 through December 2003. We reviewed reference lists of articles and consulted content experts.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION AND DATA EXTRACTION" nlmcategory="METHODS">
+      Studies of outpatients that had a treatment duration of at least 1 year, assessed the impact of lipid lowering on clinical outcomes, and reported results by sex were included. Outcomes evaluated were total mortality, CHD mortality, nonfatal myocardial infarction, revascularization, and total CHD events. Summary estimates of the relative risks (RRs) with therapy were calculated using a random-effects model for patients with and without a previous history of cardiovascular disease.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      Thirteen studies were included. Six trials included a total of 11 435 women without cardiovascular disease and assessed the effects of lipid-lowering medications. Lipid lowering did not reduce total mortality (RR, 0.95; 95% confidence interval [CI], 0.62-1.46), CHD mortality (RR, 1.07; 95% CI, 0.47-2.40), nonfatal myocardial infarction (RR, 0.61; 95% CI, 0.22-1.68), revascularization (RR, 0.87; 95% CI, 0.33-2.31), or CHD events (RR, 0.87; 95% CI, 0.69-1.09). However, some analyses were limited by too few CHD events in the available trials. Eight trials included 8272 women with cardiovascular disease and assessed the effects of lipid-lowering medications. Lipid lowering did not reduce total mortality in women with cardiovascular disease (RR, 1.00; 95% CI, 0.77-1.29). However, lipid lowering reduced CHD mortality (RR, 0.74; 95% CI, 0.55-1.00), nonfatal myocardial infarction (RR, 0.71; 95% CI, 0.58-0.87), revascularization (RR, 0.70; 95% CI, 0.55-0.89), and total CHD events (RR, 0.80; CI, 0.71-0.91).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      For women without cardiovascular disease, lipid lowering does not affect total or CHD mortality. Lipid lowering may reduce CHD events, but current evidence is insufficient to determine this conclusively. For women with known cardiovascular disease, treatment of hyperlipidemia is effective in reducing CHD events, CHD mortality, nonfatal myocardial infarction, and revascularization, but it does not affect total mortality.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Division of General Internal Medicine and Department of Epidemiology and Biostatistics, University of California, San Francisco, USA. jmwalsh@itsa.ucsf.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Walsh
+      </lastname>
+      <forename>
+       Judith M E
+      </forename>
+      <initials>
+       JM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pignone
+      </lastname>
+      <forename>
+       Michael
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       290-97-0013
+      </grantid>
+      <agency>
+       PHS HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Hypolipidemic Agents
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Coronary Disease
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hyperlipidemias
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypolipidemic Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Survival Analysis
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    53
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      15
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     15138247
+    </articleid>
+    <articleid idtype="doi">
+     10.1001/jama.291.18.2243
+    </articleid>
+    <articleid idtype="pii">
+     291/18/2243
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

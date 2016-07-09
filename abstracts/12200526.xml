@@ -1,0 +1,695 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12200526
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     29
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     01
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0040-6376
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       57
+      </volume>
+      <issue>
+       9
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Sep
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Thorax
+     </title>
+     <isoabbreviation>
+      Thorax
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     A meta-analysis of the effect of Bacille Calmette Guérin vaccination on tuberculin skin test measurements.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      804-9
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      The accurate diagnosis of latent tuberculosis infection (LTBI) is an important component of any tuberculosis control programme and depends largely on tuberculin skin testing. The appropriate interpretation of skin test results requires knowledge of the possible confounding factors such as previous BCG vaccination. Uncertainty about the effect of BCG vaccination on tuberculin skin testing and the strength with which recommendations are made to individual patients regarding treatment of LTBI have identified a need to analyse the available data on the effect of BCG on skin testing. A meta-analysis of the evidence for the effect of BCG vaccination on tuberculin skin testing in subjects without active tuberculosis was therefore performed.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Medline was searched for English language articles published from 1966 to 1999 using the key words "BCG vaccine", "tuberculin test/PPD", and "skin testing". Bibliographies of relevant articles were reviewed for additional studies that may have been missed in the Medline search. Articles were considered for inclusion in the meta-analysis if they had recorded tuberculin skin test results in subjects who had received BCG vaccination more than 5 years previously and had a concurrent control group. Only prospective studies were considered. The geographical location, number of participants, type of BCG vaccine used, type of tuberculin skin test performed, and the results of the tuberculin skin test were extracted.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The abstracts and titles of 980 articles were identified, 370 full text articles were reviewed, and 26 articles were included in the final analysis. Patients who had received BCG vaccination were more likely to have a positive skin test (5 TU PPD: relative risk (RR) 2.12 (95% confidence interval (CI)1.50 to 3.00); 2 TU RT23: 2.65 [corrected] (95% CI 1.83 to 3.85). The effect of BCG vaccination on PPD skin test results was less after 15 years. Positive skin tests with indurations of &gt;15 mm are more likely to be the result of tuberculous infection than of BCG vaccination.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      In subjects without active tuberculosis, immunisation with BCG significantly increases the likelihood of a positive tuberculin skin test. The interpretation of the skin test therefore needs to be made in the individual clinical context and with evaluation of other risk factors for infection. The size of the induration should also be considered when making recommendations for treatment of latent infection.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Center for Disease Control Society, Respiratory Division, University of British Columbia, Vancouver, Canada.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Wang
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Turner
+      </lastname>
+      <forename>
+       M O
+      </forename>
+      <initials>
+       MO
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Elwood
+      </lastname>
+      <forename>
+       R K
+      </forename>
+      <initials>
+       RK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schulzer
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       FitzGerald
+      </lastname>
+      <forename>
+       J M
+      </forename>
+      <initials>
+       JM
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Thorax
+    </medlineta>
+    <nlmuniqueid>
+     0417353
+    </nlmuniqueid>
+    <issnlinking>
+     0040-6376
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      BCG Vaccine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Tuberculin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Tubercle. 1968 Jun;49(2):192-209
+     </refsource>
+     <pmid version="1">
+      5690998
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Acta Tuberc Pneumol Scand. 1965;46(2):113-22
+     </refsource>
+     <pmid version="1">
+      5879241
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int J Tuberc Lung Dis. 1999 Jan;3(1):31-41
+     </refsource>
+     <pmid version="1">
+      10094167
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      CMAJ. 1999 Apr 20;160(8):1185-90
+     </refsource>
+     <pmid version="1">
+      10234352
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      CMAJ. 1999 Sep 21;161(6):717-24
+     </refsource>
+     <pmid version="1">
+      10513279
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      CMAJ. 2000 Feb 8;162(3):351-5
+     </refsource>
+     <pmid version="1">
+      10693593
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 2000 Jun 7;283(21):2793
+     </refsource>
+     <pmid version="1">
+      10838646
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Can Med Assoc J. 1975 Jul 26;113(2):127-8
+     </refsource>
+     <pmid version="1">
+      1139496
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1955 Sep 24;269(6891):643-4
+     </refsource>
+     <pmid version="1">
+      13252947
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Kekkaku. 1992 Aug;67(8):539-44
+     </refsource>
+     <pmid version="1">
+      1405182
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Bull World Health Organ. 1964;31:161-70
+     </refsource>
+     <pmid version="1">
+      14253239
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Trop Med Hyg. 1992 Dec;47(6):721-9
+     </refsource>
+     <pmid version="1">
+      1471732
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am Rev Respir Dis. 1992 Mar;145(3):621-5
+     </refsource>
+     <pmid version="1">
+      1546843
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Tuber Lung Dis. 1992 Apr;73(2):94-100
+     </refsource>
+     <pmid version="1">
+      1643304
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Respir Med. 1991 Mar;85(2):111-6
+     </refsource>
+     <pmid version="1">
+      1887127
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Tubercle. 1991 Jun;72(2):101-4
+     </refsource>
+     <pmid version="1">
+      1949211
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am Rev Respir Dis. 1990 Jul;142(1):24-8
+     </refsource>
+     <pmid version="1">
+      2368973
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Tubercle. 1989 Jun;70(2):83-92
+     </refsource>
+     <pmid version="1">
+      2617691
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Cent Afr J Med. 1985 Nov;31(11):215-9
+     </refsource>
+     <pmid version="1">
+      3830399
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Bull World Health Organ. 1972;47(1):49-58
+     </refsource>
+     <pmid version="1">
+      4538905
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1965 Oct;36(4):624-7
+     </refsource>
+     <pmid version="1">
+      5294418
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Tubercle. 1967 Jun;48(2):79-94
+     </refsource>
+     <pmid version="1">
+      6058036
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Can Med Assoc J. 1967 Nov 25;97(22):1335-9
+     </refsource>
+     <pmid version="1">
+      6061598
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      South Med J. 1995 Oct;88(10):1025-30
+     </refsource>
+     <pmid version="1">
+      7481957
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Prev Med. 1995 May-Jun;11(3 Suppl):48-54
+     </refsource>
+     <pmid version="1">
+      7669364
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Infect Dis. 1995 Apr;20(4):982-91
+     </refsource>
+     <pmid version="1">
+      7795103
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Infect Dis. 1994 Oct;19(4):784-6
+     </refsource>
+     <pmid version="1">
+      7803652
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1995 Jan 18;273(3):220-6
+     </refsource>
+     <pmid version="1">
+      7807661
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Respir Crit Care Med. 1994 Jun;149(6):1597-600
+     </refsource>
+     <pmid version="1">
+      8004319
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1994 Sep 3;309(6954):597-9
+     </refsource>
+     <pmid version="1">
+      8086953
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Tuber Lung Dis. 1993 Aug;74(4):254-60
+     </refsource>
+     <pmid version="1">
+      8219177
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Respir Crit Care Med. 1996 Oct;154(4 Pt 1):1006-12
+     </refsource>
+     <pmid version="1">
+      8887599
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Chest Med. 1997 Mar;18(1):99-113
+     </refsource>
+     <pmid version="1">
+      9098614
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Can J Public Health. 1997 May-Jun;88(3):202-6
+     </refsource>
+     <pmid version="1">
+      9260362
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int J Tuberc Lung Dis. 1998 Apr;2(4):272-80
+     </refsource>
+     <pmid version="1">
+      9559397
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int J Tuberc Lung Dis. 1998 Oct;2(10):857-60
+     </refsource>
+     <pmid version="1">
+      9783535
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am Rev Respir Dis. 1993 Dec;148(6 Pt 1):1537-40
+     </refsource>
+     <pmid version="1">
+      8256896
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Intern Med. 1994 Feb 1;120(3):190-8
+     </refsource>
+     <pmid version="1">
+      8273982
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1994 Mar 2;271(9):698-702
+     </refsource>
+     <pmid version="1">
+      8309034
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Respir Med. 1996 Feb;90(2):89-94
+     </refsource>
+     <pmid version="1">
+      8730327
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Tuber Lung Dis. 1996 Feb;77(1):52-8
+     </refsource>
+     <pmid version="1">
+      8733415
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 1995 Dec;14(12):1060-3
+     </refsource>
+     <pmid version="1">
+      8745018
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Tuber Lung Dis. 1996 Jun;77(3):207-14
+     </refsource>
+     <pmid version="1">
+      8758102
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Thorax. 2003 Apr;58(4):367-8; author reply 368
+     </refsource>
+     <pmid version="1">
+      12668808
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="ErratumIn">
+     <refsource>
+      Thorax. 2003 Feb;58(2):188.
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      BCG Vaccine
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Skin
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      immunology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Time Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tuberculin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      metabolism
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tuberculin Test
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      standards
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tuberculosis
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC1746436
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      30
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      30
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12200526
+    </articleid>
+    <articleid idtype="pmc">
+     PMC1746436
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12519537
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     09
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     21
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Nicotine replacement therapy for smoking cessation.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD000146
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      The aim of nicotine replacement therapy (NRT) is to replace nicotine from cigarettes. This reduces withdrawal symptoms associated with smoking cessation thus helping resist the urge to smoke cigarettes.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      The aims of this review were to determine the effectiveness of the different forms of nicotine replacement therapy (chewing gum, transdermal patches, nasal spray, inhalers and tablets) in achieving abstinence from cigarettes, or a sustained reduction in amount smoked; to determine whether the effect is influenced by the clinical setting in which the smoker is recruited and treated, the dosage and form of the NRT used, or the intensity of additional advice and support offered to the smoker; to determine whether combinations of NRT are more effective than one type alone; and to determine its effectiveness compared to other pharmacotherapies.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      We searched the Cochrane Tobacco Addiction Group trials register in July 2002.
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      Randomized trials in which NRT was compared to placebo or no treatment, or where different doses of NRT were compared. We excluded trials which did not report cessation rates, and those with follow-up of less than six months.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      We extracted data in duplicate on the type of subjects, the dose and duration and form of nicotine therapy, the outcome measures, method of randomization, and completeness of follow-up. The main outcome measure was abstinence from smoking after at least six months of follow-up. We used the most rigorous definition of abstinence for each trial, and biochemically validated rates if available. Where appropriate, we performed meta-analysis using a fixed effects model (Peto).
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      We identified 110 trials; 96 with a non NRT control group. The odds ratio for abstinence with NRT compared to control was 1.74 (95% confidence interval 1.64 - 1.86), The odds ratios for the different forms of NRT were 1.66 for gum, 1.74 for patches, 2.27 for nasal spray, 2.08 for inhaled nicotine and 2.08 for nicotine sublingual tablet/lozenge. These odds were largely independent of the duration of therapy, the intensity of additional support provided or the setting in which the NRT was offered. In highly dependent smokers there was a significant benefit of 4 mg gum compared with 2mg gum (odds ratio 2.67, 95% confidence interval 1.69 - 4.22). There was weak evidence that combinations of forms of NRT are more effective. Higher doses of nicotine patch may produce small increases in quit rates. Only one study directly compared NRT to another pharmacotherapy, in which bupropion was significantly more effective than nicotine patch or placebo.
+     </abstracttext>
+     <abstracttext label="REVIEWER'S CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      All of the commercially available forms of NRT (nicotine gum, transdermal patch, the nicotine nasal spray, nicotine inhaler and nicotine sublingual tablets/lozenges) are effective as part of a strategy to promote smoking cessation. They increase quit rates approximately 1.5 to 2 fold regardless of setting. The effectiveness of NRT appears to be largely independent of the intensity of additional support provided to the smoker. Provision of more intense levels of support, although beneficial in facilitating the likelihood of quitting, is not essential to the success of NRT. There is promising evidence that bupropion may be more effective than NRT (either alone or in combination). However, its most appropriate place in the therapeutic armamentarium requires further study and consideration.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Primary Health Care, Institute of Health Sciences, Old Road, Headington, Oxford, UK, OX3 7LF. lindsay.stead@dphpc.ox.ac.uk
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Silagy
+      </lastname>
+      <forename>
+       C
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lancaster
+      </lastname>
+      <forename>
+       T
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Stead
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Mant
+      </lastname>
+      <forename>
+       D
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Fowler
+      </lastname>
+      <forename>
+       G
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Chewing Gum
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Nicotinic Agonists
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Tablets
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      54-11-5
+     </registrynumber>
+     <nameofsubstance>
+      Nicotine
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="UpdateIn">
+     <refsource>
+      Cochrane Database Syst Rev. 2004;(3):CD000146
+     </refsource>
+     <pmid version="1">
+      15266423
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="UpdateOf">
+     <refsource>
+      Cochrane Database Syst Rev. 2001;(3):CD000146
+     </refsource>
+     <pmid version="1">
+      11686953
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Administration, Cutaneous
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Administration, Inhalation
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Chewing Gum
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Nicotine
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Nicotinic Agonists
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Smoking
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Smoking Cessation
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tablets
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    189
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      22
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12519537
+    </articleid>
+    <articleid idtype="doi">
+     10.1002/14651858.CD000146
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

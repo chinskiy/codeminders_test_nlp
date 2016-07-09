@@ -1,0 +1,556 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12804123
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     13
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     09
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      1044-5463
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       13
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <season>
+        Spring
+       </season>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of child and adolescent psychopharmacology
+     </title>
+     <isoabbreviation>
+      J Child Adolesc Psychopharmacol
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Methodological issues and controversies in clinical trials with child and adolescent patients with bipolar disorder: report of a consensus conference.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      13-27
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To achieve consensus among researchers, pharmaceutical industry representatives, federal regulatory agency staff, and family advocates on a template for clinical trials of acute mania/bipolar disorder in children and adolescents.
+     </abstracttext>
+     <abstracttext label="METHOD" nlmcategory="METHODS">
+      The American Academy of Child and Adolescent Psychiatry, in collaboration with Best Practice, convened a group of experts from the key stakeholder communities (including adult psychiatrists with expertise in bipolar disorder) and assigned them to workgroups to examine core methodological issues surrounding the design of clinical trials and, ultimately, to generate a consensus statement encompassing: (1) inclusion/exclusion criteria, (2) investigator training needs and site selection, (3) assessment and outcome measures, (4) protocol design and ethical issues unique to trials involving children/adolescents, and (5) regulatory agency perspectives on these deliberations.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Conference participants reached agreement on 18 broad methodological questions. Key points of consensus were to assign priority to placebo-controlled studies of acute manic episodes in children and adolescents aged 10-17 years, who may or may not be hospitalized, and who may or may not suffer from common comorbid psychiatric disorders; to require that specialist diagnostic "gatekeepers" screen youths' eligibility to participate in trials; to monitor interviewer and rater competency over the course of the trial using agreed upon standards; and to develop new tools for assessment, including scales to measure aggression/rage and cognitive function, while using the best available instruments (e.g., Young Mania Rating Scale) in the interim.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Methodologically rigorous, large-scale clinical trials of treatment of acute mania are urgently needed to provide information regarding the safety and efficacy, in youth, of diverse agents with potential mood-stabilizing properties.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Psychiatry, Stony Brook University-Putnam Hall, Stony Brook, NY 11794-8790, USA. Gabrielle.Carlson@StonyBrook.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Carlson
+      </lastname>
+      <forename>
+       Gabrielle A
+      </forename>
+      <initials>
+       GA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jensen
+      </lastname>
+      <forename>
+       Peter S
+      </forename>
+      <initials>
+       PS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Findling
+      </lastname>
+      <forename>
+       Robert L
+      </forename>
+      <initials>
+       RL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Meyer
+      </lastname>
+      <forename>
+       Roger E
+      </forename>
+      <initials>
+       RE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Calabrese
+      </lastname>
+      <forename>
+       Joseph
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       DelBello
+      </lastname>
+      <forename>
+       Melissa P
+      </forename>
+      <initials>
+       MP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Emslie
+      </lastname>
+      <forename>
+       Graham
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Flynn
+      </lastname>
+      <forename>
+       Laurie
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Goodwin
+      </lastname>
+      <forename>
+       Frederick
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hellander
+      </lastname>
+      <forename>
+       Martha
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kowatch
+      </lastname>
+      <forename>
+       Robert
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kusumakar
+      </lastname>
+      <forename>
+       Vivek
+      </forename>
+      <initials>
+       V
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Laughren
+      </lastname>
+      <forename>
+       Thomas
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Leibenluft
+      </lastname>
+      <forename>
+       Ellen
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McCracken
+      </lastname>
+      <forename>
+       James
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Nottelmann
+      </lastname>
+      <forename>
+       Editha
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pine
+      </lastname>
+      <forename>
+       Daniel
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sachs
+      </lastname>
+      <forename>
+       Gary
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Shaffer
+      </lastname>
+      <forename>
+       David
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Simar
+      </lastname>
+      <forename>
+       Renee
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Strober
+      </lastname>
+      <forename>
+       Michael
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Weller
+      </lastname>
+      <forename>
+       Elizabeth B
+      </forename>
+      <initials>
+       EB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wozniak
+      </lastname>
+      <forename>
+       Janet
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Youngstrom
+      </lastname>
+      <forename>
+       Eric A
+      </forename>
+      <initials>
+       EA
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Consensus Development Conference
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     J Child Adolesc Psychopharmacol
+    </medlineta>
+    <nlmuniqueid>
+     9105358
+    </nlmuniqueid>
+    <issnlinking>
+     1044-5463
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    E
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent Psychiatry
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bipolar Disorder
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child Psychiatry
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Clinical Trials as Topic
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      ethics
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Research Design
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      standards
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    42
+   </numberofreferences>
+   <otherid source="KIE">
+    120908
+   </otherid>
+   <otherid source="NRCBL">
+    VF 18.5.2
+   </otherid>
+   <keywordlist owner="KIE">
+    <keyword majortopicyn="N">
+     American Academy of Child and Adolescent Psychiatry
+    </keyword>
+    <keyword majortopicyn="N">
+     Biomedical and Behavioral Research
+    </keyword>
+    <keyword majortopicyn="N">
+     Mental Health Therapies
+    </keyword>
+   </keywordlist>
+   <generalnote owner="KIE">
+    KIE Bib: human experimentation/minors; human experimentation/special populations; human experimentation/research design
+   </generalnote>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      14
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      14
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12804123
+    </articleid>
+    <articleid idtype="doi">
+     10.1089/104454603321666162
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

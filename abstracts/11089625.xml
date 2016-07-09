@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11089625
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     21
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     15
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0269-9370
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       14
+      </volume>
+      <issue>
+       15
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+       <month>
+        Oct
+       </month>
+       <day>
+        20
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      AIDS (London, England)
+     </title>
+     <isoabbreviation>
+      AIDS
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Male circumcision and risk of HIV infection in sub-Saharan Africa: a systematic review and meta-analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      2361-70
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To systematically review studies of male circumcision and the risk of HIV-1 infection in men in sub-Saharan Africa, and to summarize the findings in a meta-analysis.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      A meta-analysis of observational studies.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      A systematic literature review was carried out of studies published up to April 1999 that included circumcision as a risk factor for HIV-1 infection among men in sub-Saharan Africa. A random effects meta-analysis was used to calculate a pooled relative risk (RR) and 95% confidence interval (CI) for all studies combined, and stratified by type of study population. Further analyses were conducted among those studies that adjusted for potential confounding factors.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Twenty-seven studies were included. Of these, 21 showed a reduced risk of HIV among circumcised men, being approximately half that in uncircumcised men (crude RR = 0.52, CI 0.40-0.68). In 15 studies that adjusted for potential confounding factors, the association was even stronger (adjusted RR = 0.42, CI 0.34-0.54). The association was stronger among men at high risk of HIV (crude RR = 0.27; adjusted RR = 0.29, CI 0.20-0.41) than among men in general populations (crude RR = 0.93; adjusted RR = 0.56, CI 0.44-0.70).
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Male circumcision is associated with a significantly reduced risk of HIV infection among men in sub-Saharan Africa, particularly those at high risk of HIV. These results suggest that consideration should be given to the acceptability and feasibility of providing safe services for male circumcision as an additional HIV prevention strategy in areas of Africa where men are not traditionally circumcised.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Medical Research Council Tropical Epidemiology Group, London School of Hygiene and Tropical Medicine, UK.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Weiss
+      </lastname>
+      <forename>
+       H A
+      </forename>
+      <initials>
+       HA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Quigley
+      </lastname>
+      <forename>
+       M A
+      </forename>
+      <initials>
+       MA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hayes
+      </lastname>
+      <forename>
+       R J
+      </forename>
+      <initials>
+       RJ
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     ENGLAND
+    </country>
+    <medlineta>
+     AIDS
+    </medlineta>
+    <nlmuniqueid>
+     8710219
+    </nlmuniqueid>
+    <issnlinking>
+     0269-9370
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <citationsubset>
+    X
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      Africa South of the Sahara
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Case-Control Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Circumcision, Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cross-Sectional Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      HIV Infections
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      transmission
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      HIV-1
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heterosexuality
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sexual Partners
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    54
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      23
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      17
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      23
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11089625
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

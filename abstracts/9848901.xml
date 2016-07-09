@@ -1,0 +1,649 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    9848901
+   </pmid>
+   <datecreated>
+    <year>
+     1999
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     21
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1999
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     21
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0959-8138
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       317
+      </volume>
+      <issue>
+       7173
+      </issue>
+      <pubdate>
+       <year>
+        1998
+       </year>
+       <month>
+        Dec
+       </month>
+       <day>
+        12
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      BMJ (Clinical research ed.)
+     </title>
+     <isoabbreviation>
+      BMJ
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Intranasal corticosteroids versus oral H1 receptor antagonists in allergic rhinitis: systematic review of randomised controlled trials.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1624-9
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To determine whether intranasal corticosteroids are superior to oral H1 receptor antagonists (antihistamines) in the treatment of allergic rhinitis.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Meta-analysis of randomised controlled trials comparing intranasal corticosteroids with oral antihistamines.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      Randomised controlled trials conducted worldwide and published between 1966 and 1997.
+     </abstracttext>
+     <abstracttext label="SUBJECTS" nlmcategory="METHODS">
+      2267 subjects with allergic rhinitis in 16 randomised controlled trials.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      Nasal blockage, nasal discharge, sneezing, nasal itch, postnasal drip, nasal discomfort, total nasal symptoms, nasal resistance, and eye symptoms and global ratings. Outcomes measured on different scales were combined to determine pooled odds ratios (categorical outcomes) or standardised mean differences (continuous outcomes). Assessment of heterogeneity between studies, and subgroup analyses of eye symptoms, were undertaken.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Intranasal corticosteroids produced significantly greater relief than oral antihistamines of nasal blockage (standardised mean difference 0.63, 95% confidence interval - 0.73 to - 0.53), nasal discharge (-0.5, - 0.6 to - 0.4), sneezing (- 0.49, - 0.59 to - 0.39), nasal itch (- 0.38,- 0.49 to - 0.21), postnasal drip (- 0.24,- 0.42 to - 0.06), and total nasal symptoms (- 0.42,- 0.53 to - 0.32), and global ratings gave an odds ratio for deterioration of symptoms of 0.26 (0.08 to 0.8). There were no significant differences between treatments for nasal discomfort, nasal resistance, or eye symptoms. The effects on sneezing, total nasal symptoms, and eye symptoms were significantly heterogeneous between studies. Other combined outcomes were homogeneous between studies. Subgroup analysis of the outcome of eye symptoms suggested that the duration of assessment (averaged mean score over the study period versus mean score at end of study period) might have accounted for the heterogeneity.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      The results of this systematic review, together with data on safety and cost effectiveness, support the use of intranasal corticosteroids over oral antihistamines as first line treatment for allergic rhinitis.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Medicine, Monash University, Melbourne, Victoria, 3181, Australia. jmwiener@allergynet.com.au
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Weiner
+      </lastname>
+      <forename>
+       J M
+      </forename>
+      <initials>
+       JM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Abramson
+      </lastname>
+      <forename>
+       M J
+      </forename>
+      <initials>
+       MJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Puy
+      </lastname>
+      <forename>
+       R M
+      </forename>
+      <initials>
+       RM
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     ENGLAND
+    </country>
+    <medlineta>
+     BMJ
+    </medlineta>
+    <nlmuniqueid>
+     8900488
+    </nlmuniqueid>
+    <issnlinking>
+     0959-535X
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Adrenal Cortex Hormones
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Receptors, Histamine H1
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Allergy. 1994 Feb;49(2):96-9
+     </refsource>
+     <pmid version="1">
+      8172365
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Otolaryngol Allied Sci. 1993 Feb;18(1):30-3
+     </refsource>
+     <pmid version="1">
+      8448887
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Ther. 1995 Jul-Aug;17(4):637-47
+     </refsource>
+     <pmid version="1">
+      8565027
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Allergy Clin Immunol. 1996 Mar;97(3):749-55
+     </refsource>
+     <pmid version="1">
+      8613630
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Allergy Clin Immunol. 1996 Feb;97(2):588-95
+     </refsource>
+     <pmid version="1">
+      8621843
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Allergy Clin Immunol. 1996 Feb;97(2):617-26
+     </refsource>
+     <pmid version="1">
+      8621847
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Allergy Clin Immunol. 1996 Apr;97(4):915-21
+     </refsource>
+     <pmid version="1">
+      8655886
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Ther. 1996 Mar-Apr;18(2):334-46; discussion 302
+     </refsource>
+     <pmid version="1">
+      8733993
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Ther. 1995 Nov-Dec;17(6):1099-109
+     </refsource>
+     <pmid version="1">
+      8750401
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Allergy Asthma Immunol. 1996 Oct;77(4):255-9
+     </refsource>
+     <pmid version="1">
+      8885799
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Allergy Asthma Immunol. 1996 Oct;77(4):277-81
+     </refsource>
+     <pmid version="1">
+      8885803
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Thorax. 1997 May;52(5):476-82
+     </refsource>
+     <pmid version="1">
+      9176542
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Allergy. 1997 Apr;52(4):445-50
+     </refsource>
+     <pmid version="1">
+      9188929
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Allergy. 1976 Jul;6(4):369-72
+     </refsource>
+     <pmid version="1">
+      963865
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Exp Allergy. 1993 Dec;23(12):986-91
+     </refsource>
+     <pmid version="1">
+      10779290
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Allergy. 1992 Aug;47(4 Pt 1):313-7
+     </refsource>
+     <pmid version="1">
+      1443451
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Otolaryngol Allied Sci. 1991 Dec;16(6):527-31
+     </refsource>
+     <pmid version="1">
+      1685945
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Asian Pac J Allergy Immunol. 1990 Dec;8(2):109-15
+     </refsource>
+     <pmid version="1">
+      1709020
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Allergy Clin Immunol. 1989 Mar;83(3):627-33
+     </refsource>
+     <pmid version="1">
+      2494249
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Exp Allergy. 1989 Sep;19(5):569-73
+     </refsource>
+     <pmid version="1">
+      2571403
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Exp Allergy. 1989 Jan;19(1):59-63
+     </refsource>
+     <pmid version="1">
+      2784709
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Curr Med Res Opin. 1985;9(8):560-7
+     </refsource>
+     <pmid version="1">
+      2863090
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Int Med Res. 1986;14(1):35-41
+     </refsource>
+     <pmid version="1">
+      3082694
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Allergy. 1986 May;16(3):195-201
+     </refsource>
+     <pmid version="1">
+      3087656
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Allergy. 1986 May;16(3):203-11
+     </refsource>
+     <pmid version="1">
+      3087657
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br Med J (Clin Res Ed). 1987 Jan 31;294(6567):279-83
+     </refsource>
+     <pmid version="1">
+      3101841
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Allergy. 1988 May;18(3):253-9
+     </refsource>
+     <pmid version="1">
+      3396194
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Allergy. 1983 Oct;38(7):517-24
+     </refsource>
+     <pmid version="1">
+      6139040
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Clin Pract. 1984 Nov-Dec;38(11-12):416-20, 422
+     </refsource>
+     <pmid version="1">
+      6152178
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Allergy. 1995 Aug;50(8):683-8
+     </refsource>
+     <pmid version="1">
+      7503405
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Exp Allergy. 1995 Jan;25(1):60-5
+     </refsource>
+     <pmid version="1">
+      7537170
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Ther. 1995 May-Jun;17(3):479-92
+     </refsource>
+     <pmid version="1">
+      7585852
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Aust J Public Health. 1995 Apr;19(2):120-4
+     </refsource>
+     <pmid version="1">
+      7786934
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Exp Allergy. 1994 Oct;24(10):930-9
+     </refsource>
+     <pmid version="1">
+      7842362
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Allergy Clin Immunol. 1995 Feb;95(2):515-23
+     </refsource>
+     <pmid version="1">
+      7852667
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Exp Allergy. 1994 Dec;24(12):1144-50
+     </refsource>
+     <pmid version="1">
+      7889428
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Rhinology. 1993 Dec;31(4):159-64
+     </refsource>
+     <pmid version="1">
+      7908144
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1994 Jun 9;330(23):1663-70
+     </refsource>
+     <pmid version="1">
+      7909915
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Intern Med. 1994 Dec 12-26;154(23):2699-704
+     </refsource>
+     <pmid version="1">
+      7993153
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Allergy. 1994 Dec;73(6):497-502
+     </refsource>
+     <pmid version="1">
+      7998664
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      BMJ. 1999 May 15;318(7194):1350-1
+     </refsource>
+     <pmid version="1">
+      10383210
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Administration, Intranasal
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Administration, Oral
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adrenal Cortex Hormones
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Receptors, Histamine H1
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Rhinitis, Allergic, Perennial
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC28740
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1998
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      16
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1998
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1998
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     9848901
+    </articleid>
+    <articleid idtype="pmc">
+     PMC28740
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,368 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11772681
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     04
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     31
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0002-953X
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       159
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Jan
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The American journal of psychiatry
+     </title>
+     <isoabbreviation>
+      Am J Psychiatry
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Comparative meta-analysis of pharmacotherapy and behavior therapy for persistent insomnia.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      5-11
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      Although four meta-analytic reviews support the efficacy of pharmacotherapy and behavior therapy for the treatment of insomnia, no meta-analysis has evaluated whether these treatment modalities yield comparable outcomes during acute treatment. The authors conducted a quantitative review of the literature on the outcome of the two treatments to compare the short-term efficacy of pharmacotherapy and behavioral therapy in primary insomnia.
+     </abstracttext>
+     <abstracttext label="METHOD" nlmcategory="METHODS">
+      They identified studies from 1966 through 2000 using MEDLINE, psycINFO, and bibliographies. Investigations were limited to studies using prospective measures and within-subject designs to assess the efficacy of benzodiazepines or benzodiazepine receptor agonists or behavioral treatments for primary insomnia. Benzodiazepine receptor agonists included zolpidem, zopiclone, and zaleplon. Behavioral treatments included stimulus control and sleep restriction therapies. Twenty-one studies summarizing outcomes for 470 subjects met inclusion criteria.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Weighted effect sizes for subjective measures of sleep latency, number of awakenings, wake time after sleep onset, total sleep time, and sleep quality before and after treatment were moderate to large. There were no differences in magnitude between pharmacological and behavioral treatments in any measures except latency to sleep onset. Behavior therapy resulted in a greater reduction in sleep latency than pharmacotherapy.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Overall, behavior therapy and pharmacotherapy produce similar short-term treatment outcomes in primary insomnia.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Psychiatry, Johns Hopkins University, Baltimore, MD 21287-7218, USA. msmith62@jhmi.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Smith
+      </lastname>
+      <forename>
+       Michael T
+      </forename>
+      <initials>
+       MT
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Perlis
+      </lastname>
+      <forename>
+       Michael L
+      </forename>
+      <initials>
+       ML
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Park
+      </lastname>
+      <forename>
+       Amy
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Smith
+      </lastname>
+      <forename>
+       Michelle S
+      </forename>
+      <initials>
+       MS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pennington
+      </lastname>
+      <forename>
+       JaeMi
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Giles
+      </lastname>
+      <forename>
+       Donna E
+      </forename>
+      <initials>
+       DE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Buysse
+      </lastname>
+      <forename>
+       Daniel J
+      </forename>
+      <initials>
+       DJ
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Am J Psychiatry
+    </medlineta>
+    <nlmuniqueid>
+     0370512
+    </nlmuniqueid>
+    <issnlinking>
+     0002-953X
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Anxiety Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      GABA-A Receptor Agonists
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Hypnotics and Sedatives
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      12794-10-4
+     </registrynumber>
+     <nameofsubstance>
+      Benzodiazepines
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Anxiety Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Behavior Therapy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Benzodiazepines
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Clinical Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      GABA-A Receptor Agonists
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypnotics and Sedatives
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sleep Initiation and Maintenance Disorders
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      psychology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11772681
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,459 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    3936774
+   </pmid>
+   <datecreated>
+    <year>
+     1986
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     03
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1986
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     03
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0266-4348
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       61
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        1985
+       </year>
+       <month>
+        Feb
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Genitourinary medicine
+     </title>
+     <isoabbreviation>
+      Genitourin Med
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Refractory condylomata acuminata: a controlled clinical trial of carbon dioxide laser versus conventional surgical treatment.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      59-61
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Uncontrolled trials indicate that treatment of condylomata acuminata with the carbon dioxide laser is effective and probably superior to conventional surgical treatment. We performed a controlled study of refractory condylomata acuminata to clarify whether this is the case. In this randomised trial 21 patients were treated with the carbon dioxide laser and 22 by conventional surgery after having been treated with podophyllin for an average of 33 and 35 weeks respectively. Five and seven patients respectively had previously required additional treatment, such as an operation. The treatment schedule was equally effective for both groups of patients. No difference between the two groups was seen in numbers of recurrences, postoperative pain, healing time, and rate of scar formation (p greater than 0.1-0.2). Treatment of recalcitrant condylomata acuminata with the carbon dioxide laser did not offer any advantages over traditional surgery, including electrocautery.
+     </abstracttext>
+    </abstract>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Duus
+      </lastname>
+      <forename>
+       B R
+      </forename>
+      <initials>
+       BR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Philipsen
+      </lastname>
+      <forename>
+       T
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Christensen
+      </lastname>
+      <forename>
+       J D
+      </forename>
+      <initials>
+       JD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lundvall
+      </lastname>
+      <forename>
+       F
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Søndergaard
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     ENGLAND
+    </country>
+    <medlineta>
+     Genitourin Med
+    </medlineta>
+    <nlmuniqueid>
+     8503853
+    </nlmuniqueid>
+    <issnlinking>
+     0266-4348
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      124-38-9
+     </registrynumber>
+     <nameofsubstance>
+      Carbon Dioxide
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Surg. 1944 Aug;120(2):251-6
+     </refsource>
+     <pmid version="1">
+      17858489
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Obstet Gynecol. 1981 Jun;24(2):461-83
+     </refsource>
+     <pmid version="1">
+      6273036
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Urol. 1982 May;127(5):906-8
+     </refsource>
+     <pmid version="1">
+      6806485
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Obstet Gynecol. 1982 Jan;59(1):105-8
+     </refsource>
+     <pmid version="1">
+      6804894
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Obstet Gynecol. 1981 Dec 15;141(8):1000-8
+     </refsource>
+     <pmid version="1">
+      6797304
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ugeskr Laeger. 1975 Mar 17;137(12):679-81
+     </refsource>
+     <pmid version="1">
+      1173699
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Obstet Gynecol. 1980 Jun;55(6):711-5
+     </refsource>
+     <pmid version="1">
+      6770311
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Urology. 1980 Mar;15(3):265-6
+     </refsource>
+     <pmid version="1">
+      7189071
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      South Med J. 1978 Jul;71(7):795-7
+     </refsource>
+     <pmid version="1">
+      663725
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Urol Nefrol (Mosk). 1977 Mar-Apr;(2):44-7
+     </refsource>
+     <pmid version="1">
+      855050
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1974 Nov 9;2(7889):1127-31
+     </refsource>
+     <pmid version="1">
+      4139420
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Urology. 1981 Feb;17(2):149-51
+     </refsource>
+     <pmid version="1">
+      6781116
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anus Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      surgery
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Carbon Dioxide
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cicatrix
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Clinical Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Condylomata Acuminata
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      surgery
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Genital Neoplasms, Female
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      surgery
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Genital Neoplasms, Male
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      surgery
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Laser Therapy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Methods
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Neoplasm Recurrence, Local
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pain
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Postoperative Complications
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Random Allocation
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Wound Healing
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC1011758
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1985
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1985
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1985
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     3936774
+    </articleid>
+    <articleid idtype="pmc">
+     PMC1011758
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

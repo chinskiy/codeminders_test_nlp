@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    9269212
+   </pmid>
+   <datecreated>
+    <year>
+     1997
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     15
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1997
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     15
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0140-6736
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       349
+      </volume>
+      <issue>
+       9068
+      </issue>
+      <pubdate>
+       <year>
+        1997
+       </year>
+       <month>
+        Jun
+       </month>
+       <day>
+        21
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Lancet
+     </title>
+     <isoabbreviation>
+      Lancet
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Randomised placebo-controlled trial of lisinopril in normotensive patients with insulin-dependent diabetes and normoalbuminuria or microalbuminuria. The EUCLID Study Group.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1787-92
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Renal disease in people with insulin-dependent diabetes (IDDM) continues to pose a major health threat. Inhibitors of angiotensin-converting enzyme (ACE) slow the decline of renal function in advanced renal disease, but their effects at earlier stages are unclear, and the degree of albuminuria at which treatment should start is not known.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We carried out a randomised, double-blind, placebo-controlled trial of the ACE inhibitor lisinopril in 530 men and women with IDDM aged 20-59 years with normoalbuminuria or microalbuminuria. Patients were recruited from 18 European centres, and were not on medication for hypertension. Resting blood pressure at entry was at least 75 and no more than 90 mm Hg diastolic, and no more than 155 mm Hg systolic. Urinary albumin excretion rate (AER) was centrally assessed by means of two overnight urine collections at baseline, 6, 12, 18, and 24 months.
+     </abstracttext>
+     <abstracttext label="FINDINGS" nlmcategory="RESULTS">
+      There were no difference in baseline characteristics by treatment group; mean AER was 8.0 micrograms/min in both groups; and prevalence of microalbuminuria was 13% and 17% in the placebo and lisinopril groups, respectively. On intention-to-treat analysis at 2 years, AER was 2.2 micrograms/min lower in the lisinopril than in the placebo group, a percentage difference of 18.8% (95% CI 2.0-32.7, p = 0.03), adjusted for baseline AER and centre, absolute difference 2.2 micrograms/min. In people with normoalbuminuria, the treatment difference was 1.0 microgram/min (12.7% [-2.9 to 26.0], p = 0.1). In those with microalbuminuria, however, the treatment difference was 34.2 micrograms/min (49.7% [-14.5 to 77.9], p = 0.1; for interaction, p = 0.04). For patients who completed 24 months on the trial, the final treatment difference in AER was 38.5 micrograms/min in those with microalbuminuria at baseline (p = 0.001), and 0.23 microgram/min in those with normoalbuminuria at baseline (p = 0.6). There was no treatment difference in hypoglycaemic events or in metabolic control as assessed by glycated haemoglobin.
+     </abstracttext>
+     <abstracttext label="INTERPRETATION" nlmcategory="CONCLUSIONS">
+      Lisinopril slows the progression of renal disease in normotensive IDDM patients with little or no albuminuria, though greatest effect was in those with microalbuminuria (AER &gt; or = 20 micrograms/min). Our results show that lisinopril does not increase the risk of hypoglycaemic events in IDDM.
+     </abstracttext>
+    </abstract>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     ENGLAND
+    </country>
+    <medlineta>
+     Lancet
+    </medlineta>
+    <nlmuniqueid>
+     2985213R
+    </nlmuniqueid>
+    <issnlinking>
+     0140-6736
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Angiotensin-Converting Enzyme Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      83915-83-7
+     </registrynumber>
+     <nameofsubstance>
+      Lisinopril
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 1997 Jun 21;349(9068):1782-3
+     </refsource>
+     <pmid version="1">
+      9269206
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 1997 Aug 30;350(9078):662; author reply 663-4
+     </refsource>
+     <pmid version="1">
+      9288064
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 1997 Oct 11;350(9084):1102-3
+     </refsource>
+     <pmid version="1">
+      10213576
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 1997 Aug 30;350(9078):662-3; author reply 663-4
+     </refsource>
+     <pmid version="1">
+      9288065
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 1997 Aug 30;350(9078):662; author reply 663-4
+     </refsource>
+     <pmid version="1">
+      9288063
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Albuminuria
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Angiotensin-Converting Enzyme Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Blood Pressure
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetes Mellitus, Type 1
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      physiopathology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      urine
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetic Nephropathies
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      urine
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lisinopril
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1997
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      21
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1997
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1997
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     9269212
+    </articleid>
+    <articleid idtype="pii">
+     S0140673696102440
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,342 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12893694
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     01
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     22
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0007-1285
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       76
+      </volume>
+      <issue>
+       908
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Aug
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The British journal of radiology
+     </title>
+     <isoabbreviation>
+      Br J Radiol
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Red flags in patients presenting with headache: clinical indications for neuroimaging.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      532-5
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Headache is a very common patient complaint but secondary causes for headache are unusual. Neuroimaging is both expensive and has a low yield in this group. Most patients with intracranial pathology have clinical features that would raise a "red flag". Appropriate selection of patients with headache for neuroimaging to look for secondary causes is very important. Red flags act as screening tools to help in identifying those patients presenting with headache who would benefit from prompt neuroimaging, and may increase the yield. The aim of this study is to evaluate clinical features in patients with headache using neuroimaging as a screening tool for intracranial pathology. 20 red flags were defined. A retrospective study of 111 patients was performed and the outcomes were divided into positive and negative. Abnormal neuroimaging was present in 39 patients. Results were analysed using the Logistic Regression model. Sensitivity and specificity of red flags were analysed to establish the cut-off point to predict abnormal neuroimaging and a receiver operating characteristic (ROC) curve plotted to show the sensitivity of the diagnostic test. Three red flag features proved to be statistically significant with the p-value of less than 0.05 on both univariate and multivariate analysis. These were: paralysis; papilloedema; and "drowsiness, confusion, memory impairment and loss of consciousness". In addition, if three or more red flags from the list were present, this showed strong indication of abnormal neuroimaging, from cut-off point of ROC curve (area under the curve =0.76).
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Radiology, University Putra Malaysia-Hospital Kuala Lumpur, Malaysia.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       M
+      </lastname>
+      <forename>
+       Sobri
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lamont
+      </lastname>
+      <forename>
+       A C
+      </forename>
+      <initials>
+       AC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Alias
+      </lastname>
+      <forename>
+       N A
+      </forename>
+      <initials>
+       NA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Win
+      </lastname>
+      <forename>
+       M N
+      </forename>
+      <initials>
+       MN
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Br J Radiol
+    </medlineta>
+    <nlmuniqueid>
+     0373125
+    </nlmuniqueid>
+    <issnlinking>
+     0007-1285
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Headache Disorders
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Magnetic Resonance Imaging
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Memory Disorders
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Papilledema
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Paralysis
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prognosis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      ROC Curve
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Retrospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sleep Stages
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tomography, X-Ray Computed
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Unconsciousness
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      2
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      23
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      2
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12893694
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,302 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15314625
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     14
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     25
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2008
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     21
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0307-0565
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       28
+      </volume>
+      <issue>
+       10
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Oct
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      International journal of obesity and related metabolic disorders : journal of the International Association for the Study of Obesity
+     </title>
+     <isoabbreviation>
+      Int. J. Obes. Relat. Metab. Disord.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Breast-feeding and childhood obesity--a systematic review.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1247-56
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To investigate the relationship between breast-feeding and obesity in childhood.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Systematic review and meta-analysis of published epidemiological studies (cohort, case-control or cross-sectional studies) comparing early feeding-mode and adjusting for potential confounding factors. Electronic databases were searched and reference lists of relevant articles were checked. Calculations of pooled estimates were conducted in fixed- and random-effects models. Heterogeneity was tested by Q-test. Publication bias was assessed from funnel plots and by a linear regression method.
+     </abstracttext>
+     <abstracttext label="OUTCOME MEASURES" nlmcategory="METHODS">
+      Odds ratio (OR) for obesity in childhood defined as body mass index (BMI) percentiles.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Nine studies with more than 69,000 participants met the inclusion criteria. The meta-analysis showed that breast-feeding reduced the risk of obesity in childhood significantly. The adjusted odds ratio was 0.78, 95% CI (0.71, 0.85) in the fixed model. The assumption of homogeneity of results of the included studies could not be refuted (Q-test for heterogeneity, P&gt;0.3), stratified analyses showed no differences regarding different study types, age groups, definition of breast-feeding or obesity and number of confounding factors adjusted for. A dose-dependent effect of breast-feeding duration on the prevalence of obesity was reported in four studies. Funnel plot regression gave no indication of publication bias.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Breast-feeding seems to have a small but consistent protective effect against obesity in children.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Institute for Social Paediatrics and Adolescent Medicine, Ludwig-Maximilians University, D-81377 Munich, Germany.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Arenz
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rückerl
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Koletzko
+      </lastname>
+      <forename>
+       B
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       von Kries
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Int J Obes Relat Metab Disord
+    </medlineta>
+    <nlmuniqueid>
+     9313169
+    </nlmuniqueid>
+    <issnlinking>
+     0307-0565
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Breast Feeding
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant Nutritional Physiological Phenomena
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant, Newborn
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Obesity
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Research Design
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    51
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      27
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     15314625
+    </articleid>
+    <articleid idtype="doi">
+     10.1038/sj.ijo.0802758
+    </articleid>
+    <articleid idtype="pii">
+     0802758
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

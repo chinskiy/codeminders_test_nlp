@@ -1,0 +1,493 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11328254
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     30
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     04
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0269-2813
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       15
+      </volume>
+      <issue>
+       5
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        May
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Alimentary pharmacology &amp; therapeutics
+     </title>
+     <isoabbreviation>
+      Aliment. Pharmacol. Ther.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     A systematic comparison of triple therapies for treatment of Helicobacter pylori infection with proton pump inhibitor/ ranitidine bismuth citrate plus clarithromycin and either amoxicillin or a nitroimidazole.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      613-24
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Triple therapies with proton pump inhibitor/ranitidine bismuth citrate (RBC), clarithromycin (C) and either amoxicillin (A) or a nitroimidazole (I) are widely accepted as treatment for Helicobacter pylori infection. However, it is not clear which of these antibiotic combinations should be preferred.
+     </abstracttext>
+     <abstracttext label="AIM" nlmcategory="OBJECTIVE">
+      To evaluate whether there is a difference in efficacy between triple therapies with proton pump inhibitor/RBC, clarithromycin and either amoxicillin or a nitroimidazole.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      The literature was examined for randomized trials comparing proton pump inhibitor/RBC-C-A and proton pump inhibitor/RBC-C-I. Studies were grouped according to the type of acid inhibitor used (proton pump inhibitor or RBC) and differences between pooled cure rates were calculated.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Forty-seven studies were identified: seven using RBC, 39 using proton pump inhibitor, one using both. RBC-C-I was somewhat superior to RBC-C-A, although this difference only reached statistical significance in intention-to-treat analysis. Overall, proton pump inhibitor-C-I and proton pump inhibitor-C-A were equally effective, but in nitroimidazole-susceptible strains, proton pump inhibitor-C-I performed better, in nitroimidazole-resistant strains, proton pump inhibitor-C-A performed better. No serious side-effects were reported and pooled drop-out rates were equal.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      In general, proton pump inhibitor-C-I and proton pump inhibitor-C-A are equally effective and therefore other factors such as local prevalence of resistant strains, cost of therapy and options for second-line treatment should determine which regimen should be preferred. When using RBC, the RBC-C-I combination is somewhat superior to RBC-C-A.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Gastroenterology and Hepatology, University Medical Centre St. Radboud, Nijmegen, The Netherlands. marceljanssen6@hotmail.com
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Janssen
+      </lastname>
+      <forename>
+       M J
+      </forename>
+      <initials>
+       MJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Van Oijen
+      </lastname>
+      <forename>
+       A H
+      </forename>
+      <initials>
+       AH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Verbeek
+      </lastname>
+      <forename>
+       A L
+      </forename>
+      <initials>
+       AL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jansen
+      </lastname>
+      <forename>
+       J B
+      </forename>
+      <initials>
+       JB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       De Boer
+      </lastname>
+      <forename>
+       W A
+      </forename>
+      <initials>
+       WA
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Aliment Pharmacol Ther
+    </medlineta>
+    <nlmuniqueid>
+     8707234
+    </nlmuniqueid>
+    <issnlinking>
+     0269-2813
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Bacterial Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Ulcer Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Nitroimidazoles
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Penicillins
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Proton Pumps
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      128345-62-0
+     </registrynumber>
+     <nameofsubstance>
+      ranitidine bismuth citrate
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      26787-78-0
+     </registrynumber>
+     <nameofsubstance>
+      Amoxicillin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      66357-35-5
+     </registrynumber>
+     <nameofsubstance>
+      Ranitidine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      7440-69-9
+     </registrynumber>
+     <nameofsubstance>
+      Bismuth
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      81103-11-9
+     </registrynumber>
+     <nameofsubstance>
+      Clarithromycin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Amoxicillin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Bacterial Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Ulcer Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bismuth
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Clarithromycin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Costs
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Resistance
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Therapy, Combination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Helicobacter Infections
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Helicobacter pylori
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pathogenicity
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Nitroimidazoles
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Patient Care Planning
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Penicillins
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Proton Pumps
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      antagonists &amp; inhibitors
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ranitidine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      analogs &amp; derivatives
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11328254
+    </articleid>
+    <articleid idtype="pii">
+     apt974
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

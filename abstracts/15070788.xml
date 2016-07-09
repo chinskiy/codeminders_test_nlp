@@ -1,0 +1,484 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15070788
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     08
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     19
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1533-4406
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       350
+      </volume>
+      <issue>
+       14
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Apr
+       </month>
+       <day>
+        1
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     C-reactive protein and other circulating markers of inflammation in the prediction of coronary heart disease.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1387-97
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      C-reactive protein is an inflammatory marker believed to be of value in the prediction of coronary events. We report data from a large study of C-reactive protein and other circulating inflammatory markers, as well as updated meta-analyses, to evaluate their relevance to the prediction of coronary heart disease.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Measurements were made in samples obtained at base line from up to 2459 patients who had a nonfatal myocardial infarction or died of coronary heart disease during the study and from up to 3969 controls without a coronary heart disease event in the Reykjavik prospective study of 18,569 participants. Measurements were made in paired samples obtained an average of 12 years apart from 379 of these participants in order to quantify within-person fluctuations in inflammatory marker levels.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The long-term stability of C-reactive protein values (within-person correlation coefficient, 0.59; 95 percent confidence interval, 0.52 to 0.66) was similar to that of both blood pressure and total serum cholesterol. After adjustment for base-line values for established risk factors, the odds ratio for coronary heart disease was 1.45 (95 percent confidence interval, 1.25 to 1.68) in a comparison of participants in the top third of the group with respect to base-line C-reactive protein values with those in the bottom third, and similar overall findings were observed in an updated meta-analysis involving a total of 7068 patients with coronary heart disease. By comparison, the odds ratios in the Reykjavik Study for coronary heart disease were somewhat weaker for the erythrocyte sedimentation rate (1.30; 95 percent confidence interval, 1.13 to 1.51) and the von Willebrand factor concentration (1.11; 95 percent confidence interval, 0.97 to 1.27) but generally stronger for established risk factors, such as an increased total cholesterol concentration (2.35; 95 percent confidence interval, 2.03 to 2.74) and cigarette smoking (1.87; 95 percent confidence interval, 1.62 to 2.16).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      C-reactive protein is a relatively moderate predictor of coronary heart disease. Recommendations regarding its use in predicting the likelihood of coronary heart disease may need to be reviewed.
+     </abstracttext>
+     <copyrightinformation>
+      Copyright 2004 Massachusetts Medical Society
+     </copyrightinformation>
+    </abstract>
+    <affiliation>
+     Department of Public Health and Primary Care, Institute of Public Health, University of Cambridge, Cambridge, United Kingdom.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Danesh
+      </lastname>
+      <forename>
+       John
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wheeler
+      </lastname>
+      <forename>
+       Jeremy G
+      </forename>
+      <initials>
+       JG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hirschfield
+      </lastname>
+      <forename>
+       Gideon M
+      </forename>
+      <initials>
+       GM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Eda
+      </lastname>
+      <forename>
+       Shinichi
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Eiriksdottir
+      </lastname>
+      <forename>
+       Gudny
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rumley
+      </lastname>
+      <forename>
+       Ann
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lowe
+      </lastname>
+      <forename>
+       Gordon D O
+      </forename>
+      <initials>
+       GD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pepys
+      </lastname>
+      <forename>
+       Mark B
+      </forename>
+      <initials>
+       MB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gudnason
+      </lastname>
+      <forename>
+       Vilmundur
+      </forename>
+      <initials>
+       V
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Biological Markers
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      von Willebrand Factor
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      9007-41-4
+     </registrynumber>
+     <nameofsubstance>
+      C-Reactive Protein
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2004 Apr 1;350(14):1450-2
+     </refsource>
+     <pmid version="1">
+      15070796
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2004 Jul 15;351(3):295-8; author reply 295-8
+     </refsource>
+     <pmid version="1">
+      15254289
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2004 Sep-Oct;141(2):51
+     </refsource>
+     <pmid version="1">
+      15341471
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2004 Jul 15;351(3):295-8; author reply 295-8
+     </refsource>
+     <pmid version="1">
+      15257565
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2004 Jul 15;351(3):295-8; author reply 295-8
+     </refsource>
+     <pmid version="1">
+      15257563
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2004 Jul 15;351(3):295-8; author reply 295-8
+     </refsource>
+     <pmid version="1">
+      15257564
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Biological Markers
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Sedimentation
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      C-Reactive Protein
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      analysis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Case-Control Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Coronary Disease
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Inflammation
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Meta-Analysis as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Odds Ratio
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      von Willebrand Factor
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      analysis
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     15070788
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJMoa032804
+    </articleid>
+    <articleid idtype="pii">
+     350/14/1387
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

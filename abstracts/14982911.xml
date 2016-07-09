@@ -1,0 +1,428 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    14982911
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     25
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     27
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1538-3598
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       291
+      </volume>
+      <issue>
+       8
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Feb
+       </month>
+       <day>
+        25
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Antihypertensive treatment based on blood pressure measurement at home or in the physician's office: a randomized controlled trial.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      955-64
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Self-measurement of blood pressure is increasingly used in clinical practice, but how it affects the treatment of hypertension requires further study.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To compare use of blood pressure (BP) measurements taken in physicians' offices and at home in the treatment of patients with hypertension.
+     </abstracttext>
+     <abstracttext label="DESIGN, SETTING, AND PARTICIPANTS" nlmcategory="METHODS">
+      Blinded randomized controlled trial conducted from March 1997 to April 2002 at 56 primary care practices and 3 hospital-based outpatient clinics in Belgium and 1 specialized hypertension clinic in Dublin, Ireland. Four hundred participants with a diastolic BP (DBP) of 95 mm Hg or more as measured at physicians' offices were enrolled and followed up for 1 year.
+     </abstracttext>
+     <abstracttext label="INTERVENTIONS" nlmcategory="METHODS">
+      Antihypertensive drug treatment was adjusted in a stepwise fashion based on either the self-measured DBP at home (average of 6 measurements per day during 1 week; n = 203) or the average of 3 sitting DBP readings at the physician's office (n = 197). If the DBP guiding treatment was above (&gt;89 mm Hg), at (80-89 mm Hg), or below (&lt;80 mm Hg) target, a physician blinded to randomization intensified antihypertensive treatment, left it unchanged, or reduced it, respectively.
+     </abstracttext>
+     <abstracttext label="MEAN OUTCOME MEASURES" nlmcategory="METHODS">
+      Office and home BP levels, 24-hour ambulatory BP, intensity of drug treatment, electrocardiographic and echocardiographic left ventricular mass, symptoms reported by questionnaire, and costs of treatment.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      At the end of the study (median follow-up, 350 days; interquartile range, 326-409 days), more home BP than office BP patients had stopped antihypertensive drug treatment (25.6% vs 11.3%; P&lt;.001) with no significant difference in the proportions of patients progressing to multiple-drug treatment (38.7% vs 45.1%; P =.14). The final office, home, and 24-hour ambulatory BP measurements were higher (P&lt;.001) in the home BP group than in the office BP group. The mean baseline-adjusted systolic/diastolic differences between the home and office BP groups averaged 6.8/3.5 mm Hg, 4.9/2.9 mm Hg, and 4.9/2.9 mm Hg, respectively. Left ventricular mass and reported symptoms were similar in the 2 groups. Costs per 100 patients followed up for 1 month were only slightly lower in the home BP group (3875 vs 3522 [4921 dollars vs 4473 dollars]; P =.04).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Adjustment of antihypertensive treatment based on home BP instead of office BP led to less intensive drug treatment and marginally lower costs but also to less BP control, with no differences in general well-being or left ventricular mass. Self-measurement allowed identification of patients with white-coat hypertension. Our findings support a stepwise strategy for the evaluation of BP in which self-measurement and ambulatory monitoring are complementary to conventional office measurement and highlight the need for prospective outcome studies to establish the normal range of home-measured BP.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Study Coordinating Centre, Hypertension and Cardiovascular Rehabilitation Unit, Department of Molecular and Cardiovascular Research, University of Leuven, Leuven, Belgium. jan.staessen@med.kuleuven.ac.be
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Staessen
+      </lastname>
+      <forename>
+       Jan A
+      </forename>
+      <initials>
+       JA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Den Hond
+      </lastname>
+      <forename>
+       Elly
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Celis
+      </lastname>
+      <forename>
+       Hilde
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Fagard
+      </lastname>
+      <forename>
+       Robert
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Keary
+      </lastname>
+      <forename>
+       Louis
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Vandenhoven
+      </lastname>
+      <forename>
+       Guy
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       O'Brien
+      </lastname>
+      <forename>
+       Eoin T
+      </forename>
+      <initials>
+       ET
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       Treatment of Hypertension Based on Home or Office Blood Pressure (THOP) Trial Investigators
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antihypertensive Agents
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Evid Based Nurs. 2004 Jul;7(3):80
+     </refsource>
+     <pmid version="1">
+      15252908
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2004 May 19;291(19):2315; author reply 2315-6
+     </refsource>
+     <pmid version="1">
+      15150201
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antihypertensive Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Blood Pressure Monitoring, Ambulatory
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cost Savings
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Echocardiography
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Electrocardiography
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fees, Medical
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertension
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      psychology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Office Visits
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Self Care
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Single-Blind Method
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     14982911
+    </articleid>
+    <articleid idtype="doi">
+     10.1001/jama.291.8.955
+    </articleid>
+    <articleid idtype="pii">
+     291/8/955
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

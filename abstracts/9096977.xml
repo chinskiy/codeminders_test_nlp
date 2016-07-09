@@ -1,0 +1,536 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    9096977
+   </pmid>
+   <datecreated>
+    <year>
+     1997
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     09
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1997
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     09
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0149-5992
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       20
+      </volume>
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <year>
+        1997
+       </year>
+       <month>
+        Apr
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Diabetes care
+     </title>
+     <isoabbreviation>
+      Diabetes Care
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Effects of diet and exercise in preventing NIDDM in people with impaired glucose tolerance. The Da Qing IGT and Diabetes Study.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      537-44
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      Individuals with impaired glucose tolerance (IGT) have a high risk of developing NIDDM. The purpose of this study was to determine whether diet and exercise interventions in those with IGT may delay the development of NIDDM, i.e., reduce the incidence of NIDDM, and thereby reduce the overall incidence of diabetic complications, such as cardiovascular, renal, and retinal disease, and the excess mortality attributable to these complications.
+     </abstracttext>
+     <abstracttext label="RESEARCH DESIGN AND METHODS" nlmcategory="METHODS">
+      In 1986, 110,660 men and women from 33 health care clinics in the city of Da Qing, China, were screened for IGT and NIDDM. Of these individuals, 577 were classified (using World Health Organization criteria) as having IGT. Subjects were randomized by clinic into a clinical trial, either to a control group or to one of three active treatment groups: diet only, exercise only, or diet plus exercise. Follow-up evaluation examinations were conducted at 2-year intervals over a 6-year period to identify subjects who developed NIDDM. Cox's proportional hazard analysis was used to determine if the incidence of NIDDM varied by treatment assignment.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The cumulative incidence of diabetes at 6 years was 67.7% (95% CI, 59.8-75.2) in the control group compared with 43.8% (95% CI, 35.5-52.3) in the diet group, 41.1% (95% CI, 33.4-49.4) in the exercise group, and 46.0% (95% CI, 37.3-54.7) in the diet-plus-exercise group (P &lt; 0.05). When analyzed by clinic, each of the active intervention groups differed significantly from the control clinics (P &lt; 0.05). The relative decrease in rate of development of diabetes in the active treatment groups was similar when subjects were stratified as lean or overweight (BMI &lt; or &gt; or = 25 kg/m2). In a proportional hazards analysis adjusted for differences in baseline BMI and fasting glucose, the diet, exercise, and diet-plus-exercise interventions were associated with 31% (P &lt; 0.03), 46% (P &lt; 0.0005), and 42% (P &lt; 0.005) reductions in risk of developing diabetes, respectively.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Diet and/or exercise interventions led to a significant decrease in the incidence of diabetes over a 6-year period among those with IGT.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Endocrinology, China-Japan Friendship Hospital, Beijing, China.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Pan
+      </lastname>
+      <forename>
+       X R
+      </forename>
+      <initials>
+       XR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Li
+      </lastname>
+      <forename>
+       G W
+      </forename>
+      <initials>
+       GW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hu
+      </lastname>
+      <forename>
+       Y H
+      </forename>
+      <initials>
+       YH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wang
+      </lastname>
+      <forename>
+       J X
+      </forename>
+      <initials>
+       JX
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Yang
+      </lastname>
+      <forename>
+       W Y
+      </forename>
+      <initials>
+       WY
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       An
+      </lastname>
+      <forename>
+       Z X
+      </forename>
+      <initials>
+       ZX
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hu
+      </lastname>
+      <forename>
+       Z X
+      </forename>
+      <initials>
+       ZX
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lin
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Xiao
+      </lastname>
+      <forename>
+       J Z
+      </forename>
+      <initials>
+       JZ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cao
+      </lastname>
+      <forename>
+       H B
+      </forename>
+      <initials>
+       HB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Liu
+      </lastname>
+      <forename>
+       P A
+      </forename>
+      <initials>
+       PA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jiang
+      </lastname>
+      <forename>
+       X G
+      </forename>
+      <initials>
+       XG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jiang
+      </lastname>
+      <forename>
+       Y Y
+      </forename>
+      <initials>
+       YY
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wang
+      </lastname>
+      <forename>
+       J P
+      </forename>
+      <initials>
+       JP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Zheng
+      </lastname>
+      <forename>
+       H
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Zhang
+      </lastname>
+      <forename>
+       H
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bennett
+      </lastname>
+      <forename>
+       P H
+      </forename>
+      <initials>
+       PH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Howard
+      </lastname>
+      <forename>
+       B V
+      </forename>
+      <initials>
+       BV
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Diabetes Care
+    </medlineta>
+    <nlmuniqueid>
+     7805975
+    </nlmuniqueid>
+    <issnlinking>
+     0149-5992
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Blood Glucose
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Med J Aust. 2003 Apr 7;178(7):346-7
+     </refsource>
+     <pmid version="1">
+      12670282
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Glucose
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Body Mass Index
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      China
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Combined Modality Therapy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetes Mellitus
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetes Mellitus, Type 2
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Exercise
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Follow-Up Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Glucose Intolerance
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diet therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Incidence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Mass Screening
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Obesity
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Proportional Hazards Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Time Factors
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1997
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1997
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1997
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     9096977
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

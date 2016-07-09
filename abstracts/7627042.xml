@@ -1,0 +1,256 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+    <medlinecitation owner="NLM" status="MEDLINE">
+        <pmid version="1">7627042</pmid>
+        <datecreated>
+            <year>1995</year>
+            <month>09</month>
+            <day>07</day>
+        </datecreated>
+        <datecompleted>
+            <year>1995</year>
+            <month>09</month>
+            <day>07</day>
+        </datecompleted>
+        <daterevised>
+            <year>2010</year>
+            <month>03</month>
+            <day>24</day>
+        </daterevised>
+        <article pubmodel="Print">
+            <journal>
+                <issn issntype="Print">0959-8138</issn>
+                <journalissue citedmedium="Print">
+                    <volume>311</volume>
+                    <issue>6999</issue>
+                    <pubDate>
+                        <year>1995</year>
+                        <month>Jul</month>
+                        <day>22</day>
+                    </pubDate>
+                </journalissue>
+                <title>BMJ (Clinical research ed.)</title>
+                <isoabbreviation>BMJ</isoabbreviation>
+            </journal>
+            <articletitle>Predicting acute maxillary sinusitis in a general practice population.</articletitle>
+            <pagination>
+                <medlinepgn>233-6</medlinepgn>
+            </pagination>
+            <abstract>
+                <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">To evaluate the diagnostic value of symptoms, signs, erythrocyte sedimentation rate, and C reactive protein for acute maxillary sinusitis.</abstracttext>
+                <abstracttext label="DESIGN" nlmcategory="METHODS">Prospective cohort study.</abstracttext>
+                <abstracttext label="SETTING" nlmcategory="METHODS">Danish general practice in cooperation with the otorhinolaryngology and neuroradiology department at Aalborg County Hospital.</abstracttext>
+                <abstracttext label="SUBJECTS" nlmcategory="METHODS">174 patients aged 18-65 years who were suspected by the general practitioner of having acute maxillary sinusitis.</abstracttext>
+                <abstracttext label="MAIN OUTCOME MEASURE" nlmcategory="METHODS">The independent association of symptoms, signs, erythrocyte sedimentation rate, and concentration of C reactive protein in patients with acute maxillary sinusitis defined as purulent or mucopurulent antral aspirate.</abstracttext>
+                <abstracttext label="RESULTS" nlmcategory="RESULTS">Only raised erythrocyte sedimentation rate (P = 0.01) and raised C reactive protein (P = 0.007) were found to be independently associated with a diagnosis of acute maxillary sinusitis. The combination of the two variables had a sensitivity of 0.82 and a specificity of 0.57.</abstracttext>
+                <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">Erythrocyte sedimentation rate and C reactive protein are useful diagnostic criteria for acute maxillary sinusitis.</abstracttext>
+            </abstract>
+            <affiliation>Department of Otorhinolaryngology, Aalborg County Hospital, Denmark.</affiliation>
+            <authorList completeyn="Y">
+                <author validyn="Y">
+                    <lastname>Hansen</lastname>
+                    <forename>J G</forename>
+                    <initials>JG</initials>
+                </author>
+                <author validyn="Y">
+                    <lastname>Schmidt</lastname>
+                    <forename>H</forename>
+                    <initials>H</initials>
+                </author>
+                <author validyn="Y">
+                    <lastname>Rosborg</lastname>
+                    <forename>J</forename>
+                    <initials>J</initials>
+                </author>
+                <author validyn="Y">
+                    <lastname>Lund</lastname>
+                    <forename>E</forename>
+                    <initials>E</initials>
+                </author>
+            </authorList>
+            <language>eng</language>
+            <publicationtypeList>
+                <publicationtype>Journal Article</publicationtype>
+                <publicationtype>Research Support, Non-U.S. Gov't</publicationtype>
+            </publicationtypeList>
+        </article>
+        <medlineJournalinfo>
+            <country>ENGLAND</country>
+            <medlineta>BMJ</medlineta>
+            <nlmUniqueid>8900488</nlmUniqueid>
+            <issnLinking>0959-535X</issnLinking>
+        </medlineJournalinfo>
+        <chemicalList>
+            <chemical>
+                <registrynumber>9007-41-4</registrynumber>
+                <nameofsubstance>C-Reactive Protein</nameofsubstance>
+            </chemical>
+        </chemicalList>
+        <citationsubset>AIM</citationsubset>
+        <citationsubset>IM</citationsubset>
+        <commentscorrectionsList>
+            <commentscorrections reftype="Cites">
+                <refsource>Ugeskr Laeger. 1994 Mar 28;156(13):1934-5, 1938-40</refsource>
+                <pmid version="1">7516592</pmid>
+            </commentscorrections>
+            <commentscorrections reftype="Cites">
+                <refsource>Clin Otolaryngol Allied Sci. 1994 Aug;19(4):287-9</refsource>
+                <pmid version="1">7994882</pmid>
+            </commentscorrections>
+            <commentscorrections reftype="Cites">
+                <refsource>ORL J Otorhinolaryngol Relat Spec. 1976;38(5):298-308</refsource>
+                <pmid version="1">1034250</pmid>
+            </commentscorrections>
+            <commentscorrections reftype="Cites">
+                <refsource>Rhinology. 1993 Dec;31(4):145-9</refsource>
+                <pmid version="1">8140380</pmid>
+            </commentscorrections>
+            <commentscorrections reftype="Cites">
+                <refsource>Tidsskr Nor Laegeforen. 1993 Feb 28;113(6):700-3</refsource>
+                <pmid version="1">8465332</pmid>
+            </commentscorrections>
+            <commentscorrections reftype="Cites">
+                <refsource>BMJ. 1992 Sep 19;305(6855):684-7</refsource>
+                <pmid version="1">1298231</pmid>
+            </commentscorrections>
+            <commentscorrections reftype="Cites">
+                <refsource>Ann Intern Med. 1992 Nov 1;117(9):705-10</refsource>
+                <pmid version="1">1416571</pmid>
+            </commentscorrections>
+            <commentscorrections reftype="Cites">
+                <refsource>J Allergy Clin Immunol. 1992 Sep;90(3 Pt 2):436-41</refsource>
+                <pmid version="1">1527333</pmid>
+            </commentscorrections>
+            <commentscorrections reftype="Cites">
+                <refsource>Scand J Prim Health Care. 1991 Mar;9(1):3-10</refsource>
+                <pmid version="1">2041926</pmid>
+            </commentscorrections>
+            <commentscorrections reftype="Cites">
+                <refsource>Acta Otolaryngol. 1988 Mar-Apr;105(3-4):343-9</refsource>
+                <pmid version="1">3389120</pmid>
+            </commentscorrections>
+            <commentscorrections reftype="Cites">
+                <refsource>Laryngoscope. 1984 Oct;94(10):1319-24</refsource>
+                <pmid version="1">6482629</pmid>
+            </commentscorrections>
+            <commentscorrections reftype="Cites">
+                <refsource>Ugeskr Laeger. 1986 Sep 29;148(40):2540-3</refsource>
+                <pmid version="1">3775952</pmid>
+            </commentscorrections>
+            <commentscorrections reftype="Cites">
+                <refsource>Laryngoscope. 1985 Jul;95(7 Pt 1):851-3</refsource>
+                <pmid version="1">3892209</pmid>
+            </commentscorrections>
+            <commentscorrections reftype="Cites">
+                <refsource>Ann Otol Rhinol Laryngol. 1984 Jan-Feb;93(1 Pt 1):37-8</refsource>
+                <pmid version="1">6703596</pmid>
+            </commentscorrections>
+            <commentscorrections reftype="Cites">
+                <refsource>Ann Otol Rhinol Laryngol. 1981 May-Jun;90(3 Pt 1):272-5</refsource>
+                <pmid version="1">7271134</pmid>
+            </commentscorrections>
+            <commentscorrections reftype="Commentin">
+                <refsource>BMJ. 1995 Oct 14;311(7011):1022; author reply 1022-3</refsource>
+                <pmid version="1">7580598</pmid>
+            </commentscorrections>
+            <commentscorrections reftype="Commentin">
+                <refsource>BMJ. 1995 Oct 14;311(7011):1022; author reply 1022-3</refsource>
+                <pmid version="1">7580599</pmid>
+            </commentscorrections>
+        </commentscorrectionsList>
+        <meshheadingList>
+            <meshheading>
+                <descriptorname majortopicyn="N">Acute Disease</descriptorname>
+            </meshheading>
+            <meshheading>
+                <descriptorname majortopicyn="N">Adolescent</descriptorname>
+            </meshheading>
+            <meshheading>
+                <descriptorname majortopicyn="N">Adult</descriptorname>
+            </meshheading>
+            <meshheading>
+                <descriptorname majortopicyn="N">Age Factors</descriptorname>
+            </meshheading>
+            <meshheading>
+                <descriptorname majortopicyn="N">Aged</descriptorname>
+            </meshheading>
+            <meshheading>
+                <descriptorname majortopicyn="N">Blood Sedimentation</descriptorname>
+            </meshheading>
+            <meshheading>
+                <descriptorname majortopicyn="N">C-Reactive Protein</descriptorname>
+                <qualifiername majortopicyn="N">analysis</qualifiername>
+            </meshheading>
+            <meshheading>
+                <descriptorname majortopicyn="N">Cohort Studies</descriptorname>
+            </meshheading>
+            <meshheading>
+                <descriptorname majortopicyn="N" Type="Geographic">Denmark</descriptorname>
+            </meshheading>
+            <meshheading>
+                <descriptorname majortopicyn="N">Evaluation Studies as Topic</descriptorname>
+            </meshheading>
+            <meshheading>
+                <descriptorname majortopicyn="N">Family Practice</descriptorname>
+            </meshheading>
+            <meshheading>
+                <descriptorname majortopicyn="N">Female</descriptorname>
+            </meshheading>
+            <meshheading>
+                <descriptorname majortopicyn="N">Humans</descriptorname>
+            </meshheading>
+            <meshheading>
+                <descriptorname majortopicyn="N">Male</descriptorname>
+            </meshheading>
+            <meshheading>
+                <descriptorname majortopicyn="N">Maxillary Sinusitis</descriptorname>
+                <qualifiername majortopicyn="Y">diagnosis</qualifiername>
+            </meshheading>
+            <meshheading>
+                <descriptorname majortopicyn="N">Middle Aged</descriptorname>
+            </meshheading>
+            <meshheading>
+                <descriptorname majortopicyn="N">Prospective Studies</descriptorname>
+            </meshheading>
+            <meshheading>
+                <descriptorname majortopicyn="N">Sensitivity and Specificity</descriptorname>
+            </meshheading>
+            <meshheading>
+                <descriptorname majortopicyn="N">Sex Factors</descriptorname>
+            </meshheading>
+        </meshheadingList>
+        <otherid source="NLM">PMC2550286</otherid>
+    </medlinecitation>
+    <pubmeddata>
+        <history>
+            <pubmedpubdate pubstatus="pubmed">
+                <year>1995</year>
+                <month>7</month>
+                <day>22</day>
+            </pubmedpubdate>
+            <pubmedpubdate pubstatus="medline">
+                <year>1995</year>
+                <month>7</month>
+                <day>22</day>
+                <hour>0</hour>
+                <minute>1</minute>
+            </pubmedpubdate>
+            <pubmedpubdate pubstatus="entrez">
+                <year>1995</year>
+                <month>7</month>
+                <day>22</day>
+                <hour>0</hour>
+                <minute>0</minute>
+            </pubmedpubdate>
+        </history>
+        <publicationstatus>ppublish</publicationstatus>
+        <articleidList>
+            <articleid idtype="pubmed">7627042</articleid>
+            <articleid idtype="pmc">PMC2550286</articleid>
+        </articleidList>
+    </pubmeddata>
+</pubmedarticle>
+</pubmedarticleset>
+

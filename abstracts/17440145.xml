@@ -1,0 +1,468 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    17440145
+   </pmid>
+   <datecreated>
+    <year>
+     2007
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     18
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2007
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     25
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     19
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1538-3598
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       297
+      </volume>
+      <issue>
+       15
+      </issue>
+      <pubdate>
+       <year>
+        2007
+       </year>
+       <month>
+        Apr
+       </month>
+       <day>
+        18
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Clinical response and risk for reported suicidal ideation and suicide attempts in pediatric antidepressant treatment: a meta-analysis of randomized controlled trials.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1683-96
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      The US Food and Drug Administration (FDA) has issued warnings that use of antidepressant medications poses a small but significantly increased risk of suicidal ideation/suicide attempt for children and adolescents.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To assess the efficacy and risk of reported suicidal ideation/suicide attempt of antidepressants for treatment of pediatric major depressive disorder (MDD), obsessive-compulsive disorder (OCD), and non-OCD anxiety disorders.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES AND STUDY SELECTION" nlmcategory="METHODS">
+      PubMed (1988 to July 2006), relevant US and British regulatory agency reports, published abstracts of important scientific meetings (1998-2006), clinical trial registries, and information from authors. Studies were published and unpublished randomized, placebo-controlled, parallel-group trials of second-generation antidepressants (selective serotonin reuptake inhibitors, nefazodone, venlafaxine, and mirtazapine) in participants younger than 19 years with MDD, OCD, or non-OCD anxiety disorders.
+     </abstracttext>
+     <abstracttext label="DATA EXTRACTION" nlmcategory="METHODS">
+      Information was extracted on study characteristics, efficacy outcomes, and spontaneously reported suicidal ideation/suicide attempt.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      Twenty-seven trials of pediatric MDD (n = 15), OCD (n = 6), and non-OCD anxiety disorders (n = 6) were selected, and risk differences for response and for suicidal ideation/suicide attempt estimated by random-effects methods. Pooled risk differences in rates of primary study-defined measures of responder status significantly favored antidepressants for MDD (11.0%; [95% confidence interval {CI}, 7.1% to 14.9%]), OCD (19.8% [95% CI, 13.0% to 26.6%), and non-OCD anxiety disorders (37.1% [22.5% to 51.7%]), corresponding to a number needed to treat (NNT) of 10 (95% CI, 7 to 15), 6 (4 to 8), and 3 (2 to 5), respectively. While there was increased risk difference of suicidal ideation/suicide attempt across all trials and indications for drug vs placebo (0.7%; 95% CI, 0.1% to 1.3%) (number needed to harm, 143 [95% CI, 77 to 1000]), the pooled risk differences within each indication were not statistically significant: 0.9% (95% CI, -0.1% to 1.9%) for MDD, 0.5% (-1.2% to 2.2%) for OCD, and 0.7% (-0.4% to 1.8%) for non-OCD anxiety disorders. There were no completed suicides. Age-stratified analyses showed that for children younger than 12 years with MDD, only fluoxetine showed benefit over placebo. In MDD trials, efficacy was moderated by age, duration of depression, and number of sites in the treatment trial.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Relative to placebo, antidepressants are efficacious for pediatric MDD, OCD, and non-OCD anxiety disorders, although the effects are strongest in non-OCD anxiety disorders, intermediate in OCD, and more modest in MDD. Benefits of antidepressants appear to be much greater than risks from suicidal ideation/suicide attempt across indications, although comparison of benefit to risk varies as a function of indication, age, chronicity, and study conditions.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Pediatrics and Columbus Children's Research Institute, The Ohio State University, Columbus, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Bridge
+      </lastname>
+      <forename>
+       Jeffrey A
+      </forename>
+      <initials>
+       JA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Iyengar
+      </lastname>
+      <forename>
+       Satish
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Salary
+      </lastname>
+      <forename>
+       Cheryl B
+      </forename>
+      <initials>
+       CB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Barbe
+      </lastname>
+      <forename>
+       Rémy P
+      </forename>
+      <initials>
+       RP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Birmaher
+      </lastname>
+      <forename>
+       Boris
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pincus
+      </lastname>
+      <forename>
+       Harold Alan
+      </forename>
+      <initials>
+       HA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ren
+      </lastname>
+      <forename>
+       Lulu
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Brent
+      </lastname>
+      <forename>
+       David A
+      </forename>
+      <initials>
+       DA
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       1UL1RR024156-01
+      </grantid>
+      <acronym>
+       RR
+      </acronym>
+      <agency>
+       NCRR NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       K01-MH069948
+      </grantid>
+      <acronym>
+       MH
+      </acronym>
+      <agency>
+       NIMH NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       P30-MH066371
+      </grantid>
+      <acronym>
+       MH
+      </acronym>
+      <agency>
+       NIMH NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, N.I.H., Extramural
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antidepressive Agents, Second-Generation
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Evid Based Ment Health. 2007 Nov;10(4):108
+     </refsource>
+     <pmid version="1">
+      17962653
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2007 Aug 8;298(6):626; author reply 627
+     </refsource>
+     <pmid version="1">
+      17684184
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2007 Aug 8;298(6):626-7; author reply 627
+     </refsource>
+     <pmid version="1">
+      17684183
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antidepressive Agents, Second-Generation
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anxiety Disorders
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Depressive Disorder, Major
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Obsessive-Compulsive Disorder
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Suicide
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      psychology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Suicide, Attempted
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      psychology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2007
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2007
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2007
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     297/15/1683
+    </articleid>
+    <articleid idtype="doi">
+     10.1001/jama.297.15.1683
+    </articleid>
+    <articleid idtype="pubmed">
+     17440145
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

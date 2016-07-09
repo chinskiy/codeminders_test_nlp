@@ -1,0 +1,348 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    8607590
+   </pmid>
+   <datecreated>
+    <year>
+     1996
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     23
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1996
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     23
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0003-4819
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       124
+      </volume>
+      <issue>
+       7
+      </issue>
+      <pubdate>
+       <year>
+        1996
+       </year>
+       <month>
+        Apr
+       </month>
+       <day>
+        1
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Annals of internal medicine
+     </title>
+     <isoabbreviation>
+      Ann. Intern. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     The effect of dietary protein restriction on the progression of diabetic and nondiabetic renal diseases: a meta-analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      627-32
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Dietary protein has long been thought to play a role in the progression of chronic renal disease, but clinical trials to date have not consistently shown that dietary protein restriction is beneficial.
+     </abstracttext>
+     <abstracttext label="PURPOSE" nlmcategory="OBJECTIVE">
+      To use meta-analysis to assess the efficacy of dietary protein restriction in previously published studies of diabetic and nondiabetic renal diseases, including the recently completed Modification of Diet in Renal Disease Study.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      The English-language medical literature published from January 1966 through December 1994 was searched for studies examining the effect of low-protein diets in humans with chronic renal disease. A total of 1413 patients in five studies on nondiabetic renal disease (mean length of follow-up, 18 to 36 months) and 108 patients in five studies of type I diabetes mellitus (mean length of follow-up, 9 to 35 months) were included.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION" nlmcategory="METHODS">
+      Randomized, controlled studies were selected for nondiabetic renal disease; randomized, controlled studies or time-controlled studies with nonrandomized crossover design were selected for diabetic nephropathy.
+     </abstracttext>
+     <abstracttext label="DATA EXTRACTION" nlmcategory="METHODS">
+      Data in tables, figures, or text were independently extracted by two of the authors.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      The relative risk for progression of renal disease in patients receiving a low-protein diet compared with patients receiving a usual-protein diet was calculated by using a random-effects model. In five studies of nondiabetic renal disease, a low-protein diet significantly reduced the risk for renal failure or death (relative risk, 0.67 [95% Cl, 0.50 to 0.89]). In five studies of insulin-dependent diabetes mellitus, a low-protein diet significantly slowed the increase in urinary albumin level or the decline in glomerular filtration rate or creatinine clearance (relative risk, 0.56 [Cl, 0.40 to 0.77]). Tests for heterogeneity showed no significant differences in relative risk among studies of either diabetic or nondiabetic renal disease. No significant differences were seen between diet groups in pooled mean arterial blood pressure (diabetic and nondiabetic patients) or glycosylated hemoglobin level (diabetic patients only).
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Dietary protein restriction effectively slows the progression of both diabetic and nondiabetic renal diseases.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     University of California, Irvine, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Pedrini
+      </lastname>
+      <forename>
+       M T
+      </forename>
+      <initials>
+       MT
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Levey
+      </lastname>
+      <forename>
+       A S
+      </forename>
+      <initials>
+       AS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lau
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Chalmers
+      </lastname>
+      <forename>
+       T C
+      </forename>
+      <initials>
+       TC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wang
+      </lastname>
+      <forename>
+       P H
+      </forename>
+      <initials>
+       PH
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Ann Intern Med
+    </medlineta>
+    <nlmuniqueid>
+     0372351
+    </nlmuniqueid>
+    <issnlinking>
+     0003-4819
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Ann Intern Med. 1997 Feb 15;126(4):331; author reply 331-2
+     </refsource>
+     <pmid version="1">
+      9036810
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Ann Intern Med. 1997 Feb 15;126(4):330-1; author reply 331-2
+     </refsource>
+     <pmid version="1">
+      9036809
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 1996 Jul-Aug;125(1):18
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Controlled Clinical Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diabetic Nephropathies
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diet therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Diet, Protein-Restricted
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Disease Progression
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Kidney Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diet therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1996
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1996
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1996
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     8607590
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

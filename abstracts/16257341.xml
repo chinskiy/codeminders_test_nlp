@@ -1,0 +1,376 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    16257341
+   </pmid>
+   <datecreated>
+    <year>
+     2005
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     31
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     06
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1474-547X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       366
+      </volume>
+      <issue>
+       9496
+      </issue>
+      <pubdate>
+       <medlinedate>
+        2005 Oct 29-Nov 4
+       </medlinedate>
+      </pubdate>
+     </journalissue>
+     <title>
+      Lancet
+     </title>
+     <isoabbreviation>
+      Lancet
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Should beta blockers remain first choice in the treatment of primary hypertension? A meta-analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1545-53
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Beta blockers have been used widely in the treatment of hypertension and are recommended as first-line drugs in hypertension guidelines. However, a preliminary analysis has shown that atenolol is not very effective in hypertension. We aim to substantially enlarge the data on atenolol and analyse the effect of different beta blockers.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      The Cochrane Library and PubMed were searched for beta blocker treatment in patients with primary hypertension. Data were then entered into the Cochrane Collaboration Review Manager package and were summarised in meta-analyses. 13 randomised controlled trials (n=105 951) were included in a meta-analysis comparing treatment with beta blockers with other antihypertensive drugs. Seven studies (n=27 433) were included in a comparison of beta blockers and placebo or no treatment.
+     </abstracttext>
+     <abstracttext label="FINDINGS" nlmcategory="RESULTS">
+      The relative risk of stroke was 16% higher for beta blockers (95% CI 4-30%) than for other drugs. There was no difference for myocardial infarction. When the effect of beta blockers was compared with that of placebo or no treatment, the relative risk of stroke was reduced by 19% for all beta blockers (7-29%), about half that expected from previous hypertension trials. There was no difference for myocardial infarction or mortality.
+     </abstracttext>
+     <abstracttext label="INTERPRETATION" nlmcategory="CONCLUSIONS">
+      In comparison with other antihypertensive drugs, the effect of beta blockers is less than optimum, with a raised risk of stroke. Hence, we believe that beta blockers should not remain first choice in the treatment of primary hypertension and should not be used as reference drugs in future randomised controlled trials of hypertension.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Public Health and Clinical Medicine, Umeå University Hospital, Umeå, Sweden. Larsh.lindholm@fammed.umu.se
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Lindholm
+      </lastname>
+      <forename>
+       Lars Hjalmar
+      </forename>
+      <initials>
+       LH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Carlberg
+      </lastname>
+      <forename>
+       Bo
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Samuelsson
+      </lastname>
+      <forename>
+       Ola
+      </forename>
+      <initials>
+       O
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Lancet
+    </medlineta>
+    <nlmuniqueid>
+     2985213R
+    </nlmuniqueid>
+    <issnlinking>
+     0140-6736
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Adrenergic beta-Antagonists
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      29122-68-7
+     </registrynumber>
+     <nameofsubstance>
+      Atenolol
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2006 May-Jun;144(3):67
+     </refsource>
+     <pmid version="1">
+      16646611
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Evid Based Med. 2006 Jun;11(3):85
+     </refsource>
+     <pmid version="1">
+      17213106
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2005 Oct 29-Nov 4;366(9496):1510-2
+     </refsource>
+     <pmid version="1">
+      16257329
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2006 Jan 21;367(9506):208; author reply 210
+     </refsource>
+     <pmid version="1">
+      16427485
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Evid Based Cardiovasc Med. 2006 Mar;10(1):13-4
+     </refsource>
+     <pmid version="1">
+      16530660
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adrenergic beta-Antagonists
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Atenolol
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Pressure
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertension
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Stroke
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    47
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2005
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2005
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     S0140-6736(05)67573-3
+    </articleid>
+    <articleid idtype="doi">
+     10.1016/S0140-6736(05)67573-3
+    </articleid>
+    <articleid idtype="pubmed">
+     16257341
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

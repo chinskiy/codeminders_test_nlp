@@ -1,0 +1,398 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15505279
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     26
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     23
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2008
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     21
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0361-803X
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       183
+      </volume>
+      <issue>
+       5
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Nov
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      AJR. American journal of roentgenology
+     </title>
+     <isoabbreviation>
+      AJR Am J Roentgenol
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Radiologists' performance for differentiating benign from malignant lung nodules on high-resolution CT using computer-estimated likelihood of malignancy.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1209-15
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      The purpose of our study was to evaluate whether a computer-aided diagnosis (CAD) scheme can assist radiologists in distinguishing small benign from malignant lung nodules on high-resolution CT (HRCT).
+     </abstracttext>
+     <abstracttext label="MATERIALS AND METHODS" nlmcategory="METHODS">
+      We developed an automated computerized scheme for determining the likelihood of malignancy of lung nodules on multiple HRCT slices; the likelihood estimate was obtained from various objective features of the nodules using linear discriminant analysis. The data set used in this observer study consisted of 28 primary lung cancers (6-20 mm) and 28 benign nodules. Cancer cases included nodules with pure ground-glass opacity, mixed ground-glass opacity, and solid opacity. Benign nodules were selected by matching their size and pattern to the malignant nodules. Consecutive region-of-interest images for each nodule on HRCT were displayed for interpretation in stacked mode on a cathode ray tube monitor. The images were presented to 16 radiologists-first without and then with the computer output-who were asked to indicate their confidence level regarding the malignancy of a nodule. Performance was evaluated by receiver operating characteristic (ROC) analysis.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The area under the ROC curve (Az value) of the CAD scheme alone was 0.831 for distinguishing benign from malignant nodules. The average Az value for radiologists was improved with the aid of the CAD scheme from 0.785 to 0.853 by a statistically significant level (p = 0.016). The radiologists' diagnostic performance with the CAD scheme was more accurate than that of the CAD scheme alone (p &lt; 0.05) and also that of radiologists alone.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      CAD has the potential to improve radiologists' diagnostic accuracy in distinguishing small benign nodules from malignant ones on HRCT.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Radiology, Kurt Rossmann Laboratories for Radiologic Image Research, MC-2026, The University of Chicago, 5841 S Maryland Avenue, Chicago, IL 60637, USA. fli@kurt.bsd.uchicago.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Li
+      </lastname>
+      <forename>
+       Feng
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Aoyama
+      </lastname>
+      <forename>
+       Masahito
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Shiraishi
+      </lastname>
+      <forename>
+       Junji
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Abe
+      </lastname>
+      <forename>
+       Hiroyuki
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Li
+      </lastname>
+      <forename>
+       Qiang
+      </forename>
+      <initials>
+       Q
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Suzuki
+      </lastname>
+      <forename>
+       Kenji
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Engelmann
+      </lastname>
+      <forename>
+       Roger
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sone
+      </lastname>
+      <forename>
+       Shusuke
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Macmahon
+      </lastname>
+      <forename>
+       Heber
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Doi
+      </lastname>
+      <forename>
+       Kunio
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       CA 62625
+      </grantid>
+      <acronym>
+       CA
+      </acronym>
+      <agency>
+       NCI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     AJR Am J Roentgenol
+    </medlineta>
+    <nlmuniqueid>
+     7708173
+    </nlmuniqueid>
+    <issnlinking>
+     0361-803X
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diagnosis, Differential
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lung
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      radiography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lung Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      radiography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Observer Variation
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      ROC Curve
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Radiographic Image Interpretation, Computer-Assisted
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Solitary Pulmonary Nodule
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      radiography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Tomography, X-Ray Computed
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      27
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      27
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     183/5/1209
+    </articleid>
+    <articleid idtype="pubmed">
+     15505279
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

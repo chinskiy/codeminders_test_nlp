@@ -1,0 +1,292 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11869657
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     28
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     28
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Horse chestnut seed extract for chronic venous insufficiency.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD003230
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Conservative therapy of chronic venous insufficiency (CVI) consists largely of compression treatment. However, this often causes discomfort and has been associated with poor compliance, which renders oral drug treatment an attractive option.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To review the evidence from rigorous clinical trials assessing the efficacy and safety of oral horse chestnut seed extract (HCSE) versus placebo, or reference therapy for the treatment of CVI.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      Publications describing randomised controlled trials (RCTs) of HCSE for chronic venous insufficiency were sought through EMBASE, MEDLINE, Amed, and Phytobase (from inception to January 2001), The Cochrane Controlled Trials Register (Issue 1, 2001) and the Specialised Trials Register of the Cochrane Peripheral Vascular Diseases Group (April 2001). Manufacturers of HCSE preparations and experts on the subject were contacted and asked to contribute published and unpublished material. There were no restrictions on the language of publication.
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      Randomised controlled trials of oral HCSE mono-preparations for patients with CVI were included. Trials comparing HCSE with placebo or reference medications were included. Trials assessing HCSE as one of several active components in a combination preparation or as a part of a combination treatment were excluded.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      Data were extracted systematically and methodological quality was evaluated using a standard scoring system. The screening of studies, selection, data extraction and the assessment of methodological quality were performed independently by two reviewers. Disagreements concerning evaluation of individual trials were resolved through discussion.
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      Overall, the included placebo controlled trials suggest an improvement in CVI related signs and symptoms. Leg pain was assessed in six placebo-controlled trials that reported a significant reduction of leg pain in the HCSE groups compared with the placebo groups. One trial, which reported adequate data suggested a weighted mean difference (WMD) of 42.4 mm [95% confidence interval (CI) 34.9-49.9] measured on a 100 mm visual analogue scale. Leg volume was assessed in five placebo-controlled trials. Meta-analysis of four trials (n = 239) reporting adequate data suggested a significant reduction in favour of HCSE compared with placebo (WMD 58.6 ml [95% CI 24.9-92.2]). One trial indicated that HCSE may be as effective as treatment with compression stockings. Adverse effects are usually mild and infrequent.
+     </abstracttext>
+     <abstracttext label="REVIEWER'S CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The evidence presented implies that HCSE is an efficacious and safe short-term treatment for CVI. However several caveats exist and more rigorous RCTs are required to assess the efficacy of this treatment option.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Complementary Medicine, University of Exeter, 25 Victoria Park Road, EXETER, Devon, UK, EX2 4NT. M.H.Pittler@ex.ac.uk
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Pittler
+      </lastname>
+      <forename>
+       M H
+      </forename>
+      <initials>
+       MH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ernst
+      </lastname>
+      <forename>
+       E
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Plant Extracts
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="UpdateIn">
+     <refsource>
+      Cochrane Database Syst Rev. 2004;(2):CD003230
+     </refsource>
+     <pmid version="1">
+      15106197
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Phytotherapy
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Plant Extracts
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Seeds
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Venous Insufficiency
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    62
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      29
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11869657
+    </articleid>
+    <articleid idtype="pii">
+     CD003230
+    </articleid>
+    <articleid idtype="doi">
+     10.1002/14651858.CD003230
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

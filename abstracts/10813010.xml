@@ -1,0 +1,577 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10813010
+   </pmid>
+   <datecreated>
+    <year>
+     2000
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     30
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2000
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     30
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0820-3946
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       162
+      </volume>
+      <issue>
+       9
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+       <month>
+        May
+       </month>
+       <day>
+        2
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne
+     </title>
+     <isoabbreviation>
+      CMAJ
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Development and validation of the Osteoporosis Risk Assessment Instrument to facilitate selection of women for bone densitometry.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1289-94
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Although mass screening for osteoporosis is not recommended among postmenopausal women, there is no consensus on which women should undergo testing for low bone mineral density. The objective of this study was to develop and validate a clinical tool to help clinicians identify which women are at increased risk for osteoporosis and should therefore undergo further testing with bone densitometry.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Using Ontario baseline data from the Canadian Multicentre Osteoporosis Study, we identified all cognitively normal women aged 45 years or more who had undergone testing with dual-energy x-ray absorptiometry (DXA) at both the femoral neck and the lumbar spine (L1-L4). Participants who had a previous diagnosis of osteoporosis or were taking bone active medication other than ovarian hormones were excluded. The main outcome measure was low bone mineral density (T score of 2 or more standard deviations below the mean for young Canadian women) at either the femoral neck or the lumbar spine. Logistic regression analysis and receiver operating characteristic (ROC) analysis were used to identify the simplest algorithm that would identify women at increased risk for low bone mineral density.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The study population comprised 1376 women, of whom 926 were allocated to the development of the tool and 450 to its validation. A simple algorithm based on age, weight and current estrogen use (yes or no) was developed. Validation of this 3-item Osteoporosis Risk Assessment Instrument (ORAI) showed that the tool had a sensitivity of 93.3% (95% confidence interval [CI] 86.3%-97.0%) and a specificity of 46.4% (95% CI 41.0%-51.8%) for selecting women with low bone mineral density. The sensitivity of the instrument for selecting women with osteoporosis was 94.4% (95% CI 83.7%-98.6%). Use of the ORAI represented a 38.7% reduction in DXA testing compared with screening all women in our study.
+     </abstracttext>
+     <abstracttext label="INTERPRETATION" nlmcategory="CONCLUSIONS">
+      The ORAI accurately identifies the vast majority of women likely to have low bone mineral density and is effective in substantially decreasing the need for all women to undergo DXA testing.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Canadian Multicentre Osteoporosis Study, University of Toronto, Ont. s.cadarette@utoronto.ca
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Cadarette
+      </lastname>
+      <forename>
+       S M
+      </forename>
+      <initials>
+       SM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jaglal
+      </lastname>
+      <forename>
+       S B
+      </forename>
+      <initials>
+       SB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kreiger
+      </lastname>
+      <forename>
+       N
+      </forename>
+      <initials>
+       N
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McIsaac
+      </lastname>
+      <forename>
+       W J
+      </forename>
+      <initials>
+       WJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Darlington
+      </lastname>
+      <forename>
+       G A
+      </forename>
+      <initials>
+       GA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tu
+      </lastname>
+      <forename>
+       J V
+      </forename>
+      <initials>
+       JV
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     CANADA
+    </country>
+    <medlineta>
+     CMAJ
+    </medlineta>
+    <nlmuniqueid>
+     9711805
+    </nlmuniqueid>
+    <issnlinking>
+     0820-3946
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Manag Care. 1998 Jan;4(1):37-48
+     </refsource>
+     <pmid version="1">
+      10179905
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      CMAJ. 1999 Jun 29;160(13):1822-3
+     </refsource>
+     <pmid version="1">
+      10405665
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Osteoporos Int. 1999;10(1):85-90
+     </refsource>
+     <pmid version="1">
+      10501785
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Obstet Gynecol. 1999 May;93(5 Pt 1):757-60
+     </refsource>
+     <pmid version="1">
+      10912981
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Semin Nucl Med. 1978 Oct;8(4):283-98
+     </refsource>
+     <pmid version="1">
+      112681
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Psychiatr Res. 1975 Nov;12(3):189-98
+     </refsource>
+     <pmid version="1">
+      1202204
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Biometrics. 1988 Sep;44(3):837-45
+     </refsource>
+     <pmid version="1">
+      3203132
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Radiology. 1987 Aug;164(2):405-10
+     </refsource>
+     <pmid version="1">
+      3602377
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1985 Sep 26;313(13):793-9
+     </refsource>
+     <pmid version="1">
+      3897864
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Radiology. 1982 Apr;143(1):29-36
+     </refsource>
+     <pmid version="1">
+      7063747
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Med. 1995 Feb 27;98(2A):9S-11S
+     </refsource>
+     <pmid version="1">
+      7709941
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Health Rep. 1994;6(3):323-37
+     </refsource>
+     <pmid version="1">
+      7756571
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1996 May 18;312(7041):1254-9
+     </refsource>
+     <pmid version="1">
+      8634613
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Epidemiol. 1996 Jul;49(7):819
+     </refsource>
+     <pmid version="1">
+      8691234
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Osteoporos Int. 1996;6(2):120-6
+     </refsource>
+     <pmid version="1">
+      8704349
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Can J Surg. 1996 Apr;39(2):105-11
+     </refsource>
+     <pmid version="1">
+      8769920
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1997 Feb 12;277(6):488-94
+     </refsource>
+     <pmid version="1">
+      9020274
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Semin Nucl Med. 1997 Jul;27(3):261-75
+     </refsource>
+     <pmid version="1">
+      9224666
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Epidemiol. 1997 Jun;50(6):743-4
+     </refsource>
+     <pmid version="1">
+      9250273
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Med. 1997 Aug 18;103(2A):20S-25S; discussion 25S-26S
+     </refsource>
+     <pmid version="1">
+      9302894
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Aust Fam Physician. 1997 Oct;26(10):1181-5, 1188-91, 1194-6
+     </refsource>
+     <pmid version="1">
+      9339594
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      CMAJ. 1997 Nov 15;157(10):1357-63
+     </refsource>
+     <pmid version="1">
+      9371065
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Osteoporos Int. 1997;7(4):390-406
+     </refsource>
+     <pmid version="1">
+      9373575
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Intern Med. 1997 Oct 13;157(18):2121-5
+     </refsource>
+     <pmid version="1">
+      9382669
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Osteoporos Int. 1998;8 Suppl 1:S13-6
+     </refsource>
+     <pmid version="1">
+      9682791
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      CMAJ. 1998 Nov 17;159(10):1253-7
+     </refsource>
+     <pmid version="1">
+      9861222
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Bone Miner Res. 1994 Oct;9(10):1503-14
+     </refsource>
+     <pmid version="1">
+      7817795
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      CMAJ. 1994 Jul 15;151(2):177-85
+     </refsource>
+     <pmid version="1">
+      8039063
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2001 Jan-Feb;134(1):37
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Absorptiometry, Photon
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Algorithms
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      Canada
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cohort Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Mass Screening
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Osteoporosis, Postmenopausal
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Patient Selection
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Reproducibility of Results
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Assessment
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC1232411
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      17
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2000
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      17
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10813010
+    </articleid>
+    <articleid idtype="pmc">
+     PMC1232411
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

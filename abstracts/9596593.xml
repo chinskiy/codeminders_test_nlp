@@ -1,0 +1,858 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    9596593
+   </pmid>
+   <datecreated>
+    <year>
+     1998
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     04
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1998
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     04
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0959-8138
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       316
+      </volume>
+      <issue>
+       7144
+      </issue>
+      <pubdate>
+       <year>
+        1998
+       </year>
+       <month>
+        May
+       </month>
+       <day>
+        23
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      BMJ (Clinical research ed.)
+     </title>
+     <isoabbreviation>
+      BMJ
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Effectiveness of treatments for infantile colic: systematic review.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1563-9
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To evaluate the effectiveness of diets, drug treatment, and behavioural interventions on infantile colic in trials with crying or the presence of colic as the primary outcome measure.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      Controlled clinical trials identified by a highly sensitive search strategy in Medline (1966-96), Embase (1986-95), and the Cochrane Controlled Trials Register, in combination with reference checking for further relevant publications. Keywords were crying and colic.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION" nlmcategory="METHODS">
+      Two independent assessors selected controlled trials with interventions lasting at least 3 days that included infants younger than 6 months who cried excessively.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      Methodological quality was assessed by two assessors independently with a quality assessment scale (range 0-5). Effect sizes were calculated as percentage success. Effect sizes of trials using identical interventions were pooled using a random effects model.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      27 controlled trials were identified. Elimination of cows' milk protein was effective when substituted by hypoallergenic formula milks (effect size 0.22 (95% confidence interval 0.09 to 0.34)). The effectiveness of substitution by soy formula milks was unclear when only trials of good methodological quality were considered. The benefit of eliminating cows' milk protein was not restricted to highly selected populations. Dicyclomine was effective (effect size 0.46 (0.33 to 0.60)), but serious side effects have been reported. The advice to reduce stimulation was beneficial (effect size 0.48 (0.23 to 0.74)), whereas the advice to increase carrying and holding seemed not to reduce crying. No benefit was shown for simethicone. Uncertainty remained about the effectiveness of low lactose formula milks.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Infantile colic should preferably be treated by advising carers to reduce stimulation and with a one week trial of a hypoallergenic formula milk.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Institute for Research in Extramural Medicine, Free University, Amsterdam, The Netherlands.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Lucassen
+      </lastname>
+      <forename>
+       P L
+      </forename>
+      <initials>
+       PL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Assendelft
+      </lastname>
+      <forename>
+       W J
+      </forename>
+      <initials>
+       WJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gubbels
+      </lastname>
+      <forename>
+       J W
+      </forename>
+      <initials>
+       JW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       van Eijk
+      </lastname>
+      <forename>
+       J T
+      </forename>
+      <initials>
+       JT
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       van Geldrop
+      </lastname>
+      <forename>
+       W J
+      </forename>
+      <initials>
+       WJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Neven
+      </lastname>
+      <forename>
+       A K
+      </forename>
+      <initials>
+       AK
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     ENGLAND
+    </country>
+    <medlineta>
+     BMJ
+    </medlineta>
+    <nlmuniqueid>
+     8900488
+    </nlmuniqueid>
+    <issnlinking>
+     0959-535X
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Gastrointestinal Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Milk Proteins
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Parasympatholytics
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Soybean Proteins
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      77-19-0
+     </registrynumber>
+     <nameofsubstance>
+      Dicyclomine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      8050-81-5
+     </registrynumber>
+     <nameofsubstance>
+      Simethicone
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Dis Child. 1979 Oct;133(10):999-1001
+     </refsource>
+     <pmid version="1">
+      582880
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Dis Child. 1985 Oct;60(10):981-5
+     </refsource>
+     <pmid version="1">
+      3840672
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lakartidningen. 1983 Jan 19;80(3):116-8
+     </refsource>
+     <pmid version="1">
+      6343737
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Pediatr. 1984 Jun;104(6):951-5
+     </refsource>
+     <pmid version="1">
+      6374085
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Clin North Am. 1984 Oct;31(5):993-1005
+     </refsource>
+     <pmid version="1">
+      6384904
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br Med J (Clin Res Ed). 1984 Mar 24;288(6421):901
+     </refsource>
+     <pmid version="1">
+      6423135
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1983 Sep;72(3):359-63
+     </refsource>
+     <pmid version="1">
+      6688463
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1983 Feb;71(2):268-71
+     </refsource>
+     <pmid version="1">
+      6823433
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1982 Jul;70(1):7-10
+     </refsource>
+     <pmid version="1">
+      7088636
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1995 Jul;96(1 Pt 1):43-7
+     </refsource>
+     <pmid version="1">
+      7596720
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1994 Nov 12;309(6964):1286-91
+     </refsource>
+     <pmid version="1">
+      7718048
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Clin North Am. 1994 Oct;41(5):1121-38
+     </refsource>
+     <pmid version="1">
+      7936776
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Child Dev. 1994 Oct;65(5):1457-77
+     </refsource>
+     <pmid version="1">
+      7982362
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1994 Jul;94(1):29-34
+     </refsource>
+     <pmid version="1">
+      8008533
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1994 Sep;94(3):322-32
+     </refsource>
+     <pmid version="1">
+      8065857
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Acta Paediatr Scand. 1985 May;74(3):446-50
+     </refsource>
+     <pmid version="1">
+      3890465
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br Med J (Clin Res Ed). 1985 Oct 12;291(6501):1014
+     </refsource>
+     <pmid version="1">
+      3931770
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lakartidningen. 1972 Jul 5;69(28):3331-4
+     </refsource>
+     <pmid version="1">
+      5047912
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1994 Sep;94(3):333-4
+     </refsource>
+     <pmid version="1">
+      8065858
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Acta Paediatr. 1994 Feb;83(2):222-5
+     </refsource>
+     <pmid version="1">
+      8193507
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1993 Aug;92(2):197-201
+     </refsource>
+     <pmid version="1">
+      8337017
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Pediatr. 1993 Oct;123(4):670; author reply 670-1
+     </refsource>
+     <pmid version="1">
+      8410531
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Pediatr. 1993 Apr;122(4):650-2
+     </refsource>
+     <pmid version="1">
+      8463920
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Allergy Clin Immunol. 1995 Dec;96(6 Pt 1):886-92
+     </refsource>
+     <pmid version="1">
+      8543745
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Child Dev. 1995 Dec;66(6):1798-816
+     </refsource>
+     <pmid version="1">
+      8556900
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1995 Dec 27;274(24):1962-4
+     </refsource>
+     <pmid version="1">
+      8568993
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Control Clin Trials. 1996 Feb;17(1):1-12
+     </refsource>
+     <pmid version="1">
+      8721797
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1981 Jun 20;1(8234):1340-2
+     </refsource>
+     <pmid version="1">
+      6113313
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1988 Jun;81(6):756-61
+     </refsource>
+     <pmid version="1">
+      3285312
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Dis Child. 1986 Dec;61(12):1232-3
+     </refsource>
+     <pmid version="1">
+      3101616
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Practitioner. 1988 May 9;232(1448):508
+     </refsource>
+     <pmid version="1">
+      3064072
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1954 Nov;14(5):421-35
+     </refsource>
+     <pmid version="1">
+      13214956
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Acta Paediatr. 1955 May;44(3):203-8
+     </refsource>
+     <pmid version="1">
+      13292229
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Pediatr. 1992 Nov;121(5 Pt 2):S21-8
+     </refsource>
+     <pmid version="1">
+      1447630
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1992 Jun 6;304(6840):1491-4
+     </refsource>
+     <pmid version="1">
+      1611375
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Curr Med Res Opin. 1977;5(3):258-61
+     </refsource>
+     <pmid version="1">
+      162663
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Pediatr. 1991 Nov;119(5):695-701
+     </refsource>
+     <pmid version="1">
+      1658281
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1991 Apr 13;337(8746):867-72
+     </refsource>
+     <pmid version="1">
+      1672966
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Dis Child. 1991 Dec;66(12):1416-20
+     </refsource>
+     <pmid version="1">
+      1776889
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1991 Oct;88(4):757-63
+     </refsource>
+     <pmid version="1">
+      1896279
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Clin North Am. 1991 Dec;38(6):1407-23
+     </refsource>
+     <pmid version="1">
+      1945549
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1991 May;87(5):623-30
+     </refsource>
+     <pmid version="1">
+      2020506
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Dis Child. 1991 May;66(5):653-5
+     </refsource>
+     <pmid version="1">
+      2039262
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Pediatr Gastroenterol Nutr. 1991 Apr;12(3):332-5
+     </refsource>
+     <pmid version="1">
+      2072224
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Pediatr. 1990 Aug;117(2 Pt 1):261-3
+     </refsource>
+     <pmid version="1">
+      2116510
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J R Coll Gen Pract. 1989 Jan;39(318):11-4
+     </refsource>
+     <pmid version="1">
+      2553940
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Pediatr. 1989 Oct;115(4):521-6
+     </refsource>
+     <pmid version="1">
+      2677292
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1989 Feb;83(2):262-6
+     </refsource>
+     <pmid version="1">
+      2913556
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      BMJ. 1998 Nov 21;317(7170):1451; author reply 1452
+     </refsource>
+     <pmid version="1">
+      9822411
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      BMJ. 1998 Nov 21;317(7170):1451-2
+     </refsource>
+     <pmid version="1">
+      10232901
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      BMJ. 1998 Nov 21;317(7170):1451; author reply 1452
+     </refsource>
+     <pmid version="1">
+      9882115
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="ErratumIn">
+     <refsource>
+      BMJ 1998 Jul 18;317(7152):171
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Animals
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Behavior Therapy
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Colic
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diet therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Controlled Clinical Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Crying
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dicyclomine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Gastrointestinal Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant Food
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant, Newborn
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Milk
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Milk Hypersensitivity
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Milk Proteins
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Parasympatholytics
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Simethicone
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Soybean Proteins
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC28556
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1998
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      6
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1998
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      6
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1998
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      6
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     9596593
+    </articleid>
+    <articleid idtype="pmc">
+     PMC28556
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,254 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    14716790
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     12
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     20
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0007-1323
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       91
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Jan
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The British journal of surgery
+     </title>
+     <isoabbreviation>
+      Br J Surg
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Meta-analysis of the clinical and laboratory diagnosis of appendicitis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      28-37
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      The importance of specific elements in the clinical diagnosis of appendicitis is controversial. This review analyses the diagnostic value of elements of disease history, clinical findings and laboratory test results in suspected appendicitis.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      A systematic Medline search was made of all published studies on the clinical and laboratory diagnosis of appendicitis in patients admitted to hospital with suspected disease. Meta-analyses of receiver-operator characteristic (ROC) areas, and positive and negative likelihood ratios, of 28 diagnostic variables described in 24 studies are presented.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Inflammatory response variables (granulocyte count, proportion of polymorphonuclear blood cells, white blood cell count and C-reactive protein concentration), descriptors of peritoneal irritation (rebound and percussion tenderness, guarding and rigidity) and migration of pain were the strongest discriminators, with ROC areas of 0.78 to 0.68. The discriminatory power of the inflammatory variables was particularly strong for perforated appendicitis, with ROC areas of 0.85 to 0.87. Appendicitis was likely when two or more inflammatory variables were increased and unlikely when all were normal.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Although all clinical and laboratory variables are weak discriminators individually, they achieve a high discriminatory power when combined. Laboratory examination of the inflammatory response, clinical descriptors of peritoneal irritation, and a history of migration of pain yield the most important diagnostic information and should be included in any diagnostic assessment.
+     </abstracttext>
+     <copyrightinformation>
+      Copyright 2004 British Journal of Surgery Society Ltd. Published by John Wiley &amp; Sons, Ltd.
+     </copyrightinformation>
+    </abstract>
+    <affiliation>
+     Department of Surgery, County Hospital Ryhov, SE-551 85 Jönköping, Sweden. roland.andersson@ltjkpg.se
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Andersson
+      </lastname>
+      <forename>
+       R E B
+      </forename>
+      <initials>
+       RE
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Br J Surg
+    </medlineta>
+    <nlmuniqueid>
+     0372553
+    </nlmuniqueid>
+    <issnlinking>
+     0007-1323
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Appendicitis
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Laboratory Techniques and Procedures
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      standards
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Predictive Value of Tests
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    73
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     14716790
+    </articleid>
+    <articleid idtype="doi">
+     10.1002/bjs.4464
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

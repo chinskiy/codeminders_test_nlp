@@ -1,0 +1,618 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11006762
+   </pmid>
+   <datecreated>
+    <year>
+     2000
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     13
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2000
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     13
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0820-3946
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       163
+      </volume>
+      <issue>
+       5
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+       <month>
+        Sep
+       </month>
+       <day>
+        5
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne
+     </title>
+     <isoabbreviation>
+      CMAJ
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Evaluating the benefits of antimicrobial prophylaxis to prevent urinary tract infections in children: a systematic review.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      523-9
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      The recurrence rate for urinary tract infections in children is estimated at between 30% and 40%. The use of low doses of antibiotics as prophylaxis for recurrent urinary tract infections is common clinical practice. However, prolonged antimicrobial therapy has the potential to contribute to problems of bacterial resistance and antimicrobial side effects. The aim of this review was to systematically examine the available evidence for the effectiveness of this intervention.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We conducted a literature search of 3 electronic databases for the period 1966 to 1999. We also searched bibliographies from conference proceedings and contacted content experts to ensure completeness of our database. Each trial was evaluated on the basis of the following inclusion criteria: target population (children), intervention (antibiotic v. no antibiotic), outcome (number of urinary tract infections) and study design (randomized controlled trial). Quality was assessed for the studies that met these criteria.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Most of the studies identified were case series and cohort studies. Only 6 randomized trials fulfilled the inclusion criteria. All were of low quality (median 2, range 0 to 2 [maximum quality score 5]). Three trials dealt with children who had anatomically normal urinary tracts, and three included children with neurogenic bladder. The rate of infections for patients with normal urinary tracts ranged from 0 to 4.0 per 10 patient-years for the treatment groups and from 4.0 to 16.7 for the control groups. The recurrence rates for patients with neurogenic bladders in 2 trials were 2.9 and 17.1 per 10 patient-years for the treatment groups and 1.5 and 33.0 for the control groups.
+     </abstracttext>
+     <abstracttext label="INTERPRETATION" nlmcategory="CONCLUSIONS">
+      The available evidence for using antimicrobial prophylaxis to prevent urinary tract infection in children with normal urinary tracts or neurogenic bladder is of low quality. This suggests that the magnitude of any benefit should at best be questioned. The surprising lack of data for children with reflux is of concern. Well-designed trials are needed to optimize the use of antimicrobials in children with recurrent urinary tract infection.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Thomas C. Chalmers Centre for Systematic Reviews, Children's Hospital of Eastern Ontario Research Institute, Ottawa. lesaux@cheo.on.ca
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Le Saux
+      </lastname>
+      <forename>
+       N
+      </forename>
+      <initials>
+       N
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pham
+      </lastname>
+      <forename>
+       B
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Moher
+      </lastname>
+      <forename>
+       D
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     CANADA
+    </country>
+    <medlineta>
+     CMAJ
+    </medlineta>
+    <nlmuniqueid>
+     9711805
+    </nlmuniqueid>
+    <issnlinking>
+     0820-3946
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 1999 Jul;18(7):647-9
+     </refsource>
+     <pmid version="1">
+      10440445
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Nephrol. 1997 Jun;11(3):328-30
+     </refsource>
+     <pmid version="1">
+      9203183
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Acta Paediatr Suppl. 1999 Nov;88(431):87-9
+     </refsource>
+     <pmid version="1">
+      10588276
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Acta Paediatr. 1999 Nov;88(11):1182-3
+     </refsource>
+     <pmid version="1">
+      10591417
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br Med J. 1975 Jul 12;3(5975):65-6
+     </refsource>
+     <pmid version="1">
+      1095132
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1963 Jan 10;268:75-7
+     </refsource>
+     <pmid version="1">
+      14026839
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Medicine (Baltimore). 1964 Mar;43:91-130
+     </refsource>
+     <pmid version="1">
+      14129871
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Acta Paediatr Scand. 1990 Dec;79(12):1225-34
+     </refsource>
+     <pmid version="1">
+      2085111
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Intern Med. 1989 Apr 1;110(7):560-6
+     </refsource>
+     <pmid version="1">
+      2923388
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Nephrol. 1988 Jan;2(1):12-7
+     </refsource>
+     <pmid version="1">
+      3152984
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Nephrol. 1987 Oct;1(4):647-56
+     </refsource>
+     <pmid version="1">
+      3153346
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1977 Apr;59(4):562-5
+     </refsource>
+     <pmid version="1">
+      322082
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Antimicrob Chemother. 1985 Oct;16(4):509-17
+     </refsource>
+     <pmid version="1">
+      4066562
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1972 Aug;50(2):271-8
+     </refsource>
+     <pmid version="1">
+      4558107
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1973 Aug;52(2):241-5
+     </refsource>
+     <pmid version="1">
+      4578713
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1975 Feb 15;1(7903):358-61
+     </refsource>
+     <pmid version="1">
+      46511
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Acta Paediatr Scand. 1968 May;57(3):186-94
+     </refsource>
+     <pmid version="1">
+      4884133
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1970 Mar;45(3):456-61
+     </refsource>
+     <pmid version="1">
+      4910093
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Urol. 1969 Jul;102(1):44-6
+     </refsource>
+     <pmid version="1">
+      5788241
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Postgrad Med. 1983 Jul;29(3):156-9
+     </refsource>
+     <pmid version="1">
+      6686257
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis. 1982 Jul-Aug;1(4):271-81
+     </refsource>
+     <pmid version="1">
+      6757892
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Helv Paediatr Acta. 1981 Jul;36(3):241-8
+     </refsource>
+     <pmid version="1">
+      6792161
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int J Pediatr Nephrol. 1982 Mar;3(1):29-32
+     </refsource>
+     <pmid version="1">
+      6980850
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Rev Infect Dis. 1982 Mar-Apr;4(2):467-74
+     </refsource>
+     <pmid version="1">
+      6981165
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1982 Jan 21;306(3):130-5
+     </refsource>
+     <pmid version="1">
+      7033781
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1995 Dec 13;274(22):1800-4
+     </refsource>
+     <pmid version="1">
+      7500513
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1995 Feb 1;273(5):408-12
+     </refsource>
+     <pmid version="1">
+      7823387
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1997 Aug;100(2 Pt 1):228-32
+     </refsource>
+     <pmid version="1">
+      9240804
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am Fam Physician. 1998 Apr 1;57(7):1573-80, 1583-4
+     </refsource>
+     <pmid version="1">
+      9556646
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Pediatr. 1998 Apr;132(4):704-8
+     </refsource>
+     <pmid version="1">
+      9580774
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Nephrol. 1998 Apr;12(3):249-56
+     </refsource>
+     <pmid version="1">
+      9630048
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br Med J. 1976 Jul 24;2(6029):203-6
+     </refsource>
+     <pmid version="1">
+      974492
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1998 Aug 22;352(9128):609-13
+     </refsource>
+     <pmid version="1">
+      9746022
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1978 Jul 22;2(8082):175-8
+     </refsource>
+     <pmid version="1">
+      78382
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Med Decis Making. 1995 Jan-Mar;15(1):81-96
+     </refsource>
+     <pmid version="1">
+      7898302
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1994 May;93(5):752-5
+     </refsource>
+     <pmid version="1">
+      8165073
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Turk J Pediatr. 1993 Jul-Sep;35(3):181-8
+     </refsource>
+     <pmid version="1">
+      8165751
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Fertil Steril. 1996 May;65(5):939-45
+     </refsource>
+     <pmid version="1">
+      8612853
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Control Clin Trials. 1996 Feb;17(1):1-12
+     </refsource>
+     <pmid version="1">
+      8721797
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 1996 May;15(5):404-8
+     </refsource>
+     <pmid version="1">
+      8724061
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Acta Paediatr Suppl. 1999 Nov;88(431):48-52
+     </refsource>
+     <pmid version="1">
+      10588271
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Antibiotic Prophylaxis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Poisson Distribution
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Recurrence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Research Design
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Urinary Tract Infections
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    59
+   </numberofreferences>
+   <otherid source="NLM">
+    PMC80458
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2000
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2000
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2000
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11006762
+    </articleid>
+    <articleid idtype="pmc">
+     PMC80458
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

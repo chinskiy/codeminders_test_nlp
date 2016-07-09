@@ -1,0 +1,354 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    9933265
+   </pmid>
+   <datecreated>
+    <year>
+     1999
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     01
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1999
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     01
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0039-2499
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       30
+      </volume>
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        1999
+       </year>
+       <month>
+        Feb
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Stroke; a journal of cerebral circulation
+     </title>
+     <isoabbreviation>
+      Stroke
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Should we screen for familial intracranial aneurysm?
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      312-6
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND AND PURPOSE" nlmcategory="OBJECTIVE">
+      The purpose of this study was to establish whether individuals with a family history of &gt;/=2 first-degree relatives with intracranial aneurysm should be offered screening for aneurysm.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We derived 3 theoretical models and calculated the outcomes of screening with magnetic resonance angiography (MRA) followed by digital subtraction angiography (DSA) if MRA was positive (model 1), screening with DSA alone (model 2), and not screening (model 3). Screening was repeated at intervals of 10 years, and aneurysms detected were treated surgically. We assumed a prevalence of aneurysm of 9.8% (95% CI, 8.9% to 10.6%) in the population screened, an annual rupture rate of asymptomatic aneurysm of 0.8% (95% CI, 0.4% to 1.5%), and a 75% chance of poor outcome from rupture. We assumed the sensitivity and specificity of MRA were each 90% and the risk of DSA was 0.1%. The risk of surgery was taken as 5.1%.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Screening 1000 individuals on 3 occasions with MRA and DSA or with DSA alone followed by surgery resulted in poor outcome in 14 and 18 individuals, respectively, over 30 years. Without screening, poor outcome occurred in 15 individuals over the same period of time.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Screening is not an effective way of reducing morbidity and mortality from ruptured intracranial aneurysm in individuals with a history of &gt;/=2 affected first-degree relatives with ruptured intracranial aneurysm unless the expected incidence of asymptomatic aneurysm is considerably &gt;10%.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Division of Clinical Neuroscience, St. George's Hospital Medical School, Department of Neuroradiology, Atkinson Morley's Hospital, Institute of Neurology, London, UK.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Crawley
+      </lastname>
+      <forename>
+       F
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Clifton
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Brown
+      </lastname>
+      <forename>
+       M M
+      </forename>
+      <initials>
+       MM
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Stroke
+    </medlineta>
+    <nlmuniqueid>
+     0235266
+    </nlmuniqueid>
+    <issnlinking>
+     0039-2499
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Stroke. 1999 Oct;30(10):2241-2
+     </refsource>
+     <pmid version="1">
+      10512998
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aneurysm, Ruptured
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      genetics
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Angiography, Digital Subtraction
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cost-Benefit Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Follow-Up Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Intracranial Aneurysm
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      genetics
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Magnetic Resonance Angiography
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      economics
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Models, Theoretical
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pedigree
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Predictive Value of Tests
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prevalence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Rupture, Spontaneous
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Survival Rate
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1999
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      3
+     </hour>
+     <minute>
+      2
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2000
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      11
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1999
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      3
+     </hour>
+     <minute>
+      2
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     9933265
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

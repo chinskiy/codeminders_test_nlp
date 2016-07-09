@@ -1,0 +1,517 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    9569395
+   </pmid>
+   <datecreated>
+    <year>
+     1998
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     13
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1998
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     13
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0959-8138
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       316
+      </volume>
+      <issue>
+       7135
+      </issue>
+      <pubdate>
+       <year>
+        1998
+       </year>
+       <month>
+        Mar
+       </month>
+       <day>
+        21
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      BMJ (Clinical research ed.)
+     </title>
+     <isoabbreviation>
+      BMJ
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Lowering blood homocysteine with folic acid based supplements: meta-analysis of randomised trials. Homocysteine Lowering Trialists' Collaboration.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      894-8
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To determine the size of reduction in homocysteine concentrations produced by dietary supplementation with folic acid and with vitamins B-12 or B-6.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Meta-analysis of randomised controlled trials that assessed the effects of folic acid based supplements on blood homocysteine concentrations. Multivariate regression analysis was used to determine the effects on homocysteine concentrations of different doses of folic acid and of the addition of vitamin B-12 or B-6.
+     </abstracttext>
+     <abstracttext label="SUBJECTS" nlmcategory="METHODS">
+      Individual data on 1114 people included in 12 trials.
+     </abstracttext>
+     <abstracttext label="FINDINGS" nlmcategory="RESULTS">
+      The proportional and absolute reductions in blood homocysteine produced by folic acid supplements were greater at higher pretreatment blood homocysteine concentrations (P &lt; 0.001) and at lower pretreatment blood folate concentrations (P &lt; 0.001). After standardisation to pretreatment blood concentrations of homocysteine of 12 mumol/l and of folate of 12 nmol/l (approximate average concentrations for Western populations), dietary folic acid reduced blood homocysteine concentrations by 25% (95% confidence interval 23% to 28%; P &lt; 0.001), with similar effects in the range of 0.5-5 mg folic acid daily. Vitamin B-12 (mean 0.5 mg daily) produced an additional 7% (3% to 10%) reduction in blood homocysteine. Vitamin B-6 (mean 16.5 mg daily) did not have a significant additional effect.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Typically in Western populations, daily supplementation with both 0.5-5 mg folic acid and about 0.5 mg vitamin B-12 would be expected to reduce blood homocysteine concentrations by about a quarter to a third (for example, from about 12 mumol/l to 8-9 mumol/l). Large scale randomised trials of such regimens in high risk populations are now needed to determine whether lowering blood homocysteine concentrations reduces the risk of vascular disease.
+     </abstracttext>
+    </abstract>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     ENGLAND
+    </country>
+    <medlineta>
+     BMJ
+    </medlineta>
+    <nlmuniqueid>
+     8900488
+    </nlmuniqueid>
+    <issnlinking>
+     0959-535X
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Hematinics
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      454-28-4
+     </registrynumber>
+     <nameofsubstance>
+      Homocysteine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      59-30-3
+     </registrynumber>
+     <nameofsubstance>
+      Folic Acid
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      65-23-6
+     </registrynumber>
+     <nameofsubstance>
+      Pyridoxine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      68-19-9
+     </registrynumber>
+     <nameofsubstance>
+      Vitamin B 12
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Stat Med. 1992 Sep 30;11(13):1685-704
+     </refsource>
+     <pmid version="1">
+      1485053
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1997 Jun 11;277(22):1775-81
+     </refsource>
+     <pmid version="1">
+      9178790
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1988 Jun 30;318(26):1720-8
+     </refsource>
+     <pmid version="1">
+      3374544
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Scand J Clin Lab Invest. 1988 May;48(3):215-21
+     </refsource>
+     <pmid version="1">
+      3375778
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Metabolism. 1988 Jul;37(7):697-701
+     </refsource>
+     <pmid version="1">
+      3386535
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Hum Genet. 1985 Jan;37(1):1-31
+     </refsource>
+     <pmid version="1">
+      3872065
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1995 Nov 25;346(8987):1395-8
+     </refsource>
+     <pmid version="1">
+      7475822
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1995 Oct 4;274(13):1049-57
+     </refsource>
+     <pmid version="1">
+      7563456
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1995 Jul 8;346(8967):85-9
+     </refsource>
+     <pmid version="1">
+      7603218
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Intern Med. 1995 Apr;237(4):381-8
+     </refsource>
+     <pmid version="1">
+      7714461
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1994 Nov 19;344(8934):1383-9
+     </refsource>
+     <pmid version="1">
+      7968073
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Vasc Surg. 1994 Dec;20(6):933-40
+     </refsource>
+     <pmid version="1">
+      7990188
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Investig. 1993 Dec;71(12):993-8
+     </refsource>
+     <pmid version="1">
+      8124058
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1993 Dec 8;270(22):2693-8
+     </refsource>
+     <pmid version="1">
+      8133587
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Nephrol. 1993 Oct;40(4):236-40
+     </refsource>
+     <pmid version="1">
+      8261682
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int J Epidemiol. 1995 Aug;24(4):704-9
+     </refsource>
+     <pmid version="1">
+      8550266
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Intern Med. 1996 Aug 12-26;156(15):1638-44
+     </refsource>
+     <pmid version="1">
+      8694661
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Kidney Int. 1996 Jan;49(1):147-52
+     </refsource>
+     <pmid version="1">
+      8770960
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1996 Oct 3;335(14):1001-9
+     </refsource>
+     <pmid version="1">
+      8801446
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1996 Dec 18;276(23):1879-85
+     </refsource>
+     <pmid version="1">
+      8968013
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Proc Nutr Soc. 1997 Mar;56(1A):149-67
+     </refsource>
+     <pmid version="1">
+      9168529
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1991 Apr 25;324(17):1149-55
+     </refsource>
+     <pmid version="1">
+      2011158
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dose-Response Relationship, Drug
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Folic Acid
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pharmacology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Food, Formulated
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hematinics
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pharmacology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Homocysteine
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Multivariate Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pyridoxine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vitamin B 12
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC28491
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1998
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      7
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1998
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      7
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1998
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      7
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     9569395
+    </articleid>
+    <articleid idtype="pmc">
+     PMC28491
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

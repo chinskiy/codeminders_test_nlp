@@ -1,0 +1,714 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    18334689
+   </pmid>
+   <datecreated>
+    <year>
+     2008
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     12
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2008
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     17
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     16
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1538-3598
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       299
+      </volume>
+      <issue>
+       10
+      </issue>
+      <pubdate>
+       <year>
+        2008
+       </year>
+       <month>
+        Mar
+       </month>
+       <day>
+        12
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Comparison of strategies for sustaining weight loss: the weight loss maintenance randomized controlled trial.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1139-48
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Behavioral weight loss interventions achieve short-term success, but re-gain is common.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To compare 2 weight loss maintenance interventions with a self-directed control group.
+     </abstracttext>
+     <abstracttext label="DESIGN, SETTING, AND PARTICIPANTS" nlmcategory="METHODS">
+      Two-phase trial in which 1032 overweight or obese adults (38% African American, 63% women) with hypertension, dyslipidemia, or both who had lost at least 4 kg during a 6-month weight loss program (phase 1) were randomized to a weight-loss maintenance intervention (phase 2). Enrollment at 4 academic centers occurred August 2003-July 2004 and randomization, February-December 2004. Data collection was completed in June 2007.
+     </abstracttext>
+     <abstracttext label="INTERVENTIONS" nlmcategory="METHODS">
+      After the phase 1 weight-loss program, participants were randomized to one of the following groups for 30 months: monthly personal contact, unlimited access to an interactive technology-based intervention, or self-directed control. Main Outcome Changes in weight from randomization.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Mean entry weight was 96.7 kg. During the initial 6-month program, mean weight loss was 8.5 kg. After randomization, weight regain occurred. Participants in the personal-contact group regained less weight (4.0 kg) than those in the self-directed group (5.5 kg; mean difference at 30 months, -1.5 kg; 95% confidence interval [CI], -2.4 to -0.6 kg; P = .001). At 30 months, weight regain did not differ between the interactive technology-based (5.2 kg) and self-directed groups (5.5 kg; mean difference -0.3 kg; 95% CI, -1.2 to 0.6 kg; P = .51); however, weight regain was lower in the interactive technology-based than in the self-directed group at 18 months (mean difference, -1.1 kg; 95% CI, -1.9 to -0.4 kg; P = .003) and at 24 months (mean difference, -0.9 kg; 95% CI, -1.7 to -0.02 kg; P = .04). At 30 months, the difference between the personal-contact and interactive technology-based group was -1.2 kg (95% CI -2.1 to -0.3; P = .008). Effects did not differ significantly by sex, race, age, and body mass index subgroups. Overall, 71% of study participants remained below entry weight.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The majority of individuals who successfully completed an initial behavioral weight loss program maintained a weight below their initial level. Monthly brief personal contact provided modest benefit in sustaining weight loss, whereas an interactive technology-based intervention provided early but transient benefit.
+     </abstracttext>
+     <abstracttext label="TRIAL REGISTRATION" nlmcategory="BACKGROUND">
+      clinicaltrials.gov Identifier: NCT00054925.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Division of Nephrology, Department of Medicine, Duke Hypertension Center and Sarah W. Stedman Nutrition and Metabolism Center, Duke University Medical Center, Durham, North Carolina 27710, USA. Svetk001@mc.duke.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Svetkey
+      </lastname>
+      <forename>
+       Laura P
+      </forename>
+      <initials>
+       LP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Stevens
+      </lastname>
+      <forename>
+       Victor J
+      </forename>
+      <initials>
+       VJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Brantley
+      </lastname>
+      <forename>
+       Phillip J
+      </forename>
+      <initials>
+       PJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Appel
+      </lastname>
+      <forename>
+       Lawrence J
+      </forename>
+      <initials>
+       LJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hollis
+      </lastname>
+      <forename>
+       Jack F
+      </forename>
+      <initials>
+       JF
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Loria
+      </lastname>
+      <forename>
+       Catherine M
+      </forename>
+      <initials>
+       CM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Vollmer
+      </lastname>
+      <forename>
+       William M
+      </forename>
+      <initials>
+       WM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gullion
+      </lastname>
+      <forename>
+       Christina M
+      </forename>
+      <initials>
+       CM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Funk
+      </lastname>
+      <forename>
+       Kristine
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Smith
+      </lastname>
+      <forename>
+       Patti
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Samuel-Hodge
+      </lastname>
+      <forename>
+       Carmen
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Myers
+      </lastname>
+      <forename>
+       Valerie
+      </forename>
+      <initials>
+       V
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lien
+      </lastname>
+      <forename>
+       Lillian F
+      </forename>
+      <initials>
+       LF
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Laferriere
+      </lastname>
+      <forename>
+       Daniel
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kennedy
+      </lastname>
+      <forename>
+       Betty
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jerome
+      </lastname>
+      <forename>
+       Gerald J
+      </forename>
+      <initials>
+       GJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Heinith
+      </lastname>
+      <forename>
+       Fran
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Harsha
+      </lastname>
+      <forename>
+       David W
+      </forename>
+      <initials>
+       DW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Evans
+      </lastname>
+      <forename>
+       Pamela
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Erlinger
+      </lastname>
+      <forename>
+       Thomas P
+      </forename>
+      <initials>
+       TP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dalcin
+      </lastname>
+      <forename>
+       Arline T
+      </forename>
+      <initials>
+       AT
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Coughlin
+      </lastname>
+      <forename>
+       Janelle
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Charleston
+      </lastname>
+      <forename>
+       Jeanne
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Champagne
+      </lastname>
+      <forename>
+       Catherine M
+      </forename>
+      <initials>
+       CM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bauck
+      </lastname>
+      <forename>
+       Alan
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ard
+      </lastname>
+      <forename>
+       Jamy D
+      </forename>
+      <initials>
+       JD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Aicher
+      </lastname>
+      <forename>
+       Kathleen
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       Weight Loss Maintenance Collaborative Research Group
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <databanklist completeyn="Y">
+     <databank>
+      <databankname>
+       ClinicalTrials.gov
+      </databankname>
+      <accessionnumberlist>
+       <accessionnumber>
+        NCT00054925
+       </accessionnumber>
+      </accessionnumberlist>
+     </databank>
+    </databanklist>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       -HL68955
+      </grantid>
+      <acronym>
+       HL
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       5-U01 HL68676
+      </grantid>
+      <acronym>
+       HL
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       5-U01 HL68734
+      </grantid>
+      <acronym>
+       HL
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       5-U01 HL68790
+      </grantid>
+      <acronym>
+       HL
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       5-U01 HL68920
+      </grantid>
+      <acronym>
+       HL
+      </acronym>
+      <agency>
+       NHLBI NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, N.I.H., Extramural
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Evid Based Med. 2008 Aug;13(4):109
+     </refsource>
+     <pmid version="1">
+      18667668
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Curr Hypertens Rep. 2009 Apr;11(2):83-4
+     </refsource>
+     <pmid version="1">
+      19278595
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2008 Jul;149(1):4
+     </refsource>
+     <pmid version="1">
+      18624372
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Communication
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Continuity of Patient Care
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Energy Intake
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Energy Metabolism
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Internet
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Obesity
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Risk Reduction Behavior
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Weight Loss
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2008
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2008
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2008
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     299/10/1139
+    </articleid>
+    <articleid idtype="doi">
+     10.1001/jama.299.10.1139
+    </articleid>
+    <articleid idtype="pubmed">
+     18334689
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

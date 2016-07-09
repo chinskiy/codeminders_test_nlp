@@ -1,0 +1,546 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    8148683
+   </pmid>
+   <datecreated>
+    <year>
+     1994
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     06
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1994
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     06
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     24
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0959-8138
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       308
+      </volume>
+      <issue>
+       6928
+      </issue>
+      <pubdate>
+       <year>
+        1994
+       </year>
+       <month>
+        Feb
+       </month>
+       <day>
+        26
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      BMJ (Clinical research ed.)
+     </title>
+     <isoabbreviation>
+      BMJ
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Clinical course and prognostic factors in acute low back pain: an inception cohort study in primary care practice.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      577-80
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To describe the natural course of recent acute low back pain in terms of both morbidity (pain, disability) and absenteeism from work and to evaluate the prognostic factors for these outcomes.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Inception cohort study.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      Primary care.
+     </abstracttext>
+     <abstracttext label="PATIENTS" nlmcategory="METHODS">
+      103 patients with acute localised non-specific back pain lasting less than 72 hours.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      Complete recovery (disappearance of both pain and disability) and return to work.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      90% of patients recovered within two weeks and only two developed chronic low back pain. Only 49 of 100 patients for whom data were available had bed rest and 40% of 75 employed patients lost no time from work. Proportional hazards regression analysis showed that previous chronic episodes of low back pain, initial disability level, initial pain worse when standing, initial pain worse when lying, and compensation status were significantly associated with delayed episode recovery. These factors were also related to absenteeism from work. Absenteeism from work was also influenced by job satisfaction and gender.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The recovery rate from acute low back pain was much higher than reported in other studies. Those studies, however, did not investigate groups of patients enrolled shortly after the onset of symptoms and often mixed acute low back pain patients with patients with exacerbations of chronic pain or sciatica. Several sociodemographic and clinical factors were of prognostic value in acute low back pain. Factors which influenced the outcome in terms of episode recovery (mainly physical severity factors) were only partly predictive of absenteeism from work. Time off work and return to work depended more on sociodemographic and job related influences.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     INSERM Unité U 292, Hôpital de Bicêtre, Le Kremlin-Bicêtre, France.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Coste
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Delecoeuillerie
+      </lastname>
+      <forename>
+       G
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cohen de Lara
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Le Parc
+      </lastname>
+      <forename>
+       J M
+      </forename>
+      <initials>
+       JM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Paolaggi
+      </lastname>
+      <forename>
+       J B
+      </forename>
+      <initials>
+       JB
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     ENGLAND
+    </country>
+    <medlineta>
+     BMJ
+    </medlineta>
+    <nlmuniqueid>
+     8900488
+    </nlmuniqueid>
+    <issnlinking>
+     0959-535X
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Spine (Phila Pa 1976). 1982 Jul-Aug;7(4):398-402
+     </refsource>
+     <pmid version="1">
+      6215720
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br Med J (Clin Res Ed). 1983 Feb 12;286(6364):523-5
+     </refsource>
+     <pmid version="1">
+      6218860
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Spine (Phila Pa 1976). 1980 Jul-Aug;5(4):324-30
+     </refsource>
+     <pmid version="1">
+      6450448
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Spine (Phila Pa 1976). 1981 Jan-Feb;6(1):53-60
+     </refsource>
+     <pmid version="1">
+      6451937
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br Med J (Clin Res Ed). 1982 May 22;284(6328):1519-23
+     </refsource>
+     <pmid version="1">
+      6211214
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J R Coll Gen Pract. 1981 Apr;31(225):209-16
+     </refsource>
+     <pmid version="1">
+      6456338
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Can Med Assoc J. 1966 Jul 9;95(2):50-6
+     </refsource>
+     <pmid version="1">
+      4222996
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1993 Apr 3;306(6882):901-9
+     </refsource>
+     <pmid version="1">
+      8347190
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Epidemiol. 1991;44(11):1233-45
+     </refsource>
+     <pmid version="1">
+      1834806
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Spine (Phila Pa 1976). 1991 Jun;16(6):605-7
+     </refsource>
+     <pmid version="1">
+      1830688
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Spine (Phila Pa 1976). 1991 Apr;16(4):426-8
+     </refsource>
+     <pmid version="1">
+      1828626
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Spine (Phila Pa 1976). 1990 Dec;15(12):1307-10
+     </refsource>
+     <pmid version="1">
+      2149208
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Rheumatol. 1988 Oct;15(10):1557-64
+     </refsource>
+     <pmid version="1">
+      2974489
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 1987 Nov;30(11):1247-53
+     </refsource>
+     <pmid version="1">
+      2961343
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1988 Feb 4;318(5):291-300
+     </refsource>
+     <pmid version="1">
+      2961994
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Orthop Relat Res. 1985 Nov;(200):266-78
+     </refsource>
+     <pmid version="1">
+      2933201
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1986 Oct 23;315(17):1064-70
+     </refsource>
+     <pmid version="1">
+      2945109
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Spine (Phila Pa 1976). 1986 Nov;11(9):951-4
+     </refsource>
+     <pmid version="1">
+      2950601
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arthritis Rheum. 1985 Sep;28(9):1066-70
+     </refsource>
+     <pmid version="1">
+      2931086
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Acta Psychiatr Scand. 1984 Dec;70(6):614-7
+     </refsource>
+     <pmid version="1">
+      6240921
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Spine (Phila Pa 1976). 1983 Sep;8(6):635-42
+     </refsource>
+     <pmid version="1">
+      6228020
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Spine (Phila Pa 1976). 1983 Nov-Dec;8(8):880-4
+     </refsource>
+     <pmid version="1">
+      6230742
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J R Coll Gen Pract. 1982 Jun;32(239):352-6
+     </refsource>
+     <pmid version="1">
+      6215482
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Spine (Phila Pa 1976). 1983 Mar;8(2):141-4
+     </refsource>
+     <pmid version="1">
+      6222486
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Absenteeism
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Acute Disease
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bed Rest
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cohort Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Disabled Persons
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      France
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Low Back Pain
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      rehabilitation
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Primary Health Care
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prognosis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sex Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Socioeconomic Factors
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC2539597
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1994
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      26
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1994
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1994
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      26
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     8148683
+    </articleid>
+    <articleid idtype="pmc">
+     PMC2539597
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

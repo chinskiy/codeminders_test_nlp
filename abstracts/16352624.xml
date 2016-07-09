@@ -1,0 +1,550 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    16352624
+   </pmid>
+   <datecreated>
+    <year>
+     2006
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     22
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2006
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     06
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     20
+    </day>
+   </daterevised>
+   <article pubmodel="Print-Electronic">
+    <journal>
+     <issn issntype="Electronic">
+      1468-2044
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       91
+      </volume>
+      <issue>
+       3
+      </issue>
+      <pubdate>
+       <year>
+        2006
+       </year>
+       <month>
+        Mar
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Archives of disease in childhood
+     </title>
+     <isoabbreviation>
+      Arch. Dis. Child.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     First night effect for polysomnographic data in children and adolescents with suspected sleep disordered breathing.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      233-7
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="AIMS" nlmcategory="OBJECTIVE">
+      To assess the presence of a first night effect (FNE) in children and adolescents and to examine if a single night polysomnography (PSG) is sufficient for diagnosing obstructive sleep apnoea syndrome (OSAS).
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Prospective case study of 70 patients (group 1: 2-6 years, n = 22; group 2: 7-12 years, n = 32; group 3: 13-17 years, n = 16) referred for OSAS. Diagnostic criteria for OSAS: one or more of the following: (1) obstructive apnoea index (OAI) &gt; or =1; (2) obstructive apnoea hypopnoea index (oAHI) &gt; or =2; (3) SaO2 &lt; or =89% in association with obstruction.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      In all age groups, but mainly in the oldest children, REMS increased during the second night, mainly at the expense of stage 2 sleep. The first night PSG correctly identified OSAS in 86%, 91%, and 100% of the children for groups 1, 2, and 3 respectively. This represents 9% false negatives for OSAS when only the first night PSG was used. All cases missed had mild OSAS, except for one with oAHI &gt;5 on night 2. There were also seven patients with OSAS on night 1 but with a normal PSG on night 2: all had oAHI &lt;5.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      There is a FNE in children and adolescents. A single night PSG is sufficient for diagnosing OSAS, but in cases with a suggestive history and examination and with a negative first night, a second night study might be advisable.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Pediatrics, University Hospital of Antwerp, Belgium. stijn.verhulst@ua.ac.be
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Verhulst
+      </lastname>
+      <forename>
+       S L
+      </forename>
+      <initials>
+       SL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schrauwen
+      </lastname>
+      <forename>
+       N
+      </forename>
+      <initials>
+       N
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       De Backer
+      </lastname>
+      <forename>
+       W A
+      </forename>
+      <initials>
+       WA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Desager
+      </lastname>
+      <forename>
+       K N
+      </forename>
+      <initials>
+       KN
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Evaluation Studies
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2005
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      13
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Arch Dis Child
+    </medlineta>
+    <nlmuniqueid>
+     0372434
+    </nlmuniqueid>
+    <issnlinking>
+     0003-9888
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      7782-44-7
+     </registrynumber>
+     <nameofsubstance>
+      Oxygen
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Chest. 1993 Mar;103(3):756-60
+     </refsource>
+     <pmid version="1">
+      8449064
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 2002 Apr;109(4):704-12
+     </refsource>
+     <pmid version="1">
+      11927718
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Sleep. 1997 Apr;20(4):278-83
+     </refsource>
+     <pmid version="1">
+      9231953
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Sleep. 1999 Nov 1;22(7):916-20
+     </refsource>
+     <pmid version="1">
+      10566909
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Psychopharmacol. 2000 Dec;20(6):691-4
+     </refsource>
+     <pmid version="1">
+      11106143
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Psychophysiology. 2002 Jul;39(4):409-13
+     </refsource>
+     <pmid version="1">
+      12212632
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Psychiatry Res. 2003 Sep 30;120(2):191-9
+     </refsource>
+     <pmid version="1">
+      14527650
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Sleep Med. 2002 May;3(3):213-9
+     </refsource>
+     <pmid version="1">
+      14592210
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Chest. 2004 Nov;126(5):1467-72
+     </refsource>
+     <pmid version="1">
+      15539714
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Sleep. 1991 Jun;14(3):252-8
+     </refsource>
+     <pmid version="1">
+      1896727
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Psychophysiology. 1966 Jan;2(3):263-6
+     </refsource>
+     <pmid version="1">
+      5903579
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Cleve Clin J Med. 1994 Jul-Aug;61(4):299-303
+     </refsource>
+     <pmid version="1">
+      7923748
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Sleep. 1996 Nov;19(9):691-7
+     </refsource>
+     <pmid version="1">
+      9122554
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Biol Psychiatry. 1997 Aug 15;42(4):267-74
+     </refsource>
+     <pmid version="1">
+      9270903
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Chest. 2000 Aug;118(2):353-9
+     </refsource>
+     <pmid version="1">
+      10936124
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Psychiatr Res. 2001 May-Jun;35(3):165-72
+     </refsource>
+     <pmid version="1">
+      11461712
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Pediatr. 2002 May;140(5):589-94
+     </refsource>
+     <pmid version="1">
+      12032527
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Neurophysiol. 2003 Nov;114(11):2138-45
+     </refsource>
+     <pmid version="1">
+      14580612
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Chest. 2004 Mar;125(3):872-8
+     </refsource>
+     <pmid version="1">
+      15006944
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Sleep. 1989 Aug;12(4):299-308
+     </refsource>
+     <pmid version="1">
+      2762685
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Sleep. 1988 Jun;11(3):273-6
+     </refsource>
+     <pmid version="1">
+      3399780
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Sleep. 1995 Jul;18(6):463-9
+     </refsource>
+     <pmid version="1">
+      7481418
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Respir Crit Care Med. 1996 Feb;153(2):866-78
+     </refsource>
+     <pmid version="1">
+      8564147
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anthropometry
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      False Negative Reactions
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Oxygen
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Polysomnography
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sleep Apnea, Obstructive
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sleep, REM
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Time Factors
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC2065916
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="aheadofprint">
+     <year>
+      2005
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      13
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2005
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      15
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2006
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      7
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2005
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      15
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     adc.2005.085365
+    </articleid>
+    <articleid idtype="doi">
+     10.1136/adc.2005.085365
+    </articleid>
+    <articleid idtype="pubmed">
+     16352624
+    </articleid>
+    <articleid idtype="pmc">
+     PMC2065916
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

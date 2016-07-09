@@ -1,0 +1,318 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    17943896
+   </pmid>
+   <datecreated>
+    <year>
+     2007
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     18
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2008
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     17
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     25
+    </day>
+   </daterevised>
+   <article pubmodel="Electronic">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <year>
+        2007
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Vena caval filters for the prevention of pulmonary embolism.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD006212
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Pulmonary emboli can have potentially fatal consequences. Inferior vena caval filters are metal alloy devices that mechanically trap fragmented thromboemboli from the deep leg veins en route to the pulmonary circulation. Filters in current clinical use are designed to be introduced (and in the case of retrievable filters, removed) percutaneously. Although their deployment seems of theoretical benefit, their clinical efficacy and adverse event profile is unclear.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To examine evidence for the effectiveness of vena caval filters in preventing pulmonary embolism (PE). Secondary outcomes were mortality, distal (to filter) thrombosis, and filter-related complications.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      We searched the Cochrane Peripheral Vascular Diseases Group Specialised Register (last searched August 2007), the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library 2007, Issue 3, MEDLINE (1966 to August 2007), and EMBASE (1966 to August 2007). Filter manufacturers and clinicians interested in filters were contacted for information.
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      Controlled clinical trials (CCTs) and randomised controlled trials (RCTs) that examined the efficacy of filters in preventing PE were selected.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      Three authors extracted information independently. Incidence figures were extracted from survival tables. Dichotomous outcomes were analysed as hazard ratio estimates.
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      One RCT was included. The PREPIC (Prévention du Risque d'Embolie Pulmonaire par Interruption Cave) trial was an open RCT of 400 participants with documented proximal deep vein thrombosis (DVT) or PE and who received concurrent anticoagulation. Permanent caval filters prevented PE at eight years (HR 0.37, 95% CI 0.17 to 0.79, in favour of the filter). No reduction in mortality was seen, but this reflected an older study population (mean age 73 years); the majority of deaths were due to cancer or cardiovascular causes. There was an increased incidence of DVT in the filter group (HR 1.52, 95% CI 1.02 to 2.27). No details were recorded of adverse events of filters.
+     </abstracttext>
+     <abstracttext label="AUTHORS' CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Limited generalisability prevents any conclusions to be drawn from the PREPIC trial in that permanent filters were used and the study lacked statistical power to detect a reduction in PE over shorter and more clinically significant time periods. However, the PREPIC trial demonstrated that permanent caval filters were associated with an increased risk of long term lower limb DVT. There is a marked paucity of caval filter outcomes evidence when used within their currently approved indications. There is also a lack of retrievable filter trials. Further trials are needed to assess vena caval filter safety and effectiveness.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Queensland Health, Respiratory and Sleep Medicine, PO Box M103, Missenden Road, Camperdown, New South Wales, Australia, 2050. timothy.young@dr.nswama.com.au
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Young
+      </lastname>
+      <forename>
+       T
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tang
+      </lastname>
+      <forename>
+       H
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Aukes
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hughes
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2007
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      17
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="UpdateIn">
+     <refsource>
+      Cochrane Database Syst Rev. 2010;(2):CD006212
+     </refsource>
+     <pmid version="1">
+      20166079
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="UpdateOf">
+     <refsource>
+      Cochrane Database Syst Rev. 2007;(3):CD006212
+     </refsource>
+     <pmid version="1">
+      17636834
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pulmonary Embolism
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Vena Cava Filters
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vena Cava, Inferior
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Venous Thrombosis
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    26
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2007
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2008
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2007
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    epublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="doi">
+     10.1002/14651858.CD006212.pub3
+    </articleid>
+    <articleid idtype="pubmed">
+     17943896
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

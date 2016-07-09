@@ -1,0 +1,415 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    16422868
+   </pmid>
+   <datecreated>
+    <year>
+     2006
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     20
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2006
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     07
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      1743-6095
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       2
+      </volume>
+      <issue>
+       3
+      </issue>
+      <pubdate>
+       <year>
+        2005
+       </year>
+       <month>
+        May
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The journal of sexual medicine
+     </title>
+     <isoabbreviation>
+      J Sex Med
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Efficacy of sildenafil citrate (Viagra) in men with premature ejaculation.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      368-75
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      Premature ejaculation (PE) is the most common ejaculatory dysfunction. We assessed the efficacy of sildenafil to increase the time to ejaculation, improve ejaculatory control, and decrease the postejaculatory erectile refractory time in men with PE.
+     </abstracttext>
+     <abstracttext label="DESIGN AND METHODS" nlmcategory="METHODS">
+      The main study was an 8-week, double-blind, placebo-controlled, parallel group study in men between 18 and 65 years of age with diagnosed PE. A substudy was also conducted using a subset of patients (two-way crossover, one center) before entry to the main study. The primary study measured intravaginal ejaculatory latency (IELT) and responses to the Index of Premature Ejaculation (IPE) questionnaire. The substudy measured vibrotactile stimulation ejaculatory latency time (VTS-ELT) and postejaculatory erectile refractory time. Differences between treatment groups were determined by ancova at the 5% level of significance.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The change in IELT (1.6 +/- 6.08 vs. 0.6 +/- 2.07 minutes) and VTS-ELT (2.9 +/- 0.4 vs. 2.4 +/- 0.4 minutes) were higher after taking sildenafil, compared with placebo, but did not reach statistical significance. However, patients who took sildenafil (vs. placebo) reported significantly (P &lt; 0.05) increased ejaculatory control (1.8 +/- 0.3 vs. 1.5 +/- 0.3), increased ejaculatory confidence (2.2 +/- 0.2 vs. 1.9 +/- 0.2), and improved overall sexual satisfaction scores (3.1 +/- 0.2 vs. 2.8 +/- 02) on the IPE, and had a decreased postejaculatory erectile refractory time (3.2 +/- 0.7 vs. 6.4 +/- 0.7 minutes). The most common adverse events for sildenafil (vs. placebo) were headache (15% vs. 1%), flushing (15% vs. 0%), dyspepsia (5% vs. 1%), abnormal vision (5% vs. 0%), and rhinitis (5% vs. 0%).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Although IELT and VTS-ELT were not significantly improved, sildenafil increased confidence, the perception of ejaculatory control, and overall sexual satisfaction, and decreased the refractory time to achieve a second erection after ejaculation in men with PE.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Australian Centre for Sexual Health, Sydney, Australia.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       McMahon
+      </lastname>
+      <forename>
+       Chris G
+      </forename>
+      <initials>
+       CG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Stuckey
+      </lastname>
+      <forename>
+       Bronwyn G A
+      </forename>
+      <initials>
+       BG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Andersen
+      </lastname>
+      <forename>
+       Morten
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Purvis
+      </lastname>
+      <forename>
+       Kenneth
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Koppiker
+      </lastname>
+      <forename>
+       Nandan
+      </forename>
+      <initials>
+       N
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Haughie
+      </lastname>
+      <forename>
+       Scott
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Boolell
+      </lastname>
+      <forename>
+       Mitra
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     J Sex Med
+    </medlineta>
+    <nlmuniqueid>
+     101230693
+    </nlmuniqueid>
+    <issnlinking>
+     1743-6095
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Piperazines
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Purines
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Sulfones
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Vasodilator Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      139755-83-2
+     </registrynumber>
+     <nameofsubstance>
+      sildenafil
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cross-Over Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ejaculation
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Erectile Dysfunction
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Piperazines
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      pharmacology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Purines
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sulfones
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Vasodilator Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      pharmacology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2006
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2006
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      8
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2006
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     JSM20351
+    </articleid>
+    <articleid idtype="doi">
+     10.1111/j.1743-6109.2005.20351.x
+    </articleid>
+    <articleid idtype="pubmed">
+     16422868
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

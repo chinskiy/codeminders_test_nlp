@@ -1,0 +1,607 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11380322
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     30
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     04
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0269-2813
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       15
+      </volume>
+      <issue>
+       6
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Jun
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Alimentary pharmacology &amp; therapeutics
+     </title>
+     <isoabbreviation>
+      Aliment. Pharmacol. Ther.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Three-day lansoprazole quadruple therapy for Helicobacter pylori-positive duodenal ulcers: a randomized controlled study.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      843-9
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="AIM" nlmcategory="OBJECTIVE">
+      To compare the efficacy and tolerability of a 3-day quadruple therapy with a standard 7-day triple therapy in eradicating Helicobacter pylori infection and healing duodenal ulcers.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      Patients with H. pylori-positive duodenal ulcers were randomized to receive either lansoprazole 30 mg, clarithromycin 500 mg, and metronidazole 400 mg twice daily for 7 days (LCM-7) or lansoprazole 30 mg, clarithromycin 500 mg, metronidazole 400 mg, and bismuth subcitrate 240 mg twice daily for 3 days (LCMB-3). No pre- or post-treatment acid suppression was used. Follow-up endoscopy was performed at week 6.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      A total of 118 patients were recruited. Sixty patients in the LCM-7 group and 53 patients in the LCMB-3 group returned for endoscopy. Intention-to-treat eradication rates were 87% and 86% (P=0.94) and per protocol eradication rates were 87% and 94% (P=0.29) in the LCM-7 and LCMB-3 groups, respectively. Per protocol and intention-to-treat ulcer healing rates were 98% and 98% in LCM-7 and 100% and 91% in LCMB-3, respectively. There were no significant differences in efficacy in relation to the initial metronidazole and clarithromycin susceptibility. Significant reduction in the duration of side-effects was found in the LCMB-3 group.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      The 3-day quadruple therapy is highly effective, better tolerated and can be considered as a first-line therapy in duodenal ulcer management.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Medicine, University of Hong Kong, Queen Mary Hospital, Hong Kong. bcywong@hku.hk
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Wong
+      </lastname>
+      <forename>
+       B C
+      </forename>
+      <initials>
+       BC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wang
+      </lastname>
+      <forename>
+       W H
+      </forename>
+      <initials>
+       WH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wong
+      </lastname>
+      <forename>
+       W M
+      </forename>
+      <initials>
+       WM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lau
+      </lastname>
+      <forename>
+       G K
+      </forename>
+      <initials>
+       GK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Fung
+      </lastname>
+      <forename>
+       F M
+      </forename>
+      <initials>
+       FM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kung
+      </lastname>
+      <forename>
+       N N
+      </forename>
+      <initials>
+       NN
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Chu
+      </lastname>
+      <forename>
+       K M
+      </forename>
+      <initials>
+       KM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lai
+      </lastname>
+      <forename>
+       K C
+      </forename>
+      <initials>
+       KC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hu
+      </lastname>
+      <forename>
+       W H
+      </forename>
+      <initials>
+       WH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hu
+      </lastname>
+      <forename>
+       F L
+      </forename>
+      <initials>
+       FL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Liu
+      </lastname>
+      <forename>
+       X G
+      </forename>
+      <initials>
+       XG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Chan
+      </lastname>
+      <forename>
+       C K
+      </forename>
+      <initials>
+       CK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Yuen
+      </lastname>
+      <forename>
+       M F
+      </forename>
+      <initials>
+       MF
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hui
+      </lastname>
+      <forename>
+       W M
+      </forename>
+      <initials>
+       WM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lam
+      </lastname>
+      <forename>
+       S K
+      </forename>
+      <initials>
+       SK
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Aliment Pharmacol Ther
+    </medlineta>
+    <nlmuniqueid>
+     8707234
+    </nlmuniqueid>
+    <issnlinking>
+     0269-2813
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      2-Pyridinylmethylsulfinylbenzimidazoles
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antacids
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Bacterial Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Infective Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Organometallic Compounds
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      103577-45-3
+     </registrynumber>
+     <nameofsubstance>
+      lansoprazole
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      443-48-1
+     </registrynumber>
+     <nameofsubstance>
+      Metronidazole
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      57644-54-9
+     </registrynumber>
+     <nameofsubstance>
+      bismuth tripotassium dicitrate
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      73590-58-6
+     </registrynumber>
+     <nameofsubstance>
+      Omeprazole
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      81103-11-9
+     </registrynumber>
+     <nameofsubstance>
+      Clarithromycin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      2-Pyridinylmethylsulfinylbenzimidazoles
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Administration, Oral
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antacids
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Bacterial Agents
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Infective Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      pharmacology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Clarithromycin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Administration Schedule
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Therapy, Combination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Duodenal Ulcer
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      microbiology
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Metronidazole
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Omeprazole
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      analogs &amp; derivatives
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      pharmacology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Organometallic Compounds
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11380322
+    </articleid>
+    <articleid idtype="pii">
+     apt999
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

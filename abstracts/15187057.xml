@@ -1,0 +1,305 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15187057
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     09
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     10
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     23
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1538-3598
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       291
+      </volume>
+      <issue>
+       22
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Jun
+       </month>
+       <day>
+        9
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Is this child dehydrated?
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      2746-54
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      The ability to assess the degree of dehydration quickly and accurately in infants and young children often determines patient treatment and disposition.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To systematically review the precision and accuracy of symptoms, signs, and basic laboratory tests for evaluating dehydration in infants and children.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      We identified 1561 potential articles by multiple search strategies of the MEDLINE database through PubMed. Searches of bibliographies of retrieved articles, the Cochrane Library, textbooks, and private collections of experts in the field yielded an additional 42 articles.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION" nlmcategory="METHODS">
+      Twenty-six of 1603 reviewed studies contained original data on the precision or accuracy of findings for the diagnosis of dehydration in young children (1 month to 5 years).
+     </abstracttext>
+     <abstracttext label="DATA EXTRACTION" nlmcategory="METHODS">
+      Two of the 3 authors independently reviewed and abstracted data for estimating the likelihood ratios (LRs) of diagnostic tests. We eliminated 13 of the 26 studies because of the lack of an accepted diagnostic standard or other limitation in study design. The other 13 studies were included in the review.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      The most useful individual signs for predicting 5% dehydration in children are an abnormal capillary refill time (LR, 4.1; 95% confidence interval [CI], 1.7-9.8), abnormal skin turgor (LR, 2.5; 95% CI, 1.5-4.2), and abnormal respiratory pattern (LR, 2.0; 95% CI, 1.5-2.7). Combinations of examination signs perform markedly better than any individual sign in predicting dehydration. Historical points and laboratory tests have only modest utility for assessing dehydration.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The initial assessment of dehydration in young children should focus on estimating capillary refill time, skin turgor, and respiratory pattern and using combinations of other signs. The relative imprecision and inaccuracy of available tests limit the ability of clinicians to estimate the exact degree of dehydration.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Pediatrics, University of North Carolina School of Medicine, and Robert Wood Johnson Clinical Scholars Program, Chapel Hill 27599-7593, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Steiner
+      </lastname>
+      <forename>
+       Michael J
+      </forename>
+      <initials>
+       MJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       DeWalt
+      </lastname>
+      <forename>
+       Darren A
+      </forename>
+      <initials>
+       DA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Byerley
+      </lastname>
+      <forename>
+       Julie S
+      </forename>
+      <initials>
+       JS
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Evid Based Nurs. 2005 Apr;8(2):57
+     </refsource>
+     <pmid version="1">
+      15830430
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Ann Emerg Med. 2009 Mar;53(3):395-7
+     </refsource>
+     <pmid version="1">
+      19231668
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dehydration
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Laboratory Techniques and Procedures
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Physical Examination
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    45
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     15187057
+    </articleid>
+    <articleid idtype="doi">
+     10.1001/jama.291.22.2746
+    </articleid>
+    <articleid idtype="pii">
+     291/22/2746
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

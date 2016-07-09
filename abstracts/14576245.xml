@@ -1,0 +1,633 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    14576245
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     24
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     31
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1468-5833
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       327
+      </volume>
+      <issue>
+       7421
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Oct
+       </month>
+       <day>
+        25
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      BMJ (Clinical research ed.)
+     </title>
+     <isoabbreviation>
+      BMJ
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Metformin in polycystic ovary syndrome: systematic review and meta-analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      951-3
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To assess the effectiveness of metformin in improving clinical and biochemical features of polycystic ovary syndrome.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Systematic review and meta-analysis.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      Randomised controlled trials that investigated the effect of metformin compared with either placebo or no treatment, or compared with an ovulation induction agent.
+     </abstracttext>
+     <abstracttext label="SELECTION OF STUDIES" nlmcategory="METHODS">
+      13 trials were included for analysis, including 543 women with polycystic ovary syndrome that was defined by using biochemical or ultrasound evidence.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURE" nlmcategory="METHODS">
+      Pregnancy and ovulation rates. Secondary outcomes of clinical and biochemical features of polycystic ovary syndrome.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Meta-analysis showed that metformin is effective in achieving ovulation in women with polycystic ovary syndrome, with odds ratios of 3.88 (95% confidence interval 2.25 to 6.69) for metformin compared with placebo and 4.41 (2.37 to 8.22) for metformin and clomifene compared with clomifene alone. An analysis of pregnancy rates shows a significant treatment effect for metformin and clomifene (odds ratio 4.40, 1.96 to 9.85). Metformin has an effect in reducing fasting insulin concentrations, blood pressure, and low density lipoprotein cholesterol. We found no evidence of any effect on body mass index or waist:hip ratio. Metformin was associated with a higher incidence of nausea, vomiting, and other gastrointestinal disturbance.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Metformin is an effective treatment for anovulation in women with polycystic ovary syndrome. Its choice as a first line agent seems justified, and there is some evidence of benefit on variables of the metabolic syndrome. No data are available regarding the safety of metformin in long term use in young women and only limited data on its safety in early pregnancy. It should be used as an adjuvant to general lifestyle improvements and not as a replacement for increased exercise and improved diet.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Endocrinology and Metabolism, Peninsula Medical School, South West Centre for Reproductive Medicine, Derriford Hospital, Plymouth, Devon, PL6 8DH. jonathan.lord@pms.ac.uk
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Lord
+      </lastname>
+      <forename>
+       Jonathan M
+      </forename>
+      <initials>
+       JM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Flight
+      </lastname>
+      <forename>
+       Ingrid H K
+      </forename>
+      <initials>
+       IH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Norman
+      </lastname>
+      <forename>
+       Robert J
+      </forename>
+      <initials>
+       RJ
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     BMJ
+    </medlineta>
+    <nlmuniqueid>
+     8900488
+    </nlmuniqueid>
+    <issnlinking>
+     0959-535X
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Fertility Agents, Female
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Lipids
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      11061-68-0
+     </registrynumber>
+     <nameofsubstance>
+      Insulin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      657-24-9
+     </registrynumber>
+     <nameofsubstance>
+      Metformin
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Endocrinol (Oxf). 1999 Dec;51(6):779-86
+     </refsource>
+     <pmid version="1">
+      10619984
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Endocrinol Metab. 2000 Jan;85(1):139-46
+     </refsource>
+     <pmid version="1">
+      10634377
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann N Y Acad Sci. 1999 Nov 18;892:45-57
+     </refsource>
+     <pmid version="1">
+      10842651
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Endocrinol Metab. 2000 Aug;85(8):2767-74
+     </refsource>
+     <pmid version="1">
+      10946879
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Fertil Steril. 2001 Feb;75(2):310-5
+     </refsource>
+     <pmid version="1">
+      11172832
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Endocrinol Metab. 2001 Mar;86(3):1126-33
+     </refsource>
+     <pmid version="1">
+      11238496
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Endocrinol Metab. 2001 Mar;86(3):1430
+     </refsource>
+     <pmid version="1">
+      11238551
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Obstet Gynecol Clin North Am. 2001 Mar;28(1):99-109
+     </refsource>
+     <pmid version="1">
+      11293007
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Hum Reprod. 2001 Aug;16(8):1625-31
+     </refsource>
+     <pmid version="1">
+      11473953
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Fertil Steril. 2002 Jan;77(1):101-6
+     </refsource>
+     <pmid version="1">
+      11779598
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Fertil Steril. 2002 Feb;77(2):209-15
+     </refsource>
+     <pmid version="1">
+      11821072
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Hum Reprod. 2002 Feb;17(2):289-94
+     </refsource>
+     <pmid version="1">
+      11821265
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Endocrinol Metab. 2002 Feb;87(2):569-74
+     </refsource>
+     <pmid version="1">
+      11836287
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Hum Reprod. 2002 Apr;17(4):853-6
+     </refsource>
+     <pmid version="1">
+      11925372
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Clin Pharmacol. 2002 May;53(5):469-73
+     </refsource>
+     <pmid version="1">
+      11994052
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Saudi Med J. 2002 Jun;23(6):663-6
+     </refsource>
+     <pmid version="1">
+      12070543
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Trends Endocrinol Metab. 2002 Aug;13(6):251-7
+     </refsource>
+     <pmid version="1">
+      12128286
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Hum Reprod. 2002 Sep;17(9):2230-6
+     </refsource>
+     <pmid version="1">
+      12202407
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Hum Reprod. 2002 Dec;17(12):3016-26
+     </refsource>
+     <pmid version="1">
+      12456596
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Fertil Steril. 2003 Jan;79(1):1-13
+     </refsource>
+     <pmid version="1">
+      12524053
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 2003 May 31;361(9372):1894-901
+     </refsource>
+     <pmid version="1">
+      12788588
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Obstet Gynaecol. 1992 Jul;99(7):607-13
+     </refsource>
+     <pmid version="1">
+      1525105
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1988 Apr 16;1(8590):870-2
+     </refsource>
+     <pmid version="1">
+      2895373
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1996 Aug 29;335(9):617-23
+     </refsource>
+     <pmid version="1">
+      8687515
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Hum Reprod Update. 1997 May-Jun;3(3):235-53
+     </refsource>
+     <pmid version="1">
+      9322100
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Hum Reprod Update. 1997 Jul-Aug;3(4):359-65
+     </refsource>
+     <pmid version="1">
+      9459281
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1998 Jun 25;338(26):1876-80
+     </refsource>
+     <pmid version="1">
+      9637806
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Hum Reprod. 1998 Jun;13(6):1502-5
+     </refsource>
+     <pmid version="1">
+      9688382
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2004 May-Jun;140(3):75
+     </refsource>
+     <pmid version="1">
+      15122838
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Pressure
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Body Weight
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fertility Agents, Female
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Insulin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lipids
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Metformin
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ovulation
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Polycystic Ovary Syndrome
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pregnancy
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Single-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    26
+   </numberofreferences>
+   <otherid source="NLM">
+    PMC259161
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      25
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     14576245
+    </articleid>
+    <articleid idtype="doi">
+     10.1136/bmj.327.7421.951
+    </articleid>
+    <articleid idtype="pii">
+     327/7421/951
+    </articleid>
+    <articleid idtype="pmc">
+     PMC259161
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

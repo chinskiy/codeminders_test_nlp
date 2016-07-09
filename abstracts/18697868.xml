@@ -1,0 +1,531 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    18697868
+   </pmid>
+   <datecreated>
+    <year>
+     2008
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     06
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2008
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     31
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     09
+    </day>
+   </daterevised>
+   <article pubmodel="Print-Electronic">
+    <journal>
+     <issn issntype="Print">
+      0021-972X
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       93
+      </volume>
+      <issue>
+       11
+      </issue>
+      <pubdate>
+       <year>
+        2008
+       </year>
+       <month>
+        Nov
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The Journal of clinical endocrinology and metabolism
+     </title>
+     <isoabbreviation>
+      J. Clin. Endocrinol. Metab.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Corticotropin tests for hypothalamic-pituitary- adrenal insufficiency: a metaanalysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      4245-53
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      The diagnostic value of tests for detecting hypothalamic-pituitary adrenal insufficiency (HPAI) is controversial.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      Our objective was to compare standard-dose and low-dose corticotropin tests for diagnosing HPAI.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      We searched the PubMed database from 1966-2006 for studies reporting diagnostic value of standard-dose or low-dose corticotropin tests, with patient-level data obtained from original investigators.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION" nlmcategory="METHODS">
+      Eligible studies had more than 10 patients. All subjects were evaluated because of suspicion for chronic HPAI, and patient-level data were available. We excluded studies with no accepted reference standard for HPAI (insulin hypoglycemia or metyrapone test) if test subjects were in the intensive care unit or if only normal healthy subjects were used as controls.
+     </abstracttext>
+     <abstracttext label="DATA EXTRACTION" nlmcategory="METHODS">
+      We constructed receiver operator characteristic (ROC) curves using patient-level data from each study and then merged results to create summary ROC curves, adjusting for study size and cortisol assay method. Diagnostic value of tests was measured by calculating area under the ROC curve (AUC) and likelihood ratios.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      Patient-level data from 13 of 23 studies (57%; 679 subjects) were included in the metaanalysis. The AUC were as follows: low-dose corticotropin test, 0.92 (95% confidence interval 0.89-0.94), and standard-dose corticotropin test, 0.79 (95% confidence interval 0.74-0.84). Among patients with paired data (seven studies, 254 subjects), diagnostic value of low-dose corticotropin test was superior to standard-dose test (AUC 0.94 and 0.85, respectively; P&lt;0.001).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Low-dose corticotropin test was superior to standard-dose test for diagnosing chronic HPAI, although it has technical limitations.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     John H. Stroger Jr. Hospital of Cook County and Rush Medical College, M.Sc., 1900 West Polk Street, Room 806, Chicago, Illinois 60612, USA. rasa_kazlauskaite@rush.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Kazlauskaite
+      </lastname>
+      <forename>
+       Rasa
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Evans
+      </lastname>
+      <forename>
+       Arthur T
+      </forename>
+      <initials>
+       AT
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Villabona
+      </lastname>
+      <forename>
+       Carmen V
+      </forename>
+      <initials>
+       CV
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Abdu
+      </lastname>
+      <forename>
+       Tariq A M
+      </forename>
+      <initials>
+       TA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ambrosi
+      </lastname>
+      <forename>
+       Bruno
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Atkinson
+      </lastname>
+      <forename>
+       A Brew
+      </forename>
+      <initials>
+       AB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Choi
+      </lastname>
+      <forename>
+       Cheung Hei
+      </forename>
+      <initials>
+       CH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Clayton
+      </lastname>
+      <forename>
+       Richard N
+      </forename>
+      <initials>
+       RN
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Courtney
+      </lastname>
+      <forename>
+       C Hamish
+      </forename>
+      <initials>
+       CH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gonc
+      </lastname>
+      <forename>
+       E Nazli
+      </forename>
+      <initials>
+       EN
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Maghnie
+      </lastname>
+      <forename>
+       Mohamad
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rose
+      </lastname>
+      <forename>
+       Susan R
+      </forename>
+      <initials>
+       SR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Soule
+      </lastname>
+      <forename>
+       Steven G
+      </forename>
+      <initials>
+       SG
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tordjman
+      </lastname>
+      <forename>
+       Karen
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       Consortium for Evaluation of Corticotropin Test in Hypothalamic-Pituitary Adrenal Insufficiency
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2008
+     </year>
+     <month>
+      08
+     </month>
+     <day>
+      12
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     J Clin Endocrinol Metab
+    </medlineta>
+    <nlmuniqueid>
+     0375362
+    </nlmuniqueid>
+    <issnlinking>
+     0021-972X
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Glucocorticoids
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      16960-16-0
+     </registrynumber>
+     <nameofsubstance>
+      Cosyntropin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      50-23-7
+     </registrynumber>
+     <nameofsubstance>
+      Hydrocortisone
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      9002-60-2
+     </registrynumber>
+     <nameofsubstance>
+      Adrenocorticotropic Hormone
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Nat Clin Pract Endocrinol Metab. 2009 Feb;5(2):68-9
+     </refsource>
+     <pmid version="1">
+      19047996
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adrenal Gland Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adrenocorticotropic Hormone
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      secretion
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cosyntropin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pharmacology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Fasting
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Glucocorticoids
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hydrocortisone
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypothalamic Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypothalamo-Hypophyseal System
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pituitary Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      ROC Curve
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Reproducibility of Results
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="aheadofprint">
+     <year>
+      2008
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      12
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2008
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      14
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2009
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2008
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      14
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     jc.2008-0710
+    </articleid>
+    <articleid idtype="doi">
+     10.1210/jc.2008-0710
+    </articleid>
+    <articleid idtype="pubmed">
+     18697868
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

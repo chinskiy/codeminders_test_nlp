@@ -1,0 +1,361 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15846645
+   </pmid>
+   <datecreated>
+    <year>
+     2005
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     22
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     19
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     03
+    </day>
+   </daterevised>
+   <article pubmodel="Electronic">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2005
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Glucosamine therapy for treating osteoarthritis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD002946
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Osteoarthritis (OA) is the most common form of arthritis, and it is often associated with significant disability and an impaired quality of life.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To review all randomized controlled trials (RCTs) evaluating the effectiveness and toxicity of glucosamine in OA.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      We searched MEDLINE, PREMEDLINE, EMBASE, AMED, ACP Journal Club, DARE, CDSR, and the CCTR. We also wrote letters to content experts, and hand searched reference lists of identified RCTs and pertinent review articles. All searches were updated in January 2005.
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      Relevant studies met the following criteria: 1) RCTs evaluating the effectiveness and safety of glucosamine in OA, 2) Both placebo controlled and comparative studies were eligible, 3) Both single blinded and double blinded studies were eligible.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      Data abstraction was performed independently by two investigators and the results were compared for degree of agreement. Gotzsche's method and a validated tool (Jadad 1996) were used to score the quality of the RCTs. Continuous outcome measures were pooled using standardized mean differences (SMD) as the measure of effect size. Dichotomous outcome measures were pooled using relative risk ratios (RR).
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      Analysis restricted to eight studies with adequate allocation concealment failed to show benefit of glucosamine for pain and WOMAC function. Collectively, the 20 analyzed RCTs found glucosamine favoured placebo with a 28% (change from baseline) improvement in pain (SMD -0.61, 95% CI -0.95, -0.28) and a 21% (change from baseline) improvement in function using the Lequesne index (SMD -0.51 95% CI -0.96, -0.05). However, the results are not uniformly positive, and the reasons for this remain unexplained. WOMAC pain, function and stiffness outcomes did not reach statistical significance. In the 10 RCTs in which the Rotta preparation of glucosamine was compared to placebo, glucosamine was found to be superior for pain (SMD -1.31, 95% CI -1.99, -0.64) and function using the Lequesne index (SMD -0.51, 95% CI -0.96, -0.05). Pooled results for pain (SMD -0.15, 95% CI -0.35, 0.05) and function using the WOMAC index (SMD 0.03, 95% CI -0.18, 0.25) in those RCTs in which a non-Rotta preparation of glucosamine was compared to placebo did not reach statistical significance. In the four RCTs in which the Rotta preparation of glucosamine was compared to an NSAID, glucosamine was superior in two, and equivalent in two. Two RCTs using the Rotta preparation showed that glucosamine was able to slow radiological progression of OA of the knee over a three year period (SMD 0.24, 95% CI 0.04, 0.43). Glucosamine was as safe as placebo in terms of the number of subjects reporting adverse reactions (RR=0.97, 95% CI, 0.88, 1.08).
+     </abstracttext>
+     <abstracttext label="AUTHORS' CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      This update includes 20 studies with 2570 patients. Pooled results from studies using a non-Rotta preparation or adequate allocation concealment failed to show benefit in pain and WOMAC function while those studies evaluating the Rotta preparation show that glucosamine was superior to placebo in the treatment of pain and functional impairment resulting from symptomatic OA. WOMAC outcomes of pain, stiffness and function did not show a superiority of glucosamine over placebo for both Rotta and non-Rotta preparations of glucosamine. Glucosamine was as safe as placebo.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Medicine, Community Health and Epidemiology, Queen's University, Room 2066 Etherington Hall, Queen's University, Kingston, Ontario, Canada, K7L 3N6. tt5@post.queensu.ca
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Towheed
+      </lastname>
+      <forename>
+       T E
+      </forename>
+      <initials>
+       TE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Maxwell
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Anastassiades
+      </lastname>
+      <forename>
+       T P
+      </forename>
+      <initials>
+       TP
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Shea
+      </lastname>
+      <forename>
+       B
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Houpt
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Robinson
+      </lastname>
+      <forename>
+       V
+      </forename>
+      <initials>
+       V
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hochberg
+      </lastname>
+      <forename>
+       M C
+      </forename>
+      <initials>
+       MC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wells
+      </lastname>
+      <forename>
+       G
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2005
+     </year>
+     <month>
+      04
+     </month>
+     <day>
+      18
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      3416-24-8
+     </registrynumber>
+     <nameofsubstance>
+      Glucosamine
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="UpdateOf">
+     <refsource>
+      Cochrane Database Syst Rev. 2001;(1):CD002946
+     </refsource>
+     <pmid version="1">
+      11279782
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Glucosamine
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Osteoarthritis
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    97
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2005
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      23
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2005
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      23
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    epublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="doi">
+     10.1002/14651858.CD002946.pub2
+    </articleid>
+    <articleid idtype="pubmed">
+     15846645
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

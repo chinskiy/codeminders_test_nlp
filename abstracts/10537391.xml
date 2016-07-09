@@ -1,0 +1,328 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    10537391
+   </pmid>
+   <datecreated>
+    <year>
+     1999
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     04
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1999
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     04
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0002-838X
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       60
+      </volume>
+      <issue>
+       6
+      </issue>
+      <pubdate>
+       <year>
+        1999
+       </year>
+       <month>
+        Oct
+       </month>
+       <day>
+        15
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      American family physician
+     </title>
+     <isoabbreviation>
+      Am Fam Physician
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Evaluation and management of dyspepsia.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1773-84, 1787-8
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Dyspepsia, often defined as chronic or recurrent discomfort centered in the upper abdomen, can be caused by a variety of conditions. Common etiologies include peptic ulcers and gastroesophageal reflux. Serious causes, such as gastric and pancreatic cancers, are rare but must also be considered. Symptoms of possible causes often overlap, which can make initial diagnosis difficult. In many patients, a definite cause is never established. The initial evaluation of patients with dyspepsia includes a thorough history and physical examination, with special attention given to elements that suggest the presence of serious disease. Endoscopy should be performed promptly in patients who have "alarm symptoms" such as melena or anorexia. Optimal management remains controversial in young patients who do not have alarm symptoms. Although management should be individualized, a cost-effective initial approach is to test for Helicobacter pylori and treat the infection if the test is positive. If the H. pylori test is negative, empiric therapy with a gastric acid suppressant or prokinetic agent is recommended. If symptoms persist or recur after six to eight weeks of empiric therapy, endoscopy should be performed.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Family Practice, University of Texas Health Science Center at San Antonio, 78284-7795, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Bazaldua
+      </lastname>
+      <forename>
+       O V
+      </forename>
+      <initials>
+       OV
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schneider
+      </lastname>
+      <forename>
+       F D
+      </forename>
+      <initials>
+       FD
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Am Fam Physician
+    </medlineta>
+    <nlmuniqueid>
+     1272646
+    </nlmuniqueid>
+    <issnlinking>
+     0002-838X
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Am Fam Physician. 1999 Oct 15;60(6):1649-50, 1656
+     </refsource>
+     <pmid version="1">
+      10537379
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Am Fam Physician. 2000 Jun 15;61(12):3564, 3566-7
+     </refsource>
+     <pmid version="1">
+      10892631
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Colonic Diseases, Functional
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Decision Trees
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diagnosis, Differential
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Digestive System Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Digestive System Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dyspepsia
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Gastroesophageal Reflux
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Gastroparesis
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Helicobacter Infections
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Helicobacter pylori
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Patient Education as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Peptic Ulcer
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Teaching Materials
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    44
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1999
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      28
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1999
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1999
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     10537391
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

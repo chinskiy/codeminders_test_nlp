@@ -1,0 +1,334 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    16625602
+   </pmid>
+   <datecreated>
+    <year>
+     2006
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     20
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2006
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     15
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2011
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     24
+    </day>
+   </daterevised>
+   <article pubmodel="Electronic">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2006
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Antibiotics for exacerbations of chronic obstructive pulmonary disease.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD004403
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Most patients with an exacerbation of chronic obstructive pulmonary disease (COPD) are treated with antibiotics. However the value of their use remains uncertain. Some controlled trials of antibiotics have shown benefit (Berry 1960; Pines 1972) while others have not (Elmes 1965b; Nicotra 1982).
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To conduct a systematic review of the literature estimating the value of antibiotics in the management of acute COPD exacerbations.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library Issue 4, 2005); MEDLINE (1966 to December 2005); EMBASE (1974 to December 2005); Web of Science (December 2005), and other electronically available databases.
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      Randomised controlled trials (RCTs) in patients with acute COPD exacerbations comparing antibiotic (for a minimum of five days) and placebo.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      Data were analysed using Review Manager software. Continuous data were analysed using weighted mean differences (WMD) and 95% confidence intervals (CI). Relative risks (RR) (and 95% CI) were calculated for all dichotomous data. Where appropriate, number needed to treat to benefit (NNT) and 95% CI were calculated.
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      Eleven trials with 917 patients were included. Ten trials used increased cough, sputum volume and purulence diagnostic criteria for COPD exacerbation. Eight-hundred and fifty-seven patients provided data for outcomes including mortality, treatment failure, increased sputum volume, sputum purulence, PaCO(2), PaO(2), peak flow and adverse events. Antibiotic therapy regardless of antibiotic choice significantly reduced mortality (RR 0.23; 95% CI 0.10 to 0.52 with NNT of 8; 95% CI 6 to 17), treatment failure (RR 0.47; 95% CI 0.36 to 0.62 with NNT of 3; 95% CI 3 to 5) and sputum purulence (RR 0.56; 95% CI 0.41 to 0.77 with NNT of 8; 95% CI 6 to 17). There was a small increase in risk of diarrhoea with antibiotics (RR 2.86; 95% CI 1.06 to 7.76). Antibiotics did not improve arterial blood gases and peak flow.
+     </abstracttext>
+     <abstracttext label="AUTHORS' CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      This review shows that in COPD exacerbations with increased cough and sputum purulence antibiotics, regardless of choice, reduce the risk of short-term mortality by 77%, decrease the risk of treatment failure by 53% and the risk of sputum purulence by 44%; with a small increase in the risk of diarrhoea. These results should be interpreted with caution due to the differences in patient selection, antibiotic choice, small number of included trials and lack of control for interventions that influence outcome, such as use of systemic corticosteroids and ventilatory support. Nevertheless, this review supports antibiotics for patients with COPD exacerbations with increased cough and sputum purulence who are moderately or severely ill.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Massey University - Albany, School of Health Sciences, Private Bag 102 904, North Shore Mail Centre, Auckland, New Zealand. fsfram@yahoo.co.uk
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Ram
+      </lastname>
+      <forename>
+       F S F
+      </forename>
+      <initials>
+       FS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rodriguez-Roisin
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Granados-Navarrete
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Garcia-Aymerich
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Barnes
+      </lastname>
+      <forename>
+       N C
+      </forename>
+      <initials>
+       NC
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2006
+     </year>
+     <month>
+      04
+     </month>
+     <day>
+      19
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Bacterial Agents
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="UpdateIn">
+     <refsource>
+      Cochrane Database Syst Rev. 2011;1:CD004403
+     </refsource>
+     <pmid version="1">
+      21249661
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Bacterial Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cough
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pulmonary Disease, Chronic Obstructive
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sputum
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      secretion
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    59
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2006
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2006
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2006
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    epublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="doi">
+     10.1002/14651858.CD004403.pub2
+    </articleid>
+    <articleid idtype="pubmed">
+     16625602
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

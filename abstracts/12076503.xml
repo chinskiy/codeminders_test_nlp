@@ -1,0 +1,334 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12076503
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     21
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     09
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Non-steroidal anti-inflammatory drugs (NSAIDs) for treating lateral elbow pain in adults.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD003686
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Lateral elbow pain, or tennis elbow, is a common condition causing pain in the elbow and forearm and lack of strength and function of the elbow and wrist. It is often treated with non-steroidal anti-inflammatory drugs (NSAIDs), either orally or by topical application.
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To assess effectiveness of NSAIDs (oral or topical) in the treatment of adults with lateral elbow pain with respect to symptom (pain) reduction, improvement in function, grip strength and adverse effects.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      We searched the Musculoskeletal Review Group's trials register database, the Cochrane Clinical Trials Register (Cochrane Library issue 2, 2001), MEDLINE, CINAHL, EMBASE and SCISEARCH up to June 2001.
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      Randomised and pseudo randomised trials in all languages of NSAIDs (oral or topical) compared to placebo or another intervention, or comparing two NSAIDs (oral or topical) to each other, in adults with lateral elbow pain (tennis elbow). Outcomes of interest were pain, function, disability and quality of life, strength, participant satisfaction with treatment and adverse effect.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      Two reviewers independently applied selection criteria and assessed study quality.
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      Fourteen trials were included in the review. Few trials used intention to treat analysis, and the sample size of most was small. The median follow up was 2 weeks (range 1-12 weeks). There is evidence that topical NSAIDs are significantly more effective than placebo with respect to pain [weighted main difference= -1.88, (95% confidence intervals -2.54 to -1.21)] and participant satisfaction [relative risk 0.39, (95% confidence intervals 0.23 to 0.66)] in the short term, and this finding is robust against the possible bias introduced by the inclusion of unblinded trials and publication bias. The adverse effects reported were minor. Only two included trials assessed the effect of oral NSAID and these were not able to be pooled. There is some evidence for short term benefit with respect to pain and function from oral NSAIDs, but this benefit was not sustained. Significantly more gastrointestinal adverse effects were reported by those taking oral NSAIDs [relative risk = 3.17, (95% confidence intervals 1.35 to 7.41)]. In the short term there may be some advantage in steroid injection over oral NSAID [patient's perception of benefit relative risk = 3.06, (95% confidence intervals 1.55 to 6.06)], but this was not sustained in the longer term.
+     </abstracttext>
+     <abstracttext label="REVIEWER'S CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      There is some support for the use of topical NSAIDs to relieve lateral elbow pain at least in the short term. There remains insufficient evidence to recommend or discourage the use of oral NSAID, although it appears injection may be more effective than oral NSAID in the short term. A direct comparison between topical and oral NSAID has not been made and so no conclusions can be drawn regarding the best method of administration.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Australasian Cochrane Centre, Monash University, Australasian Cochrane Centre, Locked Bag 29, Clayton, Victoria, Australia. sally.green@med.monash.edu.au
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Green
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Buchbinder
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Barnsley
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hall
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       White
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Smidt
+      </lastname>
+      <forename>
+       N
+      </forename>
+      <initials>
+       N
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Assendelft
+      </lastname>
+      <forename>
+       W
+      </forename>
+      <initials>
+       W
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Inflammatory Agents, Non-Steroidal
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Administration, Oral
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Administration, Topical
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Inflammatory Agents, Non-Steroidal
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tennis Elbow
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    54
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      22
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      22
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12076503
+    </articleid>
+    <articleid idtype="pii">
+     CD003686
+    </articleid>
+    <articleid idtype="doi">
+     10.1002/14651858.CD003686
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

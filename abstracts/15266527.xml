@@ -1,0 +1,368 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15266527
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     21
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     30
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1469-493X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <issue>
+       3
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+      </pubdate>
+     </journalissue>
+     <title>
+      Cochrane database of systematic reviews (Online)
+     </title>
+     <isoabbreviation>
+      Cochrane Database Syst Rev
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Interventions for smokeless tobacco use cessation.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      CD004306
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Use of smokeless tobacco (ST) can lead to nicotine addiction and health problems including periodontal disease and oral cancer
+     </abstracttext>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To assess the effects of behavioural and pharmacotherapeutic interventions to treat ST use.
+     </abstracttext>
+     <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">
+      We searched the Cochrane Tobacco Addiction Group trials register (February 2004), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library Issue 1, 2004), MEDLINE (January 1966-February 2004), EMBASE (1988-January 2004), CINAHL (1982-February 2004), PsycINFO (1984-February 2004), Database of Abstract of Reviews of Effectiveness (DARE, The Cochrane Library, Issue 1, 2004).
+     </abstracttext>
+     <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">
+      Randomized trials of behavioural or pharmacological interventions to help users of ST to quit, with follow-up of at least six months.
+     </abstracttext>
+     <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">
+      Two authors independently extracted data.
+     </abstracttext>
+     <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">
+      One trial of bupropion did not detect a benefit of treatment after six months (Odds Ratio (OR) 1.00, 95% Confidence Interval (CI): 0.23 to 4.37). Three trials of nicotine patch did not detect a benefit (OR 1.16, 95% CI: 0.88 to 1.54), nor did two trials of nicotine gum (OR 0.98, 95% CI: 0.59 to 1.63). There was statistical heterogeneity among the results of eight trials of behavioural interventions included in the meta-analysis. Three trials showed significant benefits of intervention. In a post-hoc analysis the trials of interventions which included an oral examination and feedback about ST-induced mucosal changes had homogeneous results and when pooled showed a significant benefit (OR 2.41 95% CI: 1.79 to 3.24).
+     </abstracttext>
+     <abstracttext label="REVIEWERS' CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Behavioural interventions should be used to help ST users to quit. Pharmacotherapies have not been shown to affect long-term abstinence but larger trials are needed.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Internal Medicine, Mayo Clinic, 200 1st Street Southwest, Rochester, MN 55905, USA. ebbert.jon@mayo.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Ebbert
+      </lastname>
+      <forename>
+       J O
+      </forename>
+      <initials>
+       JO
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rowland
+      </lastname>
+      <forename>
+       L C
+      </forename>
+      <initials>
+       LC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Montori
+      </lastname>
+      <forename>
+       V
+      </forename>
+      <initials>
+       V
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Vickers
+      </lastname>
+      <forename>
+       K S
+      </forename>
+      <initials>
+       KS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Erwin
+      </lastname>
+      <forename>
+       P C
+      </forename>
+      <initials>
+       PC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dale
+      </lastname>
+      <forename>
+       L C
+      </forename>
+      <initials>
+       LC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Stead
+      </lastname>
+      <forename>
+       L F
+      </forename>
+      <initials>
+       LF
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Cochrane Database Syst Rev
+    </medlineta>
+    <nlmuniqueid>
+     100909747
+    </nlmuniqueid>
+    <issnlinking>
+     1361-6137
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Nicotinic Agonists
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      34841-39-9
+     </registrynumber>
+     <nameofsubstance>
+      Bupropion
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      54-11-5
+     </registrynumber>
+     <nameofsubstance>
+      Nicotine
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="UpdateIn">
+     <refsource>
+      Cochrane Database Syst Rev. 2007;(4):CD004306
+     </refsource>
+     <pmid version="1">
+      17943813
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bupropion
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Counseling
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Nicotine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Nicotinic Agonists
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Tobacco Use Cessation
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Tobacco, Smokeless
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    48
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      22
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      22
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     15266527
+    </articleid>
+    <articleid idtype="doi">
+     10.1002/14651858.CD004306.pub2
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

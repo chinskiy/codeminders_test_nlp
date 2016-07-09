@@ -1,0 +1,400 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    14625332
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     19
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     21
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2008
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     21
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1538-3598
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       290
+      </volume>
+      <issue>
+       19
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Nov
+       </month>
+       <day>
+        19
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Acute effects and recovery time following concussion in collegiate football players: the NCAA Concussion Study.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      2556-63
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      Lack of empirical data on recovery time following sport-related concussion hampers clinical decision making about return to play after injury.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To prospectively measure immediate effects and natural recovery course relating to symptoms, cognitive functioning, and postural stability following sport-related concussion.
+     </abstracttext>
+     <abstracttext label="DESIGN, SETTING, AND PARTICIPANTS" nlmcategory="METHODS">
+      Prospective cohort study of 1631 football players from 15 US colleges. All players underwent preseason baseline testing on concussion assessment measures in 1999, 2000, and 2001. Ninety-four players with concussion (based on American Academy of Neurology criteria) and 56 noninjured controls underwent assessment of symptoms, cognitive functioning, and postural stability immediately, 3 hours, and 1, 2, 3, 5, 7, and 90 days after injury.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      Scores on the Graded Symptom Checklist (GSC), Standardized Assessment of Concussion (SAC), Balance Error Scoring System (BESS), and a neuropsychological test battery.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      No player with concussion was excluded from participation; 79 players with concussion (84%) completed the protocol through day 90. Players with concussion exhibited more severe symptoms (mean GSC score 20.93 [95% confidence interval [CI], 15.65-26.21] points higher than that of controls), cognitive impairment (mean SAC score 2.94 [95% CI, 1.50-4.38] points lower than that of controls), and balance problems (mean BESS score 5.81 [95% CI, -0.67 to 12.30] points higher than that of controls) immediately after concussion. On average, symptoms gradually resolved by day 7 (GSC mean difference, 0.33; 95% CI, -1.41 to 2.06), cognitive functioning improved to baseline levels within 5 to 7 days (day 7 SAC mean difference, -0.03; 95% CI, -1.33 to 1.26), and balance deficits dissipated within 3 to 5 days after injury (day 5 BESS mean difference, -0.31; 95% CI, -3.02 to 2.40). Mild impairments in cognitive processing and verbal memory evident on neuropsychological testing 2 days after concussion resolved by day 7. There were no significant differences in symptoms or functional impairments in the concussion and control groups 90 days after concussion.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Collegiate football players may require several days for recovery of symptoms, cognitive dysfunction, and postural instability after concussion. Further research is required to determine factors that predict variability in recovery time after concussion. Standardized measurement of postconcussive symptoms, cognitive functioning, and postural stability may enhance clinical management of athletes recovering from concussion.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Neuroscience Center, Waukesha Memorial Hospital, Waukesha, Wis 53188, USA. michael.mccrea@phci.org
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       McCrea
+      </lastname>
+      <forename>
+       Michael
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Guskiewicz
+      </lastname>
+      <forename>
+       Kevin M
+      </forename>
+      <initials>
+       KM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Marshall
+      </lastname>
+      <forename>
+       Stephen W
+      </forename>
+      <initials>
+       SW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Barr
+      </lastname>
+      <forename>
+       William
+      </forename>
+      <initials>
+       W
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Randolph
+      </lastname>
+      <forename>
+       Christopher
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cantu
+      </lastname>
+      <forename>
+       Robert C
+      </forename>
+      <initials>
+       RC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Onate
+      </lastname>
+      <forename>
+       James A
+      </forename>
+      <initials>
+       JA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Yang
+      </lastname>
+      <forename>
+       Jingzhen
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kelly
+      </lastname>
+      <forename>
+       James P
+      </forename>
+      <initials>
+       JP
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2003 Nov 19;290(19):2604-5
+     </refsource>
+     <pmid version="1">
+      14625338
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Acute Disease
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Athletic Injuries
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Brain Concussion
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cognition
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Football
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      injuries
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Neuropsychological Tests
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Postural Balance
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Recovery of Function
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Trauma Severity Indices
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      12
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     14625332
+    </articleid>
+    <articleid idtype="doi">
+     10.1001/jama.290.19.2556
+    </articleid>
+    <articleid idtype="pii">
+     290/19/2556
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

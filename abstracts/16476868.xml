@@ -1,0 +1,436 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    16476868
+   </pmid>
+   <datecreated>
+    <year>
+     2006
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     14
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2006
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     20
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0003-9926
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       166
+      </volume>
+      <issue>
+       3
+      </issue>
+      <pubdate>
+       <year>
+        2006
+       </year>
+       <month>
+        Feb
+       </month>
+       <day>
+        13
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Archives of internal medicine
+     </title>
+     <isoabbreviation>
+      Arch. Intern. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Effects of low-carbohydrate vs low-fat diets on weight loss and cardiovascular risk factors: a meta-analysis of randomized controlled trials.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      285-93
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Low-carbohydrate diets have become increasingly popular for weight loss. However, evidence from individual trials about benefits and risks of these diets to achieve weight loss and modify cardiovascular risk factors is preliminary.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We used the Cochrane Collaboration search strategy to identify trials comparing the effects of low-carbohydrate diets without restriction of energy intake vs low-fat diets in individuals with a body mass index (calculated as weight in kilograms divided by the square of height in meters) of at least 25. Included trials had to report changes in body weight in intention-to-treat analysis and to have a follow-up of at least 6 months. Two reviewers independently assessed trial eligibility and quality of randomized controlled trials.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Five trials including a total of 447 individuals fulfilled our inclusion criteria. After 6 months, individuals assigned to low-carbohydrate diets had lost more weight than individuals randomized to low-fat diets (weighted mean difference, -3.3 kg; 95% confidence interval [CI], -5.3 to -1.4 kg). This difference was no longer obvious after 12 months (weighted mean difference, -1.0 kg; 95% CI, -3.5 to 1.5 kg). There were no differences in blood pressure. Triglyceride and high-density lipoprotein cholesterol values changed more favorably in individuals assigned to low-carbohydrate diets (after 6 months, for triglycerides, weighted mean difference, -22.1 mg/dL [-0.25 mmol/L]; 95% CI, -38.1 to -5.3 mg/dL [-0.43 to -0.06 mmol/L]; and for high-density lipoprotein cholesterol, weighted mean difference, 4.6 mg/dL [0.12 mmol/L]; 95% CI, 1.5-8.1 mg/dL [0.04-0.21 mmol/L]), but total cholesterol and low-density lipoprotein cholesterol values changed more favorably in individuals assigned to low-fat diets (weighted mean difference in low-density lipoprotein cholesterol after 6 months, 5.4 mg/dL [0.14 mmol/L]; 95% CI, 1.2-10.1 mg/dL [0.03-0.26 mmol/L]).
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Low-carbohydrate, non-energy-restricted diets appear to be at least as effective as low-fat, energy-restricted diets in inducing weight loss for up to 1 year. However, potential favorable changes in triglyceride and high-density lipoprotein cholesterol values should be weighed against potential unfavorable changes in low-density lipoprotein cholesterol values when low-carbohydrate diets to induce weight loss are considered.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Basel Institute for Clinical Epidemiology, University Hospital Basel, Hebelstrasse 10, CH-4031 Basel, Switzerland. nordmanna@uhbs.ch
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Nordmann
+      </lastname>
+      <forename>
+       Alain J
+      </forename>
+      <initials>
+       AJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Nordmann
+      </lastname>
+      <forename>
+       Abigail
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Briel
+      </lastname>
+      <forename>
+       Matthias
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Keller
+      </lastname>
+      <forename>
+       Ulrich
+      </forename>
+      <initials>
+       U
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Yancy
+      </lastname>
+      <forename>
+       William S
+      </forename>
+      <initials>
+       WS
+      </initials>
+      <suffix>
+       Jr
+      </suffix>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Brehm
+      </lastname>
+      <forename>
+       Bonnie J
+      </forename>
+      <initials>
+       BJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bucher
+      </lastname>
+      <forename>
+       Heiner C
+      </forename>
+      <initials>
+       HC
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, Non-P.H.S.
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Arch Intern Med
+    </medlineta>
+    <nlmuniqueid>
+     0372440
+    </nlmuniqueid>
+    <issnlinking>
+     0003-9926
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Blood Glucose
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Dietary Carbohydrates
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Triglycerides
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      11061-68-0
+     </registrynumber>
+     <nameofsubstance>
+      Insulin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      57-88-5
+     </registrynumber>
+     <nameofsubstance>
+      Cholesterol
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Arch Intern Med. 2006 Jul 10;166(13):1419-20; author reply 1420
+     </refsource>
+     <pmid version="1">
+      16832011
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="ErratumIn">
+     <refsource>
+      Arch Intern Med. 2006 Apr 24;166(8):932
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Glucose
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      analysis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Pressure
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cardiovascular Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cholesterol
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Diet, Fat-Restricted
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Dietary Carbohydrates
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Insulin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Triglycerides
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Weight Loss
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    26
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2006
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2006
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2006
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     166/3/285
+    </articleid>
+    <articleid idtype="doi">
+     10.1001/archinte.166.3.285
+    </articleid>
+    <articleid idtype="pubmed">
+     16476868
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

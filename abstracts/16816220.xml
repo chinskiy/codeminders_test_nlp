@@ -1,0 +1,556 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    16816220
+   </pmid>
+   <datecreated>
+    <year>
+     2006
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     03
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2006
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     10
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0002-953X
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       163
+      </volume>
+      <issue>
+       7
+      </issue>
+      <pubdate>
+       <year>
+        2006
+       </year>
+       <month>
+        Jul
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The American journal of psychiatry
+     </title>
+     <isoabbreviation>
+      Am J Psychiatry
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     A comparison of mirtazapine and nortriptyline following two consecutive failed medication treatments for depressed outpatients: a STAR*D report.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1161-72
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      Few controlled studies have addressed the issue of which antidepressant medications should be recommended for outpatients who have not responded to multiple treatment trials. This study compared the efficacy of switching to mirtazapine to that of switching to a tricyclic antidepressant (nortriptyline) following two prospective, consecutive, unsuccessful medication treatments for nonpsychotic major depressive disorder.
+     </abstracttext>
+     <abstracttext label="METHOD" nlmcategory="METHODS">
+      Following lack of remission or an inability to tolerate an initial trial of citalopram for up to 12 weeks (first step) and a second trial with either monotherapy involving another antidepressant or augmentation of citalopram with bupropion or buspirone (second step), adult outpatients (N=235) with nonpsychotic major depressive disorder were randomly assigned to 14 weeks of treatment with mirtazapine (up to 60 mg/day) (N=114) or nortriptyline (up to 200 mg/day) (N=121). The primary outcome, symptom remission, was defined a priori as a total exit score of &lt;/=7 on the 17-item Hamilton Rating Scale for Depression. The 16-item Quick Inventory of Depressive Symptomatology-Self-Report (QIDS-SR(16)), obtained at treatment visits, provided secondary outcomes of remission (score &lt;/=5 at exit) and response (&gt;/=50% reduction in score from baseline).
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      For mirtazapine, remission rates were 12.3% and 8.0% per the Hamilton and QIDS-SR(16) scores, respectively. For nortriptyline, remission rates were 19.8% and 12.4%, respectively. QIDS-SR(16) response rates were 13.4% for mirtazapine and 16.5% for nortriptyline. Neither response nor remission rates statistically differed by treatment, nor did these two treatments differ in tolerability or adverse events.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Switching to a third antidepressant monotherapy regimen after two consecutive unsuccessful antidepressant trials resulted in low remission rates (&lt;20%) among patients with major depressive disorder.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Depression Clinical and Research Program, Massachusetts General Hospital, Bulfinch 351, 55 Fruit St., Boston, MA 02114, USA. MFava@Partners.org
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Fava
+      </lastname>
+      <forename>
+       Maurizio
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rush
+      </lastname>
+      <forename>
+       A John
+      </forename>
+      <initials>
+       AJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wisniewski
+      </lastname>
+      <forename>
+       Stephen R
+      </forename>
+      <initials>
+       SR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Nierenberg
+      </lastname>
+      <forename>
+       Andrew A
+      </forename>
+      <initials>
+       AA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Alpert
+      </lastname>
+      <forename>
+       Jonathan E
+      </forename>
+      <initials>
+       JE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       McGrath
+      </lastname>
+      <forename>
+       Patrick J
+      </forename>
+      <initials>
+       PJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Thase
+      </lastname>
+      <forename>
+       Michael E
+      </forename>
+      <initials>
+       ME
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Warden
+      </lastname>
+      <forename>
+       Diane
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Biggs
+      </lastname>
+      <forename>
+       Melanie
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Luther
+      </lastname>
+      <forename>
+       James F
+      </forename>
+      <initials>
+       JF
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Niederehe
+      </lastname>
+      <forename>
+       George
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ritz
+      </lastname>
+      <forename>
+       Louise
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Trivedi
+      </lastname>
+      <forename>
+       Madhukar H
+      </forename>
+      <initials>
+       MH
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       N01MH90003
+      </grantid>
+      <acronym>
+       MH
+      </acronym>
+      <agency>
+       NIMH NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Multicenter Study
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, N.I.H., Extramural
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Am J Psychiatry
+    </medlineta>
+    <nlmuniqueid>
+     0370512
+    </nlmuniqueid>
+    <issnlinking>
+     0002-953X
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antidepressive Agents, Tricyclic
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      24219-97-4
+     </registrynumber>
+     <nameofsubstance>
+      Mianserin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      34841-39-9
+     </registrynumber>
+     <nameofsubstance>
+      Bupropion
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      59729-33-8
+     </registrynumber>
+     <nameofsubstance>
+      Citalopram
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      61337-67-5
+     </registrynumber>
+     <nameofsubstance>
+      mirtazapine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      72-69-5
+     </registrynumber>
+     <nameofsubstance>
+      Nortriptyline
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Evid Based Ment Health. 2007 Feb;10(1):16
+     </refsource>
+     <pmid version="1">
+      17255385
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Am J Psychiatry. 2006 Jul;163(7):1123
+     </refsource>
+     <pmid version="1">
+      16816210
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ambulatory Care
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antidepressive Agents, Tricyclic
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bupropion
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Citalopram
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cross-Over Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Depressive Disorder, Major
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      psychology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Administration Schedule
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Resistance
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Therapy, Combination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Mianserin
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      analogs &amp; derivatives
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Nortriptyline
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Personality Inventory
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Psychiatric Status Rating Scales
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2006
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      4
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2006
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      11
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2006
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      4
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     163/7/1161
+    </articleid>
+    <articleid idtype="doi">
+     10.1176/appi.ajp.163.7.1161
+    </articleid>
+    <articleid idtype="pubmed">
+     16816220
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

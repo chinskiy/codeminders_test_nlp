@@ -1,0 +1,318 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12225294
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     12
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     11
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0001-6349
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       81
+      </volume>
+      <issue>
+       9
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Sep
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Acta obstetricia et gynecologica Scandinavica
+     </title>
+     <isoabbreviation>
+      Acta Obstet Gynecol Scand
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Ultrasonographic endometrial thickness for diagnosing endometrial pathology in women with postmenopausal bleeding: a meta-analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      799-816
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      Our aim was to determine the diagnostic accuracy of endometrial thickness measurement by pelvic ultrasonography for predicting endometrial carcinoma and disease (hyperplasia and/or carcinoma) during an investigation of postmenopausal bleeding. We performed a systematic quantitative review of the available published literature, which consisted of online searching the MEDLINE and EMBASE databases (1966-2000) coupled with scanning of bibliography of known primary and review articles. The selection of studies, assessment of study quality, and extraction of data were performed in duplicate under masked conditions. Included in the analyses were 57 studies with 9031 patients. Accuracy data were summarized using likelihood ratios for various cut-off levels of abnormal endometrial thickness. The commonest cut-offs were 4 mm (9 studies) and 5 mm (21 studies), measuring both endometrial layers. None of the nine studies using the &lt; or = 4 mm cut-off level were of good quality. Only four studies (out of the 21) used the &lt; or = 5 mm cut-off level, which employed the best-quality criteria. Using the pooled estimates from these four studies only, a positive test result raised the probability of carcinoma from 14.0% (95% CI 13.3-14.7) to 31.3% (95% CI 26.1-36.3), while a negative test reduced it to 2.5% (95% CI 0.9-6.4). In conclusion, ultrasound measurement of endometrial thickness alone, using the best-quality studies cannot be used to accurately rule. However, a negative result at &lt; or = 5 mm cut-off level measuring both endometrial layers in the presence of endometrial pathology rules out endometrial pathology with good certainty.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Birmingham Minimal Access and Surgical Training (MAST) Center, Academic Department of Obstetrics and Gynecology, Women's Hospital, University of Birmingham, Birmingham B15 2TG, UK. j.k.gupta@bham.ac.uk
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Gupta
+      </lastname>
+      <forename>
+       Janesh K
+      </forename>
+      <initials>
+       JK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Chien
+      </lastname>
+      <forename>
+       Patrick F W
+      </forename>
+      <initials>
+       PF
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Voit
+      </lastname>
+      <forename>
+       Doris
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Clark
+      </lastname>
+      <forename>
+       T Justin
+      </forename>
+      <initials>
+       TJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Khan
+      </lastname>
+      <forename>
+       Khalid S
+      </forename>
+      <initials>
+       KS
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     Denmark
+    </country>
+    <medlineta>
+     Acta Obstet Gynecol Scand
+    </medlineta>
+    <nlmuniqueid>
+     0370343
+    </nlmuniqueid>
+    <issnlinking>
+     0001-6349
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Endometrial Hyperplasia
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      ultrasonography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Endometrial Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      ultrasonography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Endometrium
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      pathology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      ultrasonography
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Likelihood Functions
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Postmenopause
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Research Design
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      standards
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Uterine Hemorrhage
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    88
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      12
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12225294
+    </articleid>
+    <articleid idtype="pii">
+     aog810902
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

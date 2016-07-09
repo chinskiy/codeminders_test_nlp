@@ -1,0 +1,493 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12531578
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     17
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     28
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0140-6736
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       361
+      </volume>
+      <issue>
+       9352
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Jan
+       </month>
+       <day>
+        11
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Lancet
+     </title>
+     <isoabbreviation>
+      Lancet
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Combination treatment of angiotensin-II receptor blocker and angiotensin-converting-enzyme inhibitor in non-diabetic renal disease (COOPERATE): a randomised controlled trial.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      117-24
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Present angiotensin-converting-enzyme inhibitor treatment fails to prevent progression of non-diabetic renal disease. We aimed to assess the efficacy and safety of combined treatment of angiotensin-converting-enzyme inhibitor and angiotensin-II receptor blocker, and monotherapy of each drug at its maximum dose, in patients with non-diabetic renal disease.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      336 patients with non-diabetic renal disease were enrolled from one renal outpatient department in Japan. After screening and an 18-week run-in period, 263 patients were randomly assigned angiotensin-II receptor blocker (losartan, 100 mg daily), angiotensin-converting-enzyme inhibitor (trandolapril, 3 mg daily), or a combination of both drugs at equivalent doses. Survival analysis was done to compare the effects of each regimen on the combined primary endpoint of time to doubling of serum creatinine concentration or end-stage renal disease. Analysis was by intention to treat.
+     </abstracttext>
+     <abstracttext label="FINDINGS" nlmcategory="RESULTS">
+      Seven patients discontinued or were otherwise lost to follow-up. Ten (11%) of 85 patients on combination treatment reached the combined primary endpoint compared with 20 (23%) of 85 on trandolapril alone (hazard ratio 0.38, 95% CI 0.18-0.63, p=0.018) and 20 (23%) of 86 on losartan alone (0.40, 0.17-0.69, p=0.016). Covariates affecting renal survival were combination treatment (hazard ratio 0.38, 95% CI 0.18-0.63, p=0.011), age (1.30, 1.03-2.29, p=0.009), baseline renal function (1.80, 1.02-2.99, p=0.021), change in daily urinary protein excretion rate (0.58, 0.24-0.88, p=0.022), use of diuretics (0.80, 0.30-0.94, p=0.043), and antiproteinuric response to trandolapril (0.81, 0.21-0.91, p=0.039). Frequency of side-effects with combination treatment was the same as with trandolapril alone.
+     </abstracttext>
+     <abstracttext label="INTERPRETATION" nlmcategory="CONCLUSIONS">
+      Combination treatment safely retards progression of non-diabetic renal disease compared with monotherapy. However, since some patients reached the combined primary endpoint on combined treatment, further strategies for complete management of progressive non-diabetic renal disease need to be researched.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Division of Nephrology, Showa University Fujigaoka Hospital, Yokohama, Japan. nakao@ce.catv.ne.jp
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Nakao
+      </lastname>
+      <forename>
+       Naoyuki
+      </forename>
+      <initials>
+       N
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Yoshimura
+      </lastname>
+      <forename>
+       Ashio
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Morita
+      </lastname>
+      <forename>
+       Hiroyuki
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Takada
+      </lastname>
+      <forename>
+       Masyuki
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Kayano
+      </lastname>
+      <forename>
+       Tsuguo
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ideura
+      </lastname>
+      <forename>
+       Terukuni
+      </forename>
+      <initials>
+       T
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Retracted Publication
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Lancet
+    </medlineta>
+    <nlmuniqueid>
+     2985213R
+    </nlmuniqueid>
+    <issnlinking>
+     0140-6736
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Angiotensin Receptor Antagonists
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Angiotensin-Converting Enzyme Inhibitors
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Indoles
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      114798-26-4
+     </registrynumber>
+     <nameofsubstance>
+      Losartan
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      87679-37-6
+     </registrynumber>
+     <nameofsubstance>
+      trandolapril
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2008 May 10;371(9624):1575-6
+     </refsource>
+     <pmid version="1">
+      18468534
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2003 Mar 22;361(9362):1054; author reply 1055
+     </refsource>
+     <pmid version="1">
+      12660075
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2003 Mar 22;361(9362):1054; author reply 1055
+     </refsource>
+     <pmid version="1">
+      12660076
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2003 Mar 22;361(9362):1055; author reply 1055
+     </refsource>
+     <pmid version="1">
+      12660078
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2003 Mar 22;361(9362):1055-6
+     </refsource>
+     <pmid version="1">
+      12660079
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Expert Opin Pharmacother. 2003 Jul;4(7):1185-8
+     </refsource>
+     <pmid version="1">
+      12831343
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2003 Sep-Oct;139(2):40
+     </refsource>
+     <pmid version="1">
+      12954032
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="ErratumIn">
+     <refsource>
+      Lancet. 2003 Apr 5;361(9364):1230
+     </refsource>
+    </commentscorrections>
+    <commentscorrections reftype="RetractionIn">
+     <refsource>
+      Lancet. 2009 Oct 10;374(9697):1226
+     </refsource>
+     <pmid version="1">
+      19819378
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Angiotensin Receptor Antagonists
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Angiotensin-Converting Enzyme Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Blood Pressure
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Therapy, Combination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Indoles
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Kidney Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Kidney Function Tests
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Losartan
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      29
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12531578
+    </articleid>
+    <articleid idtype="pii">
+     S0140-6736(03)12229-5
+    </articleid>
+    <articleid idtype="doi">
+     10.1016/S0140-6736(03)12229-5
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

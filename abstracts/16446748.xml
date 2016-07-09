@@ -1,0 +1,326 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    16446748
+   </pmid>
+   <datecreated>
+    <year>
+     2006
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     29
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2007
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     12
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0307-0565
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       30
+      </volume>
+      <issue>
+       6
+      </issue>
+      <pubdate>
+       <year>
+        2006
+       </year>
+       <month>
+        Jun
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      International journal of obesity (2005)
+     </title>
+     <isoabbreviation>
+      Int J Obes (Lond)
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Monitoring weight daily blocks the freshman weight gain: a model for combating the epidemic of obesity.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1003-10
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      The Tissue Monitoring System (TMS) is an algorithm that estimates changes in body tissue from a series of daily weight measures. It is intended to provide people with a feedback of changes in their tissue weight so they may have a basis for estimating how much they would have to change their intake or expenditure to maintain their weight at a prescribed level. We tested the effectiveness of the TMS to prevent freshmen from gaining weight during their first semester in college.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      In two similar but independent studies (Fall 2002, 2003), female freshmen college students were given analog bathroom scales and instructed to weigh themselves each morning immediately after rising from bed, then e-mail their weight to our staff. After 7 days, a linear function was performed on the most recent 7 days of the weight-day function for each participant. In the first study, the slope of this function was e-mailed back to the participants. In the second study, the difference between last point and the original weight was determined, using linear regression techniques, converted to calories, and the information was e-mailed back to the participants. Control participants in both studies were weighed at the beginning and the end of the semester.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The untreated controls gained 3.1+/-0.51 kg and 2.0+/-0.65 kg, respectively (P&lt;0.01 for both studies), whereas weight gain of the experimental groups was 0.1+/-0.99 kg and -0.82+/-0.56 kg, values that were not significantly different than zero.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The TMS appears to be an effective technique to help female college freshmen resist gaining weight in an environment that is conducive to weight gain. These results suggest that the TMS may be a useful method to help curb the slow increase in the prevalence of overweight and obesity that is characteristic of all industrialized societies.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Division of Nutritional Sciences, Cornell University, Ithaca, NY, USA. dal4@cornell.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Levitsky
+      </lastname>
+      <forename>
+       D A
+      </forename>
+      <initials>
+       DA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Garay
+      </lastname>
+      <forename>
+       J
+      </forename>
+      <initials>
+       J
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Nausbaum
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Neighbors
+      </lastname>
+      <forename>
+       L
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dellavalle
+      </lastname>
+      <forename>
+       D M
+      </forename>
+      <initials>
+       DM
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Int J Obes (Lond)
+    </medlineta>
+    <nlmuniqueid>
+     101256108
+    </nlmuniqueid>
+    <issnlinking>
+     0307-0565
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Algorithms
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anthropometry
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Body Weight
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Feedback, Psychological
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Models, Biological
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Obesity
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Students
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Universities
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Weight Gain
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2006
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2007
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2006
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     0803221
+    </articleid>
+    <articleid idtype="doi">
+     10.1038/sj.ijo.0803221
+    </articleid>
+    <articleid idtype="pubmed">
+     16446748
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

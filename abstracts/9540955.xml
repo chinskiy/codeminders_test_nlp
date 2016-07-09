@@ -1,0 +1,301 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    9540955
+   </pmid>
+   <datecreated>
+    <year>
+     1998
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     29
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1998
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     29
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     26
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0029-7844
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       91
+      </volume>
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <year>
+        1998
+       </year>
+       <month>
+        Apr
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Obstetrics and gynecology
+     </title>
+     <isoabbreviation>
+      Obstet Gynecol
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Colposcopy for the diagnosis of squamous intraepithelial lesions: a meta-analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      626-31
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To quantify by meta-analysis the performance of colposcopy to set a standard against which new technologies can be compared.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      MEDLINE was searched for articles on colposcopy for diagnosis of squamous intraepithelial lesions (SIL). The search selected articles from 1960 to 1996 combining the key word "colposcopy" with key words "diagnosis," "positive predictive value," "negative predictive value," "likelihood ratio," and "receiver operating characteristic (ROC) curve."
+     </abstracttext>
+     <abstracttext label="METHODS OF STUDY SELECTION" nlmcategory="METHODS">
+      Articles were selected if the authors studied a population of patients with abnormal screening Papanicolaou smears and presented raw data showing for each cervical lesion type the number of patients judged positive and negative by colposcopic impression versus the standard of colposcopic biopsy results. Nine of 86 studies met these criteria.
+     </abstracttext>
+     <abstracttext label="TABULATION, INTEGRATION, AND RESULTS" nlmcategory="RESULTS">
+      Biopsies had been categorized as normal, atypia, cervical intraepithelial neoplasia (CIN) I, CIN II, CIN III, carcinoma in situ, and invasive cancer; we recalculated performance measures using the Bethesda system. Overall sensitivity, specificity, likelihood ratios, ROC curves, and the corresponding areas under the curves were calculated. The average weighted sensitivity of diagnostic colposcopy for the threshold normal compared with all cervix abnormalities (atypia, low-grade SIL, high-grade SIL, cancer) was 96% and the average weighted specificity 48%. For the threshold normal cervix and low-grade SIL compared with high-grade SIL and cancer, average weighted sensitivity was 85% and average weighted specificity 69%. Likelihood ratios generated small but important changes in probability for distinguishing normal cervix and low-grade SIL from high-grade SIL and cancer. Areas under the ROC curve were 0.80 for the threshold normal cervix compared with all abnormalities and 0.82 for the threshold normal cervix and low-grade SIL compared with high-grade SIL and cancer.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Colposcopy compares favorably with other medical diagnostic tests in terms of sensitivity, specificity, and area under the ROC curve. New diagnostic methods for the cervix can be compared with colposcopy using these quantified values.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Gynecologic Oncology, University of Texas M. D. Anderson Cancer Center, Houston 77030, USA. follen_mitchell@gyn.mda.uth.tmc.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Mitchell
+      </lastname>
+      <forename>
+       M F
+      </forename>
+      <initials>
+       MF
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schottenfeld
+      </lastname>
+      <forename>
+       D
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Tortolero-Luna
+      </lastname>
+      <forename>
+       G
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cantor
+      </lastname>
+      <forename>
+       S B
+      </forename>
+      <initials>
+       SB
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Richards-Kortum
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     Obstet Gynecol
+    </medlineta>
+    <nlmuniqueid>
+     0401101
+    </nlmuniqueid>
+    <issnlinking>
+     0029-7844
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cervical Intraepithelial Neoplasia
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Colposcopy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Predictive Value of Tests
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      ROC Curve
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Uterine Cervical Neoplasms
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1998
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      16
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1998
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1998
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     9540955
+    </articleid>
+    <articleid idtype="pii">
+     S0029-7844(98)00006-4
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

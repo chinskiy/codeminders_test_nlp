@@ -1,0 +1,656 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    17121867
+   </pmid>
+   <datecreated>
+    <year>
+     2007
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     27
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2007
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     03
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print-Electronic">
+    <journal>
+     <issn issntype="Print">
+      0040-6376
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       62
+      </volume>
+      <issue>
+       4
+      </issue>
+      <pubdate>
+       <year>
+        2007
+       </year>
+       <month>
+        Apr
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Thorax
+     </title>
+     <isoabbreviation>
+      Thorax
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Prospective comparison of three predictive rules for assessing severity of community-acquired pneumonia in Hong Kong.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      348-53
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Community-acquired pneumonia (CAP) is a leading infectious cause of death throughout the world, including Hong Kong.
+     </abstracttext>
+     <abstracttext label="AIM" nlmcategory="OBJECTIVE">
+      To compare the ability of three validated prediction rules for CAP to predict mortality in Hong Kong: the 20 variable Pneumonia Severity Index (PSI), the 6-point CURB65 scale adopted by the British Thoracic Society and the simpler CRB65.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      A prospective observational study of 1016 consecutive inpatients with CAP (583 men, mean (SD) age 72 (17) years) was performed in a university hospital in the New Territories of Hong Kong in 2004. The patients were classified into three risk groups (low, intermediate and high) according to each rule. The ability of the three rules to predict 30 day mortality was compared.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The overall mortality and intensive care unit (ICU) admission rates were 8.6% and 4.0%, respectively. PSI, CURB65 and CRB65 performed similarly, and the areas under the receiver operating characteristic (ROC) curve were 0.736 (95% CI 0.687 to 0.736), 0.733 (95% CI 0.679 to 0.787) and 0.694 (95% CI 0.634 to 0.753), respectively. All three rules had high negative predictive values but relatively low positive predictive values at all cut-off points. Larger proportions of patients were identified as low risk by PSI (47.2%) and CURB65 (43.3%) than by CRB65 (12.6%).
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      All three predictive rules have a similar performance in predicting the severity of CAP, but CURB65 is more suitable than the other two for use in the emergency department because of its simplicity of application and ability to identify low-risk patients.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Accident and Emergency Medicine Academic Unit, Chinese University of Hong Kong, Trauma and Emergency Centre, Prince of Wales Hospital, Shatin, NT, Hong Kong.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Man
+      </lastname>
+      <forename>
+       Shin Yan
+      </forename>
+      <initials>
+       SY
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lee
+      </lastname>
+      <forename>
+       Nelson
+      </forename>
+      <initials>
+       N
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ip
+      </lastname>
+      <forename>
+       Margaret
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Antonio
+      </lastname>
+      <forename>
+       Gregory E
+      </forename>
+      <initials>
+       GE
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Chau
+      </lastname>
+      <forename>
+       Shirley S L
+      </forename>
+      <initials>
+       SS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Mak
+      </lastname>
+      <forename>
+       Paulina
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Graham
+      </lastname>
+      <forename>
+       Colin A
+      </forename>
+      <initials>
+       CA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Zhang
+      </lastname>
+      <forename>
+       Mingdong
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Lui
+      </lastname>
+      <forename>
+       Grace
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Chan
+      </lastname>
+      <forename>
+       Paul K S
+      </forename>
+      <initials>
+       PK
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ahuja
+      </lastname>
+      <forename>
+       Anil T
+      </forename>
+      <initials>
+       AT
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hui
+      </lastname>
+      <forename>
+       David S
+      </forename>
+      <initials>
+       DS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sung
+      </lastname>
+      <forename>
+       Joseph J Y
+      </forename>
+      <initials>
+       JJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Rainer
+      </lastname>
+      <forename>
+       Timothy H
+      </forename>
+      <initials>
+       TH
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Evaluation Studies
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+    <articledate datetype="Electronic">
+     <year>
+      2006
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      22
+     </day>
+    </articledate>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Thorax
+    </medlineta>
+    <nlmuniqueid>
+     0417353
+    </nlmuniqueid>
+    <issnlinking>
+     0040-6376
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Thorax. 1996 Oct;51(10):1010-6
+     </refsource>
+     <pmid version="1">
+      8977602
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Thorax. 2004 May;59(5):421-7
+     </refsource>
+     <pmid version="1">
+      15115872
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1998 May 13;279(18):1452-7
+     </refsource>
+     <pmid version="1">
+      9600479
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Ther. 1998 Jul-Aug;20(4):820-37
+     </refsource>
+     <pmid version="1">
+      9737840
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Respir Crit Care Med. 1998 Oct;158(4):1102-8
+     </refsource>
+     <pmid version="1">
+      9769267
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Infect Dis. 2000 Aug;31(2):347-82
+     </refsource>
+     <pmid version="1">
+      10987697
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Infect Dis. 2000 Aug;31(2):383-421
+     </refsource>
+     <pmid version="1">
+      10987698
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Respir Crit Care Med. 2001 Jun;163(7):1730-54
+     </refsource>
+     <pmid version="1">
+      11401897
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Infect Dis. 2001 Jul 15;33(2):158-65
+     </refsource>
+     <pmid version="1">
+      11418874
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Eur Respir J. 2001 Aug;18(2):362-8
+     </refsource>
+     <pmid version="1">
+      11529297
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Thorax. 2001 Dec;56 Suppl 4:IV1-64
+     </refsource>
+     <pmid version="1">
+      11713364
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Respir Crit Care Med. 2002 Sep 1;166(5):717-23
+     </refsource>
+     <pmid version="1">
+      12204871
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Chest. 2004 Jun;125(6):2140-5
+     </refsource>
+     <pmid version="1">
+      15189934
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Infect Dis Clin North Am. 2004 Dec;18(4):791-807; viii
+     </refsource>
+     <pmid version="1">
+      15555825
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Med. 2005 Apr;118(4):384-92
+     </refsource>
+     <pmid version="1">
+      15808136
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Eur Respir J. 2006 Jan;27(1):151-7
+     </refsource>
+     <pmid version="1">
+      16387948
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1997 Jan 23;336(4):243-50
+     </refsource>
+     <pmid version="1">
+      8995086
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Thorax. 2003 May;58(5):377-82
+     </refsource>
+     <pmid version="1">
+      12728155
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 2003 Jun 21;326(7403):1354-8
+     </refsource>
+     <pmid version="1">
+      12816820
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet Infect Dis. 2004 Feb;4(2):112-24
+     </refsource>
+     <pmid version="1">
+      14871636
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Thorax. 2004 May;59(5):364-6
+     </refsource>
+     <pmid version="1">
+      15115857
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Thorax. 2007 Apr;62(4):287-8
+     </refsource>
+     <pmid version="1">
+      17387212
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Community-Acquired Infections
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      Hong Kong
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Pneumonia
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      mortality
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Predictive Value of Tests
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prognosis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Severity of Illness Index
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC2092476
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="aheadofprint">
+     <year>
+      2006
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      22
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2006
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2007
+     </year>
+     <month>
+      5
+     </month>
+     <day>
+      4
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2006
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     thx.2006.069740
+    </articleid>
+    <articleid idtype="doi">
+     10.1136/thx.2006.069740
+    </articleid>
+    <articleid idtype="pubmed">
+     17121867
+    </articleid>
+    <articleid idtype="pmc">
+     PMC2092476
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

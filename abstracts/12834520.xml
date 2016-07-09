@@ -1,0 +1,396 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12834520
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     01
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     27
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2008
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     10
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0002-8614
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       51
+      </volume>
+      <issue>
+       7
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Jul
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of the American Geriatrics Society
+     </title>
+     <isoabbreviation>
+      J Am Geriatr Soc
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Low total cholesterol and increased risk of dying: are low levels clinical warning signs in the elderly? Results from the Italian Longitudinal Study on Aging.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      991-6
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+      To analyze the relationship between serum total cholesterol (TC) and all-cause mortality, taking into account various potential confounders.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Population-based prospective cohort study.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      Older Italians residing in the general community.
+     </abstracttext>
+     <abstracttext label="PARTICIPANTS" nlmcategory="METHODS">
+      Four thousand five hundred twenty-one men and women aged 65-84.
+     </abstracttext>
+     <abstracttext label="MEASUREMENTS" nlmcategory="METHODS">
+      Vital status data were available for 1992-95. The hazard ratios of dying for subjects in the second, third, and fourth quartiles compared with the first quartile of TC were computed using Cox proportional hazards, adjusting for lifestyle factors, anthropomorphic and biochemical measures, preexisting medical conditions, and frailty indicators.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Blood samples were obtained from 3,295 (73%) of the participants, of whom 399 died during almost 3 years of follow-up. Low TC was associated with a higher risk of death. Those with TC in the second, third, and fourth quartiles (TC&gt;189 mg/dL or 4.90 mmol/L) had lower hazard ratios (HRs) of death than subjects in the first quartile (0.57, 95% confidence interval (CI) = 0.38-0.87; 0.56, 95% CI = 0.36-0.88; and 0.53, 95% CI = 0.33-0.84, respectively). Few subjects taking lipid-lowering drugs (LLDs) were in the lowest quartile of cholesterol, suggesting that these individuals have low TC values for reasons other than LLD use.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Subjects with low TC levels (&lt;189 mg/dL) are at higher risk of dying even when many related factors have been taken into account. Although more data are needed to clarify the association between TC and all-cause mortality in older individuals, physicians may want to regard very low levels of cholesterol as potential warning signs of occult disease or as signals of rapidly declining health.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Laboratory of Epidemiology and Biostatistics, Istituto Superiore di Sanità, Rome, Italy. sonia.brescianini@iss.it
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Brescianini
+      </lastname>
+      <forename>
+       Sonia
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Maggi
+      </lastname>
+      <forename>
+       Stefania
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Farchi
+      </lastname>
+      <forename>
+       Gino
+      </forename>
+      <initials>
+       G
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Mariotti
+      </lastname>
+      <forename>
+       Sergio
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Di Carlo
+      </lastname>
+      <forename>
+       Antonio
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Baldereschi
+      </lastname>
+      <forename>
+       Marzia
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Inzitari
+      </lastname>
+      <forename>
+       Domenico
+      </forename>
+      <initials>
+       D
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       ILSA Group
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Evaluation Studies
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     J Am Geriatr Soc
+    </medlineta>
+    <nlmuniqueid>
+     7503062
+    </nlmuniqueid>
+    <issnlinking>
+     0002-8614
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      57-88-5
+     </registrynumber>
+     <nameofsubstance>
+      Cholesterol
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged, 80 and over
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aging
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cholesterol
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cohort Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Death
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Health Status
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      Italy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Life Style
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Longitudinal Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Predictive Value of Tests
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Proportional Hazards Models
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Prospective Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Assessment
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Survival Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Time Factors
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      2
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      28
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      2
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12834520
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

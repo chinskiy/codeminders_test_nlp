@@ -1,0 +1,670 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    7714202
+   </pmid>
+   <datecreated>
+    <year>
+     1995
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     18
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1995
+    </year>
+    <month>
+     05
+    </month>
+    <day>
+     18
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0095-1137
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       33
+      </volume>
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        1995
+       </year>
+       <month>
+        Feb
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of clinical microbiology
+     </title>
+     <isoabbreviation>
+      J. Clin. Microbiol.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Immunoblot interpretation criteria for serodiagnosis of early Lyme disease.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      419-27
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      We monitored the antibody responses of 55 treated patients with early Lyme disease and physician-documented erythema migrans. Six sequential serum samples were obtained from patients before, during, and until one year after antibiotic therapy and analyzed by in-house enzyme-linked immunosorbent (ELISA) and immunoblot assays. An immunoblot procedure utilizing a gradient gel and an image analysis system was developed. A relational database management system was used to analyze the results and provide criteria for early disease immunoblot interpretation. Recommended criteria for the immunoglobulin M (IgM) immunoblot are the recognition of two of three proteins (24, 39, and 41 kDa). The recommended criteria for a positive IgG immunoblot are the recognition of two of five proteins (20, 24 [&gt; 19 intensity units], 35, 39, and 88 kDa). Alternatively, if band intensity cannot be measured, the 22-kDa protein can be substituted for the 24-kDa protein with only a small decrease in sensitivity. Monoclonal antibodies were used to identify all these proteins except the 35-kDa protein. With the proposed immunoblot interpretations, the sequential serum samples were examined. At visit 1, the day of diagnosis and initiation of treatment, 54.5% of the serum samples were either IgM or IgG positive. The peak antibody response, with 80% of the serum samples positive, occurred at visit 2, 8 to 12 days into treatment. The sensitivities of the IgM and IgG immunoblot for detecting patients that were seropositive into the study period were 58.5 and 54.6%, respectively, at visit 1 and 100% at visit 2. Twenty percent of the patients remained seronegative throughout the study. The specificities of the IgM and IgG immunoblots were 92 to 94% and 93 to 96%, respectively. The IgM immunoblot and ELISA were similar in sensitivities, whereas the IgG immunoblot had greater sensitivity than the IgG ELISA (P = 0.006).
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Microbiology, University of Minnesota Medical School, Minneapolis.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Engstrom
+      </lastname>
+      <forename>
+       S M
+      </forename>
+      <initials>
+       SM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Shoop
+      </lastname>
+      <forename>
+       E
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Johnson
+      </lastname>
+      <forename>
+       R C
+      </forename>
+      <initials>
+       RC
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       AI 29739
+      </grantid>
+      <acronym>
+       AI
+      </acronym>
+      <agency>
+       NIAID NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     J Clin Microbiol
+    </medlineta>
+    <nlmuniqueid>
+     7505564
+    </nlmuniqueid>
+    <issnlinking>
+     0095-1137
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antibodies, Bacterial
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antigens, Bacterial
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Bacterial Proteins
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Immunoglobulin G
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Immunoglobulin M
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Microbiol. 1994 Jul;32(7):1733-8
+     </refsource>
+     <pmid version="1">
+      7929767
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Nature. 1970 Aug 15;227(5259):680-5
+     </refsource>
+     <pmid version="1">
+      5432063
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Bacteriol. 1993 Feb;175(4):926-32
+     </refsource>
+     <pmid version="1">
+      7679385
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Microbiol. 1993 Dec;31(12):3090-5
+     </refsource>
+     <pmid version="1">
+      8308100
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Infect Immun. 1993 Dec;61(12):5115-22
+     </refsource>
+     <pmid version="1">
+      8225588
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Infect Immun. 1993 Dec;61(12):5097-105
+     </refsource>
+     <pmid version="1">
+      8225587
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1993 Feb;167(2):392-400
+     </refsource>
+     <pmid version="1">
+      8380611
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Infect Immun. 1993 May;61(5):2182-91
+     </refsource>
+     <pmid version="1">
+      8478108
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Infect Immun. 1993 May;61(5):2192-5
+     </refsource>
+     <pmid version="1">
+      8478109
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Microbiol. 1992 Feb;30(2):370-6
+     </refsource>
+     <pmid version="1">
+      1537905
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Clin Infect Dis. 1992 Nov;15(5):788-93
+     </refsource>
+     <pmid version="1">
+      1445977
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Intern Med. 1992 Aug 15;117(4):273-80
+     </refsource>
+     <pmid version="1">
+      1637021
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Mol Microbiol. 1992 Feb;6(4):503-9
+     </refsource>
+     <pmid version="1">
+      1560779
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Microbiol. 1992 Feb;30(2):359-61
+     </refsource>
+     <pmid version="1">
+      1537904
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1991 Feb 7;324(6):419-20
+     </refsource>
+     <pmid version="1">
+      1846224
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatrics. 1991 Sep;88(3):465-70
+     </refsource>
+     <pmid version="1">
+      1881724
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Intern Med. 1991 Mar 15;114(6):472-81
+     </refsource>
+     <pmid version="1">
+      1994795
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Microbiol. 1991 Jan;29(1):174-82
+     </refsource>
+     <pmid version="1">
+      1993754
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Virol Methods. 1990 Oct;30(1):67-77
+     </refsource>
+     <pmid version="1">
+      1964941
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Microbiol. 1990 Sep;28(9):2148-50
+     </refsource>
+     <pmid version="1">
+      2229399
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Eur J Clin Microbiol Infect Dis. 1989 Oct;8(10):871-7
+     </refsource>
+     <pmid version="1">
+      2512131
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1988 Apr;157(4):790-7
+     </refsource>
+     <pmid version="1">
+      3279140
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Zentralbl Bakteriol Mikrobiol Hyg A. 1986 Dec;263(1-2):92-102
+     </refsource>
+     <pmid version="1">
+      2437739
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Res. 1989 Oct;26(4):377-82
+     </refsource>
+     <pmid version="1">
+      2677950
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Yale J Biol Med. 1984 Jul-Aug;57(4):521-5
+     </refsource>
+     <pmid version="1">
+      6393604
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Invest. 1986 Oct;78(4):934-9
+     </refsource>
+     <pmid version="1">
+      3531237
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Infect Dis. 1987 Apr;155(4):756-65
+     </refsource>
+     <pmid version="1">
+      3819479
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Med. 1985 Feb;78(2):235-40
+     </refsource>
+     <pmid version="1">
+      3970049
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Microbiol. 1990 Jun;28(6):1329-37
+     </refsource>
+     <pmid version="1">
+      2380361
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Microbiol. 1990 Jun;28(6):1276-9
+     </refsource>
+     <pmid version="1">
+      2380356
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      N Engl J Med. 1983 Mar 31;308(13):733-40
+     </refsource>
+     <pmid version="1">
+      6828118
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Anal Biochem. 1982 Apr;121(2):388-94
+     </refsource>
+     <pmid version="1">
+      7103071
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Proc Natl Acad Sci U S A. 1979 Sep;76(9):4350-4
+     </refsource>
+     <pmid version="1">
+      388439
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Infect Immun. 1994 Aug;62(8):3213-21
+     </refsource>
+     <pmid version="1">
+      8039891
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antibodies, Bacterial
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antigens, Bacterial
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bacterial Proteins
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      immunology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Borrelia burgdorferi Group
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      immunology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Enzyme-Linked Immunosorbent Assay
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      methods
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Erythema Chronicum Migrans
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      immunology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Evaluation Studies as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Immunoblotting
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      methods
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      statistics &amp; numerical data
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Immunoglobulin G
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Immunoglobulin M
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lyme Disease
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      immunology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Serologic Tests
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      methods
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Time Factors
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <otherid source="NLM">
+    PMC227960
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1995
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      1
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1995
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1995
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     7714202
+    </articleid>
+    <articleid idtype="pmc">
+     PMC227960
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

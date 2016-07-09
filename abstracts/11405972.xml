@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+    <medlinecitation owner="NLM" status="MEDLINE">
+        <pmid version="1">11405972</pmid>
+        <datecreated>
+            <year>2001</year>
+            <month>06</month>
+            <day>14</day>
+        </datecreated>
+        <datecompleted>
+            <year>2002</year>
+            <month>02</month>
+            <day>28</day>
+        </datecompleted>
+        <daterevised>
+            <year>2008</year>
+            <month>11</month>
+            <day>21</day>
+        </daterevised>
+        <article pubmodel="Print">
+            <journal>
+                <issn issnyype="Electronic">1469-493X</issn>
+                <journalissue citedmedium="Internet">
+                    <issue>2</issue>
+                    <pubdate>
+                        <year>2001</year>
+                    </pubdate>
+                </journalissue>
+                <title>Cochrane database of systematic reviews (Online)</title>
+                <isoabbreviation>Cochrane Database Syst Rev</isoabbreviation>
+            </journal>
+            <articletitle>Antidepressant plus benzodiazepine for major depression.</articletitle>
+            <pagination>
+                <medlinepgn>CD001026</medlinepgn>
+            </pagination>
+            <abstract>
+                <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">Anxiety frequently coexists with depression. Adding benzodiazepines to antidepressants is commonly used to treat people with depression, although there has been no convincing evidence to show that such a combination is more effective than antidepressants alone and that there are suggestions that benzodiazepines may lose their efficacy with long-term administration and that their chronic use carries risks of dependence.</abstracttext>
+                <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">To determine whether, among adult patients with major depression, adding benzodiazepines to antidepressants brings about any benefit in terms of symptomatic recovery or side-effects in the short term (less than 8 weeks) and long term (more than 2 months), in comparison with treatment by antidepressants alone.</abstracttext>
+                <abstracttext label="SEARCH STRATEGY" nlmcategory="METHODS">We searched MEDLINE (1972 to September 1997), EMBASE (1980 to September 1997), International Pharmaceutical Abstracts (1972 to September 1997), Biological Abstracts (1984 to September 1997), LILACS (1980 to September 1997), PsycLIT (1974 to September 1997), the Cochrane Library (issue 3, 1997) and the trial register of the Cochrane Depression, Anxiety and Neurosis Group (last searched March 1999), combined with hand searching, reference searching, SciSearch and personal contacts.</abstracttext>
+                <abstracttext label="SELECTION CRITERIA" nlmcategory="METHODS">All randomised controlled trials that compared combined antidepressant-benzodiazepine treatment with antidepressant alone for adult patients with major depression. Exclusion criteria are: antidepressant dosage lower than 100 mg of imipramine or its equivalent daily and duration of trial shorter than four weeks.</abstracttext>
+                <abstracttext label="DATA COLLECTION AND ANALYSIS" nlmcategory="METHODS">Two reviewers independently assessed the eligibility and quality of the studies. Two reviewers independently extracted the data. Standardized weighted mean differences and relative risks were estimated with random effects model. The dropouts were assigned the least favourable outcome. Two sensitivity analyses examined the effect of this assumption as well as the effect of including medium quality studies. Three a priori subgroup analyses were performed with regard to the patients with or without comorbid anxiety and with regard to the type.</abstracttext>
+                <abstracttext label="MAIN RESULTS" nlmcategory="RESULTS">Aggregating nine studies with a total of 679 patients, the combination therapy group was less likely to drop out than the antidepressant alone group (relative risk 0.63, 95% confidence interval 0.49 to 0.81). The intention-to-treat analysis (with people dropping out assigned the least favourable outcome) showed that the combination group was more likely to show improvement in their depression (defined as 50% or greater reduction in the depression scale from baseline) (relative risk 1.63, 95% confidence interval 1.18 to 2.27 at one week and relative risk 1.38, 95% confidence interval 1.15 to 1.66 at four weeks). The difference was no longer significant at six to eight weeks. None of the included RCTs lasted longer than eight weeks. The patients allocated to the combination therapy were less likely to drop out from the treatment due to side effects than those receiving antidepressants alone (relative risk 0.53, 95% confidence interval 0.32 to 0.86). However, these two groups of patients were equally likely to report at least one side effect (relative risk 0.99, 95% confidence interval 0.92 to 1.07).</abstracttext>
+                <abstracttext label="REVIEWER'S CONCLUSIONS" nlmcategory="CONCLUSIONS">The potential benefits of adding a benzodiazepine to an antidepressant must be balanced judiciously against possible harms including development of dependence and accident proneness, on the one hand, and against continued suffering following no response and drop-out, on the other.</abstracttext>
+            </abstract>
+            <affiliation>Department of Psychiatry, Nagoya City University Medical School, Mizuho-cho, Mizuho-ku, Nagoya, Aichi, Japan, 467-8601. furukawa@med.nagoya-cu.ac.jp</affiliation>
+            <authorlist completeyn="Y">
+                <author validyn="Y">
+                    <lastname>Furukawa</lastname>
+                    <forename>T A</forename>
+                    <initials>TA</initials>
+                </author>
+                <author validyn="Y">
+                    <lastname>Streiner</lastname>
+                    <forename>D L</forename>
+                    <initials>DL</initials>
+                </author>
+                <author validyn="Y">
+                    <lastname>Young</lastname>
+                    <forename>L T</forename>
+                    <initials>LT</initials>
+                </author>
+            </authorlist>
+            <language>eng</language>
+            <publicationtypelist>
+                <publicationtype>Journal Article</publicationtype>
+                <publicationtype>Review</publicationtype>
+            </publicationtypelist>
+        </article>
+        <medlinejournalinfo>
+            <country>England</country>
+            <medlineta>Cochrane Database Syst Rev</medlineta>
+            <nlmuniqueid>100909747</nlmuniqueid>
+            <issnlinking>1361-6137</issnlinking>
+        </medlinejournalinfo>
+        <chemicallist>
+            <chemical>
+                <registrynumber>0</registrynumber>
+                <nameofsubstance>Anti-Anxiety Agents</nameofsubstance>
+            </chemical>
+            <chemical>
+                <registrynumber>0</registrynumber>
+                <nameofsubstance>Antidepressive Agents</nameofsubstance>
+            </chemical>
+            <chemical>
+                <registrynumber>12794-10-4</registrynumber>
+                <nameofsubstance>Benzodiazepines</nameofsubstance>
+            </chemical>
+        </chemicallist>
+        <citationsubset>IM</citationsubset>
+        <commentscorrectionslist>
+            <commentscorrections reftype="UpdateOf">
+                <refsource>Cochrane Database Syst Rev. 2000;(4):CD001026</refsource>
+                <pmid Version="1">11034696</pmid>
+            </commentscorrections>
+        </commentscorrectionslist>
+        <meshheadinglist>
+            <meshheading>
+                <descriptorname majortopicyn="N">Adult</descriptorname>
+            </meshheading>
+            <meshheading>
+                <descriptorname majortopicyn="N">Anti-Anxiety Agents</descriptorname>
+                <qualifiername majortopicyn="Y">therapeutic use</qualifiername>
+            </meshheading>
+            <meshheading>
+                <descriptorname majortopicyn="N">Antidepressive Agents</descriptorname>
+                <qualifiername majortopicyn="Y">therapeutic use</qualifiername>
+            </meshheading>
+            <meshheading>
+                <descriptorname majortopicyn="N">Benzodiazepines</descriptorname>
+            </meshheading>
+            <meshheading>
+                <descriptorname majortopicyn="N">Depression</descriptorname>
+                <qualifiername majortopicyn="Y">drug therapy</qualifiername>
+            </meshheading>
+            <meshheading>
+                <descriptorname majortopicyn="N">Drug Therapy, Combination</descriptorname>
+            </meshheading>
+            <meshheading>
+                <descriptorname majortopicyn="N">Humans</descriptorname>
+            </meshheading>
+            <meshheading>
+                <descriptorname majortopicyn="N">Randomized Controlled Trials as Topic</descriptorname>
+            </meshheading>
+        </meshheadinglist>
+        <numberofreferences>81</numberofreferences>
+    </medlinecitation>
+    <pubmeddata>
+        <history>
+            <pubmedpubdate PubStatus="pubmed">
+                <year>2001</year>
+                <month>6</month>
+                <day>19</day>
+                <hour>10</hour>
+                <minute>0</minute>
+            </pubmedpubdate>
+            <pubmedpubdate PubStatus="medline">
+                <year>2002</year>
+                <month>3</month>
+                <day>1</day>
+                <hour>10</hour>
+                <minute>1</minute>
+            </pubmedpubdate>
+            <pubmedpubdate PubStatus="entrez">
+                <year>2001</year>
+                <month>6</month>
+                <day>19</day>
+                <hour>10</hour>
+                <minute>0</minute>
+            </pubmedpubdate>
+        </history>
+        <publicationstatus>ppublish</publicationstatus>
+        <articleidlist>
+            <articleid idtype="pubmed">11405972</articleid>
+            <articleid idtype="pii">CD001026</articleid>
+            <articleid idtype="doi">10.1002/14651858.CD001026</articleid>
+        </articleidlist>
+    </pubmeddata>
+</pubmedarticle>
+</pubmedarticleset>

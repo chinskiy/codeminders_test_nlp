@@ -1,0 +1,408 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12944058
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     28
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     09
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1474-547X
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       362
+      </volume>
+      <issue>
+       9384
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Aug
+       </month>
+       <day>
+        23
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Lancet
+     </title>
+     <isoabbreviation>
+      Lancet
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Acetylcysteine for prevention of contrast nephropathy: meta-analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      598-603
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Contrast nephropathy is associated with increased in-hospital morbidity and mortality and leads to extension of hospital stay in patients with chronic renal insufficiency. Acetylcysteine seems to be a safe and inexpensive way to reduce contrast nephropathy. We aimed to assess the efficacy of acetylcysteine to prevent contrast nephropathy after administration of radiocontrast media in patients with chronic renal insufficiency.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We did a meta-analysis of randomised controlled trials comparing acetylcysteine and hydration with hydration alone for preventing contrast nephropathy in patients with chronic renal insufficiency. The trials were identified through a combined search of the BIOSIS+/RRM, MEDLINE, Web of Science, Current Contents Medizin, and The Cochrane Library Databases. We used incidence of contrast nephropathy 48 h after administration of radiocontrast media as an outcome measure.
+     </abstracttext>
+     <abstracttext label="FINDINGS" nlmcategory="RESULTS">
+      Seven trials including 805 patients were eligible according to our inclusion criteria and were analysed. Overall incidence of contrast nephropathy varied between 8% and 28%. Since significant heterogeneity was indicated by the Q statistics (p=0.016) we used a random-effects model to combine the data. Compared with periprocedural hydration alone, administration of acetylcysteine and hydration significantly reduced the relative risk of contrast nephropathy by 56% (0.435 [95% CI 0.215-0.879], p=0.02) in patients with chronic renal insufficiency. Meta-regression revealed no significant relation between the relative risk of contrast nephropathy and the volume of radiocontrast media administered or the degree of chronic renal insufficiency before the procedure.
+     </abstracttext>
+     <abstracttext label="INTERPRETATION" nlmcategory="CONCLUSIONS">
+      Compared with periprocedural hydration alone, acetylcysteine with hydration significantly reduces the risk of contrast nephropathy in patients with chronic renal insufficiency. The relative risk of contrast nephropathy was not related to the amount of radiocontrast media given or to the degree of chronic renal insufficiency before the procedure.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Fifth Department of Medicine, University Hospital Mannheim, Mannheim, Germany. rainer.birck@med5.ma.uni-heidelberg.de
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Birck
+      </lastname>
+      <forename>
+       Rainer
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Krzossok
+      </lastname>
+      <forename>
+       Stefan
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Markowetz
+      </lastname>
+      <forename>
+       Florian
+      </forename>
+      <initials>
+       F
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schnülle
+      </lastname>
+      <forename>
+       Peter
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       van der Woude
+      </lastname>
+      <forename>
+       Fokko J
+      </forename>
+      <initials>
+       FJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Braun
+      </lastname>
+      <forename>
+       Claude
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Lancet
+    </medlineta>
+    <nlmuniqueid>
+     2985213R
+    </nlmuniqueid>
+    <issnlinking>
+     0140-6736
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Contrast Media
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      52-90-4
+     </registrynumber>
+     <nameofsubstance>
+      Cysteine
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      616-91-1
+     </registrynumber>
+     <nameofsubstance>
+      Acetylcysteine
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Lancet. 2003 Aug 23;362(9384):589-90
+     </refsource>
+     <pmid version="1">
+      12944054
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2004 Mar-Apr;140(2):41
+     </refsource>
+     <pmid version="1">
+      15122861
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Acetylcysteine
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Acute Kidney Injury
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      chemically induced
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Contrast Media
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cysteine
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Kidney Failure, Chronic
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Outcome Assessment (Health Care)
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Radiography
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      29
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      29
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12944058
+    </articleid>
+    <articleid idtype="pii">
+     S0140-6736(03)14189-X
+    </articleid>
+    <articleid idtype="doi">
+     10.1016/S0140-6736(03)14189-X
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,327 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12557864
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     30
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     17
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0002-9343
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       114
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Jan
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The American journal of medicine
+     </title>
+     <isoabbreviation>
+      Am. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Balloon angioplasty or medical therapy for hypertensive patients with atherosclerotic renal artery stenosis? A meta-analysis of randomized controlled trials.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      44-50
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="PURPOSE" nlmcategory="OBJECTIVE">
+      The optimal treatment for hypertensive patients with atherosclerotic renal artery stenosis is controversial. We performed a meta-analysis comparing the effects of balloon angioplasty and medical therapy in these patients.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We searched MEDLINE, EMBASE, the Science Citation Index, the Cochrane Controlled Trials Registry, and reference lists. Authors of published trials were contacted.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      We identified three trials involving a total of 210 patients with moderate-to-severe (&gt; or = 50%) unilateral or bilateral atherosclerotic renal artery stenosis and poorly controlled hypertension who were followed for at least 3 months after intervention. Balloon angioplasty was significantly more effective in reducing blood pressure than was medical therapy; the weighted mean difference between the two treatments was -7 mm Hg (95% confidence interval [CI]: -12 to -1 mm Hg) for systolic blood pressure and -3 mm Hg (95% CI: -6 to -1 mm Hg) for diastolic blood pressure. There was no consistent difference in changes in renal function. Patients treated with balloon angioplasty were more likely to have patent renal arteries after 12 months (52% vs. 19%; odds ratio [OR] = 4.2; 95% CI: 1.8 to 9.8), used fewer antihypertensive medications, and appeared to have fewer major cardiovascular and renovascular complications (OR = 0.27; 95% CI: 0.06 to 1.23; P = 0.09).
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Balloon angioplasty has a modest but significant effect on blood pressure and should be considered for patients with atherosclerotic renal artery stenosis and poorly controlled hypertension. There is no evidence supporting its use in improving or preserving renal function, although none of the trials were designed to address this issue.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Medicine, University Health Network, Toronto, Ontario, Canada. alainnordmann@hotmail.com
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Nordmann
+      </lastname>
+      <forename>
+       Alain J
+      </forename>
+      <initials>
+       AJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Woo
+      </lastname>
+      <forename>
+       Kevin
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Parkes
+      </lastname>
+      <forename>
+       Robert
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Logan
+      </lastname>
+      <forename>
+       Alexander G
+      </forename>
+      <initials>
+       AG
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Comparative Study
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Am J Med
+    </medlineta>
+    <nlmuniqueid>
+     0267200
+    </nlmuniqueid>
+    <issnlinking>
+     0002-9343
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Antihypertensive Agents
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Angioplasty, Balloon
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Antihypertensive Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Arteriosclerosis
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      complications
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hypertension
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Renal Artery Obstruction
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      complications
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12557864
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

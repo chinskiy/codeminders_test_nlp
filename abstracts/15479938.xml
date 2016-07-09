@@ -1,0 +1,389 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15479938
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     13
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     18
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1538-3598
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       292
+      </volume>
+      <issue>
+       14
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Oct
+       </month>
+       <day>
+        13
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Bariatric surgery: a systematic review and meta-analysis.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1724-37
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      About 5% of the US population is morbidly obese. This disease remains largely refractory to diet and drug therapy, but generally responds well to bariatric surgery.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To determine the impact of bariatric surgery on weight loss, operative mortality outcome, and 4 obesity comorbidities (diabetes, hyperlipidemia, hypertension, and obstructive sleep apnea).
+     </abstracttext>
+     <abstracttext label="DATA SOURCES AND STUDY SELECTION" nlmcategory="METHODS">
+      Electronic literature search of MEDLINE, Current Contents, and the Cochrane Library databases plus manual reference checks of all articles on bariatric surgery published in the English language between 1990 and 2003. Two levels of screening were used on 2738 citations.
+     </abstracttext>
+     <abstracttext label="DATA EXTRACTION" nlmcategory="METHODS">
+      A total of 136 fully extracted studies, which included 91 overlapping patient populations (kin studies), were included for a total of 22,094 patients. Nineteen percent of the patients were men and 72.6% were women, with a mean age of 39 years (range, 16-64 years). Sex was not reported for 1537 patients (8%). The baseline mean body mass index for 16 944 patients was 46.9 (range, 32.3-68.8).
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      A random effects model was used in the meta-analysis. The mean (95% confidence interval) percentage of excess weight loss was 61.2% (58.1%-64.4%) for all patients; 47.5% (40.7%-54.2%) for patients who underwent gastric banding; 61.6% (56.7%-66.5%), gastric bypass; 68.2% (61.5%-74.8%), gastroplasty; and 70.1% (66.3%-73.9%), biliopancreatic diversion or duodenal switch. Operative mortality (&lt; or =30 days) in the extracted studies was 0.1% for the purely restrictive procedures, 0.5% for gastric bypass, and 1.1% for biliopancreatic diversion or duodenal switch. Diabetes was completely resolved in 76.8% of patients and resolved or improved in 86.0%. Hyperlipidemia improved in 70% or more of patients. Hypertension was resolved in 61.7% of patients and resolved or improved in 78.5%. Obstructive sleep apnea was resolved in 85.7% of patients and was resolved or improved in 83.6% of patients.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Effective weight loss was achieved in morbidly obese patients after undergoing bariatric surgery. A substantial majority of patients with diabetes, hyperlipidemia, hypertension, and obstructive sleep apnea experienced complete resolution or improvement.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Surgery, University of Minnesota, Minneapolis 55455, USA. buchw001@umn.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Buchwald
+      </lastname>
+      <forename>
+       Henry
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Avidor
+      </lastname>
+      <forename>
+       Yoav
+      </forename>
+      <initials>
+       Y
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Braunwald
+      </lastname>
+      <forename>
+       Eugene
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Jensen
+      </lastname>
+      <forename>
+       Michael D
+      </forename>
+      <initials>
+       MD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Pories
+      </lastname>
+      <forename>
+       Walter
+      </forename>
+      <initials>
+       W
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Fahrbach
+      </lastname>
+      <forename>
+       Kyle
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schoelles
+      </lastname>
+      <forename>
+       Karen
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2005 Apr 13;293(14):1726; author reply 1726
+     </refsource>
+     <pmid version="1">
+      15827309
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2005 Apr 13;293(14):1726; author reply 1726
+     </refsource>
+     <pmid version="1">
+      15827308
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="ErratumIn">
+     <refsource>
+      JAMA. 2005 Apr 13;293(14):1728
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Biliopancreatic Diversion
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Comorbidity
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Gastric Bypass
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Gastroplasty
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Obesity, Morbid
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      surgery
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Weight Loss
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    73
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      14
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      19
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      14
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     292/14/1724
+    </articleid>
+    <articleid idtype="doi">
+     10.1001/jama.292.14.1724
+    </articleid>
+    <articleid idtype="pubmed">
+     15479938
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

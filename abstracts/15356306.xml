@@ -1,0 +1,598 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15356306
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     09
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2004
+    </year>
+    <month>
+     09
+    </month>
+    <day>
+     15
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1533-4406
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       351
+      </volume>
+      <issue>
+       11
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Sep
+       </month>
+       <day>
+        9
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Oral erythromycin and the risk of sudden death from cardiac causes.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1089-96
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      Oral erythromycin prolongs cardiac repolarization and is associated with case reports of torsades de pointes. Because erythromycin is extensively metabolized by cytochrome P-450 3A (CYP3A) isozymes, commonly used medications that inhibit the effects of CYP3A may increase plasma erythromycin concentrations, thereby increasing the risk of ventricular arrhythmias and sudden death. We studied the association between the use of erythromycin and the risk of sudden death from cardiac causes and whether this risk was increased with the concurrent use of strong inhibitors of CYP3A.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We studied a previously identified Tennessee Medicaid cohort that included 1,249,943 person-years of follow-up and 1476 cases of confirmed sudden death from cardiac causes. The CYP3A inhibitors used in the study were nitroimidazole antifungal agents, diltiazem, verapamil, and troleandomycin; each doubles, at least, the area under the time-concentration curve for a CYP3A substrate. Amoxicillin, an antimicrobial agent with similar indications but which does not prolong cardiac repolarization, and former use of erythromycin also were studied, to assess possible confounding by indication.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The multivariate adjusted rate of sudden death from cardiac causes among patients currently using erythromycin was twice as high (incidence-rate ratio, 2.01; 95 percent confidence interval, 1.08 to 3.75; P=0.03) as that among those who had not used any of the study antibiotic medications. There was no significant increase in the risk of sudden death among former users of erythromycin (incidence-rate ratio, 0.89; 95 percent confidence interval, 0.72 to 1.09; P=0.26) or among those who were currently using amoxicillin (incidence-rate ratio, 1.18; 95 percent confidence interval, 0.59 to 2.36; P=0.65). The adjusted rate of sudden death from cardiac causes was five times as high (incidence-rate ratio, 5.35; 95 percent confidence interval, 1.72 to 16.64; P=0.004) among those who concurrently used CYP3A inhibitors and erythromycin as that among those who had used neither CYP3A inhibitors nor any of the study antibiotic medications. In contrast, there was no increase in the risk of sudden death among those who concurrently used amoxicillin and CYP3A inhibitors or those currently using any of the study antibiotic medications who had formerly used CYP3A inhibitors.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      The concurrent use of erythromycin and strong inhibitors of CYP3A should be avoided.
+     </abstracttext>
+     <copyrightinformation>
+      Copyright 2004 Massachusetts Medical Society
+     </copyrightinformation>
+    </abstract>
+    <affiliation>
+     Division of Pharmacoepidemiology, Department of Preventive Medicine Vanderbilt University School of Medicine, Nashville, USA. cindy.naron@vanderbilt.edu
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Ray
+      </lastname>
+      <forename>
+       Wayne A
+      </forename>
+      <initials>
+       WA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Murray
+      </lastname>
+      <forename>
+       Katherine T
+      </forename>
+      <initials>
+       KT
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Meredith
+      </lastname>
+      <forename>
+       Sarah
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Narasimhulu
+      </lastname>
+      <forename>
+       Sukumar Suguna
+      </forename>
+      <initials>
+       SS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hall
+      </lastname>
+      <forename>
+       Kathi
+      </forename>
+      <initials>
+       K
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Stein
+      </lastname>
+      <forename>
+       C Michael
+      </forename>
+      <initials>
+       CM
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       FD-U-001641
+      </grantid>
+      <acronym>
+       FD
+      </acronym>
+      <agency>
+       FDA HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       GM-31304
+      </grantid>
+      <acronym>
+       GM
+      </acronym>
+      <agency>
+       NIGMS NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       HS1-0384
+      </grantid>
+      <acronym>
+       HS
+      </acronym>
+      <agency>
+       AHRQ HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Bacterial Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Calcium Channel Blockers
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Nitroimidazoles
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      114-07-8
+     </registrynumber>
+     <nameofsubstance>
+      Erythromycin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      26787-78-0
+     </registrynumber>
+     <nameofsubstance>
+      Amoxicillin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      2751-09-9
+     </registrynumber>
+     <nameofsubstance>
+      Troleandomycin
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      42399-41-7
+     </registrynumber>
+     <nameofsubstance>
+      Diltiazem
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      52-53-9
+     </registrynumber>
+     <nameofsubstance>
+      Verapamil
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      EC 1.14.14.1
+     </registrynumber>
+     <nameofsubstance>
+      Aryl Hydrocarbon Hydroxylases
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      EC 1.14.14.1
+     </registrynumber>
+     <nameofsubstance>
+      Cytochrome P-450 CYP3A
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      EC 1.5.-
+     </registrynumber>
+     <nameofsubstance>
+      Oxidoreductases, N-Demethylating
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2005 Jan 20;352(3):301-4; author reply 301-4
+     </refsource>
+     <pmid version="1">
+      15669120
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2004 Sep 9;351(11):1053-6
+     </refsource>
+     <pmid version="1">
+      15356302
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 2005 Jan 20;352(3):301-4; author reply 301-4
+     </refsource>
+     <pmid version="1">
+      15659735
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Administration, Oral
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Amoxicillin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Bacterial Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aryl Hydrocarbon Hydroxylases
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      antagonists &amp; inhibitors
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      metabolism
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Calcium Channel Blockers
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Confounding Factors (Epidemiology)
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cytochrome P-450 CYP3A
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Death, Sudden, Cardiac
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      etiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diltiazem
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Drug Interactions
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Erythromycin
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      adverse effects
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Multivariate Analysis
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Nitroimidazoles
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Oxidoreductases, N-Demethylating
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      antagonists &amp; inhibitors
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      metabolism
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Troleandomycin
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Verapamil
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      adverse effects
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2004
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      9
+     </month>
+     <day>
+      10
+     </day>
+     <hour>
+      5
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     15356306
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJMoa040582
+    </articleid>
+    <articleid idtype="pii">
+     351/11/1089
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

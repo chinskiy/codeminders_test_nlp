@@ -1,0 +1,421 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    15505131
+   </pmid>
+   <datecreated>
+    <year>
+     2004
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     26
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     04
+    </month>
+    <day>
+     12
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0003-9926
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       164
+      </volume>
+      <issue>
+       19
+      </issue>
+      <pubdate>
+       <year>
+        2004
+       </year>
+       <month>
+        Oct
+       </month>
+       <day>
+        25
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      Archives of internal medicine
+     </title>
+     <isoabbreviation>
+      Arch. Intern. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Early withdrawal of statin therapy in patients with non-ST-segment elevation myocardial infarction: national registry of myocardial infarction.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      2162-8
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      There is increasing interest in the non-lipid-lowering effects of statins and their effect on outcomes in patients with acute coronary syndrome. It has been suggested that withdrawal of statin therapy during an acute coronary syndrome may attenuate any benefits of pretreatment, thereby providing indirect evidence of the importance of their non-lipid-lowering effects.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      This observational study compared the demographic and clinical characteristics and hospital outcomes in patients with non-ST-segment elevation myocardial infarction enrolled in the National Registry of Myocardial Infarction 4. Comparison groups consisted of patients previously receiving statins who also received statins within 24 hours of hospital admission (n = 9,001), patients previously using statins in whom therapy was discontinued (n = 4,870), and patients who did not receive statins at any time before or during hospitalization (n = 54,635).
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Of 13,871 patients receiving statins before hospital admission, 35.1% had treatment withdrawn during the first 24 hours of hospitalization. These patients had increased hospital morbidity and mortality rates relative to patients in whom therapy was continued, with higher rates of heart failure, ventricular arrhythmias, shock, and death. In multivariate analyses, these patients were at statistically significant increased risk of hospital death compared with those continuing statin therapy and at similar risk compared with those not receiving statins before or during hospitalization.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Withdrawal of statin therapy in the first 24 hours of hospitalization for non-ST-segment elevation myocardial infarction is associated with worse hospital outcomes. In the absence of data from randomized clinical trials, our findings suggest that statin therapy should be continued during hospitalization for myocardial infarction unless strongly contraindicated.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Division of Cardiovascular Medicine, Department of Medicine, University of Massachusetts Medical School, Worcester, MA 01655, USA. spencerf@ummhc.org
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Spencer
+      </lastname>
+      <forename>
+       Frederick A
+      </forename>
+      <initials>
+       FA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Fonarow
+      </lastname>
+      <forename>
+       Gregg C
+      </forename>
+      <initials>
+       GC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Frederick
+      </lastname>
+      <forename>
+       Paul D
+      </forename>
+      <initials>
+       PD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Wright
+      </lastname>
+      <forename>
+       R Scott
+      </forename>
+      <initials>
+       RS
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Every
+      </lastname>
+      <forename>
+       Nathan
+      </forename>
+      <initials>
+       N
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Goldberg
+      </lastname>
+      <forename>
+       Robert J
+      </forename>
+      <initials>
+       RJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gore
+      </lastname>
+      <forename>
+       Joel M
+      </forename>
+      <initials>
+       JM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Dong
+      </lastname>
+      <forename>
+       Wei
+      </forename>
+      <initials>
+       W
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Becker
+      </lastname>
+      <forename>
+       Richard C
+      </forename>
+      <initials>
+       RC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       French
+      </lastname>
+      <forename>
+       William
+      </forename>
+      <initials>
+       W
+      </initials>
+     </author>
+     <author validyn="Y">
+      <collectivename>
+       National Registry of Myocardial Infarction
+      </collectivename>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Arch Intern Med
+    </medlineta>
+    <nlmuniqueid>
+     0372440
+    </nlmuniqueid>
+    <issnlinking>
+     0003-9926
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Hydroxymethylglutaryl-CoA Reductase Inhibitors
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Cross-Sectional Studies
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Electrocardiography
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hospitalization
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hydroxymethylglutaryl-CoA Reductase Inhibitors
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Myocardial Infarction
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Registries
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Time Factors
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      United States
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Withholding Treatment
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2004
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      27
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      4
+     </month>
+     <day>
+      13
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2004
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      27
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     164/19/2162
+    </articleid>
+    <articleid idtype="doi">
+     10.1001/archinte.164.19.2162
+    </articleid>
+    <articleid idtype="pubmed">
+     15505131
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,400 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    8421475
+   </pmid>
+   <datecreated>
+    <year>
+     1993
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     18
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     1993
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     18
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2010
+    </year>
+    <month>
+     03
+    </month>
+    <day>
+     24
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0028-4793
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       328
+      </volume>
+      <issue>
+       7
+      </issue>
+      <pubdate>
+       <year>
+        1993
+       </year>
+       <month>
+        Feb
+       </month>
+       <day>
+        18
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      The New England journal of medicine
+     </title>
+     <isoabbreviation>
+      N. Engl. J. Med.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Effect of calcium supplementation on bone loss in postmenopausal women.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      460-4
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+      The use of calcium supplements slows bone loss in the forearm and has a beneficial effect on the axial bone density of women in late menopause whose calcium intake is less than 400 mg per day. However, the effect of a calcium supplement of 1000 mg per day on the axial bone density of postmenopausal women with higher calcium intakes is not known.
+     </abstracttext>
+     <abstracttext label="METHODS" nlmcategory="METHODS">
+      We studied 122 normal women at least three years after they had reached menopause who had a mean dietary calcium intake of 750 mg per day. The women were randomly assigned to treatment with either calcium (1000 mg per day) or placebo for two years. The bone mineral density of the total body, lumbar spine, and proximal femur was measured every six months by dual-energy x-ray absorptiometry. Serum and urine indexes of calcium metabolism were measured at base line and after 3, 12, and 24 months.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The mean (+/- SE) rate of loss of total-body bone mineral density was reduced by 43 percent in the calcium group (-0.0055 +/- 0.0010 g per square centimeter per year) as compared with the placebo group (-0.0097 +/- 0.0010 g per square centimeter per year, P = 0.005). The rate of loss of bone mineral density was reduced by 35 percent in the legs (P = 0.02), and loss was eliminated in the trunk (P = 0.04). Calcium use was of significant benefit in the lumbar spine (P = 0.04), and in Ward's triangle the rate of loss was reduced by 67 percent (P = 0.04). Calcium supplementation had a similar effect whether dietary calcium intake was above or below the mean value for the group. Serum parathyroid hormone concentrations tended to be lower in the calcium group, as were urinary hydroxyproline excretion and serum alkaline phosphatase concentrations.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Calcium supplementation significantly slowed axial and appendicular bone loss in normal post-menopausal women.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Medicine, University of Auckland, New Zealand.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Reid
+      </lastname>
+      <forename>
+       I R
+      </forename>
+      <initials>
+       IR
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Ames
+      </lastname>
+      <forename>
+       R W
+      </forename>
+      <initials>
+       RW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Evans
+      </lastname>
+      <forename>
+       M C
+      </forename>
+      <initials>
+       MC
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gamble
+      </lastname>
+      <forename>
+       G D
+      </forename>
+      <initials>
+       GD
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Sharpe
+      </lastname>
+      <forename>
+       S J
+      </forename>
+      <initials>
+       SJ
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     UNITED STATES
+    </country>
+    <medlineta>
+     N Engl J Med
+    </medlineta>
+    <nlmuniqueid>
+     0255562
+    </nlmuniqueid>
+    <issnlinking>
+     0028-4793
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Calcium, Dietary
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Parathyroid Hormone
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      51-35-4
+     </registrynumber>
+     <nameofsubstance>
+      Hydroxyproline
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      7440-70-2
+     </registrynumber>
+     <nameofsubstance>
+      Calcium
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      EC 3.1.3.1
+     </registrynumber>
+     <nameofsubstance>
+      Alkaline Phosphatase
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 1993 Jul 22;329(4):279
+     </refsource>
+     <pmid version="1">
+      8316283
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      N Engl J Med. 1993 Feb 18;328(7):503-5
+     </refsource>
+     <pmid version="1">
+      8421480
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="ErratumIn">
+     <refsource>
+      N Engl J Med 1993 Oct 21;329(17):1281
+     </refsource>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Alkaline Phosphatase
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bone Density
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Calcium
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      metabolism
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Calcium, Dietary
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Hydroxyproline
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      urine
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Osteoporosis, Postmenopausal
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Parathyroid Hormone
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      blood
+     </qualifiername>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      1993
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      18
+     </day>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      1993
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      1993
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      18
+     </day>
+     <hour>
+      0
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     8421475
+    </articleid>
+    <articleid idtype="doi">
+     10.1056/NEJM199302183280702
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

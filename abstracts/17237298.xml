@@ -1,0 +1,511 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    17237298
+   </pmid>
+   <datecreated>
+    <year>
+     2007
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     16
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2007
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     22
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Electronic">
+      1468-5833
+     </issn>
+     <journalissue citedmedium="Internet">
+      <volume>
+       334
+      </volume>
+      <issue>
+       7589
+      </issue>
+      <pubdate>
+       <year>
+        2007
+       </year>
+       <month>
+        Feb
+       </month>
+       <day>
+        17
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      BMJ (Clinical research ed.)
+     </title>
+     <isoabbreviation>
+      BMJ
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Improved effectiveness of partner notification for patients with sexually transmitted infections: systematic review.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      354
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To examine the effectiveness of methods to improve partner notification by patient referral (index patient has responsibility for informing sex partners of their exposure to a sexually transmitted infection).
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Systematic review of randomised trials of any intervention to supplement simple patient referral.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      Seven electronic databases searched (January 1990 to December 2005) without language restriction, and reference lists of retrieved articles.
+     </abstracttext>
+     <abstracttext label="REVIEW METHODS" nlmcategory="METHODS">
+      Selection of trials, data extraction, and quality assessment were done by two independent reviewers. The primary outcome was a reduction of incidence or prevalence of sexually transmitted infections in index patients. If this was not reported data were extracted according to a hierarchy of secondary outcomes: number of partners treated; number of partners tested or testing positive; and number of partners notified, located, or elicited. Random effects meta-analysis was carried out when appropriate.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      14 trials were included with 12 389 women and men diagnosed as having gonorrhoea, chlamydia, non-gonococcal urethritis, trichomoniasis, or a sexually transmitted infection syndrome. All studies had methodological weaknesses that could have biased their results. Three strategies were used. Six trials examined patient delivered partner therapy. Meta-analysis of five of these showed a reduced risk of persistent or recurrent infection in patients with chlamydia or gonorrhoea (summary risk ratio 0.73, 95% confidence interval 0.57 to 0.93). Supplementing patient referral with information for partners was as effective as patient delivered partner therapy. Neither strategy was effective in women with trichomoniasis. Two trials found that providing index patients with chlamydia with sampling kits for their partners increased the number of partners who got treated.
+     </abstracttext>
+     <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+      Involving index patients in shared responsibility for the management of sexual partners improves outcomes. Health professionals should consider the following strategies for the management of individual patients: patient delivered partner therapy, home sampling for partners, and providing additional information for partners.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Social and Preventive Medicine, University of Bern, Finkenhubelweg 11, Bern, CH-3012, Switzerland.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Trelle
+      </lastname>
+      <forename>
+       Sven
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Shang
+      </lastname>
+      <forename>
+       Aijing
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Nartey
+      </lastname>
+      <forename>
+       Linda
+      </forename>
+      <initials>
+       L
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Cassell
+      </lastname>
+      <forename>
+       Jackie A
+      </forename>
+      <initials>
+       JA
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Low
+      </lastname>
+      <forename>
+       Nicola
+      </forename>
+      <initials>
+       N
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     BMJ
+    </medlineta>
+    <nlmuniqueid>
+     8900488
+    </nlmuniqueid>
+    <issnlinking>
+     0959-535X
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 2006 Jan 7;332(7532):14-9
+     </refsource>
+     <pmid version="1">
+      16356945
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Prev Med. 1999 Oct;17(3):230-42
+     </refsource>
+     <pmid version="1">
+      10987639
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ann Intern Med. 2001 Apr 17;134(8):657-62
+     </refsource>
+     <pmid version="1">
+      11304106
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Cochrane Database Syst Rev. 2001;(4):CD002843
+     </refsource>
+     <pmid version="1">
+      11687164
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Public Health. 2002 Nov;92(11):1784-8
+     </refsource>
+     <pmid version="1">
+      12406809
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Sex Transm Infect. 2002 Dec;78(6):422-4
+     </refsource>
+     <pmid version="1">
+      12473802
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 2003 Sep 6;327(7414):557-60
+     </refsource>
+     <pmid version="1">
+      12958120
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 2003 Sep 20;327(7416):633-4
+     </refsource>
+     <pmid version="1">
+      14500409
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Sex Transm Infect. 2004 Feb;80(1):30-4
+     </refsource>
+     <pmid version="1">
+      14755032
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Sex Transm Infect. 2004 Jun;80(3):223-9
+     </refsource>
+     <pmid version="1">
+      15170010
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Sex Transm Dis. 2005 Feb;32(2):101-5
+     </refsource>
+     <pmid version="1">
+      15668616
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Sex Transm Dis. 2005 Dec;32(12):734-41
+     </refsource>
+     <pmid version="1">
+      16314769
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 2006 Feb 11;332(7537):332-4
+     </refsource>
+     <pmid version="1">
+      16439371
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Sex Transm Infect. 2006 Aug;82(4):327-9
+     </refsource>
+     <pmid version="1">
+      16877586
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Control Clin Trials. 1986 Sep;7(3):177-88
+     </refsource>
+     <pmid version="1">
+      3802833
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 2006 Dec 2;368(9551):2001-16
+     </refsource>
+     <pmid version="1">
+      17141708
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Can J Public Health. 1994 Jul-Aug;85 Suppl 1:S41-7
+     </refsource>
+     <pmid version="1">
+      7987758
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      JAMA. 1996 Aug 28;276(8):637-9
+     </refsource>
+     <pmid version="1">
+      8773637
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Fam Pract. 1998 Jun;15(3):223-8
+     </refsource>
+     <pmid version="1">
+      9694179
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1997 Sep 13;315(7109):629-34
+     </refsource>
+     <pmid version="1">
+      9310563
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Evid Based Nurs. 2007 Oct;10(4):107
+     </refsource>
+     <pmid version="1">
+      17905759
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      BMJ. 2007 Feb 17;334(7589):323
+     </refsource>
+     <pmid version="1">
+      17303839
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Evid Based Med. 2007 Oct;12(5):147
+     </refsource>
+     <pmid version="1">
+      17909238
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2007 Sep-Oct;147(2):32
+     </refsource>
+     <pmid version="1">
+      17764123
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Contact Tracing
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Referral and Consultation
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Sexual Partners
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sexually Transmitted Diseases
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Truth Disclosure
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    5
+   </numberofreferences>
+   <otherid source="NLM">
+    PMC1801006
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2007
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2007
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      23
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2007
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pii">
+     bmj.39079.460741.7C
+    </articleid>
+    <articleid idtype="doi">
+     10.1136/bmj.39079.460741.7C
+    </articleid>
+    <articleid idtype="pubmed">
+     17237298
+    </articleid>
+    <articleid idtype="pmc">
+     PMC1801006
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,299 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11152056
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     09
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     08
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      1075-5535
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       6
+      </volume>
+      <issue>
+       6
+      </issue>
+      <pubdate>
+       <year>
+        2000
+       </year>
+       <month>
+        Dec
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Journal of alternative and complementary medicine (New York, N.Y.)
+     </title>
+     <isoabbreviation>
+      J Altern Complement Med
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Immunomodulatory effects of acupuncture in the treatment of allergic asthma: a randomized controlled study.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      519-25
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      According to Traditional Chinese Medicine (TCM) acupuncture is a suitable treatment for complex chronic diseases such as bronchial asthma. In a randomized, controlled study we investigated immunologic effects of Chinese acupuncture on patients with allergic asthma.
+     </abstracttext>
+     <abstracttext label="PATIENTS AND METHODS" nlmcategory="METHODS">
+      The effects of acupuncture treatment given according to the principles of TCM (TCM group, n = 20) were compared with those of acupuncture treatment using points not specific for asthma (control group, n = 18). All patients were treated 12 times for 30 minutes over a time period of 4 weeks. Patients' general well-being and several peripheral blood parameters (eosinophils, lymphocyte subpopulations, cytokines, in vitro lymphocyte proliferation) were determined before and after acupuncture treatment.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      In the TCM group, significantly more patients indicated an improvement in general well-being (79% in the TCM group versus 47% in the control group; p = 0.049) after acupuncture treatment. The following changes were found in the TCM group: within the lymphocyte subpopulations the CD3+ cells (p = 0.005) and CD4+ cells (p = 0.014) increased significantly. There were also significant changes in cytokine concentrations: interleukin (IL)-6 (p = 0.026) and IL-10 (p = 0.001) decreased whereas IL-8 (p = 0.050) rose significantly. Additionally, the in vitro lymphocyte proliferation rate increased significantly (p = 0.035) while the number of eosinophils decreased from 4.4% to 3.3% after acupuncture (p &gt; 0.05). The control group, however, showed no significant changes apart from an increase in the CD4+ cells (p = 0.012).
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      The results imply that asthma patients benefit from acupuncture treatment given in addition to conventional therapy. Furthermore, acupuncture performed in accordance with the principles of TCM showed significant immune-modulating effects.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Anaesthetics, University of Heidelberg, Germany. s.joos@gmx.de
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Joos
+      </lastname>
+      <forename>
+       S
+      </forename>
+      <initials>
+       S
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schott
+      </lastname>
+      <forename>
+       C
+      </forename>
+      <initials>
+       C
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Zou
+      </lastname>
+      <forename>
+       H
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Daniel
+      </lastname>
+      <forename>
+       V
+      </forename>
+      <initials>
+       V
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Martin
+      </lastname>
+      <forename>
+       E
+      </forename>
+      <initials>
+       E
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     J Altern Complement Med
+    </medlineta>
+    <nlmuniqueid>
+     9508124
+    </nlmuniqueid>
+    <issnlinking>
+     1075-5535
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Acupuncture Therapy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Asthma
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      immunology
+     </qualifiername>
+     <qualifiername majortopicyn="Y">
+      prevention &amp; control
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Eosinophils
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      immunology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lymphocyte Count
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Medicine, Chinese Traditional
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Self Efficacy
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      11
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      3
+     </month>
+     <day>
+      3
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      11
+     </day>
+     <hour>
+      11
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11152056
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

@@ -1,0 +1,397 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11585485
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     04
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     12
+    </month>
+    <day>
+     28
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     14
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0098-7484
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       286
+      </volume>
+      <issue>
+       13
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Oct
+       </month>
+       <day>
+        3
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      JAMA : the journal of the American Medical Association
+     </title>
+     <isoabbreviation>
+      JAMA
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     The rational clinical examination. Does this patient have a torn meniscus or ligament of the knee? Value of the physical examination.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      1610-20
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="CONTEXT" nlmcategory="BACKGROUND">
+      While most meniscal or ligamentous knee injuries heal with nonoperative treatments, a subset should be treated with arthroscopic or open surgery.
+     </abstracttext>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To analyze the accuracy of the clinical examination for meniscal or ligamentous knee injuries.
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      MEDLINE (1966-December 31, 2000) and HealthSTAR (1975-December 31, 2000) databases were searched for English-language articles describing the diagnostic accuracy of individual examination items for the knee and a combination of physical examination items (composite examination). Other data sources included reference lists from relevant articles.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION" nlmcategory="METHODS">
+      Studies selected for data extraction were those that compared the performance of the physical examination of the knee with a reference standard, such as arthroscopy, arthrotomy, or magnetic resonance imaging. Eighty-eight articles were identified, of which 23 (26%) met inclusion criteria.
+     </abstracttext>
+     <abstracttext label="DATA EXTRACTION" nlmcategory="METHODS">
+      A rheumatologist and an orthopedic surgeon independently reviewed each article using a standardized rating scale that scored the assembly of the study, the relevance of the patients enrolled, the appropriateness of the reference standard, and the blinding of the examiner.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      Summary likelihood ratios (LRs) were estimated from random effects models. The summary LRs for physical examination for tears of the anterior cruciate ligament, using the anterior drawer test, were 3.8 (95% confidence interval [CI], 0.7-22.0) for a positive examination and 0.30 (95% CI, 0.05-1.50) for a negative examination; the Lachman test, 25.0 (95% CI, 2.7-651.0) and 0.1 (95% CI, 0.0-0.4); and the composite assessment, 25.0 (95% CI, 2.1-306.0) and 0.04 (95% CI, 0.01-0.48), respectively. The LRs could not be generated for any specific examination maneuver for a posterior cruciate ligament tear, but the composite assessment had an LR of 21.0 (95% CI, 2.1-205.0) for a positive examination and 0.05 (95% CI, 0.01-0.50) for a negative examination. Determination of meniscal lesions, using McMurray test, had an LR of 1.3 (95% CI, 0.9-1.7) for a positive examination and 0.8 (95% CI, 0.6-1.1) for a negative examination; joint line tenderness, 0.9 (95% CI, 0.8-1.0) and 1.1 (95% CI, 1.0-1.3); and the composite assessment, 2.7 (95% CI, 1.4-5.1) and 0.4 (95% CI, 0.2-0.7), respectively.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      The composite examination for specific meniscal or ligamentous injuries of the knee performed much better than specific maneuvers, suggesting that synthesis of a group of examination maneuvers and historical items may be required for adequate diagnosis.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Orthopedic Surgery, The Cleveland Clinic, 9500 Euclid Ave, Desk A41, Cleveland, OH 44195, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Solomon
+      </lastname>
+      <forename>
+       D H
+      </forename>
+      <initials>
+       DH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Simel
+      </lastname>
+      <forename>
+       D L
+      </forename>
+      <initials>
+       DL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Bates
+      </lastname>
+      <forename>
+       D W
+      </forename>
+      <initials>
+       DW
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Katz
+      </lastname>
+      <forename>
+       J N
+      </forename>
+      <initials>
+       JN
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Schaffer
+      </lastname>
+      <forename>
+       J L
+      </forename>
+      <initials>
+       JL
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <grantlist completeyn="Y">
+     <grant>
+      <grantid>
+       AR36308
+      </grantid>
+      <acronym>
+       AR
+      </acronym>
+      <agency>
+       NIAMS NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+     <grant>
+      <grantid>
+       K24 AR02123
+      </grantid>
+      <acronym>
+       AR
+      </acronym>
+      <agency>
+       NIAMS NIH HHS
+      </agency>
+      <country>
+       United States
+      </country>
+     </grant>
+    </grantlist>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Research Support, U.S. Gov't, P.H.S.
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     JAMA
+    </medlineta>
+    <nlmuniqueid>
+     7501160
+    </nlmuniqueid>
+    <issnlinking>
+     0098-7484
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2002 Jan 2;287(1):40; author reply 41
+     </refsource>
+     <pmid version="1">
+      11754694
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      JAMA. 2002 Jan 2;287(1):40; author reply 41
+     </refsource>
+     <pmid version="1">
+      11754693
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anterior Cruciate Ligament
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      injuries
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Arthroscopy
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Clinical Competence
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Knee Injuries
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      epidemiology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Ligaments, Articular
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      injuries
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Magnetic Resonance Imaging
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Menisci, Tibial
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      injuries
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Physical Examination
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Posterior Cruciate Ligament
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      injuries
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Sensitivity and Specificity
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    49
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      10
+     </month>
+     <day>
+      5
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11585485
+    </articleid>
+    <articleid idtype="pii">
+     jrc00002
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

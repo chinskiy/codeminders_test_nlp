@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11853901
+   </pmid>
+   <datecreated>
+    <year>
+     2002
+    </year>
+    <month>
+     02
+    </month>
+    <day>
+     20
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2002
+    </year>
+    <month>
+     10
+    </month>
+    <day>
+     30
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2007
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0167-5273
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       82
+      </volume>
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2002
+       </year>
+       <month>
+        Feb
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      International journal of cardiology
+     </title>
+     <isoabbreviation>
+      Int. J. Cardiol.
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Current evidence supporting the role of diuretics in heart failure: a meta analysis of randomised controlled trials.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      149-58
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To summarise the current evidence from randomised controlled trials for diuretics in patients with congestive heart failure (CHF).
+     </abstracttext>
+     <abstracttext label="DATA SOURCES" nlmcategory="METHODS">
+      English-language randomised controlled trials and review papers referenced in Medline, Embase between 1966 and 1999. General literature review of pertinent journals was carried out and reference lists of papers were inspected. REVIEW METHOD:
+     </abstracttext>
+     <abstracttext label="STUDY DESIGN" nlmcategory="METHODS">
+      Meta-analysis of randomised controlled trials of diuretic therapy in patients with CHF.
+     </abstracttext>
+     <abstracttext label="STUDY SELECTION" nlmcategory="METHODS">
+      Studies were included if they were randomised comparisons of loop or thiazide diuretics and control, or one diuretic and another active agent (e.g. ACE inhibitors, ibopamine and digoxin).
+     </abstracttext>
+     <abstracttext label="DATA ABSTRACTION" nlmcategory="METHODS">
+      Using a standardised protocol, two reviewers independently abstracted the data and assessed the methodological quality of each paper.
+     </abstracttext>
+     <abstracttext label="DATA SYNTHESIS" nlmcategory="RESULTS">
+      The odds ratio (OR) of treated group compared with control was estimated for each end-point outcome and plotted against each other using the fixed-effects model. THE MAIN OUTCOME MEASURES: The primary outcomes of our analysis were effects of diuretics on mortality and morbidity.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      Eighteen trials met our criteria and were eligible for analysis, involving 928 patients. Eight trials were placebo-controlled. We analysed the data for mortality and for worsening heart failure. A further ten trials compared diuretics against other agents such as ACE inhibitors, ibopamine, and digoxin. Mortality data were available in three of the placebo-controlled trials (n=221); the mortality rate was lower for patients treated with diuretics than for control [the odds ratio for death, 0.25; 95% confidence intervals (CI), 0.07-0.84; P=0.03]. Admissions for worsening heart failure in the four small trials (n=448) showed an odds ratio of 0.31 (95% CI 0.15-0.62; P=0.001). In six studies of diuretics compared to active control, diuretics significantly improved exercise capacity in patients with CHF [OR: 0.37; CI: 0.10-0.64, P=0.007].
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Compared to active control, diuretics appear to reduce the risk of worsening disease and improve exercise capacity. The available data from small studies show that in CHF conventional diuretics reduce the risk of death and worsening heart failure compared to placebo.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Royal Brompton Hospital, Sydney Street, London SW3 6NP, UK. r.al-faris@ic.ac.uk
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Faris
+      </lastname>
+      <forename>
+       R
+      </forename>
+      <initials>
+       R
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Flather
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Purcell
+      </lastname>
+      <forename>
+       H
+      </forename>
+      <initials>
+       H
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Henein
+      </lastname>
+      <forename>
+       M
+      </forename>
+      <initials>
+       M
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Poole-Wilson
+      </lastname>
+      <forename>
+       P
+      </forename>
+      <initials>
+       P
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Coats
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Meta-Analysis
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     Ireland
+    </country>
+    <medlineta>
+     Int J Cardiol
+    </medlineta>
+    <nlmuniqueid>
+     8200291
+    </nlmuniqueid>
+    <issnlinking>
+     0167-5273
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Diuretics
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Diuretics
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      therapeutic use
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Heart Failure
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2002
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2002
+     </year>
+     <month>
+      11
+     </month>
+     <day>
+      1
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2002
+     </year>
+     <month>
+      2
+     </month>
+     <day>
+      21
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11853901
+    </articleid>
+    <articleid idtype="pii">
+     S0167527301006003
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

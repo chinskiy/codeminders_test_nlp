@@ -1,0 +1,330 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    16050454
+   </pmid>
+   <datecreated>
+    <year>
+     2005
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     29
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2005
+    </year>
+    <month>
+     08
+    </month>
+    <day>
+     16
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2006
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     15
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0002-838X
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       72
+      </volume>
+      <issue>
+       2
+      </issue>
+      <pubdate>
+       <year>
+        2005
+       </year>
+       <month>
+        Jul
+       </month>
+       <day>
+        15
+       </day>
+      </pubdate>
+     </journalissue>
+     <title>
+      American family physician
+     </title>
+     <isoabbreviation>
+      Am Fam Physician
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Diagnosis of lyme disease.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      297-304
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      The use of serologic testing and its value in the diagnosis of Lyme disease remain confusing and controversial for physicians, especially concerning persons who are at low risk for the disease. The approach to diagnosing Lyme disease varies depending on the probability of disease (based on endemicity and clinical findings) and the stage at which the disease may be. In patients from endemic areas, Lyme disease may be diagnosed on clinical grounds alone in the presence of erythema migrans. These patients do not require serologic testing, although it may be considered according to patient preference. When the pretest probability is moderate (e.g., in a patient from a highly or moderately endemic area who has advanced manifestations of Lyme disease), serologic testing should be performed with the complete two-step approach in which a positive or equivocal serology is followed by a more specific Western blot test. Samples drawn from patients within four weeks of disease onset are tested by Western blot technique for both immunoglobulin M and immunoglobulin G antibodies; samples drawn more than four weeks after disease onset are tested for immunoglobulin G only. Patients who show no objective signs of Lyme disease have a low probability of the disease, and serologic testing in this group should be kept to a minimum because of the high risk of false-positive results. When unexplained non-specific systemic symptoms such as myalgia, fatigue, and paresthesias have persisted for a long time in a person from an endemic area, serologic testing should be performed with the complete two-step approach described above.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Christiana Care Health Services, Wilmington, Delaware, USA. drdan1954@aol.com
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       DePietropaolo
+      </lastname>
+      <forename>
+       Daniel L
+      </forename>
+      <initials>
+       DL
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Powers
+      </lastname>
+      <forename>
+       John H
+      </forename>
+      <initials>
+       JH
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Gill
+      </lastname>
+      <forename>
+       James M
+      </forename>
+      <initials>
+       JM
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Foy
+      </lastname>
+      <forename>
+       Andrew J
+      </forename>
+      <initials>
+       AJ
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Am Fam Physician
+    </medlineta>
+    <nlmuniqueid>
+     1272646
+    </nlmuniqueid>
+    <issnlinking>
+     0002-838X
+    </issnlinking>
+   </medlinejournalinfo>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      Am Fam Physician. 2006 Mar 1;73(5):774; author reply 774, 776
+     </refsource>
+     <pmid version="1">
+      16529084
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="ErratumIn">
+     <refsource>
+      Am Fam Physician. 2006 Mar 1;73(5):776
+     </refsource>
+    </commentscorrections>
+    <commentscorrections reftype="SummaryForPatientsIn">
+     <refsource>
+      Am Fam Physician. 2005 Jul 15;72(2):309
+     </refsource>
+     <pmid version="1">
+      16050455
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Algorithms
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      False Positive Reactions
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Family Practice
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Lyme Disease
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      diagnosis
+     </qualifiername>
+     <qualifiername majortopicyn="N">
+      physiopathology
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Middle Aged
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Probability
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Risk Factors
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    24
+   </numberofreferences>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2005
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      30
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2005
+     </year>
+     <month>
+      8
+     </month>
+     <day>
+      17
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2005
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      30
+     </day>
+     <hour>
+      9
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     16050454
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

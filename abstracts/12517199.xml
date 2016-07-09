@@ -1,0 +1,364 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    12517199
+   </pmid>
+   <datecreated>
+    <year>
+     2003
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     08
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2003
+    </year>
+    <month>
+     01
+    </month>
+    <day>
+     23
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2004
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     17
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      1072-4710
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       157
+      </volume>
+      <issue>
+       1
+      </issue>
+      <pubdate>
+       <year>
+        2003
+       </year>
+       <month>
+        Jan
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      Archives of pediatrics &amp; adolescent medicine
+     </title>
+     <isoabbreviation>
+      Arch Pediatr Adolesc Med
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Nebulizers vs metered-dose inhalers with spacers for bronchodilator therapy to treat wheezing in children aged 2 to 24 months in a pediatric emergency department.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      76-80
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+      To determine if administration of albuterol by a metered-dose inhaler with a spacer device is as efficacious as administration of albuterol by nebulizer to treat wheezing in children aged 2 years and younger.
+     </abstracttext>
+     <abstracttext label="DESIGN" nlmcategory="METHODS">
+      Double-blind, randomized, placebo-controlled clinical trial.
+     </abstracttext>
+     <abstracttext label="SETTING" nlmcategory="METHODS">
+      Pediatric emergency department.
+     </abstracttext>
+     <abstracttext label="PATIENTS" nlmcategory="METHODS">
+      From a convenience sample of wheezing children aged 2 to 24 months, 85 patients were enrolled in the nebulizer group and 83 in the spacer group.
+     </abstracttext>
+     <abstracttext label="INTERVENTIONS" nlmcategory="METHODS">
+      The nebulizer group received a placebo metered-dose inhaler with a spacer followed by nebulized albuterol. The spacer group received albuterol by a metered-dose inhaler with a spacer followed by nebulized isotonic sodium chloride solution. Treatments were given every 20 minutes by a single investigator blinded to group assignment.
+     </abstracttext>
+     <abstracttext label="MAIN OUTCOME MEASURES" nlmcategory="METHODS">
+      The primary outcome was admission rate. Pulmonary Index score and oxygen saturation were measured initially and 10 minutes after each treatment.
+     </abstracttext>
+     <abstracttext label="RESULTS" nlmcategory="RESULTS">
+      The nebulizer group had a significantly higher mean (SD) initial Pulmonary Index score compared with the spacer group (7.6 [2.5] vs 6.6 [2.0]; P =.002). With the initial Pulmonary Index score controlled, children in the spacer group were admitted less (5% vs 20%; P =.05). Analyses also revealed an interaction between group and initial Pulmonary Index score; lower admission rates in the spacer group were found primarily in children having a more severe asthma exacerbation.
+     </abstracttext>
+     <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+      Our data suggest that metered-dose inhalers with spacers may be as efficacious as nebulizers for the emergency department treatment of wheezing in children aged 2 years or younger.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Division of Emergency Medicine, Department of Pediatrics, Jacobi Medical Center, 1400 Pelham Pkwy S, Room 1W20, Bronx, NY 10461, USA.
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Delgado
+      </lastname>
+      <forename>
+       Annette
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Chou
+      </lastname>
+      <forename>
+       Katherine J
+      </forename>
+      <initials>
+       KJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Silver
+      </lastname>
+      <forename>
+       Ellen Johnson
+      </forename>
+      <initials>
+       EJ
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Crain
+      </lastname>
+      <forename>
+       Ellen F
+      </forename>
+      <initials>
+       EF
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Clinical Trial
+     </publicationtype>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Randomized Controlled Trial
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     United States
+    </country>
+    <medlineta>
+     Arch Pediatr Adolesc Med
+    </medlineta>
+    <nlmuniqueid>
+     9422751
+    </nlmuniqueid>
+    <issnlinking>
+     1072-4710
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Bronchodilator Agents
+     </nameofsubstance>
+    </chemical>
+    <chemical>
+     <registrynumber>
+      18559-94-9
+     </registrynumber>
+     <nameofsubstance>
+      Albuterol
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    AIM
+   </citationsubset>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Albuterol
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Bronchodilator Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Emergency Service, Hospital
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Female
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Male
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Metered Dose Inhalers
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="Y">
+      Nebulizers and Vaporizers
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N" type="Geographic">
+      New York City
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Respiration
+     </descriptorname>
+     <qualifiername majortopicyn="N">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Respiratory Sounds
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug effects
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2003
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2003
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      24
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2003
+     </year>
+     <month>
+      1
+     </month>
+     <day>
+      9
+     </day>
+     <hour>
+      4
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     12517199
+    </articleid>
+    <articleid idtype="pii">
+     poa20147
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+

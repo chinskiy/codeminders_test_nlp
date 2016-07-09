@@ -1,0 +1,547 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2011//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_110101.dtd">
+<pubmedarticleset>
+ <pubmedarticle>
+  <medlinecitation owner="NLM" status="MEDLINE">
+   <pmid version="1">
+    11407054
+   </pmid>
+   <datecreated>
+    <year>
+     2001
+    </year>
+    <month>
+     06
+    </month>
+    <day>
+     15
+    </day>
+   </datecreated>
+   <datecompleted>
+    <year>
+     2001
+    </year>
+    <month>
+     07
+    </month>
+    <day>
+     19
+    </day>
+   </datecompleted>
+   <daterevised>
+    <year>
+     2009
+    </year>
+    <month>
+     11
+    </month>
+    <day>
+     18
+    </day>
+   </daterevised>
+   <article pubmodel="Print">
+    <journal>
+     <issn issntype="Print">
+      0960-1643
+     </issn>
+     <journalissue citedmedium="Print">
+      <volume>
+       51
+      </volume>
+      <issue>
+       467
+      </issue>
+      <pubdate>
+       <year>
+        2001
+       </year>
+       <month>
+        Jun
+       </month>
+      </pubdate>
+     </journalissue>
+     <title>
+      The British journal of general practice : the journal of the Royal College of General Practitioners
+     </title>
+     <isoabbreviation>
+      Br J Gen Pract
+     </isoabbreviation>
+    </journal>
+    <articletitle>
+     Topical antibiotics for acute bacterial conjunctivitis: a systematic review.
+    </articletitle>
+    <pagination>
+     <medlinepgn>
+      473-7
+     </medlinepgn>
+    </pagination>
+    <abstract>
+     <abstracttext>
+      There has been uncertainty about whether antibiotic therapy confers significant benefit in the treatment of acute bacterial conjunctivitis. This study aimed to assess the efficacy of antibiotic therapy in the management of acute bacterial conjunctivitis. Using standard Cochrane search methods, we identified double-blind randomised controlled trials in which any form of antibiotic treatment (topical, systemic or combination) had been compared with placebo in the management of acute bacterial conjunctivitis. Data extraction and analysis followed a pre-defined protocol. Meta-analysis was performed to obtain summary measures of relative risk. Six published trials were identified, of which three fulfilled the eligibility criteria for inclusion in this review. The trials were heterogeneous in terms of their inclusion and exclusion criteria, the nature of the intervention, and the outcome measures assessed. Meta-analysis indicates that acute bacterial conjunctivitis is frequently a self-limiting condition, as clinical remission occurred by days 2 to 5 in 64% (95% confidence interval (CI) = 57-71) of those treated with placebo. Treatment with antibiotics was, however, associated with significantly better rates of clinical remission (days 2 to 5: relative risk (RR) = 1.31, 95% CI = 1.11-1.55), with a suggestion that this benefit was maintained for late clinical remission (days 6 to 10: RR = 1.27, 95% CI = 1.00-1.61). Acute bacterial conjunctivitis is frequently a self-limiting condition but the use of antibiotics is associated with significantly improved rates of early clinical remission, and early and late microbiological remission. Since trials to date have been conducted in selected specialist care patient populations, generalisation of these results to a primary care-based population should be undertaken with a degree of caution.
+     </abstracttext>
+    </abstract>
+    <affiliation>
+     Department of Primary Health Care and General Practice, Imperial College School of Medicine, St Dunstan's Road, London W6 8RP. aziz.sheikh@ic.ac.uk
+    </affiliation>
+    <authorlist completeyn="Y">
+     <author validyn="Y">
+      <lastname>
+       Sheikh
+      </lastname>
+      <forename>
+       A
+      </forename>
+      <initials>
+       A
+      </initials>
+     </author>
+     <author validyn="Y">
+      <lastname>
+       Hurwitz
+      </lastname>
+      <forename>
+       B
+      </forename>
+      <initials>
+       B
+      </initials>
+     </author>
+    </authorlist>
+    <language>
+     eng
+    </language>
+    <publicationtypelist>
+     <publicationtype>
+      Journal Article
+     </publicationtype>
+     <publicationtype>
+      Research Support, Non-U.S. Gov't
+     </publicationtype>
+     <publicationtype>
+      Review
+     </publicationtype>
+    </publicationtypelist>
+   </article>
+   <medlinejournalinfo>
+    <country>
+     England
+    </country>
+    <medlineta>
+     Br J Gen Pract
+    </medlineta>
+    <nlmuniqueid>
+     9005323
+    </nlmuniqueid>
+    <issnlinking>
+     0960-1643
+    </issnlinking>
+   </medlinejournalinfo>
+   <chemicallist>
+    <chemical>
+     <registrynumber>
+      0
+     </registrynumber>
+     <nameofsubstance>
+      Anti-Bacterial Agents
+     </nameofsubstance>
+    </chemical>
+   </chemicallist>
+   <citationsubset>
+    IM
+   </citationsubset>
+   <commentscorrectionslist>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Lancet. 1999 Feb 20;353(9153):609-10
+     </refsource>
+     <pmid version="1">
+      10030324
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1998 Feb 28;316(7132):667
+     </refsource>
+     <pmid version="1">
+      9522792
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ophthalmology. 1999 Jul;106(7):1313-8
+     </refsource>
+     <pmid version="1">
+      10406613
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Graefes Arch Clin Exp Ophthalmol. 1999 Sep;237(9):705-13
+     </refsource>
+     <pmid version="1">
+      10447643
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Ophthalmol. 1999 Oct;128(4):509-10
+     </refsource>
+     <pmid version="1">
+      10577596
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Clin Microbiol. 1975 Feb;1(2):147-9
+     </refsource>
+     <pmid version="1">
+      1176598
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Eur J Ophthalmol. 1992 Apr-Jun;2(2):58-66
+     </refsource>
+     <pmid version="1">
+      1498569
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Arch Ophthalmol. 1976 Oct;94(10):1752-6
+     </refsource>
+     <pmid version="1">
+      184771
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am J Ophthalmol. 1991 Oct;112(4 Suppl):29S-33S
+     </refsource>
+     <pmid version="1">
+      1928271
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Mil Med. 1990 Jan;155(1):1-3
+     </refsource>
+     <pmid version="1">
+      2106632
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Int Ophthalmol Clin. 1989 Fall;29(3):137-42
+     </refsource>
+     <pmid version="1">
+      2526793
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Antimicrob Chemother. 1989 Feb;23(2):261-6
+     </refsource>
+     <pmid version="1">
+      2540136
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ophthalmology. 1989 Aug;96(8):1215-20
+     </refsource>
+     <pmid version="1">
+      2797725
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pediatr Infect Dis J. 1988 Sep;7(9):626-9
+     </refsource>
+     <pmid version="1">
+      2845348
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Curr Med Res Opin. 1988;11(4):227-31
+     </refsource>
+     <pmid version="1">
+      2850891
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br Med J (Clin Res Ed). 1986 Dec 6;293(6560):1477-80
+     </refsource>
+     <pmid version="1">
+      3099921
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Ophthalmol. 1988 Oct;72(10):733-6
+     </refsource>
+     <pmid version="1">
+      3191073
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Acta Ophthalmol (Copenh). 1987 Feb;65(1):43-7
+     </refsource>
+     <pmid version="1">
+      3554881
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Ophthalmologica. 1982;184(2):92-6
+     </refsource>
+     <pmid version="1">
+      6174913
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Antimicrob Chemother. 1983 Mar;11(3):217-21
+     </refsource>
+     <pmid version="1">
+      6188739
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Pharmatherapeutica. 1982;3(4):274-7
+     </refsource>
+     <pmid version="1">
+      6292957
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Pediatr. 1984 Apr;104(4):623-6
+     </refsource>
+     <pmid version="1">
+      6323667
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Br J Ophthalmol. 1983 Mar;67(3):191-4
+     </refsource>
+     <pmid version="1">
+      6824624
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      J Pediatr. 1981 Apr;98(4):531-6
+     </refsource>
+     <pmid version="1">
+      6970802
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Acta Ophthalmol (Copenh). 1993 Apr;71(2):165-8
+     </refsource>
+     <pmid version="1">
+      8333258
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Acta Ophthalmol Scand. 1996 Jun;74(3):280-4
+     </refsource>
+     <pmid version="1">
+      8828727
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1997 Mar 8;314(7082):722-7
+     </refsource>
+     <pmid version="1">
+      9116551
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      Am Fam Physician. 1998 Feb 15;57(4):735-46
+     </refsource>
+     <pmid version="1">
+      9490996
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="Cites">
+     <refsource>
+      BMJ. 1998 Feb 28;316(7132):666
+     </refsource>
+     <pmid version="1">
+      9522791
+     </pmid>
+    </commentscorrections>
+    <commentscorrections reftype="CommentIn">
+     <refsource>
+      ACP J Club. 2002 Jan-Feb;136(1):22
+     </refsource>
+     <pmid version="1">
+      11829563
+     </pmid>
+    </commentscorrections>
+   </commentscorrectionslist>
+   <meshheadinglist>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Acute Disease
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Administration, Topical
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adolescent
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Adult
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Anti-Bacterial Agents
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      administration &amp; dosage
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Child, Preschool
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Conjunctivitis, Bacterial
+     </descriptorname>
+     <qualifiername majortopicyn="Y">
+      drug therapy
+     </qualifiername>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Double-Blind Method
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Humans
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Infant
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Meta-Analysis as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Randomized Controlled Trials as Topic
+     </descriptorname>
+    </meshheading>
+    <meshheading>
+     <descriptorname majortopicyn="N">
+      Treatment Outcome
+     </descriptorname>
+    </meshheading>
+   </meshheadinglist>
+   <numberofreferences>
+    48
+   </numberofreferences>
+   <otherid source="NLM">
+    PMC1314030
+   </otherid>
+  </medlinecitation>
+  <pubmeddata>
+   <history>
+    <pubmedpubdate pubstatus="pubmed">
+     <year>
+      2001
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="medline">
+     <year>
+      2001
+     </year>
+     <month>
+      7
+     </month>
+     <day>
+      20
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      1
+     </minute>
+    </pubmedpubdate>
+    <pubmedpubdate pubstatus="entrez">
+     <year>
+      2001
+     </year>
+     <month>
+      6
+     </month>
+     <day>
+      16
+     </day>
+     <hour>
+      10
+     </hour>
+     <minute>
+      0
+     </minute>
+    </pubmedpubdate>
+   </history>
+   <publicationstatus>
+    ppublish
+   </publicationstatus>
+   <articleidlist>
+    <articleid idtype="pubmed">
+     11407054
+    </articleid>
+    <articleid idtype="pmc">
+     PMC1314030
+    </articleid>
+   </articleidlist>
+  </pubmeddata>
+ </pubmedarticle>
+</pubmedarticleset>
+
