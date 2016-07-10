@@ -1,6 +1,8 @@
 import pandas as pd
 import datetime
 import calendar
+
+from nltk.corpus import stopwords
 from lxml import etree
 
 
@@ -21,12 +23,16 @@ def parse_date(time):
 def create_df(articlelist, xml_elements):
     findelems = lambda arr, elem: [item[1] for item in arr if item[0] == elem]
     stripelems = lambda arr: [item.text.strip().lower() for item in arr]
+    stopwords_rem = lambda arr, lang: ' '.join([item for item in arr.split() if item not in stopwords.words('english')])
+
+    d_lang = {'eng': 'english', 'spa': 'spanish', 'dut': 'german',
+              'fre': 'french', 'dan': 'danish', 'chi': 'english'}
 
     df = pd.DataFrame(columns=xml_elements)
 
     for article in range(len(articlelist)):
         # print article, articlelist[article]
-        article_dict = dict()
+        article_d = dict()
 
         context = list(etree.iterparse(articlelist[article],
                                        events=("end",),
@@ -34,23 +40,24 @@ def create_df(articlelist, xml_elements):
 
         context = [(_[1].tag, _[1]) for _ in context]
 
-        article_dict['abstracttext'] = ' '.join(stripelems(findelems(context, 'abstracttext')))
         try:
-            article_dict['datecreated'] = parse_date(findelems(context, 'datecreated')[0])
+            article_d['datecreated'] = parse_date(findelems(context, 'datecreated')[0])
         except Exception:
-            article_dict['datecreated'] = 'not available'
+            article_d['datecreated'] = 'not available'
 
         try:
-            article_dict['country'] = stripelems(findelems(context, 'country'))[0]
-            if article_dict['country'] == 'unknown' or article_dict['country'] == '':
+            article_d['country'] = stripelems(findelems(context, 'country'))[0]
+            if article_d['country'] == 'unknown' or article_d['country'] == '':
                 raise Exception
         except Exception:
-            article_dict['country'] = 'not available'
-        article_dict['title'] = ' '.join(stripelems(findelems(context, 'title')))
-        article_dict['articletitle'] = ' '.join(stripelems(findelems(context, 'articletitle')))
-        article_dict['language'] = stripelems(findelems(context, 'language'))[0]
-        article_dict['publicationstatus'] = ' '.join(stripelems(findelems(context, 'publicationstatus')))
+            article_d['country'] = 'not available'
+        article_d['title'] = ' '.join(stripelems(findelems(context, 'title')))
+        article_d['language'] = stripelems(findelems(context, 'language'))[0]
+        article_d['publicationstatus'] = ' '.join(stripelems(findelems(context, 'publicationstatus')))
 
-        for key in article_dict.keys():
-            df.loc[article, key] = article_dict[key]
+        article_d['articletitle'] = stopwords_rem(' '.join(stripelems(findelems(context, 'articletitle'))), d_lang[article_d['language']])
+        article_d['abstracttext'] = stopwords_rem(' '.join(stripelems(findelems(context, 'abstracttext'))), d_lang[article_d['language']])
+
+        for key in article_d.keys():
+            df.loc[article, key] = article_d[key]
     return df
