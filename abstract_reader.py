@@ -37,9 +37,15 @@ def create_df(articlelist, xml_elements):
         article_dict['abstracttext'] = ' '.join(stripelems(findelems(context, 'abstracttext')))
         try:
             article_dict['datecreated'] = parse_date(findelems(context, 'datecreated')[0])
-            article_dict['country'] = stripelems(findelems(context, 'country'))[0]
         except Exception:
             article_dict['datecreated'] = 'not available'
+
+        try:
+            article_dict['country'] = stripelems(findelems(context, 'country'))[0]
+            if article_dict['country'] == 'unknown' or article_dict['country'] == '':
+                raise Exception
+        except Exception:
+            article_dict['country'] = 'not available'
         article_dict['title'] = ' '.join(stripelems(findelems(context, 'title')))
         article_dict['articletitle'] = ' '.join(stripelems(findelems(context, 'articletitle')))
         article_dict['language'] = stripelems(findelems(context, 'language'))[0]
