@@ -1,9 +1,14 @@
-import pandas as pd
 import datetime
 import calendar
+import string
+import warnings
 
+import pandas as pd
 from nltk.corpus import stopwords
 from lxml import etree
+
+
+warnings.filterwarnings("ignore", category=UnicodeWarning)
 
 
 def parse_date(time):
@@ -21,8 +26,9 @@ def parse_date(time):
 
 
 def create_df(articlelist, xml_elements):
+    table = string.maketrans("", "")
     findelems = lambda arr, elem: [item[1] for item in arr if item[0] == elem]
-    stripelems = lambda arr: [item.text.strip().lower() for item in arr]
+    stripelems = lambda arr: [item.text.strip().lower().encode('utf-8').translate(table, string.punctuation + string.digits) for item in arr]
     stopwords_rem = lambda arr, lang: ' '.join([item for item in arr.split() if item not in stopwords.words('english')])
 
     d_lang = {'eng': 'english', 'spa': 'spanish', 'dut': 'german',
